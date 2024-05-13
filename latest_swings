@@ -1,0 +1,22 @@
+#### latest_swings(df, shi, slo, rt_hi, rt_lo, _h, _l, _c, _vol) ####
+def latest_swing_variables(df, shi, slo, rt_hi, rt_lo, _h, _l, _c):
+  '''
+    Latest swings dates & values
+    '''
+shi_dt = df.loc[pd.notnull(df[shi]), shi].index[-1]
+slo_dt = df.loc[pd.notnull(df[slo]), slo].index[-1]
+# s_hi = df.loc[pd.notnull(df[shi]), shi][-1]
+# s_lo = df.loc[pd.notnull(df[slo]), slo][-1]
+s_hi = df.loc[pd.notnull(df[shi]), shi].iloc[-1] 
+s_lo = df.loc[pd.notnull(df[slo]), slo].iloc[-1]
+
+if slo_dt > shi_dt: 
+  swg_var = [1,s_lo,slo_dt,rt_lo,shi, df.loc[slo_dt:,_h].max(), df.loc[slo_dt:, _h].idxmax()]         
+elif shi_dt > slo_dt: 
+  swg_var = [-1,s_hi,shi_dt,rt_hi,slo, df.loc[shi_dt:, _l].min(),df.loc[shi_dt:, _l].idxmin()]        
+else: 
+  ud = 0
+ud, bs, bs_dt, _rt, _swg, hh_ll, hh_ll_dt = [swg_var[h] for h in range(len(swg_var))]   
+
+return ud, bs, bs_dt, _rt, _swg, hh_ll, hh_ll_dt
+#### latest_swings(df, shi, slo, rt_hi, rt_lo, _h, _l, _c, _vol) ####
