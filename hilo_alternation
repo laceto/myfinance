@@ -30,4 +30,4 @@ def hilo_alternation(hilo, dist= None, hurdle= None):
         if i == 4: # breaks infinite loop
             break 
         return hilo
-#### hilo_alternation(hilo, dist= None, hurdle= None) ####
+#### hilo_alternation(hilo, dist= None, hurdle= None) ###
