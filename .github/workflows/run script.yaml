@@ -23,7 +23,7 @@ jobs:
   
     - name: Install Dependencies  
       run: |  
-        Rscript -e 'install.packages(c("yahoofinancer"))' # Add any required R packages here  
+        Rscript -e 'install.packages(c("yahoofinancer", "httr"))' # Add any required R packages here  
   
     - name: Run Script  
       run: Rscript script.R # Replace script.R with the name of your R script  
