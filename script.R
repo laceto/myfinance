@@ -1,4 +1,4 @@
-install.packages("libcurl")
+install.packages("httr")
 # library(yahoofinancer)
 # 
 # tickers <- readRDS("tickers.rds")
