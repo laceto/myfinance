@@ -1,7 +1,7 @@
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-
+tickers <- tickers[1:2]
 
 download_data <- function(ticker){
   tryCatch(
