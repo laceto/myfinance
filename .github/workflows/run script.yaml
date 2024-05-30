@@ -6,7 +6,7 @@ on:
       - main  
   schedule:  
     # - cron: "30 17 * * *"  # 17:30
-    - cron: "*/5 * * * *" # every 5 MINS
+    - cron: "*/15 * * * *" # every 5 MINS
   
 jobs:  
   build:  
@@ -23,7 +23,7 @@ jobs:
   
     - name: Install Dependencies  
       run: |  
-        Rscript -e 'install.packages(c("yahoofinancer", "curl", "httr", "jsonlite", "lubridate", "magrittr", "purrr", "R6", "stringr"), dependencies = TRUE)' # Add any required R packages here  
+        Rscript -e 'install.packages(c("yahoofinancer", "curl", "httr", "jsonlite", "lubridate", "magrittr", "purrr", "R6", "stringr"))' # Add any required R packages here  
   
     - name: Run Script  
       run: Rscript script.R # Replace script.R with the name of your R script  
