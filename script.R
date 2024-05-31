@@ -6,7 +6,7 @@ install.packages("curl")
 # install.packages("purrr")
 # install.packages("R6")
 # install.packages("stringr")
-install.packages("stringr", dependencies = TRUE)
+install.packages("yahoofinancer", dependencies = TRUE)
 # library(yahoofinancer)
 # 
 # tickers <- readRDS("tickers.rds")
