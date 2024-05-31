@@ -1,4 +1,12 @@
-install.packages("libcurl")
+install.packages("curl")
+# install.packages("httr")
+# install.packages("jsonlite")
+# install.packages("lubridate")
+# install.packages("magrittr")
+# install.packages("purrr")
+# install.packages("R6")
+# install.packages("stringr")
+install.packages("yahoofinancer", dependencies = TRUE)
 # library(yahoofinancer)
 # 
 # tickers <- readRDS("tickers.rds")
