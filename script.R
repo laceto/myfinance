@@ -10,12 +10,12 @@ install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-tickers <- tickers[1:2]
+# tickers <- tickers[1:2]
 
 download_data <- function(ticker){
   tryCatch(
     {
-      Sys.sleep(5)
+      Sys.sleep(2)
       print(ticker)
       data <- Ticker$new(ticker)
       # data <- data$get_history(start = Sys.Date(), interval = '1d')
