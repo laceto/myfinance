@@ -24,7 +24,7 @@ download_data <- function(ticker){
       data$ticker = ticker
       data <- as.data.frame(subset(data, !is.na(volume)))
       name_file <- paste0("./data/", ticker, ".txt")
-      write.table(x = data, file = name_file, sep = "\t", dec = ".")
+      write.table(x = data, file = name_file, sep = "\t", dec = ".", append = TRUE)
       # write.table(data, "./data/data.txt", append = TRUE, row.names = FALSE, col.names = FALSE)
       # Sys.Date()
       # as.character(as.Date(Sys.Date() - 1))
