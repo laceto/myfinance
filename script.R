@@ -10,7 +10,7 @@ install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-# tickers <- tickers[1:2]
+tickers <- tickers[1:10]
 
 download_data <- function(ticker){
   tryCatch(
