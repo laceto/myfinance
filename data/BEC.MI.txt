@@ -1,0 +1,2 @@
+"date"	"volume"	"high"	"low"	"open"	"close"	"adj_close"	"ticker"
+2024-06-03 10:11:59	57	17	16.7000007629395	17	16.7000007629395	
