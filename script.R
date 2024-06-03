@@ -4,7 +4,7 @@ install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-tickers <- tickers
+#tickers <- tickers
 
 if (!dir.exists("data")) {
   # Create the directory if it does not exist
@@ -20,7 +20,8 @@ download_data <- function(ticker){
       # data <- data$get_history(start = Sys.Date(), interval = '1d')
 
       # data <- data$get_history(start = as.character(as.Date(Sys.Date() - 1)), interval = '1d')
-      data <- data$get_history(start = Sys.Date(), interval = '1d')
+      data <- data$get_history(start = '2016-01-01', interval = '1d')
+      #data <- data$get_history(start = Sys.Date(), interval = '1d')
       
       data <- as.data.frame(subset(data, !is.na(volume)))
       data$ticker = ticker
