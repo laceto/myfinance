@@ -10,7 +10,7 @@ install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-tickers <- tickers[1:2]
+#tickers <- tickers[1:2]
 
 if (!dir.exists("data")) {
   # Create the directory if it does not exist
