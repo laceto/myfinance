@@ -26,11 +26,12 @@ download_data <- function(ticker){
       # data <- data$get_history(start = Sys.Date(), interval = '1d')
 
       # data <- data$get_history(start = as.character(as.Date(Sys.Date() - 1)), interval = '1d')
-      data <- data$get_history(start = '2016-01-01', interval = '1d')
-      data$ticker = ticker
+      data <- data$get_history(start = '2016-01-01', end = as.character(as.Date(Sys.Date())), interval = '1d')
+      
       data <- as.data.frame(subset(data, !is.na(volume)))
+      data$ticker = ticker
       name_file <- paste0("./data/", ticker, ".txt")
-      write.table(x = data, file = name_file, sep = "\t", dec = ".")
+      write.table(x = data, file = name_file, sep = "\t", dec = ".", row.names = FALSE)
       # write.table(data, "./data/data.txt", append = TRUE, row.names = FALSE, col.names = FALSE)
       # Sys.Date()
       # as.character(as.Date(Sys.Date() - 1))
