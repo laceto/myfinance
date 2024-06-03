@@ -10,7 +10,12 @@ install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-tickers <- tickers[1:10]
+tickers <- tickers[1:2]
+
+if (!dir.exists("data")) {
+  # Create the directory if it does not exist
+  dir.create("data")
+}
 
 download_data <- function(ticker){
   tryCatch(
@@ -25,7 +30,7 @@ download_data <- function(ticker){
       data$ticker = ticker
       data <- as.data.frame(subset(data, !is.na(volume)))
       name_file <- paste0("./data/", ticker, ".txt")
-      write.table(x = data, file = name_file, sep = "\t", dec = ".", append = TRUE)
+      write.table(x = data, file = name_file, sep = "\t", dec = ".")
       # write.table(data, "./data/data.txt", append = TRUE, row.names = FALSE, col.names = FALSE)
       # Sys.Date()
       # as.character(as.Date(Sys.Date() - 1))
