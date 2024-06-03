@@ -4,7 +4,7 @@ install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
-tickers <- tickers[1:2]
+tickers <- tickers
 
 if (!dir.exists("data")) {
   # Create the directory if it does not exist
@@ -24,7 +24,7 @@ download_data <- function(ticker){
       
       data <- as.data.frame(subset(data, !is.na(volume)))
       data$ticker = ticker
-      print(data)
+      #print(data)
       #name_file <- paste0("./data/", ticker, ".txt")
       name_file <- paste0("./data/", ticker, ".xlsx")
       openxlsx::write.xlsx(data, file = name_file)
