@@ -1,3 +1,3 @@
-files <- list.files("./data/", full.names = T)[1:2]
+files <- list.files("./data/", full.names = T)
 
 lapply(files, file.remove)
