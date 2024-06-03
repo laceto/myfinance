@@ -30,12 +30,11 @@ jobs:
       with:  
         r-version: '4.x' # Specify the R version you want to use  
   
-    # - name: Install Dependencies  
-    #   run: |  
-    #     Rscript -e 'install.packages(c("curl", "httr", "jsonlite", "lubridate", "magrittr", "purrr", "R6", "stringr", "yahoofinancer"))' # Add any required R packages here  
-  
-    - name: Run Script  
-      run: Rscript script.R # Replace script.R with the name of your R script  
+    # - name: Run Script  
+    #   run: Rscript script.R # Replace script.R with the name of your R script  
+      
+    - name: Run Script delete  
+      run: Rscript script_del.R # Replace script.R with the name of your R script  
       
     # - name: Pull Changes
     #   run: |
@@ -50,7 +49,21 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add data/*.txt
-        git commit -m "Update financial data from GitHub Actions"
-        git push https://$GITHUB_ACTOR:${{ secrets.YF }}@github.com/$GITHUB_REPOSITORY.git HEAD:main 
+        git commit -m "delete data"
+        git push 
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    # - name: Commit Changes  
+    #   run: |  
+    #     git config --global user.email "you@example.com"  
+    #     git config --global user.name "Your Name"  
+    #     git add data/  
+    #     git commit -m "Update stocks data"  
+    #     
+    # - name: Push Changes  
+    #   uses: ad-m/github-push-action@master  
+    #   with:  
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}  
+    #     branch: main 
+
