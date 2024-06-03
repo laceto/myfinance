@@ -1,0 +1,2 @@
+"date"	"volume"	"high"	"low"	"open"	"close"	"adj_close"	"ticker"
+"1"	2023-07-03 07:00:00	19500	1.5	1.5	1.5	1.5	
