@@ -1,2 +1,0 @@
-"date"	"volume"	"high"	"low"	"open"	"close"	"adj_close"	"ticker"
-2024-06-03 10:22:34	2000	1.625	1.625	1.625	1.625	
