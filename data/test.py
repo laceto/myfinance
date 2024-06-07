@@ -11,7 +11,7 @@ bm_df = read_xlsx(filename_bm)
 bm_name = filename_bm.replace('xlsx', '')
 
 files = [file for file in os.listdir('data') if file.endswith(".xlsx") and file != "FTSEMIB.MI.xlsx" and file != "marginabili.xlsx" and file != "sectors.xlsx" and file != "output_signals.xlsx" and file != "PTF.xlsx"]  
-files = files[0:2]
+files = files[0:40]
 
 window_bo = 100
 fast = 20
