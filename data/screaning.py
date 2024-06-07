@@ -8,13 +8,14 @@ from AT_funs import *
 
 filename_bm = 'data/FTSEMIB.MI.xlsx'
 bm_df = read_xlsx(filename_bm)
-# bm_name = filename_bm.replace('xlsx', '')
-# 
-#folder_path = os.getcwd()
-#print(os.listdir(folder_path))
-#   
+bm_name = filename_bm.replace('xlsx', '')
+ 
+folder_path = os.getcwd()
+folder_path = os.path.join(folder_path, 'data')
+print(folder_path)
+   
 # files = [file for file in os.listdir(folder_path) if file.endswith(".xlsx") and file != "FTSEMIB.MI.xlsx" and file != "marginabili.xlsx" and file != "sectors.xlsx" and file != "output_signals.xlsx" and file != "PTF.xlsx"]  
-# 
+ 
 # window_bo = 100
 # fast = 20
 # slow = 50
