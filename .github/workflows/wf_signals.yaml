@@ -24,7 +24,7 @@ jobs:
 
     - name: Run py script
       run: |
-        python data/screaning.py
+        python data/test.py
 
     - name: Commit results
       run: |
