@@ -3,9 +3,9 @@ on:
     - cron: "0 22 1-5 * *"
   workflow_dispatch:
   
-- name: Copy AT functions
-  run: cp AT_funs.py .
-
+- name: source script function
+  run: |
+  cp AT_funs.py .
 
 - name: get signal - Workflow
 
