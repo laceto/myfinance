@@ -11,7 +11,7 @@ bm_df = read_xlsx(filename_bm)
 bm_name = filename_bm.replace('xlsx', '')
 
 files = [file for file in os.listdir('data') if file.endswith(".xlsx") and file != "FTSEMIB.MI.xlsx" and file != "marginabili.xlsx" and file != "sectors.xlsx" and file != "output_signals.xlsx" and file != "PTF.xlsx"]  
-print(len(files))
+files = files[0:2]
 
 window_bo = 100
 fast = 20
@@ -44,7 +44,7 @@ for file in files:
     if df.shape[0] >= 1000:
         dfs.append(df)
 
-
+print('letti tutti i files')
 
 def last_row_dictionary(df, ticker):
 
@@ -82,6 +82,7 @@ for i in range(len(dfs)):
     except:
         failed.append(i)
 
+print('for signal done')
 
 df = pd.concat(dfs_list, axis=0, ignore_index=True)
 
