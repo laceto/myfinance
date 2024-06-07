@@ -6,12 +6,12 @@ import pandas as pd
 from AT_funs import *
 
 
-# filename_bm = 'FTSEMIB.MI.xlsx'
-# bm_df = read_xlsx(filename_bm)
+filename_bm = 'data/FTSEMIB.MI.xlsx'
+bm_df = read_xlsx(filename_bm)
 # bm_name = filename_bm.replace('xlsx', '')
 # 
-folder_path = os.getcwd()
-print(os.listdir(folder_path))
+#folder_path = os.getcwd()
+#print(os.listdir(folder_path))
 #   
 # files = [file for file in os.listdir(folder_path) if file.endswith(".xlsx") and file != "FTSEMIB.MI.xlsx" and file != "marginabili.xlsx" and file != "sectors.xlsx" and file != "output_signals.xlsx" and file != "PTF.xlsx"]  
 # 
