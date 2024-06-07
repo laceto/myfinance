@@ -1,13 +1,9 @@
+name: get signal - Workflow  
+
 on:
   schedule:
     - cron: "0 22 1-5 * *"
   workflow_dispatch:
-  
-- name: source script function
-  run: |
-  cp AT_funs.py .
-
-- name: get signal - Workflow
 
 jobs:
   build:
@@ -25,6 +21,10 @@ jobs:
     - name: Install Dependencies
       run: |
         pip install -r requirements.txt
+
+    - name: source script function
+      run: |
+        cp AT_funs.py .
 
     - name: Run py script
       run: |
