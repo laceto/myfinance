@@ -5,6 +5,8 @@
 - name: get signal - Workflow
 
 on:
+  schedule:
+    - cron: "0 22 1-5 * *"
   push:
     branches:
       - main
@@ -28,4 +30,4 @@ jobs:
 
     - name: Run py script
       run: |
-        python update_notebook.py
+        python data/screaning.py
