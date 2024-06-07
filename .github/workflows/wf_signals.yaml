@@ -5,9 +5,11 @@ on:
     - cron: "0 22 1-5 * *"
   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+jobs:  
+  build:  
+    runs-on: ubuntu-latest  
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
     - name: Checkout Repository
