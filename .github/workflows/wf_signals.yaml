@@ -22,10 +22,6 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: source script function
-      run: |
-        cp ./AT_funs.py .
-
     - name: Run py script
       run: |
         python data/screaning.py
