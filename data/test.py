@@ -83,6 +83,10 @@ for i in range(len(dfs)):
         failed.append(i)
 
 print('for signal done')
+
+with open('output_signals.json', 'w') as f:
+    json.dump(dfs_list, f, indent=4)
+
 # 
 # df = pd.concat(dfs_list, axis=0, ignore_index=True)
 # 
