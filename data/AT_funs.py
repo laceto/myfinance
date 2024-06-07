@@ -5,6 +5,7 @@ import numpy as np
 from scipy.signal import *
 from scipy.signal import find_peaks
 import json
+from itertools import chain
 
 
 from relative import *
