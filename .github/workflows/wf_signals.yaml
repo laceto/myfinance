@@ -24,7 +24,7 @@ jobs:
 
     - name: source script function
       run: |
-        cp AT_funs.py .
+        cp ./AT_funs.py .
 
     - name: Run py script
       run: |
