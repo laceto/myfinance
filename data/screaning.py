@@ -14,7 +14,8 @@ folder_path = os.getcwd()
 folder_path = os.path.join(folder_path, 'data')
 
 files = [file for file in os.listdir(folder_path) if file.endswith(".xlsx") and file != "FTSEMIB.MI.xlsx" and file != "marginabili.xlsx" and file != "sectors.xlsx" and file != "output_signals.xlsx" and file != "PTF.xlsx"]  
- 
+files = files[0:2]
+
 window_bo = 100
 fast = 20
 slow = 50
