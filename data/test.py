@@ -35,3 +35,10 @@ signal_df = pd.DataFrame()
 dfs_list = []
 last_row_list = []
 failed = []
+
+
+for file in files:
+    file_path = os.path.join('data', file)
+    df = pd.read_excel(file_path)
+    if df.shape[0] >= 1000:
+        dfs.append(df)
