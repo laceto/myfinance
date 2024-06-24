@@ -84,19 +84,5 @@ for i in range(len(dfs)):
 
 print('for signal done')
 
-frames = list()
-def fast_flatten(input_list):
-    return list(chain.from_iterable(input_list))
-
-COLUMN_NAMES = dfs_list[0].columns
-
-df_dict = dict.fromkeys(COLUMN_NAMES, [])
-
-for col in COLUMN_NAMES:
-    extracted = (dfs_list[col] for dfs_list in frames)
-
-    # Flatten and save to df_dict
-    df_dict[col] = fast_flatten(extracted)
-
-df = pd.DataFrame.from_dict(df_dict)[COLUMN_NAMES]
+df = pd.concat(dfs_list, axis=0, ignore_index=True) 
 df.to_excel('output_signals.xlsx', index=False)
