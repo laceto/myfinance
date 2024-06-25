@@ -69,7 +69,7 @@ for i in range(len(dfs)):
     ohlc = ['open','high','low','close']
     _o,_h,_l,_c = [ohlc[h] for h in range(len(ohlc))]
 
-    ticker = dfs[i]['ticker'][0]
+    ticker = dfs[i]['ticker'].unique()
     try:
         dfs[i] = relative(dfs[i],_o,_h,_l,_c, bm_df, bm_col, dgt, rebase=True)
         dfs[i] = signal_rbo(dfs[i], window_bo, relative=True)

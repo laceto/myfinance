@@ -1,0 +1,2403 @@
+Symbol
+Price
+Change %
+Volume
+Rel Volume
+Market cap
+P/E
+EPS dil
+TTM
+EPS dil growth
+TTM YoY
+Div yield %
+TTM
+Sector
+Analyst Rating
+Symbol
+Price
+Change %
+Volume
+Rel Volume
+Market cap
+P/E
+EPS dil
+TTM
+EPS dil growth
+TTM YoY
+Div yield %
+TTM
+Sector
+Analyst Rating
+
+A
+A2A
+A2A
+D
+1.9405 EUR	+1.15%	5.791 M	0.38	6.01 B EUR	9.23	0.21 EUR	+64.30%	4.71%	Utilities	
+Neutral
+A
+AAT
+AATECH
+D
+1.12 EUR	0.00%	0	0.00	6.81 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+A
+ABC
+ABC COMPANY
+D
+3.26 EUR	0.00%	0	—	21.224 M EUR	—	—	—	—	Finance	—
+A
+ABP
+A.B.P. NOCIVELLI
+D
+4.60 EUR	+2.22%	11.5 K	1.73	140.07 M EUR	—	—	—	1.07%	Industrial Services	—
+A
+ABT
+ABITARE IN
+D
+4.46 EUR	+4.69%	76.501 K	1.48	113.38 M EUR	4.90	0.91 EUR	+2040.71%	0.00%	Finance	
+Buy
+A
+ABTG
+ALFIO BARDOLLA
+D
+3.13 EUR	−5.44%	76.3 K	0.84	17.846 M EUR	34.02	0.09 EUR	−19.79%	0.00%	Commercial Services	
+Strong buy
+
+AC5
+ACINQUE
+D
+2.05 EUR	−0.49%	500	0.12	404.555 M EUR	37.75	0.05 EUR	−58.45%	4.15%	Utilities	—
+
+ACE
+ACEA
+D
+16.54 EUR	−0.06%	18.503 K	0.16	3.518 B EUR	11.58	1.43 EUR	+20.09%	5.14%	Utilities	
+Buy
+A
+ACQ
+ACQUAZZURRA
+D
+9.85 EUR	0.00%	0	—	25.447 M EUR	233.97	0.04 EUR	−66.29%	0.00%	Retail Trade	
+Neutral
+
+ADB
+AEROPORTO GUGLIELMO MARCONI DI BOLOGNA
+D
+8.00 EUR	+1.01%	762	0.13	286.115 M EUR	17.30	0.46 EUR	−46.30%	0.00%	Transportation	
+Neutral
+
+AEDES
+AEDES
+D
+0.161 EUR	−1.23%	48 K	0.29	5.218 M EUR	—	−0.05 EUR	+39.53%	0.00%	Finance	—
+
+AEF
+AEFFE
+D
+0.864 EUR	+0.70%	11.591 K	0.08	85.628 M EUR	—	−0.33 EUR	−368.81%	0.00%	Consumer Non-Durables	
+Neutral
+A
+AGAIN
+CLOUDIA RESEARCH
+D
+3.80 EUR	−4.52%	4 K	0.27	17.333 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+A
+AGP
+ALTEA GREEN POWER
+D
+8.30 EUR	−0.24%	3.566 K	0.06	144.044 M EUR	—	—	—	0.00%	Industrial Services	
+Strong buy
+A
+AIM
+4AIM SICAF
+D
+239.00 EUR	−2.05%	12	0.15	12.126 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+A
+AIW
+ALMAWAVE
+D
+4.42 EUR	+1.38%	9.381 K	0.13	129.446 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+A
+ALA
+ALA
+D
+21.2 EUR	+0.95%	1.74 K	0.68	181.86 M EUR	19.47	1.09 EUR	—	2.24%	Commercial Services	
+Strong buy
+A
+ALFO
+ALFONSINO
+D
+0.522 EUR	0.00%	1 K	0.01	6.526 M EUR	—	−0.12 EUR	−212.50%	0.00%	Technology Services	
+Strong buy
+A
+ALK
+ALKEMY
+D
+10.40 EUR	−0.48%	65	0.01	57.759 M EUR	16.62	0.63 EUR	−38.13%	0.00%	Commercial Services	
+Strong buy
+
+ALW
+ALGOWATT
+D
+0.2295 EUR	0.00%	0	0.00	10.575 M EUR	—	—	—	0.00%	Technology Services	—
+A
+AMB
+AMBROMOBILIARE
+D
+1.300 EUR	+2.36%	400	0.29	3.457 M EUR	—	−0.11 EUR	—	0.00%	Commercial Services	—
+
+AMP
+AMPLIFON
+D
+34.17 EUR	+1.03%	201.458 K	0.30	7.603 B EUR	—	—	—	0.86%	Distribution Services	
+Buy
+
+ANIM
+ANIMA HOLDING
+D
+4.650 EUR	−0.60%	121.306 K	0.18	1.444 B EUR	—	—	—	4.70%	Finance	
+Buy
+A
+ARBS
+ARTERRA BIOSCIENCE
+D
+2.00 EUR	0.00%	4.5 K	0.14	13.317 M EUR	—	—	—	5.00%	Health Technology	
+Strong buy
+
+ARIS
+ARISTON HOLDING
+D
+5.070 EUR	+0.10%	419.473 K	0.63	1.768 B EUR	9.86	0.51 EUR	—	2.57%	Producer Manufacturing	
+Buy
+
+ARN
+ALERION
+D
+18.14 EUR	+0.11%	5.519 K	0.28	980.934 M EUR	14.62	1.24 EUR	+37.79%	3.59%	Utilities	—
+A
+ART
+DEODATO.GALLERY
+D
+0.384 EUR	+1.05%	3 K	0.77	12.03 M EUR	548.57	0.00 EUR	—	0.00%	Consumer Services	
+Strong buy
+
+ASC
+ASCOPIAVE
+D
+2.250 EUR	+0.90%	63.034 K	0.22	483.263 M EUR	13.27	0.17 EUR	+39.70%	5.83%	Utilities	
+Buy
+A
+ATON
+ATON GREEN STORAGE
+D
+5.50 EUR	−3.51%	7.5 K	37.50	41.25 M EUR	—	—	—	0.00%	Producer Manufacturing	
+Strong buy
+
+AUTME
+AUTOSTRADE MERID
+D
+2.850 EUR	−1.72%	1.45 K	0.03	12.688 M EUR	8.59	0.33 EUR	−90.94%	247.93%	Transportation	—
+
+AV
+ANTARES VISION
+D
+2.950 EUR	+1.03%	116.216 K	0.93	206.501 M EUR	—	—	—	0.00%	Electronic Technology	
+Strong buy
+
+AVIO
+AVIO
+D
+11.80 EUR	−2.32%	58.977 K	0.47	310.312 M EUR	47.41	0.25 EUR	−22.27%	1.97%	Electronic Technology	
+Buy
+
+AZM
+AZIMUT
+D
+25.58 EUR	+0.16%	269.14 K	0.44	3.566 B EUR	8.15	3.14 EUR	+8.70%	5.09%	Finance	
+Buy
+
+B
+BASTOGI SPA
+D
+0.418 EUR	+0.24%	10.201 K	0.12	46.377 M EUR	—	—	—	2.16%	Finance	—
+
+BAMI
+BANCO BPM
+D
+6.212 EUR	+1.21%	5.069 M	0.35	9.278 B EUR	—	—	—	9.12%	Finance	
+Buy
+
+BAN
+BASICNET
+D
+3.75 EUR	0.00%	13.441 K	0.87	169.267 M EUR	7.65	0.49 EUR	+24.21%	4.00%	Commercial Services	—
+
+BC
+BRUNELLO CUCINELLI
+D
+95.65 EUR	−0.42%	22.895 K	0.20	6.531 B EUR	56.72	1.69 EUR	+115.03%	0.68%	Consumer Non-Durables	
+Buy
+
+BDB
+BCO DESIO BRIANZA
+D
+4.70 EUR	+0.64%	16.383 K	0.22	627.475 M EUR	—	—	—	5.64%	Finance	—
+
+BE
+BEGHELLI
+D
+0.239 EUR	+1.70%	30.15 K	0.13	46.815 M EUR	—	−0.05 EUR	−400.64%	0.00%	Producer Manufacturing	
+Strong buy
+
+BEC
+B&C SPEAKERS
+D
+16.65 EUR	+0.30%	321	0.19	180.793 M EUR	12.97	1.28 EUR	+13.78%	3.61%	Consumer Durables	
+Strong buy
+B
+BELL
+BELLINI NAUTICA
+D
+1.66 EUR	+1.84%	500	0.09	10.399 M EUR	43.80	0.04 EUR	—	0.00%	Retail Trade	
+Strong buy
+
+BES
+BESTBE HOLDING
+D
+0.0022 EUR	0.00%	200.15 K	0.04	2.732 M EUR	—	—	—	0.00%	Finance	—
+
+BFF
+BFF BANK
+D
+7.410 EUR	−32.39%	1.054 M	3.47	2.049 B EUR	—	—	—	8.93%	Finance	
+Strong buy
+
+BFG
+B.F
+D
+3.75 EUR	−1.06%	1.417 K	0.05	992.538 M EUR	833.33	0.00 EUR	—	1.06%	Process Industries	—
+
+BGN
+BANCA GENERALI
+D
+39.42 EUR	+1.55%	160.067 K	0.58	4.477 B EUR	—	—	—	4.25%	Finance	
+Neutral
+
+BIA
+BIALETTI INDUSTRIE
+D
+0.233 EUR	+0.43%	8.433 K	0.53	35.865 M EUR	—	−0.01 EUR	−137.90%	0.00%	Consumer Durables	—
+
+BIE
+BIOERA
+D
+0.0638 EUR	−6.18%	63 K	0.11	1.399 M EUR	—	—	—	0.00%	Consumer Non-Durables	—
+B
+BIRO
+ESTRIMA
+D
+0.610 EUR	+0.83%	4.8 K	0.11	8.643 M EUR	—	—	—	0.00%	Consumer Durables	
+Strong buy
+
+BMED
+BANCA MEDIOLANUM
+D
+10.71 EUR	+1.81%	680.434 K	0.59	7.779 B EUR	—	—	—	6.65%	Finance	
+Strong buy
+
+BMPS
+BANCA MONTE PASCHI SIENA
+D
+4.728 EUR	+0.98%	5.461 M	0.22	5.898 B EUR	2.90	1.63 EUR	—	0.00%	Finance	
+Buy
+
+BO
+BORGOSESIA
+D
+0.700 EUR	−0.28%	16.866 K	0.49	28.22 M EUR	6.78	0.10 EUR	−36.80%	3.42%	Finance	—
+
+BPE
+BPER BANCA
+D
+4.781 EUR	+0.44%	6.014 M	0.36	6.737 B EUR	4.53	1.06 EUR	—	2.52%	Finance	
+Buy
+
+BPSO
+BCA POP SONDRIO
+D
+7.915 EUR	+0.70%	672.135 K	0.24	3.535 B EUR	7.00	1.13 EUR	—	3.56%	Finance	
+Neutral
+
+BRE
+BREMBO
+D
+11.530 EUR	−2.55%	539.744 K	1.29	3.832 B EUR	12.23	0.94 EUR	+4.26%	2.37%	Producer Manufacturing	
+Buy
+
+BRI
+BRIOSCHI
+D
+0.0530 EUR	0.00%	370 K	0.25	41.292 M EUR	—	−0.00 EUR	+82.54%	0.00%	Finance	—
+
+BSS
+BIESSE
+D
+12.42 EUR	+0.49%	17.193 K	0.28	338.696 M EUR	27.27	0.46 EUR	−63.32%	2.67%	Producer Manufacturing	
+Strong buy
+
+BST
+BANCA SISTEMA
+D
+1.490 EUR	+5.97%	434.66 K	0.95	113.072 M EUR	7.24	0.21 EUR	—	4.62%	Finance	
+Strong buy
+
+BWZ
+BEEWIZE
+D
+0.760 EUR	0.00%	365	0.05	8.499 M EUR	—	−0.13 EUR	+45.65%	0.00%	Commercial Services	—
+
+BZU
+BUZZI
+D
+38.66 EUR	+4.77%	194.701 K	0.70	6.831 B EUR	7.40	5.22 EUR	+85.10%	1.22%	Non-Energy Minerals	
+Buy
+
+CAI
+CAIRO COMMUNICATION
+D
+2.480 EUR	+0.40%	171.394 K	0.36	332.007 M EUR	8.68	0.29 EUR	−24.70%	5.67%	Consumer Services	
+Strong buy
+
+CALT
+CALTAGIRONE
+D
+5.36 EUR	+0.37%	16.065 K	2.23	641.441 M EUR	4.91	1.09 EUR	+37.38%	2.81%	Non-Energy Minerals	—
+C
+CBB
+CLEANBNB
+D
+1.240 EUR	0.00%	2.4 K	0.15	10.694 M EUR	40.26	0.03 EUR	—	0.00%	Technology Services	
+Strong buy
+C
+CDG
+CASTA DIVA GROUP
+D
+1.614 EUR	+0.25%	5 K	0.14	31.944 M EUR	—	—	—	1.74%	Commercial Services	
+Strong buy
+
+CE
+CREDEM
+D
+10.16 EUR	+0.99%	53.655 K	0.28	3.418 B EUR	5.87	1.73 EUR	—	3.28%	Finance	
+Buy
+
+CED
+CALTAGIRONE EDIT
+D
+1.185 EUR	+3.95%	76.408 K	1.09	121.741 M EUR	7.80	0.15 EUR	−43.52%	2.63%	Consumer Services	—
+C
+CELL
+CELLULARLINE
+D
+2.83 EUR	0.00%	143	0.01	61.469 M EUR	17.08	0.17 EUR	—	0.00%	Consumer Durables	
+Buy
+
+CEM
+CEMENTIR HOLDING
+D
+10.14 EUR	−0.59%	11.941 K	0.10	1.593 B EUR	7.83	1.29 EUR	+78.74%	2.16%	Non-Energy Minerals	
+Buy
+C
+CFL
+COFLE
+D
+6.00 EUR	0.00%	1.025 K	0.37	36.876 M EUR	102.74	0.06 EUR	−96.17%	4.17%	Producer Manufacturing	
+Strong buy
+C
+CFM
+CROWDFUNDME
+D
+2.08 EUR	0.00%	0	0.00	3.565 M EUR	—	−0.55 EUR	−8.24%	0.00%	Technology Services	
+Strong buy
+C
+CFV
+CONFINVEST
+D
+1.77 EUR	+10.62%	29 K	2.82	11.241 M EUR	—	—	—	6.25%	Distribution Services	—
+
+CIA
+CIA
+D
+0.0400 EUR	+1.27%	459.578 K	2.43	3.646 M EUR	—	—	—	0.00%	Finance	—
+
+CIR
+CIR
+D
+0.569 EUR	−0.70%	81.05 K	0.08	619.126 M EUR	18.59	0.03 EUR	+10.07%	0.00%	Producer Manufacturing	
+Strong buy
+C
+CIRC
+CIRCLE
+D
+6.86 EUR	−0.87%	3.96 K	1.29	27.504 M EUR	—	—	—	0.00%	Commercial Services	
+Strong buy
+C
+CLABO
+CLABO
+D
+2.39 EUR	+4.37%	141 K	1.90	21.811 M EUR	—	−0.00 EUR	+99.61%	0.00%	Producer Manufacturing	—
+
+CLE
+CLASS EDITORI
+D
+0.1000 EUR	+1.01%	57.867 K	0.24	27.357 M EUR	27.03	0.00 EUR	—	0.00%	Consumer Services	—
+
+CLF
+CALEFFI
+D
+0.900 EUR	+2.27%	3 K	0.34	13.887 M EUR	7.50	0.12 EUR	−46.24%	0.00%	Consumer Durables	—
+
+CLI
+CENTRALE DEL LATTE D'ITALIA
+D
+2.82 EUR	+0.71%	500	0.22	39.2 M EUR	13.35	0.21 EUR	+1820.91%	0.00%	Consumer Non-Durables	
+Strong buy
+
+CMB
+CEMBRE
+D
+44.60 EUR	+0.34%	2.72 K	0.23	744.18 M EUR	—	—	—	3.15%	Electronic Technology	
+Neutral
+C
+CML
+COMAL
+D
+3.30 EUR	−1.20%	10.951 K	0.15	38.41 M EUR	9.19	0.36 EUR	+255.70%	0.00%	Electronic Technology	
+Strong buy
+
+CNF
+CONAFI
+D
+0.1975 EUR	+3.40%	99.951 K	3.33	7.056 M EUR	—	−0.05 EUR	−10.54%	0.00%	Finance	—
+C
+CNS
+CIVITANAVI SYSTEMS
+D
+5.96 EUR	−0.33%	925	0.02	183.649 M EUR	41.91	0.14 EUR	—	2.17%	Electronic Technology	
+Buy
+
+COM
+COMER INDUSTRIES
+D
+32.7 EUR	+0.62%	1.483 K	0.07	932.038 M EUR	9.97	3.28 EUR	+95.05%	2.31%	Producer Manufacturing	
+Strong buy
+C
+COP
+COPERNICO
+D
+2.88 EUR	0.00%	0	0.00	5.525 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+C
+CORE
+ALLCORE
+D
+1.795 EUR	+1.13%	7.051 K	0.35	26.545 M EUR	21.27	0.08 EUR	−97.20%	5.63%	Commercial Services	
+Strong buy
+C
+COSMO
+FARMACOSMO
+D
+0.830 EUR	+4.01%	13.825 K	0.73	27.672 M EUR	—	−0.08 EUR	—	0.00%	Retail Trade	—
+
+CPR
+CAMPARI
+D
+9.886 EUR	−0.24%	451.925 K	0.14	11.157 B EUR	34.08	0.29 EUR	+16.79%	0.66%	Consumer Non-Durables	
+Neutral
+
+CRL
+CAREL INDUSTRIES
+D
+18.26 EUR	+2.93%	54.909 K	0.94	1.993 B EUR	26.65	0.69 EUR	+43.60%	0.99%	Producer Manufacturing	
+Neutral
+
+CSP
+CSP INT IND CALZE
+D
+0.295 EUR	+1.03%	30.473 K	0.83	11.49 M EUR	105.36	0.00 EUR	−88.28%	0.00%	Consumer Non-Durables	—
+C
+CUBE
+CUBE LABS
+D
+2.04 EUR	0.00%	0	0.00	36.419 M EUR	—	—	—	0.00%	Finance	—
+C
+CULT
+CULTI MILANO
+D
+14.75 EUR	0.00%	0	0.00	45.659 M EUR	—	—	—	0.68%	Consumer Non-Durables	—
+C
+CVG
+CONVERGENZE
+D
+1.75 EUR	+2.94%	3.5 K	0.12	12.741 M EUR	25.62	0.07 EUR	+115.46%	0.00%	Communications	
+Strong buy
+C
+CY4
+CY4GATE
+D
+6.34 EUR	+0.32%	14.222 K	0.74	148.971 M EUR	—	−0.45 EUR	—	0.00%	Technology Services	
+Strong buy
+C
+CYB
+CYBEROO
+D
+3.50 EUR	0.00%	30	0.00	144.961 M EUR	36.01	0.10 EUR	+2109.09%	0.00%	Technology Services	
+Strong buy
+D
+D
+DIRECTA SIM
+D
+3.97 EUR	−1.00%	4.5 K	0.28	75.188 M EUR	8.76	0.45 EUR	+34.82%	3.99%	Finance	
+Strong buy
+
+DAL
+DATALOGIC
+D
+5.84 EUR	+1.21%	20.04 K	0.31	326.728 M EUR	34.17	0.17 EUR	−67.02%	5.20%	Electronic Technology	
+Buy
+
+DAN
+DANIELI & C
+D
+34.50 EUR	+0.44%	7.733 K	0.18	2.202 B EUR	—	—	—	0.90%	Producer Manufacturing	
+Strong buy
+D
+DATA
+DATRIX
+D
+1.640 EUR	−0.61%	29 K	2.86	27.48 M EUR	—	−0.26 EUR	−75.89%	0.00%	Technology Services	
+Neutral
+D
+DBA
+DBA GROUP
+D
+2.46 EUR	+5.58%	91.8 K	2.56	26.826 M EUR	6.75	0.36 EUR	—	0.00%	Industrial Services	
+Strong buy
+D
+DEX
+DEXELANCE
+D
+11.16 EUR	—	6.9 K	—	297.266 M EUR	—	—	—	0.00%	Consumer Durables	
+Strong buy
+D
+DGT
+DIGITOUCH
+D
+1.995 EUR	+2.31%	500	0.07	27.083 M EUR	—	—	—	1.25%	Commercial Services	—
+
+DGV
+DIGITAL VALUE
+D
+63.9 EUR	−1.08%	2.709 K	0.14	644.035 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+D
+DHH
+DHH
+D
+18.4 EUR	0.00%	561	0.02	83.059 M EUR	39.12	0.47 EUR	−28.75%	0.00%	Technology Services	—
+
+DIA
+DIASORIN
+D
+93.62 EUR	+0.32%	41.425 K	0.29	5.106 B EUR	32.65	2.87 EUR	−46.90%	1.18%	Health Technology	
+Neutral
+
+DIB
+DIGITAL BROS
+D
+10.18 EUR	+0.99%	10.447 K	0.18	143.749 M EUR	—	−0.39 EUR	−119.32%	0.00%	Technology Services	
+Buy
+
+DIS
+D'AMICO
+D
+7.60 EUR	+0.66%	263.997 K	0.63	910.932 M EUR	5.14	1.48 EUR	−4.10%	4.32%	Transportation	
+Strong buy
+D
+DIT
+DESTINATION ITALIA
+D
+0.872 EUR	0.00%	0	0.00	16.072 M EUR	—	−0.13 EUR	+22.73%	0.00%	Consumer Services	
+Strong buy
+
+DLG
+DE'LONGHI
+D
+33.04 EUR	+0.73%	6.182 K	0.09	4.925 B EUR	20.00	1.65 EUR	−18.81%	1.46%	Consumer Durables	
+Buy
+
+DNR
+INDUSTRIE DE NORA
+D
+13.42 EUR	+1.21%	18.295 K	0.14	2.674 B EUR	—	—	—	0.90%	Process Industries	
+Strong buy
+D
+DOT
+DOTSTAY
+D
+4.90 EUR	0.00%	0	0.00	15.072 M EUR	—	−0.38 EUR	—	0.00%	Commercial Services	—
+
+DOV
+DOVALUE
+D
+2.092 EUR	+3.77%	852.041 K	1.36	159.32 M EUR	—	−0.23 EUR	−208.10%	29.76%	Finance	
+Buy
+D
+DOX
+DOXEE
+D
+2.48 EUR	−2.36%	1.75 K	0.34	21.699 M EUR	—	−0.62 EUR	−388.45%	0.00%	Technology Services	
+Strong buy
+D
+DTH
+DEFENCE TECH HOLDING
+D
+4.34 EUR	+2.36%	1.25 K	0.19	108.302 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+E
+EAV
+EMMA VILLAS
+D
+2.63 EUR	−1.87%	1 K	0.16	18.678 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+E
+ECK
+ECOSUNTEK
+D
+17.75 EUR	+0.28%	350	0.20	30.326 M EUR	—	—	—	0.00%	Utilities	—
+E
+ECMB
+ECOMEMBRANE
+D
+5.45 EUR	+0.93%	200	0.02	23.188 M EUR	19.91	0.27 EUR	—	0.00%	Producer Manufacturing	
+Strong buy
+
+ECNL
+AQUAFIL
+D
+3.695 EUR	+6.64%	58.106 K	0.62	177.196 M EUR	—	−0.52 EUR	−190.14%	6.93%	Process Industries	
+Buy
+
+EDAC
+EDILIZIACROBATICA
+D
+11.45 EUR	0.00%	2.67 K	0.67	95.232 M EUR	15.18	0.75 EUR	−44.62%	4.37%	Consumer Durables	
+Strong buy
+
+EDNR
+EDISON R
+D
+1.525 EUR	+0.33%	61.196 K	0.31	7.199 B EUR	—	—	—	6.91%	Utilities	—
+
+EEMS
+EEMS
+D
+0.1902 EUR	−2.21%	558	0.01	884.285 K EUR	—	−1.36 EUR	−724.24%	0.00%	Electronic Technology	—
+E
+EGB
+E-GLOBE
+D
+1.07 EUR	−0.93%	3 K	0.19	14.615 M EUR	—	—	—	0.00%	Distribution Services	
+Strong buy
+E
+EGLA
+EUROGROUP LAMINATIONS
+D
+4.296 EUR	+0.19%	152.942 K	0.34	711.215 M EUR	19.38	0.22 EUR	—	0.00%	Producer Manufacturing	
+Strong buy
+E
+EGN
+EGOMNIA
+D
+0.500 EUR	0.00%	0	—	—	—	—	—	—	Commercial Services	—
+
+ELC
+ELICA
+D
+1.915 EUR	+0.26%	8.105 K	0.52	120.947 M EUR	12.24	0.16 EUR	−18.29%	3.66%	Consumer Durables	
+Buy
+E
+ELES
+ELES
+D
+2.33 EUR	−0.85%	26 K	0.09	40.031 M EUR	—	—	—	0.00%	Commercial Services	—
+
+ELN
+EL.EN
+D
+11.42 EUR	−0.26%	25.419 K	0.30	916.723 M EUR	19.36	0.59 EUR	+3.87%	1.92%	Health Technology	
+Buy
+E
+ELSA
+ELSA SOLUTIONS
+D
+4.18 EUR	0.00%	0	0.00	—	—	—	—	—	Producer Manufacturing	—
+
+EM
+EMAK
+D
+1.174 EUR	+0.34%	37 K	0.22	191.339 M EUR	10.03	0.12 EUR	−36.67%	5.56%	Consumer Durables	
+Buy
+
+ENAV
+ENAV
+D
+4.056 EUR	+1.30%	139.877 K	0.19	2.167 B EUR	19.43	0.21 EUR	+44.13%	4.91%	Transportation	
+Strong buy
+
+ENEL
+ENEL
+D
+6.736 EUR	+3.50%	42.767 M	1.56	66.118 B EUR	19.91	0.34 EUR	+25.66%	6.38%	Utilities	
+Buy
+
+ENI
+ENI
+D
+15.224 EUR	+1.28%	2.969 M	0.36	48.876 B EUR	14.04	1.08 EUR	−70.12%	6.19%	Energy Minerals	
+Buy
+
+ENV
+ENERVIT
+D
+3.25 EUR	0.00%	0	0.00	57.85 M EUR	13.75	0.24 EUR	+17.03%	4.00%	Health Technology	
+Strong buy
+E
+ENY
+ENERGY
+D
+1.485 EUR	+0.68%	13.5 K	0.38	90.701 M EUR	16.28	0.09 EUR	—	0.00%	Technology Services	
+Neutral
+E
+EPH
+E.P.H
+D
+0.0008 EUR	0.00%	2.849 M	0.30	154.688 K EUR	—	−7.40 EUR	+94.89%	0.00%	Retail Trade	—
+E
+EPRB
+EPRCOMUNICAZIONE
+D
+1.44 EUR	+4.35%	700	0.06	3.868 M EUR	—	—	—	0.00%	Commercial Services	
+Strong buy
+E
+EQUI
+EQUITA GROUP
+D
+4.07 EUR	−0.73%	18.933 K	0.46	194.067 M EUR	12.22	0.33 EUR	+2.08%	8.54%	Finance	
+Strong buy
+E
+ERFO
+LABORATORIO FARMACEUTICO ERFO
+D
+1.135 EUR	−0.44%	2 K	0.35	9.793 M EUR	—	—	—	0.00%	Health Technology	
+Strong buy
+
+ERG
+ERG
+D
+26.76 EUR	+0.68%	157.181 K	0.27	3.975 B EUR	22.19	1.21 EUR	+4.11%	3.76%	Utilities	
+Buy
+E
+ESAU
+ESAUTOMOTION
+D
+3.73 EUR	−3.37%	2.5 K	0.98	45.239 M EUR	10.13	0.37 EUR	−14.46%	2.59%	Producer Manufacturing	
+Strong buy
+E
+ESF
+EDIL SAN FELICE
+D
+4.02 EUR	+0.25%	2.59 K	0.75	77.189 M EUR	—	—	—	0.00%	Consumer Durables	
+Strong buy
+E
+ESIGM
+ESI
+D
+1.670 EUR	+1.83%	19.8 K	0.88	12.837 M EUR	—	−0.22 EUR	−1536.77%	0.00%	Utilities	
+Strong buy
+E
+ESPE
+ESPE
+D
+2.52 EUR	+0.80%	1.5 K	0.08	—	—	—	—	—	Industrial Services	
+Strong buy
+
+ETH
+EUROTECH
+D
+1.604 EUR	0.00%	79.305 K	0.28	56.823 M EUR	—	−0.09 EUR	−103.69%	0.00%	Electronic Technology	
+Strong buy
+
+EUK
+EUKEDOS
+D
+0.840 EUR	+1.20%	20	0.01	18.876 M EUR	34.43	0.02 EUR	−2.79%	0.00%	Health Services	—
+E
+EVA
+ASKOLL EVA
+D
+0.310 EUR	+0.32%	18.5 K	0.05	8.192 M EUR	—	—	—	0.00%	Consumer Durables	
+Neutral
+E
+EVISO
+EVISO
+D
+5.14 EUR	−2.65%	19.884 K	0.38	130.213 M EUR	58.68	0.09 EUR	+26.59%	0.00%	Utilities	
+Strong buy
+E
+EXAI
+EXPERT.AI
+D
+1.258 EUR	+0.64%	44.756 K	0.10	86.156 M EUR	—	−0.14 EUR	+52.91%	0.00%	Technology Services	
+Strong buy
+E
+EXEC
+EXECUS
+D
+2.22 EUR	−3.48%	2 K	2.22	12.052 M EUR	—	—	—	0.00%	Commercial Services	
+Strong buy
+F
+FAE
+FAE TECHNOLOGY
+D
+4.03 EUR	−0.25%	10.456 K	0.29	70.441 M EUR	—	—	—	0.00%	Electronic Technology	
+Strong buy
+F
+FARM
+H-FARM
+D
+0.1555 EUR	0.00%	6 K	0.02	31.124 M EUR	—	−0.07 EUR	+48.73%	0.00%	Commercial Services	—
+
+FBK
+FINECOBANK
+D
+15.015 EUR	+0.17%	570.616 K	0.20	9.157 B EUR	15.08	1.00 EUR	—	3.27%	Finance	
+Buy
+F
+FCH
+FRANCHETTI
+D
+6.45 EUR	−0.77%	1.5 K	0.86	25.737 M EUR	—	—	—	0.00%	Industrial Services	—
+F
+FCM
+FRIULCHEM
+D
+0.930 EUR	0.00%	0	0.00	7.44 M EUR	—	−0.03 EUR	−2466.67%	0.00%	Health Technology	
+Strong buy
+
+FCT
+FINCANTIERI
+D
+0.630 EUR	+0.96%	3.966 M	0.48	1.056 B EUR	—	−0.03 EUR	−345.67%	0.00%	Producer Manufacturing	
+Neutral
+
+FDA
+FIDIA
+D
+0.409 EUR	−0.49%	14.25 K	0.08	3.419 M EUR	—	−0.19 EUR	+74.83%	0.00%	Producer Manufacturing	—
+F
+FF
+FINE FOODS & PHARMACEUTICALS NTM
+D
+8.58 EUR	+3.37%	679	0.17	202.872 M EUR	—	−0.14 EUR	+63.55%	1.20%	Health Technology	
+Buy
+F
+FIC
+FIRST CAPITAL
+D
+16.8 EUR	−1.75%	375	1.19	45.152 M EUR	—	—	—	2.02%	Finance	—
+
+FILA
+FILA
+D
+8.90 EUR	−0.45%	7.361 K	0.07	456.001 M EUR	2.70	3.29 EUR	+574.69%	1.34%	Producer Manufacturing	
+Buy
+F
+FIRE
+BIFIRE
+D
+3.24 EUR	+0.62%	11.5 K	0.86	56.538 M EUR	—	—	—	0.00%	Process Industries	
+Strong buy
+
+FM
+FIERA MILANO
+D
+3.760 EUR	−0.66%	45.158 K	0.44	271.173 M EUR	5.89	0.64 EUR	+3.28%	3.70%	Commercial Services	
+Buy
+
+FNM
+FNM
+D
+0.485 EUR	−0.41%	96.199 K	0.16	211.798 M EUR	2.61	0.19 EUR	+18.11%	4.72%	Transportation	
+Buy
+F
+FNX
+FENIX ENTERTAINMENT
+D
+0.0020 EUR	0.00%	0	—	470.283 K EUR	—	—	—	0.00%	Consumer Services	—
+F
+FOS
+FOS
+D
+2.80 EUR	0.00%	3 K	0.61	18.879 M EUR	14.48	0.19 EUR	+11.60%	0.00%	Technology Services	
+Strong buy
+F
+FPE
+FOPE
+D
+27.0 EUR	−3.57%	1 K	3.64	151.189 M EUR	—	—	—	3.04%	Consumer Durables	
+Strong buy
+F
+FRE
+FRENDY ENERGY
+D
+0.198 EUR	0.00%	0	0.00	11.745 M EUR	56.57	0.00 EUR	+52.17%	0.00%	Utilities	—
+F
+FTC
+FINANZA.TECH
+D
+0.868 EUR	+0.70%	4 K	0.15	11.493 M EUR	18.59	0.05 EUR	+24.53%	0.00%	Technology Services	
+Strong buy
+F
+FUM
+FRANCHI UMBERTO MARMI
+D
+5.90 EUR	0.00%	2 K	0.27	194.537 M EUR	14.75	0.40 EUR	+25.35%	4.92%	Non-Energy Minerals	
+Strong buy
+F
+FVI
+FERVI
+D
+16.6 EUR	0.00%	0	0.00	42.152 M EUR	10.75	1.54 EUR	+23.34%	2.41%	Producer Manufacturing	
+Strong buy
+
+G
+GENERALI ASS
+D
+24.39 EUR	+1.29%	1.33 M	0.42	37.633 B EUR	10.12	2.41 EUR	+35.28%	4.82%	Finance	
+Neutral
+
+GAB
+GABETTI
+D
+0.726 EUR	+1.68%	19.35 K	0.16	43.08 M EUR	41.97	0.02 EUR	−87.45%	0.00%	Finance	—
+G
+GAMB
+GAMBERO ROSSO
+D
+0.394 EUR	−1.50%	7 K	0.27	5.693 M EUR	4.71	0.08 EUR	+16640.00%	0.00%	Consumer Services	—
+G
+GBUS
+GIBUS
+D
+9.84 EUR	0.00%	0	0.00	49.281 M EUR	13.24	0.74 EUR	−73.41%	5.08%	Producer Manufacturing	
+Strong buy
+G
+GCOM
+GIGLIO.COM
+D
+1.88 EUR	+6.82%	12 K	2.40	23.245 M EUR	—	−0.14 EUR	+40.04%	0.00%	Retail Trade	
+Strong buy
+
+GE
+GEFRAN
+D
+8.16 EUR	+0.74%	971	0.05	116.42 M EUR	10.03	0.81 EUR	+17.05%	4.94%	Electronic Technology	
+Strong buy
+G
+GEL
+GEL
+D
+1.39 EUR	+0.72%	625	0.05	9.836 M EUR	—	—	—	0.00%	Producer Manufacturing	
+Strong buy
+
+GEO
+GEOX
+D
+0.653 EUR	+0.46%	100.442 K	0.19	165.887 M EUR	—	−0.03 EUR	+89.61%	0.00%	Consumer Non-Durables	
+Neutral
+
+GF
+GENERALFINANCE
+D
+10.80 EUR	0.00%	3.401 K	0.24	136.459 M EUR	—	—	—	5.46%	Finance	
+Strong buy
+G
+GG
+GIGLIO GROUP
+D
+0.406 EUR	−1.93%	10.749 K	0.38	10.914 M EUR	—	−0.05 EUR	+57.05%	0.00%	Technology Services	—
+
+GHC
+GAROFALO HEALTH CARE
+D
+5.04 EUR	+1.82%	9.248 K	0.30	444.411 M EUR	28.00	0.18 EUR	−14.53%	0.00%	Health Services	
+Strong buy
+G
+GIS
+GISMONDI 1754
+D
+3.52 EUR	−0.28%	400	0.14	14.472 M EUR	—	—	—	0.00%	Consumer Durables	—
+G
+GM
+GENTILI MOSCONI
+D
+3.35 EUR	+0.90%	630	0.13	63.08 M EUR	12.21	0.27 EUR	+56.62%	3.61%	Consumer Durables	
+Strong buy
+G
+GML
+G.M. LEATHER
+D
+1.11 EUR	+0.91%	3 K	1.30	12.359 M EUR	6.11	0.18 EUR	—	2.02%	Process Industries	
+Strong buy
+G
+GO
+GO INTERNET
+D
+0.724 EUR	−0.82%	124	0.01	899.836 K EUR	—	—	—	0.00%	Communications	—
+G
+GPI
+GPI
+D
+12.64 EUR	−0.63%	2.162 K	0.14	366.384 M EUR	50.66	0.25 EUR	−58.99%	3.93%	Commercial Services	
+Buy
+G
+GRAL
+GRIFAL
+D
+2.12 EUR	0.00%	4 K	0.78	24.163 M EUR	27.21	0.08 EUR	—	0.00%	Process Industries	
+Strong buy
+G
+GRN
+GREEN OLEO
+D
+0.935 EUR	+1.08%	3 K	0.36	23.963 M EUR	—	—	—	0.00%	Process Industries	
+Strong buy
+G
+GROW
+GROWENS
+D
+7.24 EUR	+1.12%	7.293 K	0.10	109.357 M EUR	1.80	4.02 EUR	+16248.78%	0.00%	Technology Services	
+Buy
+
+GSP
+GAS PLUS
+D
+2.40 EUR	−0.41%	11.55 K	0.07	105.011 M EUR	—	—	—	2.07%	Utilities	—
+G
+GSR
+G RENT
+D
+0.650 EUR	0.00%	0	0.00	3.957 M EUR	—	−0.18 EUR	−70.78%	0.00%	Commercial Services	
+Neutral
+
+GTH
+GREENTHESIS
+D
+2.21 EUR	0.00%	142	0.00	333.021 M EUR	22.10	0.10 EUR	+30.38%	0.85%	Industrial Services	
+Neutral
+
+GVS
+GVS
+D
+5.46 EUR	−0.36%	9.327 K	0.05	959 M EUR	69.91	0.08 EUR	−43.41%	0.00%	Electronic Technology	
+Buy
+
+HER
+HERA
+D
+3.516 EUR	+1.38%	482.789 K	0.16	5.072 B EUR	11.52	0.31 EUR	+73.85%	3.60%	Utilities	
+Buy
+H
+HI
+HEALTH ITALIA
+D
+124.0 EUR	−0.80%	58	0.32	22.661 M EUR	16.23	7.64 EUR	+15.19%	0.00%	Health Services	
+Strong buy
+H
+HQF
+HIGH QUALITY FOOD
+D
+0.718 EUR	+0.84%	3.75 K	1.35	8.055 M EUR	—	—	—	0.00%	Consumer Non-Durables	—
+I
+IB
+INIZIATIVE BRESCIANE
+D
+14.2 EUR	0.00%	157	0.09	73.894 M EUR	19.72	0.72 EUR	+6.13%	1.13%	Utilities	
+Strong buy
+I
+ICC
+INTERNATIONAL CARE COMPANY
+D
+1.20 EUR	0.00%	0	0.00	5.72 M EUR	—	−0.19 EUR	−5.09%	0.00%	Health Services	
+Strong buy
+I
+ICF
+INDUSTRIE CHIMICHE FORESTALI
+D
+5.15 EUR	+1.98%	360	0.18	35.354 M EUR	16.13	0.32 EUR	+1.46%	3.96%	Process Industries	
+Strong buy
+
+ICOS
+INTERCOS
+D
+13.94 EUR	+0.43%	3.957 K	0.07	1.336 B EUR	25.64	0.54 EUR	+10.06%	1.20%	Consumer Non-Durables	
+Strong buy
+I
+IDNTT
+IDNTT
+D
+3.42 EUR	−4.47%	10 K	0.31	26.302 M EUR	19.85	0.17 EUR	−23.35%	0.42%	Consumer Services	
+Strong buy
+I
+IE
+IERVOLINO & LADY BACARDI ENTERTAINMENT
+D
+0.512 EUR	+1.99%	3.817 K	0.04	17.578 M EUR	2.61	0.20 EUR	—	0.00%	Consumer Services	
+Strong buy
+I
+IEG
+ITALIAN EXHIBITION GROUP
+D
+4.74 EUR	−1.04%	2.05 K	0.32	147.839 M EUR	11.36	0.42 EUR	+1561.75%	0.00%	Commercial Services	
+Strong buy
+
+IF
+BANCA IFIS
+D
+20.24 EUR	−1.94%	138.098 K	0.69	1.103 B EUR	6.65	3.05 EUR	—	7.75%	Finance	
+Buy
+
+IG
+ITALGAS
+D
+5.320 EUR	+0.95%	1.54 M	0.56	4.275 B EUR	9.81	0.54 EUR	+21.03%	6.02%	Utilities	
+Neutral
+
+IGV
+I GRANDI VIAGGI
+D
+0.834 EUR	−1.42%	18 K	0.25	40.267 M EUR	14.68	0.06 EUR	+538.20%	0.00%	Consumer Services	
+Buy
+I
+IIG
+IIG
+D
+0.1550 EUR	0.00%	0	0.00	2.278 M EUR	—	—	—	0.00%	Consumer Non-Durables	—
+I
+ILLA
+ILLA
+D
+0.0002 EUR	0.00%	4 M	0.15	94.839 K EUR	—	—	—	0.00%	Consumer Durables	—
+I
+ILP
+ILPRA
+D
+4.98 EUR	0.00%	0	0.00	59.809 M EUR	—	—	—	2.41%	Producer Manufacturing	
+Strong buy
+
+ILTY
+ILLIMITY BANK
+D
+5.455 EUR	+2.44%	397.559 K	0.78	446.33 M EUR	4.47	1.22 EUR	—	3.38%	Finance	
+Buy
+I
+IMD
+I.M.D. INTERNATIONAL MEDICAL DEVICES
+D
+1.52 EUR	0.00%	0	0.00	26.328 M EUR	—	—	—	0.00%	Health Technology	
+Strong buy
+I
+IMP
+IMPRENDIROMA
+D
+2.92 EUR	+2.82%	19.8 K	0.52	31.808 M EUR	—	—	—	1.57%	Consumer Durables	—
+
+IMS
+IMMSI
+D
+0.564 EUR	0.00%	73.736 K	0.20	192.059 M EUR	10.07	0.06 EUR	+55.56%	9.57%	Consumer Durables	—
+I
+INC
+INNOVATEC
+D
+1.090 EUR	+0.55%	232.522 K	0.30	104.547 M EUR	1557.14	0.00 EUR	−98.98%	0.00%	Industrial Services	
+Strong buy
+I
+INDB
+INDEL B
+D
+22.4 EUR	+0.90%	24	0.06	127.912 M EUR	—	—	—	3.57%	Producer Manufacturing	
+Strong buy
+I
+INT
+INTERMONTE PARTNERS SIM
+D
+2.79 EUR	+0.72%	42.393 K	0.63	89.471 M EUR	—	—	—	9.39%	Finance	
+Strong buy
+
+INW
+INWIT
+D
+10.35 EUR	+0.39%	204.672 K	0.20	9.899 B EUR	28.47	0.36 EUR	+13.24%	3.36%	Communications	
+Buy
+
+IOT
+SECO
+D
+3.435 EUR	+0.88%	27.513 K	0.14	452.784 M EUR	39.67	0.09 EUR	−4.94%	0.00%	Electronic Technology	
+Buy
+
+IP
+INTERPUMP GROUP
+D
+42.80 EUR	+0.90%	80.652 K	0.32	4.519 B EUR	16.75	2.56 EUR	+1.82%	0.71%	Producer Manufacturing	
+Buy
+
+IRC
+IRCE
+D
+2.19 EUR	0.00%	5.333 K	0.62	58.129 M EUR	7.06	0.31 EUR	−10.73%	2.74%	Producer Manufacturing	
+Strong buy
+
+IRE
+IREN
+D
+1.845 EUR	+1.88%	2.3 M	0.47	2.324 B EUR	9.29	0.20 EUR	+12.78%	6.07%	Utilities	
+Buy
+I
+ISC
+ISCC FINTECH
+D
+2.44 EUR	+10.91%	6.646 K	0.51	28.38 M EUR	—	−0.26 EUR	—	0.00%	Commercial Services	
+Strong buy
+
+ISP
+INTESA SANPAOLO
+D
+3.6000 EUR	+0.57%	19.13 M	0.22	65.292 B EUR	—	—	—	6.54%	Finance	
+Strong buy
+I
+ITD
+INTRED
+D
+9.84 EUR	−1.60%	2.939 K	0.16	158.816 M EUR	19.07	0.52 EUR	−5.11%	0.70%	Communications	
+Strong buy
+
+ITM
+ITALMOBILIARE
+D
+30.90 EUR	−0.32%	2.343 K	0.05	1.311 B EUR	19.62	1.58 EUR	−52.34%	2.26%	Consumer Non-Durables	
+Strong buy
+
+ITW
+IT WAY
+D
+1.396 EUR	+2.65%	13.977 K	0.31	14.159 M EUR	—	−0.03 EUR	−117.67%	0.00%	Technology Services	—
+
+IVG
+IVECO GROUP
+D
+12.465 EUR	+6.36%	3.024 M	1.98	4.048 B EUR	15.70	0.79 EUR	+47.09%	1.88%	Consumer Durables	
+Buy
+I
+IVN
+IVISION TECH
+D
+1.19 EUR	−4.80%	154.5 K	3.20	—	—	—	—	—	Health Technology	
+Strong buy
+
+IVS
+IVS GROUP
+D
+7.14 EUR	0.00%	990	0.00	637.512 M EUR	39.23	0.18 EUR	+88.41%	1.54%	Retail Trade	
+Neutral
+I
+IWB
+ITALIAN WINE BRANDS
+D
+19.55 EUR	+0.26%	1.226 K	0.08	184.351 M EUR	11.29	1.73 EUR	−3.19%	0.51%	Consumer Non-Durables	
+Strong buy
+J
+JNX
+JONIX
+D
+0.450 EUR	+0.45%	600	0.03	2.931 M EUR	—	−0.10 EUR	−169.67%	0.00%	Producer Manufacturing	—
+
+JUVE
+JUVENTUS FC
+D
+1.9148 EUR	+1.47%	317.686 K	0.34	715.403 M EUR	—	−0.64 EUR	+45.52%	0.00%	Consumer Services	—
+K
+KK
+KRUSO KAPITAL
+D
+1.86 EUR	0.00%	0	0.00	45.774 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+
+KME
+KME GROUP
+D
+0.975 EUR	+0.10%	125	0.01	318.133 M EUR	—	−0.12 EUR	—	22.30%	Non-Energy Minerals	—
+L
+LASIA
+LA SIA
+D
+4.16 EUR	0.00%	1.5 K	1.36	23.573 M EUR	—	—	—	0.00%	Industrial Services	—
+L
+LDB
+LINDBERGH
+D
+3.36 EUR	0.00%	2 K	0.13	28.044 M EUR	—	—	—	0.00%	Transportation	
+Strong buy
+
+LDO
+LEONARDO
+D
+22.94 EUR	+3.80%	2.339 M	0.78	12.711 B EUR	20.06	1.14 EUR	+12.27%	0.63%	Electronic Technology	
+Buy
+L
+LFG
+LEONE FILM GROUP
+D
+1.61 EUR	0.00%	0	0.00	22.813 M EUR	—	−0.06 EUR	−113.25%	5.59%	Consumer Services	
+Strong buy
+L
+LMG
+LUCISANO MEDIA GROUP
+D
+1.29 EUR	0.00%	0	0.00	19.142 M EUR	—	—	—	3.10%	Consumer Services	
+Strong buy
+
+LNDR
+LANDI RENZO
+D
+0.3140 EUR	+0.16%	67.963 K	0.50	70.537 M EUR	—	−0.14 EUR	−123.66%	0.00%	Producer Manufacturing	
+Neutral
+L
+LON
+LONGINO&CARDENAL
+D
+2.50 EUR	+4.17%	500	0.13	15 M EUR	—	−0.06 EUR	+52.02%	0.00%	Consumer Services	
+Strong buy
+L
+LS
+LEMON SISTEMI
+D
+1.850 EUR	+0.27%	3 K	0.63	15.126 M EUR	—	—	—	0.00%	Industrial Services	
+Strong buy
+L
+LTMC
+LOTTOMATICA GROUP
+D
+10.72 EUR	−0.37%	40.458 K	0.13	2.708 B EUR	51.44	0.21 EUR	−38.78%	0.00%	Consumer Services	
+Strong buy
+
+LUVE
+LUVE
+D
+23.00 EUR	+0.88%	914	0.13	506.305 M EUR	17.17	1.34 EUR	+25.30%	1.67%	Producer Manufacturing	
+Strong buy
+
+MAIRE
+MAIRE
+D
+7.340 EUR	+0.62%	187.564 K	0.16	2.391 B EUR	16.72	0.44 EUR	+48.88%	2.70%	Industrial Services	
+Buy
+M
+MAPS
+MAPS
+D
+2.92 EUR	−2.99%	13.43 K	0.30	37.281 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+M
+MARP
+MARZOCCHI POMPE
+D
+4.16 EUR	+1.96%	3 K	0.94	26.678 M EUR	—	—	—	3.68%	Producer Manufacturing	
+Strong buy
+
+MARR
+MARR
+D
+12.14 EUR	+0.17%	15.07 K	0.13	806.284 M EUR	16.96	0.72 EUR	+79.06%	3.14%	Distribution Services	
+Strong buy
+M
+MASI
+MASI AGRICOLA
+D
+4.96 EUR	+0.20%	150	0.08	159.148 M EUR	—	—	—	1.21%	Consumer Non-Durables	
+Neutral
+
+MB
+MEDIOBANCA
+D
+14.495 EUR	+2.73%	1.996 M	0.87	11.641 B EUR	11.28	1.28 EUR	—	6.02%	Finance	
+Neutral
+M
+MDC
+MEDICA
+D
+26.6 EUR	−0.75%	1 K	0.12	113.183 M EUR	—	—	—	0.00%	Health Technology	
+Strong buy
+
+MET
+MET.EXTRA GROUP
+D
+2.54 EUR	−2.31%	4.202 K	6.81	1.512 M EUR	—	—	—	—	Finance	—
+M
+MEV
+MEVIM
+D
+1.0462 EUR	+10.13%	15.316 K	0.56	2.901 M EUR	—	—	—	0.00%	Finance	—
+
+MFEA
+MFE A
+D
+2.950 EUR	+1.03%	536.741 K	0.53	1.725 B EUR	59.36	0.05 EUR	−66.67%	8.56%	Consumer Services	
+Sell
+M
+MFT
+MATICA FINTEC
+D
+1.385 EUR	+2.59%	2.7 K	0.16	14.793 M EUR	—	—	—	0.00%	Electronic Technology	
+Strong buy
+M
+MGS
+MAGIS
+D
+12.0 EUR	+0.84%	500	1.60	87.261 M EUR	—	—	—	0.00%	Process Industries	
+Strong buy
+
+MIT
+MITTEL
+D
+1.510 EUR	+1.00%	2.3 K	0.14	121.614 M EUR	2.43	0.62 EUR	+8525.00%	8.22%	Finance	—
+
+MN
+MONDADORI EDIT
+D
+2.300 EUR	0.00%	53.357 K	0.33	598.94 M EUR	9.62	0.24 EUR	+20.08%	4.78%	Consumer Services	
+Strong buy
+M
+MNL
+MONNALISA
+D
+1.41 EUR	−4.08%	4.772 K	1.02	7.671 M EUR	—	−1.28 EUR	−251.36%	0.00%	Consumer Non-Durables	
+Neutral
+
+MOL
+MUTUIONLINE
+D
+36.45 EUR	−1.49%	1.931 K	0.26	1.412 B EUR	—	—	—	0.32%	Commercial Services	
+Strong buy
+
+MON
+MONRIF
+D
+0.0396 EUR	0.00%	10 K	0.14	8.071 M EUR	—	−0.01 EUR	+48.17%	0.00%	Consumer Services	—
+
+MONC
+MONCLER
+D
+63.40 EUR	−0.06%	97.185 K	0.15	17.173 B EUR	27.99	2.27 EUR	+54.57%	1.77%	Consumer Non-Durables	
+Buy
+M
+MPT
+IMPIANTI
+D
+0.334 EUR	+15.97%	120 K	1.09	2.208 M EUR	—	−0.17 EUR	−334.66%	0.00%	Technology Services	
+Strong buy
+M
+MQSPA
+MEGLIOQUESTO
+D
+0.219 EUR	0.00%	0	—	11.373 M EUR	—	—	—	0.00%	Technology Services	—
+M
+MTS
+MIT SIM
+D
+3.70 EUR	0.00%	0	0.00	7.698 M EUR	—	−0.17 EUR	−426.32%	0.00%	Finance	
+Strong buy
+
+MTV
+MONDO TV
+D
+0.2075 EUR	−1.19%	39.93 K	0.15	13.576 M EUR	13.13	0.02 EUR	—	0.00%	Consumer Services	
+Strong buy
+M
+MTVFR
+MONDO TV FRANCE
+D
+0.0174 EUR	−3.33%	208 K	0.94	1.903 M EUR	—	—	—	0.00%	Consumer Services	
+Strong buy
+N
+NDT
+NEODECORTECH
+D
+2.88 EUR	−1.03%	10.371 K	1.63	41.087 M EUR	14.27	0.20 EUR	−59.45%	4.81%	Process Industries	
+Strong buy
+
+NEXI
+NEXI
+D
+6.254 EUR	+3.10%	3.728 M	0.73	7.961 B EUR	—	−0.77 EUR	−1162.52%	0.00%	Finance	
+Buy
+N
+NPI
+NOTORIOUS PICTURES
+D
+1.04 EUR	+0.97%	400	0.02	22.538 M EUR	10.40	0.10 EUR	−38.50%	11.17%	Consumer Services	—
+N
+NRST
+NEUROSOFT
+D
+0.660 EUR	0.00%	0	0.00	16.886 M EUR	—	—	—	0.00%	Technology Services	—
+N
+NSP
+NEOSPERIENCE
+D
+1.820 EUR	+1.11%	7 K	0.13	37.396 M EUR	163.96	0.01 EUR	−69.59%	0.00%	Technology Services	
+Strong buy
+N
+NTW
+NETWEEK
+D
+0.0534 EUR	+2.69%	22.95 K	0.11	1.03 M EUR	—	−0.84 EUR	−648.36%	0.00%	Consumer Services	—
+N
+NUS
+NUSCO
+D
+0.990 EUR	−1.00%	16.5 K	0.48	18.616 M EUR	8.35	0.12 EUR	+326.26%	0.00%	Producer Manufacturing	
+Strong buy
+N
+NVP
+NVP
+D
+2.70 EUR	+3.05%	2 K	1.38	20.512 M EUR	—	—	—	0.00%	Technology Services	
+Strong buy
+
+NWL
+NEWLAT FOOD
+D
+6.06 EUR	+0.66%	1.357 K	0.13	257.57 M EUR	17.46	0.35 EUR	+120.74%	0.00%	Consumer Non-Durables	
+Strong buy
+
+OJM
+OPENJOBMETIS
+D
+16.30 EUR	−0.31%	43.813 K	0.12	214.808 M EUR	16.45	0.99 EUR	−7.96%	3.06%	Commercial Services	
+Neutral
+O
+OLI
+OLIDATA
+D
+0.618 EUR	−0.96%	73.995 K	0.29	71.686 M EUR	—	—	—	—	Electronic Technology	—
+O
+OMER
+OMER
+D
+3.17 EUR	−1.86%	234	0.04	92.863 M EUR	10.80	0.29 EUR	−17.47%	1.55%	Producer Manufacturing	
+Buy
+O
+ORS
+ORSERO
+D
+13.96 EUR	+0.43%	11.537 K	0.27	243.381 M EUR	6.08	2.30 EUR	+7.55%	2.52%	Distribution Services	
+Strong buy
+O
+OS
+OFFICINA STELLARE
+D
+10.85 EUR	+1.88%	500	0.07	65.596 M EUR	—	—	—	0.00%	Electronic Technology	—
+O
+OSA
+OSAI AUTOMATION SYSTEM
+D
+1.215 EUR	−1.22%	10.085 K	0.35	19.836 M EUR	—	−0.38 EUR	—	0.00%	Producer Manufacturing	
+Strong buy
+
+OVS
+OVS
+D
+2.638 EUR	+2.01%	279.356 K	0.22	750.235 M EUR	—	—	—	2.32%	Retail Trade	
+Strong buy
+P
+PAG
+PORTO AVIATION GROUP
+D
+4.28 EUR	0.00%	0	0.00	10.2 M EUR	48.64	0.09 EUR	—	0.00%	Electronic Technology	
+Strong buy
+P
+PAL
+PALINGEO
+D
+5.90 EUR	+1.37%	900	0.17	38.966 M EUR	—	—	—	0.00%	Industrial Services	
+Strong buy
+P
+PFI
+PREMIA FINANCE
+D
+2.00 EUR	0.00%	0	0.00	7.686 M EUR	—	−0.00 EUR	−106.15%	7.52%	Finance	
+Neutral
+
+PHIL
+PHILOGEN
+D
+17.90 EUR	+0.28%	1.846 K	0.12	521.985 M EUR	—	−0.15 EUR	+60.48%	0.00%	Health Technology	
+Strong buy
+
+PHN
+PHARMANUTRA
+D
+51.6 EUR	+0.39%	661	0.13	497.602 M EUR	38.67	1.33 EUR	−14.45%	1.56%	Health Technology	
+Strong buy
+
+PIA
+PIAGGIO
+D
+2.920 EUR	+2.03%	1.027 M	1.35	1.022 B EUR	11.37	0.26 EUR	+7.72%	7.16%	Consumer Durables	
+Strong buy
+
+PINF
+PININFARINA SPA
+D
+0.806 EUR	+0.50%	606	0.02	63.084 M EUR	—	−0.02 EUR	+68.24%	0.00%	Consumer Durables	—
+
+PIRC
+PIRELLI & C
+D
+6.252 EUR	+3.03%	1.508 M	1.00	6.068 B EUR	13.05	0.48 EUR	+14.67%	3.59%	Consumer Durables	
+Buy
+
+PLC
+PLC
+D
+1.690 EUR	−3.43%	13.611 K	1.41	45.431 M EUR	57.48	0.03 EUR	−74.30%	0.00%	Industrial Services	
+Strong buy
+P
+PLN
+PLANETEL
+D
+5.20 EUR	+0.97%	250	0.34	35.343 M EUR	—	—	—	1.35%	Communications	
+Strong buy
+P
+PMT
+PROMOTICA
+D
+1.99 EUR	+1.53%	4 K	1.60	33.755 M EUR	—	—	—	0.00%	Commercial Services	
+Strong buy
+P
+POPR
+POLIGRAFICI PRINTING
+D
+0.360 EUR	−1.64%	4 K	0.10	11.16 M EUR	—	—	—	8.06%	Consumer Services	—
+P
+POR
+PORTOBELLO
+D
+6.22 EUR	−2.81%	300	0.02	34.02 M EUR	—	−12.63 EUR	−555.76%	0.00%	Commercial Services	
+Strong buy
+P
+POZ
+POZZI MILANO
+D
+0.640 EUR	+0.31%	5 K	0.60	22.232 M EUR	21.40	0.03 EUR	+74.85%	0.00%	Consumer Durables	
+Strong buy
+
+PQ
+PIQUADRO
+D
+1.860 EUR	+1.09%	8.733 K	0.25	90.778 M EUR	—	—	—	5.60%	Consumer Durables	—
+
+PRM
+PRISMI
+D
+0.0832 EUR	+2.72%	66.36 K	0.62	7.113 M EUR	—	−0.23 EUR	+23.42%	0.00%	Commercial Services	—
+
+PRO
+BCA PROFILO
+D
+0.215 EUR	−0.92%	1.628 M	0.71	141.945 M EUR	11.68	0.02 EUR	—	6.45%	Finance	—
+
+PRT
+ESPRINET
+D
+5.050 EUR	+0.30%	31.009 K	0.29	246.158 M EUR	—	−0.03 EUR	−103.27%	0.00%	Distribution Services	
+Buy
+
+PRY
+PRYSMIAN
+D
+55.58 EUR	+1.39%	336.82 K	0.39	14.899 B EUR	29.05	1.91 EUR	−8.54%	1.28%	Producer Manufacturing	
+Buy
+P
+PSQ
+PASQUARELLI AUTO
+D
+0.904 EUR	+4.39%	1.1 K	0.07	21.507 M EUR	5.29	0.17 EUR	—	0.00%	Retail Trade	
+Strong buy
+
+PST
+POSTE ITALIANE
+D
+12.340 EUR	+0.61%	449.665 K	0.21	15.955 B EUR	8.33	1.48 EUR	+27.88%	5.52%	Finance	
+Buy
+P
+PTR
+PATTERN
+D
+5.98 EUR	−0.33%	99	0.04	86.478 M EUR	4.07	1.47 EUR	+590.00%	10.93%	Consumer Non-Durables	
+Buy
+
+PVN
+PIOVAN
+D
+11.95 EUR	−1.65%	4.433 K	0.14	618.791 M EUR	12.45	0.96 EUR	+42.81%	1.65%	Producer Manufacturing	
+Strong buy
+P
+PWS
+POWERSOFT
+D
+16.0 EUR	+0.63%	2.5 K	0.48	191.691 M EUR	16.21	0.99 EUR	+448.20%	3.00%	Electronic Technology	
+Strong buy
+
+RACE
+FERRARI
+D
+374.0 EUR	−0.98%	111.722 K	0.30	92.071 B EUR	51.79	7.22 EUR	+33.16%	0.65%	Consumer Durables	
+Neutral
+R
+RAD
+RADICI
+D
+1.01 EUR	−2.88%	500	0.08	9.067 M EUR	19.20	0.05 EUR	—	0.00%	Consumer Durables	
+Strong buy
+
+RAT
+RATTI
+D
+1.88 EUR	0.00%	0	0.00	51.418 M EUR	—	−0.07 EUR	−162.58%	5.32%	Consumer Non-Durables	—
+
+RCS
+RCS MEDIAGROUP
+D
+0.878 EUR	+0.92%	30.219 K	0.09	450.124 M EUR	—	—	—	6.90%	Consumer Services	
+Neutral
+R
+RDF
+REDELFI
+D
+6.17 EUR	−3.29%	15.484 K	0.43	52.403 M EUR	—	—	—	0.00%	Commercial Services	
+Strong buy
+R
+RDUE
+ERREDUE
+D
+9.65 EUR	+1.58%	100	0.06	60.313 M EUR	17.76	0.54 EUR	+20.70%	0.00%	Producer Manufacturing	
+Strong buy
+
+REC
+RECORDATI ORD
+D
+51.00 EUR	+1.29%	86.163 K	0.36	10.39 B EUR	27.40	1.86 EUR	+24.56%	2.32%	Health Technology	
+Buy
+R
+RES
+RES
+D
+6.00 EUR	0.00%	2 K	0.52	—	—	—	—	—	Transportation	
+Strong buy
+R
+RETI
+RETI
+D
+1.99 EUR	0.00%	6 K	0.30	24.873 M EUR	16.79	0.12 EUR	+36.84%	2.91%	Technology Services	
+Strong buy
+R
+REVO
+REVO INSURANCE
+D
+8.80 EUR	+0.23%	2.773 K	0.38	195.794 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+
+REY
+REPLY
+D
+126.6 EUR	−0.31%	4.611 K	0.16	4.734 B EUR	25.28	5.01 EUR	+24.04%	0.79%	Commercial Services	
+Buy
+R
+RFG
+RACING FORCE
+D
+3.90 EUR	+0.26%	16.8 K	5.89	99.97 M EUR	20.91	0.19 EUR	+6.33%	2.31%	Producer Manufacturing	
+Strong buy
+R
+RFLTC
+REDFISH LONGTERM CAPITAL
+D
+1.42 EUR	+2.90%	4 K	0.38	36.652 M EUR	—	−0.05 EUR	—	0.00%	Finance	
+Strong buy
+R
+RKT
+ROCKET SHARING COMPANY
+D
+0.499 EUR	0.00%	0	0.00	—	—	—	—	—	Technology Services	
+Strong buy
+R
+RLT
+RELATECH
+D
+2.000 EUR	0.00%	2.1 K	0.07	84.779 M EUR	23.72	0.08 EUR	−4.64%	0.00%	Technology Services	
+Strong buy
+R
+RMT
+RIBA MUNDO TECNOLOGIA
+D
+17.3 EUR	−1.14%	100	0.33	39.792 M EUR	55.81	0.31 EUR	—	0.00%	Distribution Services	—
+
+RN
+RISANAMENTO
+D
+0.0309 EUR	+1.64%	368.115 K	0.12	54.746 M EUR	5.24	0.01 EUR	—	0.00%	Finance	—
+
+RWAY
+RAI WAY
+D
+5.44 EUR	+0.74%	123.627 K	0.29	1.449 B EUR	16.84	0.32 EUR	+17.66%	5.08%	Consumer Services	
+Buy
+R
+RWY
+REWAY GROUP
+D
+5.28 EUR	0.00%	0	0.00	199.886 M EUR	—	—	—	0.00%	Industrial Services	
+Strong buy
+
+S24
+IL SOLE 24 ORE
+D
+0.758 EUR	+1.88%	10.756 K	0.17	48.372 M EUR	6.40	0.12 EUR	+1343.90%	0.00%	Consumer Services	
+Strong buy
+S
+S3D
+SOLID WORLD GROUP
+D
+3.315 EUR	−0.30%	1.65 K	0.03	51.28 M EUR	—	—	—	0.00%	Distribution Services	
+Strong buy
+
+SAB
+SABAF
+D
+17.35 EUR	+0.87%	204	0.15	193.012 M EUR	72.96	0.24 EUR	−82.94%	0.00%	Consumer Durables	
+Buy
+S
+SAC
+SACCHERIA F.LLI FRANCESCHETTI
+D
+1.15 EUR	−3.36%	6 K	0.63	10.472 M EUR	9.13	0.13 EUR	+58.49%	3.45%	Process Industries	
+Strong buy
+S
+SBC
+SICILY BY CAR
+D
+5.82 EUR	+2.46%	9.39 K	1.12	188.289 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+
+SCF
+SALCEF GROUP
+D
+25.95 EUR	−0.19%	4.826 K	0.03	1.612 B EUR	25.69	1.01 EUR	—	1.92%	Producer Manufacturing	
+Neutral
+S
+SCK
+SCIUKER FRAMES
+D
+4.060 EUR	+0.12%	350	0.00	87.579 M EUR	—	—	—	0.00%	Producer Manufacturing	—
+S
+SCM
+SOLUTIONS CAPITAL MANAGEMENT SIM
+D
+3.76 EUR	0.00%	0	—	8.401 M EUR	—	−0.13 EUR	+3.85%	0.00%	Finance	—
+S
+SEIF
+SOCIETA' EDITORIALE IL FATTO
+D
+0.295 EUR	−0.34%	2 K	0.14	7.403 M EUR	—	−0.11 EUR	−895.49%	0.00%	Consumer Services	
+Strong buy
+
+SERI
+SERI INDUSTRIAL
+D
+4.300 EUR	+2.38%	186.156 K	0.28	226.712 M EUR	—	−0.24 EUR	−602.08%	0.00%	Utilities	
+Strong buy
+
+SES
+SESA
+D
+101.5 EUR	−0.20%	4.436 K	0.31	1.574 B EUR	19.15	5.30 EUR	—	0.98%	Distribution Services	
+Buy
+
+SFER
+SALVATORE FERRAGAMO
+D
+9.655 EUR	−0.46%	461.609 K	1.39	1.636 B EUR	61.38	0.16 EUR	−62.30%	2.89%	Consumer Non-Durables	
+Sell
+
+SFL
+SAFILO GROUP
+D
+1.216 EUR	−0.33%	58.789 K	0.06	504.797 M EUR	—	−0.06 EUR	−212.24%	0.00%	Health Technology	
+Buy
+
+SFT
+SOFTLAB
+D
+1.29 EUR	0.00%	5.35 K	0.73	6.441 M EUR	—	—	—	0.00%	Technology Services	—
+
+SG
+SAES GETTERS
+D
+26.15 EUR	+0.19%	6.588 K	0.03	438.095 M EUR	—	—	—	47.93%	Producer Manufacturing	
+Neutral
+S
+SGC
+SG COMPANY
+D
+0.220 EUR	−1.79%	4.5 K	0.05	4.774 M EUR	21.15	0.01 EUR	—	0.00%	Communications	—
+
+SGF
+SOGEFI
+D
+2.790 EUR	−1.06%	223.619 K	0.34	332.88 M EUR	5.55	0.50 EUR	+85.33%	0.00%	Producer Manufacturing	
+Strong buy
+S
+SHE
+SHEDIR PHARMA GROUP
+D
+3.68 EUR	0.00%	2 K	0.16	42.062 M EUR	—	—	—	4.75%	Health Technology	
+Strong buy
+S
+SIAV
+SIAV
+D
+2.46 EUR	−1.60%	1.5 K	15.00	22.022 M EUR	—	−0.03 EUR	−126.54%	0.00%	Technology Services	
+Strong buy
+S
+SIF
+S.I.F. ITALIA
+D
+1.55 EUR	+1.97%	500	0.26	—	—	—	—	—	Finance	
+Strong buy
+S
+SIT
+SIT
+D
+2.12 EUR	−5.78%	14.005 K	0.32	55.785 M EUR	—	−0.95 EUR	−385.67%	0.00%	Producer Manufacturing	
+Buy
+
+SL
+SANLORENZO
+D
+43.35 EUR	+0.93%	10.181 K	0.68	1.502 B EUR	16.42	2.64 EUR	+24.72%	1.54%	Consumer Durables	
+Strong buy
+S
+SMN
+SIMONE
+D
+1.880 EUR	+4.16%	6 K	1.09	14.07 M EUR	—	—	—	0.00%	Consumer Services	—
+
+SOL
+SOL
+D
+34.70 EUR	+0.73%	2.377 K	0.09	3.125 B EUR	21.60	1.61 EUR	+62.74%	0.96%	Process Industries	
+Buy
+S
+SOM
+SOMEC
+D
+16.75 EUR	+2.45%	5.664 K	1.21	112.815 M EUR	—	−1.69 EUR	−237.94%	0.00%	Consumer Durables	
+Strong buy
+
+SOS
+SOSTRAVEL.COM
+D
+1.265 EUR	+1.20%	3.25 K	0.41	16.391 M EUR	14.10	0.09 EUR	—	0.00%	Technology Services	
+Strong buy
+
+SPM
+SAIPEM
+D
+2.191 EUR	+2.00%	10.518 M	0.48	4.249 B EUR	24.43	0.09 EUR	—	0.00%	Industrial Services	
+Buy
+S
+SPN
+SPINDOX
+D
+9.00 EUR	+2.04%	3.6 K	1.01	52.298 M EUR	—	−0.01 EUR	−102.00%	0.00%	Commercial Services	
+Strong buy
+
+SRG
+SNAM
+D
+4.474 EUR	+1.18%	2.035 M	0.27	14.821 B EUR	13.22	0.34 EUR	−24.44%	6.28%	Utilities	
+Neutral
+
+SRI
+SERVIZI ITALIA
+D
+1.825 EUR	−0.82%	1.209 K	0.11	54.589 M EUR	9.81	0.19 EUR	+43.52%	1.64%	Commercial Services	
+Buy
+
+SRS
+SARAS
+D
+1.7705 EUR	−0.20%	209.411 K	0.15	1.671 B EUR	5.36	0.33 EUR	−25.32%	10.71%	Energy Minerals	
+Neutral
+
+SSL
+S.S. LAZIO
+D
+0.668 EUR	0.00%	2.905 K	0.07	45.25 M EUR	1.41	0.47 EUR	—	0.00%	Consumer Services	—
+S
+STAR7
+STAR7
+D
+6.60 EUR	−1.49%	850	0.28	59.398 M EUR	—	—	—	0.00%	Industrial Services	
+Strong buy
+
+STLAM
+STELLANTIS
+D
+20.370 EUR	+0.69%	2.104 M	0.15	61.012 B EUR	3.44	5.92 EUR	+32.16%	7.66%	Consumer Durables	
+Buy
+S
+SVS
+SVAS BIOSANA
+D
+8.10 EUR	+0.62%	1.149 K	0.38	45.08 M EUR	—	—	—	0.00%	Health Technology	
+Strong buy
+T
+TALEA
+TALEA GROUP
+D
+5.50 EUR	0.00%	11.249 K	0.82	37.654 M EUR	—	−1.10 EUR	—	0.00%	Retail Trade	
+Strong buy
+T
+TB
+TRIBOO
+D
+0.812 EUR	+1.75%	1.1 K	0.07	22.922 M EUR	—	−0.11 EUR	−265.05%	0.00%	Technology Services	
+Strong buy
+T
+TCM
+TECMA SOLUTIONS
+D
+2.72 EUR	+0.74%	400	0.43	23.245 M EUR	—	−0.89 EUR	−1540.92%	0.00%	Technology Services	
+Strong buy
+T
+TD
+TRENDEVICE
+D
+0.256 EUR	+1.19%	15 K	0.67	4.887 M EUR	—	—	—	0.00%	Retail Trade	
+Strong buy
+
+TEN
+TENARIS
+D
+16.110 EUR	+0.88%	560.809 K	0.17	18.853 B EUR	5.81	2.77 EUR	+7.45%	3.12%	Non-Energy Minerals	
+Buy
+
+TES
+TESMEC
+D
+0.0960 EUR	0.00%	839.307 K	0.60	57.768 M EUR	—	−0.00 EUR	−137.40%	0.00%	Producer Manufacturing	
+Neutral
+
+TFIN
+TREVI FIN IND
+D
+0.3965 EUR	0.00%	543.1 K	0.23	123.776 M EUR	6.22	0.06 EUR	—	0.00%	Industrial Services	—
+
+TGYM
+TECHNOGYM
+D
+9.370 EUR	+0.43%	64.454 K	0.24	1.878 B EUR	25.62	0.37 EUR	+16.79%	2.68%	Consumer Durables	
+Buy
+T
+TIME
+COMPAGNIA DEI CARAIBI
+D
+0.760 EUR	−2.06%	8.5 K	0.47	11.235 M EUR	—	—	—	8.38%	Distribution Services	
+Strong buy
+
+TIP
+TAMBURI
+D
+9.33 EUR	−0.21%	28.362 K	0.20	1.58 B EUR	18.17	0.51 EUR	−34.85%	1.39%	Finance	
+Strong buy
+T
+TISG
+THE ITALIAN SEA GROUP
+D
+9.57 EUR	+0.31%	22.799 K	0.37	505.62 M EUR	13.74	0.70 EUR	—	2.85%	Consumer Durables	
+Strong buy
+
+TIT
+TELECOM ITALIA
+D
+0.2280 EUR	+1.29%	55.083 M	0.36	4.846 B EUR	—	−0.07 EUR	+50.76%	0.00%	Communications	
+Buy
+T
+TKF
+TAKE OFF
+D
+0.870 EUR	+5.07%	222.564 K	4.78	12.937 M EUR	13.94	0.06 EUR	−74.93%	7.25%	Retail Trade	
+Strong buy
+T
+TLS
+TELESIA
+D
+2.00 EUR	0.00%	0	0.00	5.25 M EUR	—	—	—	0.00%	Commercial Services	—
+T
+TMP
+TMP GROUP
+D
+1.79 EUR	+9.15%	13.4 K	1.79	2.347 M EUR	—	—	—	0.00%	Commercial Services	—
+T
+TNX
+TENAX INTERNATIONAL
+D
+2.68 EUR	+0.75%	700	0.38	9.872 M EUR	—	—	—	0.00%	Producer Manufacturing	
+Strong buy
+
+TNXT
+TINEXTA
+D
+18.47 EUR	+0.38%	2.822 K	0.06	848.166 M EUR	33.12	0.56 EUR	−65.72%	2.77%	Technology Services	
+Strong buy
+
+TOD
+TOD'S
+D
+42.90 EUR	−0.28%	2.936 K	0.04	1.424 B EUR	28.41	1.51 EUR	—	0.00%	Consumer Non-Durables	
+Sell
+
+TPRO
+TECHNOPROBE
+D
+7.910 EUR	+1.02%	14.909 K	0.08	4.706 B EUR	48.95	0.16 EUR	—	0.00%	Electronic Technology	
+Neutral
+T
+TPS
+TPS
+D
+7.30 EUR	0.00%	0	0.00	52.997 M EUR	15.75	0.46 EUR	+29.33%	0.82%	Commercial Services	—
+T
+TRAIN
+BERTOLOTTI
+D
+4.70 EUR	0.00%	0	—	14.391 M EUR	—	—	—	0.00%	Producer Manufacturing	—
+
+TRN
+TERNA
+D
+7.840 EUR	+1.50%	1.187 M	0.28	15.513 B EUR	—	—	—	4.18%	Utilities	
+Neutral
+
+TSL
+TESSELLIS
+D
+0.546 EUR	+1.30%	252.219 K	0.28	126.162 M EUR	—	−0.30 EUR	+37.30%	0.00%	Communications	—
+T
+TWEP
+TWEPPY
+D
+0.810 EUR	0.00%	0	0.00	1.885 M EUR	—	−0.09 EUR	−478.71%	0.00%	Finance	
+Strong buy
+T
+TWL
+TRAWELL CO
+D
+7.82 EUR	+1.03%	740	0.22	19.696 M EUR	—	—	—	0.00%	Transportation	—
+
+TXT
+TXT E-SOLUTIONS
+D
+22.10 EUR	+0.23%	6.824 K	0.64	259.371 M EUR	16.83	1.31 EUR	+30.86%	0.82%	Technology Services	
+Buy
+
+TYA
+TOSCANA AEROPORTI
+D
+12.15 EUR	+0.83%	489	0.90	226.135 M EUR	17.90	0.68 EUR	+832.14%	3.10%	Transportation	
+Neutral
+U
+U24
+UCAPITAL24
+D
+0.218 EUR	0.00%	61.2 K	0.53	4.199 M EUR	—	−0.11 EUR	+36.62%	0.00%	Technology Services	—
+U
+UBM
+ULISSE BIOMED
+D
+1.180 EUR	−3.28%	9 K	0.28	26.602 M EUR	—	—	—	0.00%	Health Technology	—
+
+UCG
+UNICREDIT
+D
+36.225 EUR	+0.64%	3.532 M	0.41	58.94 B EUR	—	—	—	5.01%	Finance	
+Strong buy
+U
+UD
+UNIDATA
+D
+3.55 EUR	+0.85%	7.661 K	0.90	109.647 M EUR	16.14	0.22 EUR	−31.09%	0.28%	Communications	
+Strong buy
+
+UNI
+UNIPOL
+D
+8.565 EUR	+0.12%	1.303 M	0.83	6.132 B EUR	—	—	—	4.32%	Finance	
+Strong buy
+
+UNIR
+UNIEURO
+D
+9.34 EUR	+0.86%	10.857 K	0.24	191.669 M EUR	—	—	—	5.29%	Retail Trade	
+Strong buy
+
+US
+UNIPOLSAI
+D
+2.680 EUR	−0.07%	633.664 K	0.20	7.588 B EUR	10.83	0.25 EUR	+1.68%	5.97%	Finance	
+Neutral
+V
+VARV
+SBE-VARVIT
+D
+7.90 EUR	−1.25%	400	0.33	936 M EUR	16.72	0.47 EUR	—	0.00%	Producer Manufacturing	
+Strong buy
+V
+VE
+VISIBILIA EDITORE
+D
+0.356 EUR	0.00%	0	—	2.862 M EUR	—	—	—	0.00%	Consumer Services	—
+
+VIA
+VIANINI
+D
+0.850 EUR	0.00%	237.299 K	9.27	89.564 M EUR	—	−0.07 EUR	−152.30%	6.46%	Finance	—
+V
+VIM
+VIMI FASTENERS
+D
+1.31 EUR	−1.50%	6 K	1.01	17.666 M EUR	9.01	0.15 EUR	−6.19%	4.05%	Producer Manufacturing	
+Strong buy
+V
+VLC
+VALICA
+D
+5.30 EUR	0.00%	0	0.00	10.822 M EUR	—	−0.02 EUR	—	0.00%	Commercial Services	—
+
+VLS
+VALSOIA
+D
+9.72 EUR	+0.62%	760	0.07	104.038 M EUR	14.75	0.66 EUR	−3.49%	3.93%	Consumer Non-Durables	
+Strong buy
+V
+VLT
+VALTECNE
+D
+6.00 EUR	+1.69%	2.1 K	3.50	36.047 M EUR	—	—	—	0.00%	Producer Manufacturing	
+Strong buy
+V
+VNE
+VNE
+D
+2.64 EUR	+3.13%	2.1 K	0.06	8.206 M EUR	—	−0.42 EUR	—	0.00%	Producer Manufacturing	—
+V
+VNT
+VANTEA SMART
+D
+1.99 EUR	−1.73%	3.92 K	0.22	25.945 M EUR	—	—	—	1.98%	Technology Services	—
+
+WBD
+WEBUILD
+D
+2.420 EUR	+0.92%	904.091 K	0.34	2.408 B EUR	—	—	—	2.38%	Industrial Services	
+Buy
+W
+WBS
+WEBSOLUTE
+D
+0.978 EUR	−0.81%	2.2 K	0.25	9.764 M EUR	—	−0.06 EUR	−220.12%	0.00%	Commercial Services	
+Strong buy
+
+WIIT
+WIIT
+D
+16.80 EUR	+0.84%	3.363 K	0.22	440.015 M EUR	—	—	—	1.80%	Technology Services	
+Buy
+X
+XHS
+XENIA HOTELLERIE SOLUTION
+D
+3.02 EUR	0.00%	0	0.00	—	—	—	—	—	Consumer Services	
+Strong buy
+
+XPR
+EXPRIVIA
+D
+1.670 EUR	−0.30%	7.825 K	0.42	79.291 M EUR	5.89	0.28 EUR	+21.69%	0.00%	Technology Services	—
+
+YACHT
+FERRETTI
+D
+3.000 EUR	−0.17%	110.37 K	0.19	1.002 B EUR	12.45	0.24 EUR	—	1.97%	Consumer Durables	
+Strong buy
+Y
+YKY
+YAKKYO
+D
+1.000 EUR	0.00%	0	—	—	—	—	—	—	Technology Services	—
+Y
+YOLO
+YOLO GROUP
+D
+1.84 EUR	+1.10%	110.5 K	28.33	16.099 M EUR	—	—	—	0.00%	Finance	
+Strong buy
+
+YRM
+ROSETTI MARINO
+D
+45.8 EUR	0.00%	0	—	174.04 M EUR	24.71	1.85 EUR	—	0.61%	Industrial Services	—
+
+ZEST
+ZEST
+D
+0.255 EUR	−1.54%	6.46 K	0.14	41.623 M EUR	—	−0.06 EUR	−449.09%	0.00%	Finance	—
+
+ZUC
+ZUCCHI
+D
+2.02 EUR	0.00%	2.459 K	0.80	51.17 M EUR	17.83	0.11 EUR	—	9.97%	Consumer Durables	—
+
+ZV
+ZIGNAGO VETRO
+D
+12.54 EUR	+0.48%	45.386 K	0.42	1.111 B EUR	10.69	1.17 EUR	+0.75%	4.81%	Process Industries	
+Neutral
