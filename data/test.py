@@ -77,12 +77,9 @@ for i in range(len(dfs)):
         dfs[i] = signal_rema(dfs[i], st, mt, lt, relative=True)
         dfs[i] = signal_rsma(dfs[i], st, mt, lt, relative=True)
         dfs[i] = detect_regime(dfs[i], bm_df)
-        dfs_list.append(dfs[i])
+        dfs[i].to_csv(os.path.join(ticker + '.txt') , sep='\t', index=False)  
 
     except:
         failed.append(i)
 
 print('for signal done')
-
-df = pd.concat(dfs_list, axis=0, ignore_index=True) 
-df.to_excel('output_signals.xlsx', index=False)
