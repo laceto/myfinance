@@ -77,7 +77,7 @@ for i in range(len(dfs)):
         dfs[i] = signal_rema(dfs[i], st, mt, lt, relative=True)
         dfs[i] = signal_rsma(dfs[i], st, mt, lt, relative=True)
         dfs[i] = detect_regime(dfs[i], bm_df)
-        dfs[i].to_csv(os.path.join(ticker + '.txt') , sep='\t', index=False)  
+        dfs[i].to_csv(os.path.join('data' + ticker + '.txt') , sep='\t', index=False)  
 
     except:
         failed.append(i)
