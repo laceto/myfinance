@@ -16,9 +16,6 @@ jobs:
     - name: Set PKG_CONFIG_PATH  
       run: |  
         export PKG_CONFIG_PATH="/usr/lib/x86_64-linux-gnu/pkgconfig:$PKG_CONFIG_PATH" 
-
-    - name: Install tidyverse  
-      run: Rscript -e 'install.packages("tidyverse")'   
   
     - name: Set up R  
       uses: r-lib/actions/setup-r@v2  
