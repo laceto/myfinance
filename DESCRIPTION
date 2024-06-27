@@ -1,0 +1,17 @@
+Package: xxx
+Title: xxx
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Luigi", "Aceto", email = "stekkino@hotmail.com", role = c("aut", "cre"))
+Description: xxx.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+Imports: 
+    tidyverse
+Depends: 
+    R (>= 2.10)
