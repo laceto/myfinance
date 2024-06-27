@@ -19,7 +19,7 @@ marginabili = marginabili.groupby("Descrizione").size().reset_index(name="count"
 marginabili = marginabili.assign(marginabile="si")  
 marginabili = marginabili.sort_values("count", ascending=False)
 
-sectors = pd.read_excel("sectors.xlsx", None))
+sectors = pd.read_excel("sectors.xlsx", None)
 
 output_signal = output_signal.merge(sectors, how="left", on="ticker")  
 output_signal = output_signal.merge(marginabili, how="left", left_on="name", right_on="Descrizione")  
