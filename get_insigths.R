@@ -1,5 +1,7 @@
-install.packages("tidyverse")
-library(tidyverse)
+install.packages("readxl")
+install.packages("dplyr")
+library(readxl)
+library(dplyr)
 # library(data.table)
 
 files_stocks <- list.files("data_proc", full.names = T)
