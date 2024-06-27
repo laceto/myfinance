@@ -1,42 +1,11 @@
-Package: pricingr
-Title: Cash Flow Projection
+Package: xxx
+Title: xxx
 Version: 0.0.0.9000
 Authors@R: c(
-    person("Luigi", "Aceto", email = "Luigi.Aceto@genre.com", role = c("aut", "cre")),
-    person("Oscar", "Gherscfeld", email = "Oscar.Gherscfeld@genre.com", role = c("aut")),
-    person("Gen Re", role = c("cph")))
-Description: A system for performing cash flow projection,
-    based on actuarial and economic assumption. You provide the data, tell 'pricingr'
-    how to map liabilities to products, what assumption to use,
-    and it takes care of the details.
-License: MIT + file LICENSE
-Encoding: UTF-8
-LazyData: true
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
-Config/testthat/edition: 3
-VignetteBuilder: knitr
+    person("Luigi", "Aceto", email = "stekkino@hotmail.com", role = c("aut", "cre"))
+Description: xxx.
 Imports: 
-    assertthat,
-    cli,
     dplyr,
-    knitr,
-    lubridate,
-    magrittr,
-    purrr,
-    rlang,
-    stringr,
-    testthat,
-    tidyr,
-    tidyselect,
-    vctrs
-Suggests: 
-    clock,
-    covr,
-    ggplot2,
-    rmarkdown,
-    waterfalls
+    readxl
 Depends: 
     R (>= 2.10)
-URL: https://github.com/laceto/pricingr
-BugReports: https://github.com/laceto/pricingr/issues
