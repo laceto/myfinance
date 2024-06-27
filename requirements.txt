@@ -3,6 +3,6 @@ matplotlib
 numpy
 scipy
 openpyxl
-os
+os==2.7.16
 glob
 
