@@ -1,26 +1,27 @@
-install.packages("readxl")
-install.packages("dplyr")
-library(readxl)
-library(dplyr)
-# library(data.table)
+# install.packages("readxl")
+# install.packages("dplyr")
+# library(readxl)
+# library(dplyr)
+
 
 files_stocks <- list.files("data_proc", full.names = T)
+files_stocks
 
-marginabili <- list.files(pattern = "marginabili.xlsx",full.names = T) %>% 
-  # stringr::str_subset(pattern = "marginabili") %>% 
-  readxl::read_excel() %>% 
-  dplyr::count(Descrizione, sort = T) %>% 
-  dplyr::mutate(
-    marginabile = "si"
-  )
-
-sectors <- list.files(pattern = "sectors.xlsx", full.names = T) %>% 
-  # stringr::str_subset(pattern = "sectors") %>% 
-  readxl::read_excel()
-
-output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
-output_signal <- dplyr::bind_rows(output_signal)
-
+# marginabili <- list.files(pattern = "marginabili.xlsx",full.names = T) %>% 
+#   # stringr::str_subset(pattern = "marginabili") %>% 
+#   readxl::read_excel() %>% 
+#   dplyr::count(Descrizione, sort = T) %>% 
+#   dplyr::mutate(
+#     marginabile = "si"
+#   )
+# marginabili
+# sectors <- list.files(pattern = "sectors.xlsx", full.names = T) %>% 
+#   # stringr::str_subset(pattern = "sectors") %>% 
+#   readxl::read_excel()
+# sectors
+# output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
+# output_signal <- dplyr::bind_rows(output_signal)
+# sectors
 # output_signal <- output_signal %>% 
 #   dplyr::ungroup() %>% 
 #   dplyr::as_tibble()
