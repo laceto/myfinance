@@ -1,5 +1,5 @@
 library(tidyverse)
-library(data.table)
+# library(data.table)
 
 files_stocks <- list.files("data_proc", full.names = T)
 
