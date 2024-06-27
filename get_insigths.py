@@ -1,6 +1,7 @@
 import os  
 import glob  
 import openpyxl  
+import pandas as pd  
 
 files_stocks = glob.glob(os.path.join("data_proc", "*"))  
 
