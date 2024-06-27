@@ -5,7 +5,6 @@
 
 
 files_stocks <- list.files("data_proc", full.names = T)
-files_stocks
 
 # marginabili <- list.files(pattern = "marginabili.xlsx",full.names = T) %>% 
 #   # stringr::str_subset(pattern = "marginabili") %>% 
@@ -19,9 +18,9 @@ files_stocks
 #   # stringr::str_subset(pattern = "sectors") %>% 
 #   readxl::read_excel()
 # sectors
-# output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
-# output_signal <- dplyr::bind_rows(output_signal)
-# sectors
+output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
+output_signal <- do.call(rbind, output_signal)
+nrow(output_signal)
 # output_signal <- output_signal %>% 
 #   dplyr::ungroup() %>% 
 #   dplyr::as_tibble()
