@@ -7,6 +7,7 @@ Description: xxx.
 Imports: 
     dplyr,
     purrr,
-    readxl
+    readxl,
+    tidyr
 Depends: 
     R (>= 2.10)
