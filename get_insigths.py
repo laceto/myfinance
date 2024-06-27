@@ -1,6 +1,7 @@
 import os  
 import glob  
 import openpyxl  
+import pandas as pd  
 
 files_stocks = glob.glob(os.path.join("data_proc", "*"))  
 
@@ -13,12 +14,12 @@ output_signal = pd.concat(output_signal, axis=0, ignore_index=True)
 
 
   
-marginabili = pd.read_excel(next(iter(glob.glob("*marginabili.xlsx")), None))  
+marginabili = pd.read_excel("marginabili.xlsx", None)  
 marginabili = marginabili.groupby("Descrizione").size().reset_index(name="count")  
 marginabili = marginabili.assign(marginabile="si")  
 marginabili = marginabili.sort_values("count", ascending=False)
 
-sectors = pd.read_excel(next(iter(glob.glob("*sectors.xlsx")), None))
+sectors = pd.read_excel("sectors.xlsx", None)
 
 output_signal = output_signal.merge(sectors, how="left", on="ticker")  
 output_signal = output_signal.merge(marginabili, how="left", left_on="name", right_on="Descrizione")  
