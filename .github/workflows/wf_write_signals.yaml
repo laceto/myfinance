@@ -19,7 +19,7 @@ jobs:
 
     - name: Install System Dependencies  
       run: |  
-        Rscript -e "install.packages('tidiverse')"    
+        Rscript -e "install.packages('tidyverse')"    
   
     - name: Set up R  
       uses: r-lib/actions/setup-r@v2  
