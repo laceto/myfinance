@@ -5,7 +5,7 @@ Authors@R: c(
     person("Luigi", "Aceto", email = "stekkino@hotmail.com", role = c("aut", "cre"))
 Description: xxx.
 Imports: 
-    dplyr
+    dplyr,
     readxl
 Depends: 
     R (>= 2.10)
