@@ -6,6 +6,7 @@ Authors@R: c(
 Description: xxx.
 Imports: 
     dplyr,
+    purrr,
     readxl
 Depends: 
     R (>= 2.10)
