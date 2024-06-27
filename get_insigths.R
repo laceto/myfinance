@@ -1,7 +1,8 @@
-# install.packages("readxl")
 # install.packages("dplyr")
-# library(readxl)
+# install.packages("readxl")
 # library(dplyr)
+# library(readxl)
+
 
 
 files_stocks <- list.files("data_proc", full.names = T)
@@ -19,7 +20,7 @@ files_stocks <- list.files("data_proc", full.names = T)
 #   readxl::read_excel()
 # sectors
 output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
-output_signal <- do.call(rbind, output_signal)
+output_signal <- dplyr::bind_rows(output_signal)
 nrow(output_signal)
 # output_signal <- output_signal %>% 
 #   dplyr::ungroup() %>% 
