@@ -1,0 +1,45 @@
+---
+title: "signals"
+author: "luigi aceto"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr)
+library(kableExtra)
+```
+
+Bull
+=======================================================================
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Bull
+
+```{r}
+read.table("./signals/bull_signals.txt") %>% 
+  dplyr::arrange(desc(last_day_score)) %>% 
+  head(10) %>% 
+  kableExtra::kable()
+```
+
+Bear
+=======================================================================
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Bear
+
+```{r}
+read.table("./signals/bear_signals.txt") %>% 
+  dplyr::arrange((last_day_score)) %>% 
+  head(10) %>% 
+  kableExtra::kable()
+```
