@@ -198,11 +198,11 @@ bear_tot <- bear_score %>%
 
 bull_tot %>%
   dplyr::arrange(desc(last_day_score)) %>%
-  write.table("signals/bull_signals.txt", sep = "\t", dec = ".", row.names = T)
+  write.table("signals/bull_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 bear_tot %>%
   dplyr::filter(marginabile == "si") %>%
   dplyr::arrange(last_day_score) %>%
-  write.table("signals/bear_signals.txt", sep = "\t", dec = ".", row.names = T)
+  write.table("signals/bear_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 
