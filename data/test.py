@@ -77,6 +77,7 @@ for i in range(len(dfs)):
         dfs[i] = signal_rema(dfs[i], st, mt, lt, relative=True)
         dfs[i] = signal_rsma(dfs[i], st, mt, lt, relative=True)
         dfs[i] = detect_regime(dfs[i], bm_df)
+        dfs[i] = get_returns(dfs[i], rbo_100)
         dfs[i].to_csv(os.path.join('data_proc/' + ticker + '.txt') , sep='\t', index=False)  
 
     except:
