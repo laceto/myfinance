@@ -22,6 +22,16 @@ lt = 150
 lvl = 3
 bm_col = 'close'
 dgt = 5
+window_exp = 100
+starting_capital = 100000
+lot = 100
+mn = -0.0025
+mx = -0.0075
+# avg = (mn + mx) / 2
+tolerance= -0.1
+equal_weight = 0.05
+span= 5
+fx = 1
 
 # Read all xlsx files
 dfs = []
