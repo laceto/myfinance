@@ -82,6 +82,11 @@ for i in range(len(dfs)):
         dfs[i] = get_returns(dfs[i], 'rsma_50100150')
         dfs[i] = get_returns(dfs[i], 'rema_50100150')
         dfs[i] = get_returns(dfs[i], 'rrg')
+        dfs[i] = get_expectancies(dfs[i], window_exp, 'rbo_100_log_returns', 'rbo_100')
+        dfs[i] = get_expectancies(dfs[i], window_exp, 'rtt_5020_log_returns', 'rtt_5020')
+        dfs[i] = get_expectancies(dfs[i], window_exp, 'rsma_50100150_log_returns','rsma_50100150')
+        dfs[i] = get_expectancies(dfs[i], window_exp, 'rema_50100150_log_returns', 'rema_50100150')
+        dfs[i] = get_expectancies(dfs[i], window_exp, 'rrg_log_returns', 'rrg')
         dfs[i].to_csv(os.path.join('data_proc/' + ticker + '.txt') , sep='\t', index=False)  
 
     except:
