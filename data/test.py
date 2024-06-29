@@ -78,6 +78,10 @@ for i in range(len(dfs)):
         dfs[i] = signal_rsma(dfs[i], st, mt, lt, relative=True)
         dfs[i] = detect_regime(dfs[i], bm_df)
         dfs[i] = get_returns(dfs[i], 'rbo_100')
+        dfs[i] = get_returns(dfs[i], 'rtt_5020')
+        dfs[i] = get_returns(dfs[i], 'rsma_50100150')
+        dfs[i] = get_returns(dfs[i], 'rema_50100150')
+        dfs[i] = get_returns(dfs[i], 'rrg')
         dfs[i].to_csv(os.path.join('data_proc/' + ticker + '.txt') , sep='\t', index=False)  
 
     except:
