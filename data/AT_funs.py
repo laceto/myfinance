@@ -293,17 +293,18 @@ def plot_regime_rel(df, ticker):
     
     
 def get_returns(df, signal):
+    
     df[signal] = df[signal].fillna(0)
     fast = 20 
-    df['tt_chg1D'] = df['close'].diff() * df[signal].shift()
-    df['tt_chg1D_fx'] = df['close'].diff() * df[signal].shift()
-    df['tt_PL_cum'] = df['tt_chg1D'].cumsum()
-    df['tt_returns'] = df['close'].pct_change() * df[signal].shift()
-    df['tt_log_returns'] = np.log(df['close']/df['close'].shift()) * df[signal].shift()
-    df['tt_cumul'] = df['tt_log_returns'].cumsum().apply(np.exp) - 1 
+    df[str(signal) + '_chg1D'] = df['close'].diff() * df[signal].shift()
+    df[str(signal) + '_chg1D_fx'] = df['close'].diff() * df[signal].shift()
+    df[str(signal) + '_PL_cum'] = df[str(signal) + '_chg1D'].cumsum()
+    df[str(signal) + '_returns'] = df['close'].pct_change() * df[signal].shift()
+    df[str(signal) + '_log_returns'] = np.log(df['close']/df['close'].shift()) * df[signal].shift()
+    df[str(signal) + '_cumul'] = df[str(signal) + '_log_returns'].cumsum().apply(np.exp) - 1 
     df['stop_loss'] = np.where(df[signal] == 1, df['low'].rolling(fast).min(),
                         np.where(df[signal] == -1, df['high'].rolling(fast).max(),np.nan))
-    df['tt_PL_cum_fx'] = df['tt_chg1D_fx'].cumsum()
+    df[str(signal) + '_PL_cum_fx'] = df[str(signal) + '_chg1D_fx'].cumsum()
     
     df = df.set_index('date')
     
