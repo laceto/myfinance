@@ -348,10 +348,10 @@ def plot_equity_risk(df, ticker, m):
     plt.show()
     
     
-def get_expectancies(df, window):
+def get_expectancies(df, window, log_returns, signal):
     
     # Separate profits from losses
-    tt_log_returns = df[['tt_log_returns']]
+    tt_log_returns = df[[log_returns]]
     
     loss_roll = tt_log_returns.copy()
     loss_roll[loss_roll > 0] = np.nan
@@ -364,9 +364,9 @@ def get_expectancies(df, window):
     avg_win = win_roll.fillna(0).rolling(window).mean()
     avg_loss = loss_roll.fillna(0).rolling(window).mean()
 
-    df['trading_edge'] = expectancy(win_rate,avg_win,avg_loss).ffill()
-    df['geometric_expectancy'] = george(win_rate,avg_win,avg_loss).ffill()
-    df['kelly'] = kelly(win_rate,avg_win,avg_loss).ffill()
+    df[str(signal) + '_trading_edge'] = expectancy(win_rate,avg_win,avg_loss).ffill()
+    df[str(signal) + '_geometric_expectancy'] = george(win_rate,avg_win,avg_loss).ffill()
+    df[str(signal) + '_kelly'] = kelly(win_rate,avg_win,avg_loss).ffill()
     # df = df.set_index('date')
     
     return df
