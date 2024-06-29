@@ -306,7 +306,7 @@ def get_returns(df, signal):
                         np.where(df[signal] == -1, df['high'].rolling(fast).max(),np.nan))
     df[str(signal) + '_PL_cum_fx'] = df[str(signal) + '_chg1D_fx'].cumsum()
     
-    df = df.set_index('date')
+    # df = df.set_index('date')
     
     return df
 
