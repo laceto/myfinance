@@ -108,7 +108,7 @@ bull_score <- output_signal %>%
 
 bull_swing <- output_signal %>%
   dplyr::semi_join(bull) %>%
-  get_last_swing(lo3)
+  get_last_swing(hi3)
 
 bull_tot <- bull_score %>%
   dplyr::left_join(bull_swing, by = join_by(ticker)) %>%
