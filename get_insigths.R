@@ -108,7 +108,7 @@ bull_score <- output_signal %>%
 
 bull_swing <- output_signal %>%
   dplyr::semi_join(bull) %>%
-  get_last_swing(hi3)
+  get_last_swing(lo3)
 
 bull_tot <- bull_score %>%
   dplyr::left_join(bull_swing, by = join_by(ticker)) %>%
@@ -179,7 +179,7 @@ bear_score <- output_signal %>%
 
 bear_swing <- output_signal %>%
   dplyr::semi_join(bear) %>%
-  get_last_swing(lo3)
+  get_last_swing(hi3)
 
 bear_tot <- bear_score %>%
   dplyr::left_join(bear_swing, by = join_by(ticker)) %>%
