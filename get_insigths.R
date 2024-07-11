@@ -216,7 +216,7 @@ output_signal %>%
   write.table("signals/last_day_volume.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 bull_tot %>%
-  dplyr::select(rrg, ticker, name, marginabile, last_day_score, date_last_change) %>% 
+  dplyr::select(rrg, ticker, name, last_day_score, date_last_change) %>% 
   dplyr::arrange(desc(date_last_change), desc(last_day_score)) %>%
   write.table("signals/bull_last_change_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
 
@@ -225,3 +225,14 @@ bear_tot %>%
   dplyr::arrange(desc(date_last_change), last_day_score) %>%
   dplyr::filter(marginabile == "si") %>% 
   write.table("signals/bear_last_change_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+bull_tot %>%
+  dplyr::select(rrg, ticker, name, last_day_score, date_last_swing, lo3) %>% 
+  dplyr::arrange(desc(date_last_swing)) %>%
+  write.table("signals/bull_last_swing.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+bear_tot %>%
+  dplyr::select(rrg, ticker, name, marginabile, last_day_score, date_last_swing, hi3) %>% 
+  dplyr::filter(marginabile == "si") %>% 
+  dplyr::arrange(desc(date_last_swing)) %>%
+  write.table("signals/bear_last_swing.txt", sep = "\t", dec = ".", row.names = FALSE)
