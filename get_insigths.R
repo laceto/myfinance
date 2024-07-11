@@ -19,7 +19,7 @@ sectors <- list.files(pattern = "sectors.xlsx", full.names = T) %>%
 # sectors
 output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
 output_signal <- dplyr::bind_rows(output_signal)
-nrow(output_signal)
+# nrow(output_signal)
 output_signal <- output_signal %>%
   dplyr::ungroup() %>%
   dplyr::as_tibble()
@@ -61,7 +61,7 @@ bull <- output_signal %>%
   dplyr::filter(rrg == 1) %>%
   dplyr::select(ticker)
 
-bull
+# bull
 
 bull_changes <- output_signal %>%
   dplyr::semi_join(bull) %>%
@@ -132,7 +132,7 @@ bear <- output_signal %>%
   dplyr::filter(rrg == -1) %>%
   dplyr::select(ticker)
 
-bear
+# bear
 
 bear_changes <- output_signal %>%
   dplyr::semi_join(bear) %>%
@@ -205,4 +205,23 @@ bear_tot %>%
   dplyr::arrange(last_day_score) %>%
   write.table("signals/bear_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
 
+last_day = Sys.Date() - 1
 
+output_signal %>% 
+  dplyr::ungroup() %>% 
+  dplyr::mutate(date_date = as.Date(date)) %>% 
+  dplyr::filter(date_date == last_day) %>% 
+  dplyr::arrange(desc(volume)) %>% 
+  dplyr::select(date, ticker, name, volume) %>%
+  write.table("signals/last_day_volume.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+bull_tot %>%
+  dplyr::select(rrg, ticker, name, marginabile, last_day_score, date_last_change) %>% 
+  dplyr::arrange(desc(date_last_change), desc(last_day_score)) %>%
+  write.table("signals/bull_last_change_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+bear_tot %>%
+  dplyr::select(rrg, ticker, name, marginabile, last_day_score, date_last_change) %>% 
+  dplyr::arrange(desc(date_last_change), last_day_score) %>%
+  dplyr::filter(marginabile == "si") %>% 
+  write.table("signals/bear_last_change_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
