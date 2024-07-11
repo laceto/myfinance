@@ -236,3 +236,67 @@ bear_tot %>%
   dplyr::filter(marginabile == "si") %>% 
   dplyr::arrange(desc(date_last_swing)) %>%
   write.table("signals/bear_last_swing.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+library(broom)
+
+linear_model <- function(df){
+  data <- df %>% 
+    # dplyr::filter(name == "JUVENTUS FC") %>% 
+    # dplyr::filter(ticker == "BPE.MI") %>% 
+    # dplyr::arrange(desc(date)) %>% 
+    dplyr::slice_tail(n=7) %>% 
+    dplyr::mutate(time_id = 1:n())
+  lm_model <- lm(close ~ time_id, data)
+  summary_lm_model <- broom::tidy(summary(lm_model)) %>% 
+    dplyr::filter(term == "time_id") %>% 
+    dplyr::select(estimate, p.value)
+  summary_lm_model2 <- broom::glance(lm_model) %>% 
+    dplyr::select(adj.r.squared)
+  data.frame(
+    rrg = unique(data$rrg),
+    ticker = unique(data$ticker),
+    marginabile = unique(data$marginabile),
+    name = unique(data$name)
+  ) %>% 
+    cbind(summary_lm_model, summary_lm_model2)
+}
+
+lm_mod <- output_signal %>%
+  dplyr::group_split(ticker) %>% 
+  purrr::map_df(linear_model)
+
+lm_mod %>% 
+  dplyr::filter(
+    rrg == 1, estimate > 0, p.value <= 0.05
+  ) %>% 
+  dplyr::arrange(desc(adj.r.squared)) %>%
+  write.table("signals/bull_linear.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+lm_mod %>% 
+  dplyr::filter(
+    rrg == -1, estimate < 0, p.value <= 0.10, marginabile == "si"
+  ) %>% 
+  dplyr::arrange(desc(adj.r.squared)) %>%
+  write.table("signals/bear_linear.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+output_signal %>% 
+  dplyr::semi_join(bull, by = join_by(ticker, name)) %>% 
+  dplyr::select(rrg, date, ticker, name, marginabile, close) %>% 
+  dplyr::mutate(
+    daily_return = close / dplyr::lag(close) - 1
+  ) %>%
+  dplyr::group_by(ticker) %>% 
+  dplyr::slice_tail(n = 1) %>% 
+  dplyr::arrange(daily_return) %>%
+  write.table("signals/bull_last_return.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+output_signal %>% 
+  dplyr::semi_join(bear, by = join_by(ticker, name)) %>% 
+  dplyr::select(rrg, date, ticker, name, marginabile, close) %>% 
+  dplyr::mutate(
+    daily_return = close / dplyr::lag(close) - 1
+  ) %>%
+  dplyr::group_by(ticker) %>% 
+  dplyr::slice_tail(n = 1) %>% 
+  dplyr::arrange(desc(daily_return)) %>%
+  write.table("signals/bear_last_return.txt", sep = "\t", dec = ".", row.names = FALSE)
