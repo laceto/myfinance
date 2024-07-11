@@ -299,4 +299,5 @@ output_signal %>%
   dplyr::group_by(ticker) %>% 
   dplyr::slice_tail(n = 1) %>% 
   dplyr::arrange(desc(daily_return)) %>%
+  dplyr::filter(marginabile == "si") %>% 
   write.table("signals/bear_last_return.txt", sep = "\t", dec = ".", row.names = FALSE)
