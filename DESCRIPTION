@@ -8,6 +8,7 @@ Imports:
     dplyr,
     purrr,
     readxl,
-    tidyr
+    tidyr,
+    broom
 Depends: 
     R (>= 2.10)
