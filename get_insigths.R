@@ -1,7 +1,7 @@
 # install.packages("dplyr")
 # install.packages("readxl")
 library(dplyr)
-# library(readxl)
+library(broom)
 
 
 
@@ -17,6 +17,7 @@ marginabili <- list.files(pattern = "marginabili.xlsx",full.names = T) %>%
 sectors <- list.files(pattern = "sectors.xlsx", full.names = T) %>%
   readxl::read_excel()
 # sectors
+
 output_signal <- lapply(files_stocks, read.table, sep = "\t", header = T, dec = ".")
 output_signal <- dplyr::bind_rows(output_signal)
 # nrow(output_signal)
@@ -237,14 +238,15 @@ bear_tot %>%
   dplyr::arrange(desc(date_last_swing)) %>%
   write.table("signals/bear_last_swing.txt", sep = "\t", dec = ".", row.names = FALSE)
 
-library(broom)
 
 linear_model <- function(df){
-  data <- df %>% 
+  window_lm <- unique(df$window)
+  data <- df %>%
+    # output_signal %>% 
     # dplyr::filter(name == "JUVENTUS FC") %>% 
     # dplyr::filter(ticker == "BPE.MI") %>% 
     # dplyr::arrange(desc(date)) %>% 
-    dplyr::slice_tail(n=7) %>% 
+    dplyr::slice_tail(n=window_lm) %>% 
     dplyr::mutate(time_id = 1:n())
   lm_model <- lm(close ~ time_id, data)
   summary_lm_model <- broom::tidy(summary(lm_model)) %>% 
@@ -255,28 +257,56 @@ linear_model <- function(df){
   data.frame(
     rrg = unique(data$rrg),
     ticker = unique(data$ticker),
+    window_lm = window_lm,
     marginabile = unique(data$marginabile),
-    name = unique(data$name)
+    name = unique(data$name),
+    min_date_window = min(data$date)
   ) %>% 
     cbind(summary_lm_model, summary_lm_model2)
 }
 
+add_column <- function(df_list, new_col, values_col) {
+  
+  purrr::pmap(
+    
+    list(df_list, new_col, values_col),
+    
+    .f = function(df, new_col, values_col) {
+      df %>%
+        dplyr::mutate(
+          "{new_col}" := values_col
+        )
+    }
+    
+  ) %>% 
+    dplyr::bind_rows()
+  
+}
+
+replicate_df <- function(df, n) {
+  replicate(n, df, simplify = F)
+}
+
+output_signal <- output_signal %>% 
+  replicate_df(4) %>% 
+  add_column(new_col = "window", values_col = c(7, 15, 30, 45))
+
 lm_mod <- output_signal %>%
-  dplyr::group_split(ticker) %>% 
+  dplyr::group_split(ticker, window) %>% 
   purrr::map_df(linear_model)
 
 lm_mod %>% 
   dplyr::filter(
     rrg == 1, estimate > 0, p.value <= 0.05
   ) %>% 
-  dplyr::arrange(desc(adj.r.squared)) %>%
+  dplyr::arrange(window_lm, desc(adj.r.squared)) %>%
   write.table("signals/bull_linear.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 lm_mod %>% 
   dplyr::filter(
     rrg == -1, estimate < 0, p.value <= 0.10, marginabile == "si"
   ) %>% 
-  dplyr::arrange(desc(adj.r.squared)) %>%
+  dplyr::arrange(window_lm, desc(adj.r.squared)) %>%
   write.table("signals/bear_linear.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 output_signal %>% 
