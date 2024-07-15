@@ -108,7 +108,11 @@ for i in range(len(dfs)):
         # dfs[i] = get_returns(dfs[i], 'rrg')        
         # dfs[i] = get_expectancies(dfs[i], window_exp, 'rrg_log_returns', 'rrg')    
         # dfs[i] = get_shares(dfs[i], starting_capital, lot, mn, mx, tolerance, equal_weight, span, fx, 'rrg_chg1D_fx', 'rrg')
+<<<<<<< HEAD
         dfs[i].to_csv(os.path.join('data_proc/' + ticker + '.txt') , sep='\t', index=False)  
+=======
+        dfs[i].to_csv(os.path.join('data_proc/' + ticker + '.txt') , sep='\t', index=False) 
+>>>>>>> 830b57b2c2f1d665d99e19ee78b9aa683cf0efc5
 
     except:
         failed.append(i)
