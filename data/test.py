@@ -15,7 +15,7 @@ bm_name = filename_bm.replace('xlsx', '')
 
 exclude_files = {"FTSEMIB.MI.xlsx", "marginabili.xlsx", "sectors.xlsx", "output_signals.xlsx", "PTF.xlsx"}
 include_files = {"A2A.MI.xlsx"}
-files = [file for file in os.listdir('/home/laceto/AT/screaning_data') if file.endswith(".xlsx") and file not in exclude_files and file in include_files]  
+files = [file for file in os.listdir('/data') if file.endswith(".xlsx") and file not in exclude_files and file in include_files]  
 print(len(files))
 
 window_bo = 100
