@@ -74,6 +74,96 @@ def last_row_dictionary(df, ticker):
             col_dict.update({col_name : df.iloc[-1,i]})
     return col_dict
 
+
+def get_returns(df, signal):
+    
+    df[signal] = df[signal].fillna(0)
+    fast = 20 
+    df[str(signal) + '_chg1D'] = df['close'].diff() * df[signal].shift()
+    df[str(signal) + '_chg1D_fx'] = df['close'].diff() * df[signal].shift()
+    df[str(signal) + '_PL_cum'] = df[str(signal) + '_chg1D'].cumsum()
+    df[str(signal) + '_returns'] = df['close'].pct_change() * df[signal].shift()
+    df[str(signal) + '_log_returns'] = np.log(df['close']/df['close'].shift()) * df[signal].shift()
+    df[str(signal) + '_cumul'] = df[str(signal) + '_log_returns'].cumsum().apply(np.exp) - 1 
+    df['stop_loss'] = np.where(df[signal] == 1, df['low'].rolling(fast).min(),
+                        np.where(df[signal] == -1, df['high'].rolling(fast).max(),np.nan))
+    df[str(signal) + '_PL_cum_fx'] = df[str(signal) + '_chg1D_fx'].cumsum()
+    
+    # df = df.set_index('date')
+    
+    return df
+
+def get_shares(df, starting_capital, lot, mn, mx, tolerance, equal_weight, span, fx, chg1D_fx, signal):
+    
+    
+    
+    shs_fxd = shs_ccv = shs_cvx = shs_eql = 0
+    df.loc[df.index[0], str(signal) + '_constant'] = df.loc[df.index[0], str(signal) + '_concave'] = starting_capital
+    df.loc[df.index[0], str(signal) + '_convex'] = df.loc[df.index[0], str(signal) + '_equal_weight'] = starting_capital
+    ccy_name = 'EUR'
+    df[ccy_name] = 1
+    shs_fxd = shs_ccv = shs_cvx = shs_eql = 0
+    avg = (mn + mx) / 2
+    
+    # df.loc[df.index[0], str(signal) + '_concave'] = starting_capital
+
+    for i in range(1,len(df)):
+        df[str(signal) + '_equal_weight'].iat[i] = df[str(signal) + '_equal_weight'].iat[i-1] + df[chg1D_fx].iloc[i] * shs_eql
+        df[str(signal) + '_constant'].iat[i] = df[str(signal) + '_constant'].iat[i-1] + df[chg1D_fx].iloc[i] * shs_fxd
+        df[str(signal) + '_concave'].iat[i] = df[str(signal) + '_concave'].iat[i-1] + df[chg1D_fx].iloc[i] * shs_ccv
+        df[str(signal) + '_convex'].iat[i] = df[str(signal) + '_convex'].iat[i-1] + df[chg1D_fx].iloc[i] * shs_cvx
+
+        ccv = risk_appetite(eqty= df[str(signal) + '_concave'][:i], tolerance=tolerance, 
+                            mn= mn, mx=mx, span=5, shape=-1)
+        cvx = risk_appetite(eqty= df[str(signal) + '_convex'][:i], tolerance=tolerance, 
+                            mn= mn, mx=mx, span=5, shape=1)
+
+        
+        if (df[signal].iloc[i-1] ==0) & (df[signal].iloc[i] !=0):
+            px = df['close'].iloc[i]
+            sl = df['stop_loss'].iloc[i]
+            fx  = df[ccy_name].iloc[i]
+            shs_eql = (df[str(signal) + '_equal_weight'].iloc[i]  * equal_weight  *fx//(px * lot)) * lot
+
+            
+
+            if px != sl:
+                shs_fxd = eqty_risk_shares(px,sl,eqty= df[str(signal) + '_constant'].iloc[i],
+                                            risk= avg,fx=fx,lot=lot)
+                shs_ccv = eqty_risk_shares(px,sl,eqty= df[str(signal) + '_concave'].iloc[i],
+                                                risk= ccv.iloc[-1],fx=fx,lot=lot)
+                shs_cvx = eqty_risk_shares(px,sl,eqty= df[str(signal) + '_convex'].iloc[i],
+                                                risk= cvx.iloc[-1],fx=fx,lot=lot)
+
+    
+    return df
+    # return sl
+    
+def get_expectancies(df, window, log_return, signal):
+    
+    # Separate profits from losses
+    tt_log_returns = df[[log_return]]
+    
+    loss_roll = tt_log_returns.copy()
+    loss_roll[loss_roll > 0] = np.nan
+    win_roll = tt_log_returns.copy()
+    win_roll[win_roll < 0] = np.nan
+
+    # window= 100
+    win_rate = win_roll.rolling(window).count() / window
+    loss_rate = loss_roll.rolling(window).count() / window
+    avg_win = win_roll.fillna(0).rolling(window).mean()
+    avg_loss = loss_roll.fillna(0).rolling(window).mean()
+
+    df[str(signal) + '_trading_edge'] = expectancy(win_rate,avg_win,avg_loss).ffill()
+    df[str(signal) + '_geometric_expectancy'] = george(win_rate,avg_win,avg_loss).ffill()
+    df[str(signal) + '_kelly'] = kelly(win_rate,avg_win,avg_loss).ffill()
+    # df = df.set_index('date')
+    
+    return df
+
+
+
 for i in range(len(dfs)):
     print(i)
     ohlc = ['open','high','low','close']
