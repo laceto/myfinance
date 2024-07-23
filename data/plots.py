@@ -3,6 +3,8 @@ import os
 import pandas as pd  
 from AT_funs import *
 
+bm_col = 'close'
+
 filename_bm = 'data/FTSEMIB.MI.xlsx'
 bm_df = read_xlsx(filename_bm)
 bm_name = filename_bm.replace('xlsx', '')
