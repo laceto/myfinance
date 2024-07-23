@@ -2,8 +2,8 @@ import sys
 import os  
 import pandas as pd  
 
-sys.path.insert(0, '..')
-from AT_funs import *
+# sys.path.insert(0, '..')
+from AT_funs import relative
 
 
 filename_bm = 'FTSEMIB.MI.xlsx'
