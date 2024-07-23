@@ -1,0 +1,35 @@
+on:
+  schedule:
+    - cron: "10 21 * * 1-5"
+  workflow_dispatch:
+
+jobs:  
+  build:  
+    runs-on: ubuntu-latest  
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run py script
+      run: |
+        python plots.py
+
+    - name: Commit results
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add .
+        git commit -m "Results from py script" || echo "No changes to commit"
+        git push origin || echo "No changes to commit"
