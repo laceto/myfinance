@@ -3,6 +3,7 @@ import os
 import pandas as pd  
 from AT_funs import *
 
+dgt = 5
 bm_col = 'close'
 
 filename_bm = 'data/FTSEMIB.MI.xlsx'
