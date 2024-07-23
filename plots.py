@@ -35,6 +35,15 @@ def relative(df,_o,_h,_l,_c, bm_df, bm_col, dgt,rebase=True):
 
 ### RELATIVE ###
 
+def read_xlsx(filename):      
+    bm_df = pd.read_excel(filename)
+    bm_df.columns= bm_df.columns.str.strip().str.lower()
+    bm_df['date'] = pd.to_datetime(bm_df['date'])  
+    bm_df = clean_column_names(bm_df)  
+    bm_df['close'] = pd.to_numeric(bm_df['close'], errors='coerce')
+    
+    
+    return bm_df
 
 filename_bm = 'FTSEMIB.MI.xlsx'
 bm_df = read_xlsx(filename_bm)
