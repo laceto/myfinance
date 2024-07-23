@@ -11,8 +11,9 @@ bm_df = read_xlsx(filename_bm)
 bm_name = filename_bm.replace('xlsx', '')
 
 exclude_files = {"FTSEMIB.MI.xlsx", "marginabili.xlsx", "sectors.xlsx", "output_signals.xlsx", "PTF.xlsx"}
-include_files = {"A2A.MI.xlsx"}
-files = [file for file in os.listdir('data') if file.endswith(".xlsx") and file not in exclude_files and file in include_files]  
+# include_files = {"A2A.MI.xlsx"}
+files = [file for file in os.listdir('data') if file.endswith(".xlsx") and file not in exclude_files]
+# files = [file for file in os.listdir('data') if file.endswith(".xlsx") and file not in exclude_files and file in include_files]  
 print(len(files))
 
 dfs = []
