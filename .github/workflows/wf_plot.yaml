@@ -24,7 +24,7 @@ jobs:
 
     - name: Run py script
       run: |
-        python plots.py
+        python data/plots.py
 
     - name: Commit results
       run: |
