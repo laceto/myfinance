@@ -9,6 +9,7 @@ Imports:
     purrr,
     readxl,
     tidyr,
-    broom
+    broom,
+    lubridate
 Depends: 
     R (>= 2.10)
