@@ -207,6 +207,9 @@ regime_change <- bull_changes %>%
     date_regime_change = date
   )
 
+regime_change %>%
+  write.table("signals/regime_change.txt", sep = "\t", dec = ".", row.names = FALSE)
+
 changes <- bull_changes %>% 
   dplyr::bind_rows(
     bear_changes
