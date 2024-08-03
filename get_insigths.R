@@ -3,8 +3,6 @@
 library(dplyr)
 library(broom)
 
-
-
 files_stocks <- list.files("data_proc", full.names = T)
 
 marginabili <- list.files(pattern = "marginabili.xlsx",full.names = T) %>%
@@ -253,6 +251,7 @@ bear_swing <- output_signal %>%
 
 bear_swing_r <- output_signal %>% 
   dplyr::semi_join(bear) %>%
+  dplyr::filter(!is.na(marginabile)) %>% 
   get_last_swing(rh3) %>% 
   dplyr::rename(
     date_last_swing_r = date_last_swing
@@ -375,11 +374,11 @@ replicate_df <- function(df, n) {
   replicate(n, df, simplify = F)
 }
 
-output_signal <- output_signal %>% 
+output_signal_lm <- output_signal %>% 
   replicate_df(4) %>% 
   add_column(new_col = "window", values_col = c(7, 15, 30, 45))
 
-lm_mod <- output_signal %>%
+lm_mod <- output_signal_lm %>%
   dplyr::group_split(ticker, window) %>% 
   purrr::map_df(linear_model)
 
@@ -493,8 +492,6 @@ bull_score_ts <- output_signal %>%
   dplyr::mutate(
     date = lubridate::as_date(date)
   )
-
-
 
 bear_score_ts <- output_signal %>%  
   dplyr::mutate(date = lubridate::as_date(date)) %>% 
@@ -689,3 +686,93 @@ bear_last_changes_max_equity %>%
 #   )
 
 
+bear_swing_r %>% 
+  dplyr::left_join(bear_last_changes_max_equity)
+
+changes %>% 
+  dplyr::filter(
+    ticker == 'SFER.MI'
+  )
+
+regime_change_followed_signal <- regime_change %>% 
+  # dplyr::filter(
+  #   ticker == 'SFER.MI'
+  # ) %>% 
+  dplyr::select(name, ticker, date_regime_change, rrg) %>% 
+  dplyr::left_join(
+    changes %>% 
+      # dplyr::filter(
+      #   ticker == 'SFER.MI'
+      # ) %>% 
+      dplyr::rename(
+        date_last_change = date
+      )
+    ) %>% 
+  dplyr::filter(signal == rrg, date_last_change > date_regime_change)
+
+regime_change_followed_signal %>% 
+  dplyr::filter(rrg == 1) %>% 
+  write.table("signals/bull_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+regime_change_followed_signal %>% 
+  dplyr::filter(rrg == -1) %>% 
+  write.table("signals/bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+
+regime_change %>% 
+  dplyr::select(name, ticker, date_regime_change, rrg) %>% 
+  dplyr::left_join(
+    changes %>% 
+      dplyr::rename(
+        date_last_change = date
+      )
+  ) %>% 
+  dplyr::left_join(bull_swing_r) %>% 
+  dplyr::filter(signal == rrg) %>%
+  dplyr::mutate(
+    date_regime_change = lubridate::as_date(date_regime_change),
+    date_last_change = lubridate::as_date(date_last_change),
+    date_last_swing_r = lubridate::as_date(date_last_swing_r)
+  ) %>% 
+  # dplyr::filter(ticker == 'GROW.MI') %>% 
+  dplyr::semi_join(
+    max_equity
+    # %>% 
+    #   dplyr::filter(ticker == 'GROW.MI')
+  ) %>% 
+  dplyr::filter(date_regime_change <= date_last_swing_r)%>% 
+  dplyr::filter(date_last_swing_r <= date_last_change)
+
+regime_change %>% 
+  dplyr::semi_join(bull, by = join_by(name, ticker)) %>% 
+  dplyr::select(name, ticker, date_regime_change, rrg) %>% 
+  dplyr::left_join(
+    changes %>% 
+      dplyr::rename(
+        date_last_change = date
+      ), by = join_by(ticker)
+  ) %>% 
+  dplyr::left_join(bull_swing_r) %>% 
+  dplyr::filter(signal == rrg) %>%
+  dplyr::mutate(
+    date_regime_change = lubridate::as_date(date_regime_change),
+    date_last_change = lubridate::as_date(date_last_change),
+    date_last_swing_r = lubridate::as_date(date_last_swing_r)
+  ) %>% 
+  dplyr::filter(date_regime_change <= date_last_swing_r) %>%
+  dplyr::filter(date_last_swing_r <= date_last_change) %>% View()
+# %>%
+#   dplyr::group_by(ticker) %>% 
+#   dplyr::mutate(
+#     n = n()
+#   ) %>% 
+#   dplyr::arrange(desc(n), ticker) %>% 
+#   dplyr::filter(name == 'AVIO') %>% 
+#   dplyr::select(-c(rrg, signal, rl3, n))
+  
+
+changes %>% 
+  dplyr::rename(
+    date_last_change = date
+  ) %>% 
+  dplyr::filter(ticker == 'OVS.MI')
