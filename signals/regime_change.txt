@@ -1,12 +1,14 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-08-05 14:10:04"	32366	NA	1	NA	NA	NA	1
-"ELES"	"ELES.MI"	"Commercial Services"	NA	"2024-08-05 13:21:25"	56000	NA	1	NA	NA	NA	1
+"CYBEROO"	"CYB.MI"	"Technology Services"	NA	"2024-08-05 15:35:23"	61711	NA	1	NA	NA	NA	1
+"GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-08-05 15:35:20"	48881	NA	1	NA	NA	NA	1
+"ELES"	"ELES.MI"	"Commercial Services"	NA	"2024-08-05 15:35:09"	63000	NA	1	NA	NA	NA	1
+"COPERNICO"	"COP.MI"	"Finance"	NA	"2024-08-02 07:00:00"	250	NA	1	NA	NA	NA	1
 "IRCE"	"IRC.MI"	"Producer Manufacturing"	NA	"2024-08-02 07:00:00"	7889	NA	1	NA	NA	NA	1
-"INTRED"	"ITD.MI"	"Communications"	NA	"2024-08-02 07:00:00"	2121	NA	1	NA	NA	NA	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	"2024-08-02 07:00:00"	5190	NA	1	NA	NA	NA	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	"2024-08-01 07:00:00"	117531	NA	1	NA	NA	NA	1
 "SALCEF GROUP"	"SCF.MI"	"Producer Manufacturing"	NA	"2024-08-01 07:00:00"	85717	NA	1	NA	NA	NA	1
 "AQUAFIL"	"ECNL.MI"	"Process Industries"	NA	"2024-07-31 07:00:00"	55766	NA	1	NA	NA	NA	1
+"AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-07-26 07:00:00"	158299	NA	1	NA	NA	NA	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	"2024-07-25 07:00:00"	367770	NA	1	NA	NA	NA	1
 "KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-07-24 07:00:00"	36464	NA	1	NA	NA	NA	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	"2024-07-24 07:00:00"	1008209	NA	1	NA	NA	NA	-1
@@ -16,6 +18,7 @@
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	"2024-07-08 07:00:00"	388664	NA	1	NA	NA	NA	1
 "POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	"2024-07-08 07:00:00"	8500	NA	1	NA	NA	NA	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	"2024-07-01 07:00:00"	19947	NA	1	NA	NA	NA	1
+"INTRED"	"ITD.MI"	"Communications"	NA	"2024-07-01 07:00:00"	10583	NA	1	NA	NA	NA	1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	"2024-06-28 07:00:00"	291123	NA	1	NA	NA	NA	1
 "MONDADORI EDIT"	"MN.MI"	"Consumer Services"	NA	"2024-06-28 07:00:00"	874164	NA	1	NA	NA	NA	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	"2024-06-24 07:00:00"	606312	NA	1	NA	NA	NA	1
