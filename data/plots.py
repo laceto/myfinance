@@ -26,6 +26,7 @@ for file in files:
 print('letti tutti i files')
 
 def save_plot(df, ticker):
+    df = df.set_index('date')
     close_price = df[['close','rclose']].plot(figsize=(20,8),grid=True, title= ticker +  ' Absolute vs relative to ' + bm_name + ' rebased' )
     plt.savefig('plots/' + ticker + '.png') 
     return df
