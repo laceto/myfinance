@@ -1,4 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
+"ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-08-20 15:35:19"	43317	NA	1	NA	NA	NA	1
+"ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	"2024-08-20 12:07:07"	14500	NA	1	NA	NA	NA	1
+"ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	"2024-08-20 09:58:01"	4200	NA	1	NA	NA	NA	1
 NA	"MFEB.MI"	NA	NA	"2024-08-16 07:00:00"	258651	NA	1	NA	NA	NA	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2024-08-12 07:00:00"	18580462	NA	1	NA	NA	NA	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	"2024-08-06 07:00:00"	110296	NA	1	NA	NA	NA	1
@@ -10,7 +13,6 @@ NA	"MFEB.MI"	NA	NA	"2024-08-16 07:00:00"	258651	NA	1	NA	NA	NA	1
 "GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-07-30 07:00:00"	49948	NA	1	NA	NA	NA	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-07-26 07:00:00"	158299	NA	1	NA	NA	NA	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	"2024-07-25 07:00:00"	367770	NA	1	NA	NA	NA	1
-"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	"2024-07-25 07:00:00"	8125	NA	1	NA	NA	NA	1
 "KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-07-24 07:00:00"	36464	NA	1	NA	NA	NA	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	"2024-07-24 07:00:00"	1008209	NA	1	NA	NA	NA	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	"2024-07-19 07:00:00"	4840866	NA	1	NA	NA	NA	1
