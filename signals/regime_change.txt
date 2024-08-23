@@ -1,5 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-08-21 07:00:00"	48053	NA	1	NA	NA	NA	1
+"AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-08-23 15:35:26"	14548	NA	1	NA	NA	NA	1
+"ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-08-23 15:35:15"	86102	NA	1	NA	NA	NA	1
 NA	"MFEB.MI"	NA	NA	"2024-08-16 07:00:00"	258651	NA	1	NA	NA	NA	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2024-08-12 07:00:00"	18580462	NA	1	NA	NA	NA	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	"2024-08-06 07:00:00"	110296	NA	1	NA	NA	NA	1
@@ -7,6 +8,8 @@ NA	"MFEB.MI"	NA	NA	"2024-08-16 07:00:00"	258651	NA	1	NA	NA	NA	1
 "CYBEROO"	"CYB.MI"	"Technology Services"	NA	"2024-08-05 07:00:00"	61711	NA	1	NA	NA	NA	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	"2024-08-05 07:00:00"	63000	NA	1	NA	NA	NA	1
 "INTRED"	"ITD.MI"	"Communications"	NA	"2024-08-05 07:00:00"	2935	NA	1	NA	NA	NA	1
+"SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	"2024-08-05 07:00:00"	23062	NA	1	NA	NA	NA	1
+"SALCEF GROUP"	"SCF.MI"	"Producer Manufacturing"	NA	"2024-08-02 07:00:00"	12159	NA	1	NA	NA	NA	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	"2024-08-01 07:00:00"	117531	NA	1	NA	NA	NA	1
 "AQUAFIL"	"ECNL.MI"	"Process Industries"	NA	"2024-07-31 07:00:00"	55766	NA	1	NA	NA	NA	1
 "GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-07-30 07:00:00"	49948	NA	1	NA	NA	NA	1

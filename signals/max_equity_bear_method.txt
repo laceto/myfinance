@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"IRE.MI"	"IREN"	"2024-08-23 15:35:05"	"rema_50100150"	-1
 "HER.MI"	"HERA"	"2024-08-05 07:00:00"	"rtt_5020"	-1
 "SRG.MI"	"SNAM"	"2024-08-05 07:00:00"	"rsma_50100150"	-1
 "TRN.MI"	"TERNA"	"2024-08-02 07:00:00"	"rsma_50100150"	-1
@@ -12,7 +13,6 @@
 "TNXT.MI"	"TINEXTA"	"2024-03-05 08:00:00"	"rbo_100"	-1
 "ERG.MI"	"ERG"	"2024-02-08 08:00:00"	"rema_50100150"	1
 "IP.MI"	"INTERPUMP GROUP"	"2024-02-02 08:00:00"	"rrg"	-1
-"IRE.MI"	"IREN"	"2023-11-28 08:00:00"	"rema_50100150"	1
 "ENI.MI"	"ENI"	"2023-10-27 07:00:00"	"rrg"	-1
 "TIT.MI"	"TELECOM ITALIA"	"2023-10-26 07:00:00"	"rbo_100"	-1
 "TGYM.MI"	"TECHNOGYM"	"2023-08-23 07:00:00"	"rrg"	-1
