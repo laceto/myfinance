@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"IRE.MI"	"IREN"	"2024-08-23 15:35:05"	"rema_50100150"	-1
+"IRE.MI"	"IREN"	"2024-08-23 07:00:00"	"rema_50100150"	-1
 "HER.MI"	"HERA"	"2024-08-05 07:00:00"	"rtt_5020"	-1
 "SRG.MI"	"SNAM"	"2024-08-05 07:00:00"	"rsma_50100150"	-1
 "TRN.MI"	"TERNA"	"2024-08-02 07:00:00"	"rsma_50100150"	-1
