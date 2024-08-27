@@ -1,6 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"COPERNICO"	"COP.MI"	"Finance"	NA	"2024-08-26 15:35:18"	8000	NA	1	NA	NA	NA	1
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-08-26 13:56:40"	27500	NA	1	NA	NA	NA	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-08-27 13:01:52"	4500	NA	1	NA	NA	NA	1
+"COPERNICO"	"COP.MI"	"Finance"	NA	"2024-08-26 07:00:00"	8000	NA	1	NA	NA	NA	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-08-23 07:00:00"	86102	NA	1	NA	NA	NA	1
 NA	"MFEB.MI"	NA	NA	"2024-08-16 07:00:00"	258651	NA	1	NA	NA	NA	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2024-08-12 07:00:00"	18580462	NA	1	NA	NA	NA	1
