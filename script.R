@@ -1,6 +1,6 @@
 #install.packages("curl")
-install.packages("openxlsx")
-install.packages("yahoofinancer", dependencies = TRUE)
+#install.packages("openxlsx")
+#install.packages("yahoofinancer", dependencies = TRUE)
 library(yahoofinancer)
 
 tickers <- readRDS("tickers.rds")
