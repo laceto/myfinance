@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"HER.MI"	"HERA"	"2024-08-28 07:00:00"	"rtt_5020"	0
+"HER.MI"	"HERA"	"2024-09-02 15:35:06"	"rtt_5020"	1
 "IRE.MI"	"IREN"	"2024-08-23 07:00:00"	"rema_50100150"	-1
 "JUVE.MI"	"JUVENTUS FC"	"2024-08-20 07:00:00"	"rtt_5020"	1
 "SRG.MI"	"SNAM"	"2024-08-05 07:00:00"	"rsma_50100150"	-1
