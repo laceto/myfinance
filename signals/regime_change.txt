@@ -1,14 +1,14 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"GROWENS"	"GROW.MI"	"Technology Services"	NA	"2024-09-02 15:35:04"	60483	NA	1	NA	NA	NA	1
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-09-02 14:21:40"	25000	NA	1	NA	NA	NA	1
-"SERI INDUSTRIAL"	"SERI.MI"	"Utilities"	NA	"2024-08-30 07:00:00"	296359	NA	1	NA	NA	NA	1
+"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-09-03 15:35:26"	53900944	NA	1	NA	NA	NA	-1
+"DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	"2024-09-03 15:35:23"	305136	NA	1	NA	NA	NA	-1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-09-02 07:00:00"	25000	NA	1	NA	NA	NA	1
+"GROWENS"	"GROW.MI"	"Technology Services"	NA	"2024-09-02 07:00:00"	60483	NA	1	NA	NA	NA	1
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	"2024-08-29 07:00:00"	3135	NA	1	NA	NA	NA	1
 "KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-08-29 07:00:00"	374	NA	1	NA	NA	NA	1
 "LONGINO&CARDENAL"	"LON.MI"	"Consumer Services"	NA	"2024-08-29 07:00:00"	2500	NA	1	NA	NA	NA	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-08-23 07:00:00"	86102	NA	1	NA	NA	NA	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2024-08-12 07:00:00"	18580462	NA	1	NA	NA	NA	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	"2024-08-06 07:00:00"	110296	NA	1	NA	NA	NA	1
-"IRCE"	"IRC.MI"	"Producer Manufacturing"	NA	"2024-08-06 07:00:00"	8202	NA	1	NA	NA	NA	1
 "INTRED"	"ITD.MI"	"Communications"	NA	"2024-08-05 07:00:00"	2935	NA	1	NA	NA	NA	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	"2024-08-02 07:00:00"	759099	NA	1	NA	NA	NA	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	"2024-08-01 07:00:00"	117531	NA	1	NA	NA	NA	1
@@ -31,7 +31,6 @@
 "SNAM"	"SRG.MI"	"Utilities"	"si"	"2024-06-24 07:00:00"	18783251	NA	1	NA	NA	NA	-1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	"2024-06-13 07:00:00"	48336	NA	1	NA	NA	NA	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	"2024-06-13 07:00:00"	75583	NA	1	NA	NA	NA	1
-"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-06-12 07:00:00"	61093984	NA	1	NA	NA	NA	1
 "DHH"	"DHH.MI"	"Technology Services"	NA	"2024-06-10 07:00:00"	12844	NA	1	NA	NA	NA	1
 "ALKEMY"	"ALK.MI"	"Commercial Services"	NA	"2024-06-03 07:00:00"	180583	NA	1	NA	NA	NA	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	"2024-05-27 07:00:00"	988205	NA	1	NA	NA	NA	1
@@ -61,7 +60,6 @@ NA	"MFEB.MI"	NA	NA	"2024-05-14 07:00:00"	546693	NA	1	NA	NA	NA	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	"2024-01-29 08:00:00"	23593	NA	1	NA	NA	NA	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	"2024-01-09 08:00:00"	279106	NA	1	NA	NA	NA	1
 "CREDEM"	"CE.MI"	"Finance"	NA	"2023-12-19 08:00:00"	818815	NA	1	NA	NA	NA	1
-"DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	"2023-12-11 08:00:00"	50815	NA	1	NA	NA	NA	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	"2023-10-27 07:00:00"	11998890	NA	1	NA	NA	NA	-1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	"2023-10-25 07:00:00"	14196330	NA	1	NA	NA	NA	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	"2023-09-26 07:00:00"	391473	NA	1	NA	NA	NA	-1
