@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"SPM.MI"	"SAIPEM"	"2024-09-06 15:35:16"	"rema_50100150"	-1
+"SPM.MI"	"SAIPEM"	"2024-09-06 07:00:00"	"rema_50100150"	-1
 "DAN.MI"	"DANIELI & C"	"2024-09-03 07:00:00"	"rema_50100150"	-1
 "HER.MI"	"HERA"	"2024-09-02 07:00:00"	"rtt_5020"	1
 "IRE.MI"	"IREN"	"2024-08-23 07:00:00"	"rema_50100150"	-1
