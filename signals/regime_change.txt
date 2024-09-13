@@ -1,6 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-09-12 15:35:00"	171000	NA	1	NA	NA	NA	1
-"GROWENS"	"GROW.MI"	"Technology Services"	NA	"2024-09-10 07:00:00"	49836	NA	1	NA	NA	NA	1
+"GROWENS"	"GROW.MI"	"Technology Services"	NA	"2024-09-13 15:35:07"	31978	NA	1	NA	NA	NA	1
+"TALEA GROUP"	"TALEA.MI"	"Retail Trade"	NA	"2024-09-13 15:35:04"	4365	NA	1	NA	NA	NA	1
+"FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	"2024-09-11 07:00:00"	719033	NA	1	NA	NA	NA	1
 "GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-09-09 07:00:00"	51572	NA	1	NA	NA	NA	1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	"2024-09-06 07:00:00"	108483	NA	1	NA	NA	NA	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	"2024-09-05 07:00:00"	1000	NA	1	NA	NA	NA	1
@@ -50,7 +51,6 @@ NA	"MFEB.MI"	NA	NA	"2024-09-04 07:00:00"	178039	NA	1	NA	NA	NA	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	"2024-04-17 07:00:00"	1008470	NA	1	NA	NA	NA	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	"2024-04-12 07:00:00"	1943171	NA	1	NA	NA	NA	-1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	"2024-04-09 07:00:00"	478851	NA	1	NA	NA	NA	1
-"FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	"2024-04-09 07:00:00"	4520304	NA	1	NA	NA	NA	-1
 "GREENTHESIS"	"GTH.MI"	"Industrial Services"	NA	"2024-04-05 07:00:00"	2149314	NA	1	NA	NA	NA	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	"2024-03-28 08:00:00"	343200	NA	1	NA	NA	NA	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	"2024-03-14 08:00:00"	1015736	NA	1	NA	NA	NA	1
@@ -60,6 +60,7 @@ NA	"MFEB.MI"	NA	NA	"2024-09-04 07:00:00"	178039	NA	1	NA	NA	NA	1
 "PIRELLI & C"	"PIRC.MI"	"Consumer Durables"	NA	"2024-03-07 08:00:00"	6063899	NA	1	NA	NA	NA	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	"2024-02-15 08:00:00"	1779393	NA	1	NA	NA	NA	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	"2024-02-12 08:00:00"	1725866	NA	1	NA	NA	NA	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-02-06 08:00:00"	163000	NA	1	NA	NA	NA	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	"2024-02-02 08:00:00"	308908	NA	1	NA	NA	NA	-1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	"2024-01-29 08:00:00"	23593	NA	1	NA	NA	NA	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	"2024-01-09 08:00:00"	279106	NA	1	NA	NA	NA	1
