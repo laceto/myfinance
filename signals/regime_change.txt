@@ -1,5 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"GROWENS"	"GROW.MI"	"Technology Services"	NA	"2024-09-13 07:00:00"	31978	NA	1	NA	NA	NA	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-09-17 15:35:18"	180500	NA	1	NA	NA	NA	1
 "TALEA GROUP"	"TALEA.MI"	"Retail Trade"	NA	"2024-09-13 07:00:00"	4365	NA	1	NA	NA	NA	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	"2024-09-11 07:00:00"	719033	NA	1	NA	NA	NA	1
 "GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-09-09 07:00:00"	51572	NA	1	NA	NA	NA	1
@@ -45,6 +45,7 @@ NA	"MFEB.MI"	NA	NA	"2024-09-04 07:00:00"	178039	NA	1	NA	NA	NA	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	"2024-04-25 07:00:00"	32138	NA	1	NA	NA	NA	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	"2024-04-24 07:00:00"	31550	NA	1	NA	NA	NA	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	"2024-04-23 07:00:00"	1041064	NA	1	NA	NA	NA	1
+"GROWENS"	"GROW.MI"	"Technology Services"	NA	"2024-04-22 07:00:00"	66210	NA	1	NA	NA	NA	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	"2024-04-17 07:00:00"	1008470	NA	1	NA	NA	NA	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	"2024-04-12 07:00:00"	1943171	NA	1	NA	NA	NA	-1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	"2024-04-09 07:00:00"	478851	NA	1	NA	NA	NA	1
@@ -57,7 +58,6 @@ NA	"MFEB.MI"	NA	NA	"2024-09-04 07:00:00"	178039	NA	1	NA	NA	NA	1
 "PIRELLI & C"	"PIRC.MI"	"Consumer Durables"	NA	"2024-03-07 08:00:00"	6063899	NA	1	NA	NA	NA	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	"2024-02-15 08:00:00"	1779393	NA	1	NA	NA	NA	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	"2024-02-12 08:00:00"	1725866	NA	1	NA	NA	NA	1
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	"2024-02-06 08:00:00"	163000	NA	1	NA	NA	NA	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	"2024-02-02 08:00:00"	308908	NA	1	NA	NA	NA	-1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	"2024-01-29 08:00:00"	23593	NA	1	NA	NA	NA	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	"2024-01-09 08:00:00"	279106	NA	1	NA	NA	NA	1
