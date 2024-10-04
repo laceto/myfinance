@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"HER.MI"	"HERA"	"2024-10-03 15:35:29"	"rtt_5020"	0
+"HER.MI"	"HERA"	"2024-10-03 07:00:00"	"rtt_5020"	0
 "NEXI.MI"	"NEXI"	"2024-09-26 07:00:00"	"rsma_50100150"	1
 "MONC.MI"	"MONCLER"	"2024-09-20 07:00:00"	"rrg"	-1
 "SRG.MI"	"SNAM"	"2024-09-19 07:00:00"	"rsma_50100150"	1
