@@ -1,5 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
-NA	"ENI.MI"	"ENI"	"si"	-2	"2024-10-07 15:39:27"
+NA	"ENI.MI"	"ENI"	"si"	-2	"2024-10-07 07:00:00"
 NA	"TIT.MI"	"TELECOM ITALIA"	"si"	1	"2024-10-04 07:00:00"
 NA	"TEN.MI"	"TENARIS"	"si"	1	"2024-10-04 07:00:00"
 NA	"ERG.MI"	"ERG"	"si"	-2	"2024-10-03 07:00:00"
