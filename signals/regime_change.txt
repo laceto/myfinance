@@ -1,12 +1,12 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-10-24 15:39:56"	81646961	NA	1	NA	NA	NA	1
-"UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	"2024-10-24 15:35:09"	200159	NA	1	NA	NA	NA	1
-"INTRED"	"ITD.MI"	"Communications"	NA	"2024-10-24 15:35:04"	18176	NA	1	NA	NA	NA	1
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	"2024-10-25 15:37:51"	3195061	NA	1	NA	NA	NA	-1
+"GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-10-25 15:35:11"	62149	NA	1	NA	NA	NA	1
+"INTRED"	"ITD.MI"	"Communications"	NA	"2024-10-24 07:00:00"	18176	NA	1	NA	NA	NA	1
+"UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	"2024-10-24 07:00:00"	200159	NA	1	NA	NA	NA	1
 "INWIT"	"INW.MI"	"Communications"	"si"	"2024-10-22 07:00:00"	1853993	NA	1	NA	NA	NA	1
 "SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	"2024-10-22 07:00:00"	226695	NA	1	NA	NA	NA	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	"2024-10-22 07:00:00"	8484124	NA	1	NA	NA	NA	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	"2024-10-21 07:00:00"	13500	NA	1	NA	NA	NA	1
-"BFF BANK"	"BFF.MI"	"Finance"	NA	"2024-10-21 07:00:00"	907254	NA	1	NA	NA	NA	1
 "CONFINVEST"	"CFV.MI"	"Distribution Services"	NA	"2024-10-21 07:00:00"	18000	NA	1	NA	NA	NA	1
 "KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-10-15 07:00:00"	33309	NA	1	NA	NA	NA	1
 "MONDADORI EDIT"	"MN.MI"	"Consumer Services"	NA	"2024-10-14 07:00:00"	202966	NA	1	NA	NA	NA	1
@@ -27,6 +27,7 @@ NA	"MFEB.MI"	NA	NA	"2024-09-17 07:00:00"	107595	NA	1	NA	NA	NA	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	"2024-09-12 07:00:00"	481680	NA	1	NA	NA	NA	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	"2024-09-05 07:00:00"	50572	NA	1	NA	NA	NA	-1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	"2024-09-03 07:00:00"	19774	NA	1	NA	NA	NA	1
+"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-09-03 07:00:00"	53900944	NA	1	NA	NA	NA	-1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	"2024-09-02 07:00:00"	500	NA	1	NA	NA	NA	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	"2024-08-14 07:00:00"	2523992	NA	1	NA	NA	NA	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2024-08-12 07:00:00"	18580462	NA	1	NA	NA	NA	1
@@ -69,7 +70,6 @@ NA	"MFEB.MI"	NA	NA	"2024-09-17 07:00:00"	107595	NA	1	NA	NA	NA	1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	"2023-10-25 07:00:00"	14196330	NA	1	NA	NA	NA	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	"2023-09-26 07:00:00"	391473	NA	1	NA	NA	NA	-1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	"2023-08-29 07:00:00"	53618	NA	1	NA	NA	NA	1
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	"2023-08-17 07:00:00"	154144	NA	1	NA	NA	NA	1
 "IVS GROUP"	"IVS.MI"	"Retail Trade"	NA	"2023-07-24 07:00:00"	9004	NA	1	NA	NA	NA	1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	"2023-06-26 07:00:00"	654274	NA	1	NA	NA	NA	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	"2023-06-20 07:00:00"	2193309	NA	1	NA	NA	NA	-1
