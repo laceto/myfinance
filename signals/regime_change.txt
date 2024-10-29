@@ -1,6 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-10-25 07:00:00"	62149	NA	1	NA	NA	NA	1
-"PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	"2024-10-25 07:00:00"	2298	NA	1	NA	NA	NA	1
+"B.F"	"BFG.MI"	"Process Industries"	NA	"2024-10-29 16:35:27"	4762	NA	1	NA	NA	NA	1
+"GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-10-28 08:00:00"	51869	NA	1	NA	NA	NA	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	"2024-10-25 07:00:00"	3195061	NA	1	NA	NA	NA	-1
 "INTRED"	"ITD.MI"	"Communications"	NA	"2024-10-24 07:00:00"	18176	NA	1	NA	NA	NA	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-10-24 07:00:00"	81646961	NA	1	NA	NA	NA	1
@@ -29,6 +29,7 @@
 NA	"MFEB.MI"	NA	NA	"2024-09-17 07:00:00"	107595	NA	1	NA	NA	NA	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-09-12 07:00:00"	101001	NA	1	NA	NA	NA	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	"2024-09-12 07:00:00"	481680	NA	1	NA	NA	NA	1
+"MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	"2024-09-10 07:00:00"	12612	NA	1	NA	NA	NA	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	"2024-09-05 07:00:00"	50572	NA	1	NA	NA	NA	-1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	"2024-09-03 07:00:00"	19774	NA	1	NA	NA	NA	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	"2024-09-02 07:00:00"	500	NA	1	NA	NA	NA	1
@@ -89,7 +90,6 @@ NA	"MFEB.MI"	NA	NA	"2024-09-17 07:00:00"	107595	NA	1	NA	NA	NA	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	"2022-06-21 07:00:00"	1359452	NA	1	NA	NA	NA	-1
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	"2022-06-08 07:00:00"	17062131	NA	1	NA	NA	NA	1
 "HERA"	"HER.MI"	"Utilities"	"si"	"2022-05-10 07:00:00"	1202142	NA	1	NA	NA	NA	-1
-"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	"2022-03-04 08:00:00"	0	NA	1	NA	NA	NA	1
 NA	"NOV.DE"	NA	NA	"2022-01-25 08:00:00"	39202	NA	1	NA	NA	NA	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	"2021-12-08 08:00:00"	531221	NA	1	NA	NA	NA	-1
 NA	"LLY.DE"	NA	NA	"2021-10-26 07:00:00"	3969	NA	1	NA	NA	NA	1
