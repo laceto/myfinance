@@ -1,13 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"volume"	"rtt_5020"	"change"	"rsma_50100150"	"rema_50100150"	"rbo_100"	"rrg"
-"B.F"	"BFG.MI"	"Process Industries"	NA	"2024-10-29 16:35:27"	4762	NA	1	NA	NA	NA	1
+"BFF BANK"	"BFF.MI"	"Finance"	NA	"2024-10-30 16:35:05"	713078	NA	1	NA	NA	NA	1
 "GVS"	"GVS.MI"	"Electronic Technology"	NA	"2024-10-28 08:00:00"	51869	NA	1	NA	NA	NA	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	"2024-10-25 07:00:00"	3195061	NA	1	NA	NA	NA	-1
 "INTRED"	"ITD.MI"	"Communications"	NA	"2024-10-24 07:00:00"	18176	NA	1	NA	NA	NA	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-10-24 07:00:00"	81646961	NA	1	NA	NA	NA	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	"2024-10-24 07:00:00"	200159	NA	1	NA	NA	NA	1
-"INWIT"	"INW.MI"	"Communications"	"si"	"2024-10-22 07:00:00"	1853993	NA	1	NA	NA	NA	1
 "SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	"2024-10-22 07:00:00"	226695	NA	1	NA	NA	NA	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	"2024-10-22 07:00:00"	8484124	NA	1	NA	NA	NA	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	"2024-10-21 07:00:00"	13500	NA	1	NA	NA	NA	1
 "CONFINVEST"	"CFV.MI"	"Distribution Services"	NA	"2024-10-21 07:00:00"	18000	NA	1	NA	NA	NA	1
 "KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-10-15 07:00:00"	33309	NA	1	NA	NA	NA	1
@@ -19,6 +17,7 @@
 "TERNA"	"TRN.MI"	"Utilities"	"si"	"2024-10-10 07:00:00"	3266076	NA	1	NA	NA	NA	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	"2024-10-08 07:00:00"	2990776	NA	1	NA	NA	NA	1
 "GAROFALO HEALTH CARE"	"GHC.MI"	"Health Services"	NA	"2024-10-04 07:00:00"	24701	NA	1	NA	NA	NA	1
+"EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	"2024-10-03 07:00:00"	65022	NA	1	NA	NA	NA	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	"2024-10-02 07:00:00"	220337	NA	1	NA	NA	NA	-1
 "NVP"	"NVP.MI"	"Technology Services"	NA	"2024-10-01 07:00:00"	5000	NA	1	NA	NA	NA	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	"2024-09-30 07:00:00"	1652088	NA	1	NA	NA	NA	-1
@@ -76,6 +75,7 @@ NA	"MFEB.MI"	NA	NA	"2024-09-17 07:00:00"	107595	NA	1	NA	NA	NA	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	"2023-09-26 07:00:00"	391473	NA	1	NA	NA	NA	-1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	"2023-08-29 07:00:00"	53618	NA	1	NA	NA	NA	1
 "IVS GROUP"	"IVS.MI"	"Retail Trade"	NA	"2023-07-24 07:00:00"	9004	NA	1	NA	NA	NA	1
+"INWIT"	"INW.MI"	"Communications"	"si"	"2023-07-20 07:00:00"	1076667	NA	1	NA	NA	NA	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	"2023-06-26 07:00:00"	654274	NA	1	NA	NA	NA	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	"2023-06-20 07:00:00"	2193309	NA	1	NA	NA	NA	-1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	"2023-06-15 07:00:00"	17820	NA	1	NA	NA	NA	1
