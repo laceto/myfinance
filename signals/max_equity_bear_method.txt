@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"NEXI.MI"	"NEXI"	"2024-11-14 16:35:47"	"rsma_50100150"	-1
+"NEXI.MI"	"NEXI"	"2024-11-14 08:00:00"	"rsma_50100150"	-1
 "TIT.MI"	"TELECOM ITALIA"	"2024-11-13 08:00:00"	"rbo_100"	-1
 "TEN.MI"	"TENARIS"	"2024-11-06 08:00:00"	"rsma_50100150"	-1
 "INW.MI"	"INWIT"	"2024-11-06 08:00:00"	"rbo_100"	-1
