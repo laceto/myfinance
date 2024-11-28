@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"NEXI.MI"	"NEXI"	"2024-11-27 16:35:25"	"rsma_50100150"	1
+"NEXI.MI"	"NEXI"	"2024-11-27 08:00:00"	"rsma_50100150"	1
 "SRG.MI"	"SNAM"	"2024-11-20 08:00:00"	"rsma_50100150"	-1
 "BC.MI"	"BRUNELLO CUCINELLI"	"2024-11-14 08:00:00"	"rrg"	-1
 "MONC.MI"	"MONCLER"	"2024-11-14 08:00:00"	"rrg"	-1
