@@ -889,7 +889,8 @@ bull_signal_maxequity_after_change_afterregime <- regime_change_followed_signal 
   dplyr::left_join(
     bull_swing_r, by = join_by(name, ticker)
   ) %>% 
-  dplyr::select(-c(rrg, method, signal, date, rl3))
+  dplyr::select(-c(rrg, method, signal, date, rl3)) %>%
+  dplyr::arrange(desc(date_last_change))
 
 bull_signal_maxequity_after_change_afterregime %>% 
   write.table("signals/max_equity_bull_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
@@ -919,7 +920,8 @@ bear_signal_maxequity_after_change_afterregime <- regime_change_followed_signal 
   dplyr::left_join(
     bear_swing_r, by = join_by(name, ticker)
   ) %>% 
-  dplyr::select(-c(rrg, method, signal, date, rh3))
+  dplyr::select(-c(rrg, method, signal, date, rh3)) %>%
+  dplyr::arrange(desc(date_last_change))
 
 bear_signal_maxequity_after_change_afterregime %>% 
   write.table("signals/max_equity_bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
