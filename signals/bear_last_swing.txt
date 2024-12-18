@@ -1,6 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
-NA	"TIT.MI"	"TELECOM ITALIA"	"si"	1	"2024-12-17 16:35:24"	0.29
-NA	"MAIRE.MI"	"MAIRE"	"si"	1	"2024-12-13 08:00:00"	8.04
+NA	"TIT.MI"	"TELECOM ITALIA"	"si"	-1	"2024-12-17 08:00:00"	0.29
 NA	"PST.MI"	"POSTE ITALIANE"	"si"	3	"2024-12-13 08:00:00"	13.94
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	3	"2024-11-29 08:00:00"	3.34
 NA	"IG.MI"	"ITALGAS"	"si"	1	"2024-10-21 07:00:00"	5.91
