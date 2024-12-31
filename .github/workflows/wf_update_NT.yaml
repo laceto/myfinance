@@ -1,7 +1,7 @@
 name: Jupyter Notebook Action  
-on:  
-  push:  
-    branches: [actions]  
+on:
+  workflow_dispatch:  
+
 jobs:  
   build:  
     runs-on: ubuntu-latest  
