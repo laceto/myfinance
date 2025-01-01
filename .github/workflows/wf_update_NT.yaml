@@ -16,10 +16,10 @@ jobs:
         run: |  
           python -m pip install --upgrade pip  
           pip install jupyter
-          pip install -r requirements.txt
+          #pip install -r requirements.txt
       - name: Run Jupyter Notebook  
         run: |  
-          jupyter nbconvert --to notebook --execute NT/test update nt.ipynb 
+          jupyter nbconvert --to notebook --execute "NT/test update nt.ipynb" 
           #jupyter nbconvert --execute NT/ATR_A2A.ipynb  
       - name: Commit results
         run: |
