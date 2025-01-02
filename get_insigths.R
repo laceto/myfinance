@@ -925,3 +925,34 @@ bear_signal_maxequity_after_change_afterregime <- regime_change_followed_signal 
 
 bear_signal_maxequity_after_change_afterregime %>% 
   write.table("signals/max_equity_bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+
+
+ptf_signals <- output_signal %>% 
+  dplyr::filter(stringr::str_detect(name, 'TENARIS|AVIO|GEFRAN|CUCINELLI|CAMPARI|ITALGAS|INTERPUMP|AMPLIFON')) %>% 
+  dplyr::mutate(
+    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+  ) %>% 
+  # tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>% 
+  dplyr::select(date, ticker, name, rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg) %>% 
+  dplyr::filter(date == max(date))
+
+ptf_signals %>% 
+  write.table("signals/ptf_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+
+output_signal %>% 
+  dplyr::semi_join(ptf_signals, 'ticker') %>% 
+  dplyr::mutate(
+    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+  ) %>% 
+  tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>%
+  dplyr::group_by(sector, name, ticker, date) %>% 
+  dplyr::summarise(
+    last_day_score = sum(signal)
+  ) %>% 
+  dplyr::arrange(desc(date)) %>% 
+  dplyr::group_by(ticker, name) %>%
+  dplyr::slice_head(n = 5) %>% 
+  tidyr::pivot_wider(names_from = date, values_from = last_day_score) %>% 
+  write.table("signals/ptf_ts_score.txt", sep = "\t", dec = ".", row.names = FALSE)
