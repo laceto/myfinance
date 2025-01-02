@@ -1,0 +1,9 @@
+"sector"	"name"	"ticker"	"2025-01-02"	"2024-12-30"	"2024-12-27"	"2024-12-23"	"2024-12-20"
+"Distribution Services"	"AMPLIFON"	"AMP.MI"	0	0	0	0	0
+"Electronic Technology"	"AVIO"	"AVIO.MI"	5	3	3	3	3
+"Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	5	5	5	5	5
+"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	0	0	0	0	0
+"Electronic Technology"	"GEFRAN"	"GE.MI"	4	4	4	4	4
+"Utilities"	"ITALGAS"	"IG.MI"	1	1	1	1	1
+"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-2	-2	-2	-2	-2
+"Non-Energy Minerals"	"TENARIS"	"TEN.MI"	4	4	4	4	4
