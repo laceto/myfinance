@@ -957,7 +957,22 @@ output_signal %>%
   tidyr::pivot_wider(names_from = date, values_from = last_day_score) %>% 
   write.table("signals/ptf_ts_score.txt", sep = "\t", dec = ".", row.names = FALSE)
 
-
+avg_score_sector <- output_signal %>% 
+  dplyr::mutate(
+    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+  ) %>% 
+  # dplyr::filter(date > lubridate::ymd('2024-12-01')) %>%
+  tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>%
+  dplyr::group_by(sector, name, ticker, date) %>% 
+  dplyr::summarise(
+    last_day_score = sum(signal)
+  ) %>% 
+  # dplyr::group_by(sector, name, ticker) %>% 
+  # dplyr::slice_tail(n = 1) %>% 
+  dplyr::group_by(sector, date) %>% 
+  dplyr::summarise(
+    avg_score = mean(last_day_score)
+  )
 avg_score_sector %>% 
   dplyr::group_by(sector) %>% 
   dplyr::slice_tail(n = 5)%>% 
