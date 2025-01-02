@@ -956,3 +956,10 @@ output_signal %>%
   dplyr::slice_head(n = 5) %>% 
   tidyr::pivot_wider(names_from = date, values_from = last_day_score) %>% 
   write.table("signals/ptf_ts_score.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+
+avg_score_sector %>% 
+  dplyr::group_by(sector) %>% 
+  dplyr::slice_tail(n = 5)%>% 
+  tidyr::pivot_wider(names_from = date, values_from = avg_score) %>% 
+  write.table("signals/sector_ts_score.txt", sep = "\t", dec = ".", row.names = FALSE)
