@@ -978,3 +978,28 @@ avg_score_sector %>%
   dplyr::slice_tail(n = 5)%>% 
   tidyr::pivot_wider(names_from = date, values_from = avg_score) %>% 
   write.table("signals/sector_ts_score.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+
+avg_score_sector_14 <- avg_score_sector %>% 
+  dplyr::group_by(sector) %>% 
+  dplyr::slice_tail(n = 14)
+
+avg_score_sector %>% 
+  dplyr::group_by(sector) %>% 
+  dplyr::slice_tail(n = 14) %>% 
+  dplyr::group_by(sector) %>% 
+  dplyr::mutate(
+    min_date = min(date),
+    max_date = max(date),
+    avg_score = NULL,
+    date = NULL
+  ) %>% 
+  dplyr::distinct() %>% 
+  dplyr::left_join(avg_score_sector_14, by = c('sector', 'min_date' = 'date')) %>% 
+  dplyr::left_join(avg_score_sector_14, by = c('sector', 'max_date' = 'date')) %>% 
+  dplyr::mutate(
+    delta_score = avg_score.y / avg_score.x - 1
+  ) %>% 
+  dplyr::arrange(delta_score) %>% 
+  tidyr::pivot_wider(names_from = date, values_from = avg_score) %>% 
+  write.table("signals/sector_trend_score.txt", sep = "\t", dec = ".", row.names = FALSE)
