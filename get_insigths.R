@@ -984,7 +984,7 @@ avg_score_sector_14 <- avg_score_sector %>%
   dplyr::group_by(sector) %>% 
   dplyr::slice_tail(n = 14)
 
-avg_score_sector %>% 
+sector_trend_score <- avg_score_sector %>% 
   dplyr::group_by(sector) %>% 
   dplyr::slice_tail(n = 14) %>% 
   dplyr::group_by(sector) %>% 
@@ -1000,5 +1000,7 @@ avg_score_sector %>%
   dplyr::mutate(
     delta_score = avg_score.y / avg_score.x - 1
   ) %>% 
-  dplyr::arrange(delta_score) %>% 
+  dplyr::arrange(delta_score)
+
+sector_trend_score %>% 
   write.table("signals/sector_trend_score.txt", sep = "\t", dec = ".", row.names = FALSE)
