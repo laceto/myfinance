@@ -2,6 +2,7 @@
 # install.packages("readxl")
 library(dplyr)
 library(broom)
+library(tidyquant)
 
 files_stocks <- list.files("data_proc", full.names = T)
 
@@ -721,153 +722,6 @@ regime_change_followed_signal %>%
   dplyr::filter(rrg == -1) %>% 
   write.table("signals/bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
 
-
-# regime_change %>% 
-#   dplyr::select(name, ticker, date_regime_change, rrg) %>% 
-#   dplyr::left_join(
-#     changes %>% 
-#       dplyr::rename(
-#         date_last_change = date
-#       )
-#   ) %>% 
-#   dplyr::left_join(bull_swing_r) %>% 
-#   dplyr::filter(signal == rrg) %>%
-#   dplyr::mutate(
-#     date_regime_change = lubridate::as_date(date_regime_change),
-#     date_last_change = lubridate::as_date(date_last_change),
-#     date_last_swing_r = lubridate::as_date(date_last_swing_r)
-#   ) %>% 
-#   # dplyr::filter(ticker == 'GROW.MI') %>% 
-#   dplyr::semi_join(
-#     max_equity
-#     # %>% 
-#     #   dplyr::filter(ticker == 'GROW.MI')
-#   ) %>% 
-#   dplyr::filter(date_regime_change <= date_last_swing_r)%>% 
-#   dplyr::filter(date_last_swing_r <= date_last_change)
-# 
-# regime_change %>% 
-#   dplyr::semi_join(bull, by = join_by(name, ticker)) %>% 
-#   dplyr::select(name, ticker, date_regime_change, rrg) %>% 
-#   dplyr::left_join(
-#     changes %>% 
-#       dplyr::rename(
-#         date_last_change = date
-#       ), by = join_by(ticker)
-#   ) %>% 
-#   dplyr::left_join(bull_swing_r) %>% 
-#   dplyr::filter(signal == rrg) %>%
-#   dplyr::mutate(
-#     date_regime_change = lubridate::as_date(date_regime_change),
-#     date_last_change = lubridate::as_date(date_last_change),
-#     date_last_swing_r = lubridate::as_date(date_last_swing_r)
-#   ) %>% 
-#   dplyr::filter(date_regime_change <= date_last_swing_r) %>%
-#   dplyr::filter(date_last_swing_r <= date_last_change) %>% View()
-# 
-# 
-# changes %>% 
-#   dplyr::rename(
-#     date_last_change = date
-#   ) %>% 
-#   dplyr::filter(ticker == 'OVS.MI')
-
-
-# bull_signal_after_change_maxequity <- regime_change_followed_signal %>% 
-#   dplyr::filter(rrg == 1) %>% 
-#   dplyr::semi_join(
-#     max_equity, by = join_by(ticker, method)
-#   ) %>% 
-#   dplyr::left_join(
-#     output_signal %>% 
-#       dplyr::mutate(
-#         date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
-#       ) %>% 
-#       tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>%
-#       dplyr::group_by(name, ticker, date) %>% 
-#       dplyr::summarise(
-#         last_day_score = sum(signal)
-#       ) %>% 
-#       dplyr::group_by(name, ticker) %>% 
-#       dplyr::slice_tail(n = 1)
-#   ) %>% 
-#   dplyr::left_join(
-#     bull_swing_r, by = join_by(name, ticker)
-#   ) %>% 
-#   dplyr::select(-c(rrg, method, signal, date, rl3))
-# 
-# 
-# 
-# 
-# bear_signal_after_change_maxequity <- regime_change_followed_signal %>% 
-#   dplyr::filter(rrg == -1) %>% 
-#   dplyr::semi_join(
-#     max_equity
-#   ) %>% 
-#   dplyr::left_join(
-#     output_signal %>% 
-#       dplyr::mutate(
-#         date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
-#       ) %>% 
-#       tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>%
-#       dplyr::group_by(name, ticker, date) %>% 
-#       dplyr::summarise(
-#         last_day_score = sum(signal)
-#       ) %>% 
-#       dplyr::group_by(name, ticker) %>% 
-#       dplyr::slice_tail(n = 1)
-#   ) %>% 
-#   dplyr::left_join(
-#     bear_swing_r
-#   ) %>% 
-#   dplyr::select(-c(rrg, method, signal, date, rh3))
-# 
-# 
-# 
-# bear_signal_change_maxequity <- bear_tot %>%
-#   dplyr::filter(marginabile == "si") %>%
-#   dplyr::arrange(last_day_score) %>% 
-#   dplyr::select(-c(name.y, name.x, rrg, hi3, marginabile, last_day_volume)) %>% 
-#   dplyr::semi_join(
-#     max_equity, by = join_by(ticker)
-#   ) %>% 
-#   dplyr::left_join(
-#     bear_swing_r
-#   ) %>% 
-#   dplyr::select(ticker, name, sector, contains('swing'), contains('score'), contains('last')) %>% 
-#   dplyr::arrange((last_day_score), desc(date_last_swing_r))
-# 
-# 
-# 
-# bull_signal_change_maxequity <- bull_tot %>%
-#   dplyr::arrange(desc(last_day_score)) %>% 
-#   dplyr::select(-c(name.y, name.x, rrg, lo3, marginabile, last_day_volume)) %>% 
-#   dplyr::semi_join(
-#     max_equity, by = join_by(ticker)
-#   ) %>% 
-#   dplyr::left_join(
-#     bull_swing_r
-#   ) %>% 
-#   dplyr::select(ticker, name, sector, contains('swing'), contains('score'), contains('last')) %>% 
-#   dplyr::arrange((last_day_score), desc(date_last_swing_r))
-# 
-# 
-# 
-# 
-# 
-# bear_last_changes_max_equity %>% 
-#   dplyr::left_join(
-#     bear_tot %>%
-#       dplyr::filter(marginabile == "si") %>% dplyr::select(ticker, last_day_score, sector, name)
-#   ) %>% 
-#   dplyr::left_join(
-#     bear_swing_r
-#   ) %>% 
-#   dplyr::arrange(desc(date_last_change), desc(date_last_swing_r)) %>% 
-#   dplyr::select(-c(rh3, method))
-# 
-
-
 bull_signal_maxequity_after_change_afterregime <- regime_change_followed_signal %>% 
   dplyr::filter(rrg == 1) %>% 
   dplyr::semi_join(
@@ -1004,3 +858,42 @@ sector_trend_score <- avg_score_sector %>%
 
 sector_trend_score %>% 
   write.table("signals/sector_trend_score.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+
+stop_loss <- output_signal %>% 
+  dplyr::select(rrg, ticker, name, date, high:close, stop_loss, hi1, hi2, hi3, hi4, lo1, lo2, lo3, lo4, flr, clg) %>%
+  dplyr::mutate(
+    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+  ) %>% 
+  tidyr::fill(c(hi1, hi2, hi3, hi4, lo1, lo2, lo3, lo4, flr, clg), .direction = 'down') %>% 
+  dplyr::rename(
+    data = date
+  ) %>% 
+  dplyr::group_by(ticker, name) %>% 
+  tq_mutate(select = c("high", "low", "close"), n=14, mutate_fun = ATR) %>% 
+  tq_mutate(select = c("high", "low"), mutate_fun = DonchianChannel) %>%
+  tq_mutate(select     = close, 
+            mutate_fun = periodReturn, 
+            period     = "daily", 
+            type       = "log",
+            col_rename = "daily.returns") %>% 
+  mutate(
+    factor = 1,
+    sd = runSD(close, n = 14, sample = TRUE, cumulative = FALSE),
+    sd_low = close - sd * factor,
+    sd_high = close + sd * factor,
+    atr_low = close - atr * factor,
+    atr_high = close + atr * factor
+  ) %>% 
+  dplyr::rename(ATR_trueHigh = ATR,
+                ATR_trueLow = ATR..1,
+                DC_low = DonchianChannel,
+                DC_mid = mid,
+                DC_high = DonchianChannel..1) %>% 
+  dplyr::select(rrg, data, close, factor, atr_low, atr_high, DC_low, DC_high, sd_low, sd_high, stop_loss, hi1, hi2, hi3, hi4, lo1, lo2, lo3, lo4, flr, clg) %>% 
+  dplyr::group_by(ticker, name) %>% 
+  dplyr::slice_tail(n = 1) %>% 
+  dplyr::arrange(rrg, ticker)
+
+stop_loss %>%
+  write.table("signals/stop_loss.txt", sep = "\t", dec = ".", row.names = FALSE)
