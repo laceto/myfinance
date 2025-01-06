@@ -20,6 +20,7 @@ jobs:
       - name: Run Jupyter Notebook  
         run: |  
           pip install pandas
+          pip install openpyxl
           python -c "import pandas as pd; df = pd.read_excel('data/A2A.MI.xlsx'); print(df)"  
           #python NT/test.py
           #jupyter nbconvert --to notebook --execute "NT/ATR_A2A.ipynb" 
