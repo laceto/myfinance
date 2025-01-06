@@ -26,7 +26,7 @@ jobs:
           #pip install openpyxl
           #python -c "import pandas as pd; df = pd.read_excel('data/A2A.MI.xlsx'); print(df)"  
           #python NT/test.py
-          jupyter nbconvert --to notebook --execute "NT/update_nt.ipynb" 
+          jupyter nbconvert --to notebook --execute "NT/ATR_A2A.ipynb" 
           #jupyter nbconvert --execute NT/ATR_A2A.ipynb  
       - name: Commit results
         run: |
