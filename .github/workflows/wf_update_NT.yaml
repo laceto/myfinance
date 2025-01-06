@@ -19,6 +19,7 @@ jobs:
           pip install openpyxl
           pip install nbconvert
           pip install pandas
+          pip install matplotlib
           #pip install -r requirements.txt
       - name: Run Jupyter Notebook  
         run: |  
