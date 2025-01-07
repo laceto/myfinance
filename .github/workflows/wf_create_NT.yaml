@@ -2,30 +2,48 @@ name: create Jupyter Notebook Action
 on:
   workflow_dispatch:  
 
+# jobs:  
+#   build:  
+#     runs-on: ubuntu-latest  
+#     steps:  
+#       - name: Checkout code  
+#         uses: actions/checkout@v2  
+#       - name: Set up Python  
+#         uses: actions/setup-python@v2  
+#         with:  
+#           python-version: 3.8  
+#       - name: Install dependencies  
+#         run: |  
+#           python -m pip install --upgrade pip  
+#           pip install jupyter
+#           pip install -r requirements.txt
+#           pip install pandas openpyxl nbformat nbconvert
+#       - name: Run Jupyter Notebook  
+#         run: |  
+#           #python NT/untitled.py  
+#           jupyter nbconvert --to notebook --output empty.ipynb --create
+#       - name: Commit results
+#         run: |
+#           git config --local user.email "actions@github.com"
+#           git config --local user.name "GitHub Actions"
+#           git add .
+#           git commit -m "create NT" || echo "No changes to commit"
+#           git push origin || echo "No changes to commit"
+
+  
 jobs:  
-  build:  
+  create-notebooks:  
     runs-on: ubuntu-latest  
     steps:  
       - name: Checkout code  
         uses: actions/checkout@v2  
-      - name: Set up Python  
-        uses: actions/setup-python@v2  
-        with:  
-          python-version: 3.8  
-      - name: Install dependencies  
+      - name: Install Jupyter and Papermill  
         run: |  
-          python -m pip install --upgrade pip  
-          pip install jupyter
-          pip install -r requirements.txt
-          pip install pandas openpyxl nbformat nbconvert
-      - name: Run Jupyter Notebook  
+          pip install jupyter papermill  
+      - name: Create notebooks  
         run: |  
-          #python NT/untitled.py  
-          jupyter nbconvert --to notebook --output empty.ipynb --create
-      - name: Commit results
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add .
-          git commit -m "create NT" || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+          mkdir NT  
+          for excel_file in $(ls data/*.xlsx | head -n 3); do  
+            notebook_name=NT/$(basename "$excel_file" .xlsx).ipynb  
+            papermill template.ipynb "$notebook_name" -p excel_file "$excel_file"  
+          done  
