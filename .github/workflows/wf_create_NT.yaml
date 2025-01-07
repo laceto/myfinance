@@ -39,7 +39,7 @@ jobs:
         uses: actions/checkout@v2  
       - name: Install Jupyter and Papermill  
         run: |  
-          pip install jupyter papermill  
+          pip install jupyter papermill pandas openpyxl nbformat nbconvert
       - name: Create notebooks  
         run: |    
           for excel_file in $(ls data/*.xlsx | head -n 3); do  
