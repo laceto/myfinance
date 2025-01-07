@@ -37,6 +37,7 @@ os.chdir('NT')
 for file_name in file_list:  
     # Set the path to the file  
     path_to_file = os.path.join(folder_path, file_name)  
+    print(file_name)
   
     # Define the parameters to pass to the notebook  
     parameters = {'path_to_file': path_to_file}  
