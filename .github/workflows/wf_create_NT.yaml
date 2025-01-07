@@ -41,7 +41,8 @@ jobs:
         run: |  
           #pip install jupyter papermill pandas openpyxl nbformat nbconvert
           # pip install glob2
-          python -c "import os; dir = os.listdir(); print(dir)"
+          #python -c "import os; dir = os.listdir(); print(dir)"
+          python -c "import os; py_files = [f for f in os.listdir('data') if os.path.isfile(os.path.join('data', f)) and f.endswith('.py')]; print(py_files)"
           # python -c "import glob; py_files = glob.glob('data/*.py'); print(py_files)"  
       # - name: Create notebooks  
       #   run: |    
