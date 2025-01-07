@@ -25,6 +25,9 @@ import os
 # Get a list of all Excel files in the `data` folder  
 data_files = os.listdir('data')  
 data_files = [f for f in data_files if f.endswith('MI.xlsx')]  
+
+# Only process the first three Excel files  
+data_files = data_files[:3]  
   
 for data_file in data_files:  
     # Read one Excel file from the `data` folder and create a pandas DataFrame  
