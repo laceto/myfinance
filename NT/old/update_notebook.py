@@ -18,6 +18,6 @@ exporter.exporter_name = 'notebook'
 body, resources = exporter.from_notebook_node(nb)  
   
 # Save the notebook back to file  
-with open('template.ipynb', 'w') as f:  
+with open('template2.ipynb', 'w') as f:  
     f.write(body)  
 
