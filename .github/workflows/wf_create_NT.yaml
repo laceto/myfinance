@@ -41,9 +41,8 @@ jobs:
         run: |  
           pip install jupyter papermill  
       - name: Create notebooks  
-        run: |  
-          mkdir NT  
+        run: |    
           for excel_file in $(ls data/*.xlsx | head -n 3); do  
             notebook_name=NT/$(basename "$excel_file" .xlsx).ipynb  
-            papermill template.ipynb "$notebook_name" -p excel_file "$excel_file"  
+            papermill NT/template.ipynb "$notebook_name" -p excel_file "$excel_file"  
           done  
