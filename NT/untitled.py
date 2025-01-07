@@ -11,10 +11,10 @@ import sys
 import pandas as pd
 import openpyxl
  
-cwd = os.getcwd()  
-os.chdir("..")  
+#cwd = os.getcwd()  
+#os.chdir("..")  
 
-sys.path.append(os.path.abspath("data"))
+#sys.path.append(os.path.abspath("data"))
 #from relative import *
 #from AT_funs import *
 
