@@ -24,6 +24,8 @@ jobs:
           jupyter nbconvert --execute NT/ATR_CPR.ipynb --inplace 
           jupyter nbconvert --execute NT/ATR_IP.ipynb --inplace 
           jupyter nbconvert --execute NT/ATR_IG.ipynb --inplace 
+          jupyter nbconvert --execute NT/ATR_MONC.ipynb --inplace
+          jupyter nbconvert --execute NT/ATR_NEXI.ipynb --inplace
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
