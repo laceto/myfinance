@@ -14,7 +14,7 @@ nb, _ = clear_output.preprocess(nb, {})
 exporter = NotebookExporter()  
 exporter.exclude_input_prompt = True  
 exporter.exclude_output_prompt = True  
-exporter.exporter_name = 'template'  
+exporter.exporter_name = 'notebook'  
 body, resources = exporter.from_notebook_node(nb)  
   
 # Save the notebook back to file  
