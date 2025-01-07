@@ -20,7 +20,8 @@ jobs:
           pip install pandas openpyxl nbformat nbconvert
       - name: Run Jupyter Notebook  
         run: |  
-          python NT/untitled.py  
+          #python NT/untitled.py  
+          jupyter nbconvert --to notebook --output empty.ipynb --create
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
