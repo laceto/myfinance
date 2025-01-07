@@ -15,8 +15,8 @@ cwd = os.getcwd()
 os.chdir("..")  
 
 sys.path.append(os.path.abspath("data"))
-from relative import *
-from AT_funs import *
+#from relative import *
+#from AT_funs import *
 
 import pandas as pd  
 import openpyxl  
