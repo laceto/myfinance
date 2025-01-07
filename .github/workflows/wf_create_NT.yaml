@@ -39,10 +39,14 @@ jobs:
         uses: actions/checkout@v2  
       - name: Install Jupyter and Papermill  
         run: |  
-          pip install jupyter papermill pandas openpyxl nbformat nbconvert
-      - name: Create notebooks  
-        run: |    
-          for excel_file in $(ls data/*.xlsx | head -n 3); do  
-            notebook_name=NT/$(basename "$excel_file" .xlsx).ipynb  
-            papermill NT/template.ipynb "$notebook_name" -p excel_file "$excel_file"  
-          done  
+          #pip install jupyter papermill pandas openpyxl nbformat nbconvert
+          # pip install glob2
+          #python -c "import os; dir = os.listdir(); print(dir)"
+          python -c "import os; py_files = [f for f in os.listdir('data') if os.path.isfile(os.path.join('data', f)) and f.endswith('.py')]; print(py_files)"
+          # python -c "import glob; py_files = glob.glob('data/*.py'); print(py_files)"  
+      # - name: Create notebooks  
+      #   run: |    
+      #     for excel_file in $(ls data/*.xlsx | head -n 3); do  
+      #       notebook_name=NT/$(basename "$excel_file" .xlsx).ipynb  
+      #       papermill NT/template.ipynb "$notebook_name" -p excel_file "$excel_file"  
+      #     done  
