@@ -17,7 +17,7 @@ jobs:
           python -m pip install --upgrade pip  
           pip install jupyter
           pip install -r requirements.txt
-          pip install pandas openpyxl nbformat nbconvert
+          pip install pandas openpyxl nbformat nbconvert papermill
       - name: Run Jupyter Notebook  
         run: |  
           python NT/untitled.py  
