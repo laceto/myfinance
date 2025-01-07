@@ -20,7 +20,7 @@ jobs:
           pip install pandas openpyxl nbformat nbconvert
       - name: Run Jupyter Notebook  
         run: |  
-          python NT/create_NT_loop.py  
+          python NT/untitled.py  
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
