@@ -85,10 +85,29 @@ def signal_rbo(df, window, relative=False):
     df[prefix_bo + str(window)]= regime_breakout(df= df,_h= _h,_l= _l,window= window)
     return df
 
-def plot_signal_bo(df, window, ticker):
+# def plot_signal_bo(df, window, ticker):
     
-    df[['close','hi_'+str(window),'lo_'+str(window),'bo_'+ str(window)]].plot(
-        secondary_y= ['bo_'+ str(window)], figsize=(20,5), style=['k','g:','r:','b-.'], 
+#     df[['close','hi_'+str(window),'lo_'+str(window),'bo_'+ str(window)]].plot(
+#         secondary_y= ['bo_'+ str(window)], figsize=(20,5), style=['k','g:','r:','b-.'], 
+#         title = str.upper(ticker)+' '+str(window) +' days high/low')
+#     plt.show()
+
+def plot_signal_bo(df, window, ticker, relative):
+
+    _o,_h,_l,_c = lower_upper_OHLC(df,relative = relative)
+    
+    prefix_h = 'hi_'
+    prefix_l = 'lo_'
+    prefix_bo = 'bo_'
+    close = 'close'
+    if relative:
+        prefix_h = 'rhi_'
+        prefix_l = 'rlo_'
+        prefix_bo = 'rbo_'  
+        close = 'rclose'
+    df = df.set_index('date')
+    df[[close, prefix_h + str(window), prefix_l + str(window), prefix_bo + str(window)]].plot(
+        secondary_y= [prefix_bo + str(window)], figsize=(20,5), style=['k','g:','r:','b-.'], 
         title = str.upper(ticker)+' '+str(window) +' days high/low')
     plt.show()
     
@@ -118,7 +137,7 @@ def signal_rtt(df, slow, fast, relative=False):
 
 def plot_signal_tt(df, fast, slow):
     
-    rg_cols = ['turtle_'+ str(slow)+str(fast)]
+    rg_cols = ['turtle_'+ str(sselow)+str(fast)]
 
     df[['close','turtle_'+ str(slow)+str(fast)] ].plot(
         secondary_y= rg_cols,figsize=(20,5), style=['k','b-.'], 
