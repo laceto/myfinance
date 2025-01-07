@@ -25,7 +25,7 @@ import papermill as pm
   
 # Set the name of your notebook  
 notebook_name = 'template.ipynb'  
-os.chdir("..")   
+# os.chdir("..")   
 # Set the path to the folder containing the files  
 folder_path = 'data/'  
   
