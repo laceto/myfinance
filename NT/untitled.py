@@ -32,7 +32,8 @@ folder_path = 'data/'
 # Get a list of the first 3 files in the folder  
 # file_list = os.listdir(folder_path)
 exclude_files = {"FTSEMIB.MI.xlsx", "marginabili.xlsx", "sectors.xlsx", "output_signals.xlsx", "PTF.xlsx"}
-file_list = [file for file in os.listdir('data') if file.endswith(".xlsx") and file not in exclude_files]
+# file_list = [file for file in os.listdir('data') if file.endswith(".xlsx") and file not in exclude_files]
+file_list = [file for file in os.listdir('data') if file.endswith(".xlsx") and file not in exclude_files and not file.endswith(".py")]  
 
 os.chdir('NT')
 
