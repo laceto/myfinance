@@ -13,6 +13,7 @@ Imports:
     lubridate,
     openxlsx,
     yahoofinancer,
-    tidyquant
+    tidyquant,
+    TTR
 Depends: 
     R (>= 2.10)
