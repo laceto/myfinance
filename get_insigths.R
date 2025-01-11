@@ -936,8 +936,10 @@ overbouth_volume_divergence <- output_signal %>%
   tidyr::expand_grid(
     parameter
   ) %>% 
-  dplyr::group_split(ticker, id) %>%
-  purrr::map_df(identify_short_entry, nRSI, nSMA) %>% 
+  dplyr::group_split(ticker, id)
+
+overbouth_volume_divergence <- lapply(overbouth_volume_divergence, identify_short_entry, nRSI, nSMA) %>%
+  dplyr::bind_rows() %>% 
   dplyr::filter(overbouth, volume_divergence) %>% 
   dplyr::group_by(ticker, id) %>% 
   dplyr::slice_tail(n = 1) %>% 
