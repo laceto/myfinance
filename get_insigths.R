@@ -902,12 +902,16 @@ stop_loss %>%
 library(TTR)
 identify_short_entry <- function(data, nRSI){
   
-  data$RSI <- TTR::RSI(data$close, n = data$nRSI)
-  data$overbouth <- data$RSI > 70
-
-  data$volume_divergence <- c(FALSE, diff(data$volume) < 0 & diff(data$close) > 0)
+  nRSI <- unique(data %>% dplyr::pull(nRSI))
   
   data %>% 
+    dplyr::mutate(
+      RSI = TTR::RSI(close, n = nRSI),
+      overbouth = RSI > 70,
+      diff_volume = volume - dplyr::lag(volume),
+      diff_close = close - dplyr::lag(close),
+      volume_divergence = diff_volume < 0 & diff_close > 0
+    ) %>% 
     dplyr::select(id, ticker, name, date, volume, close, nRSI, overbouth, volume_divergence)
   
   
@@ -928,14 +932,31 @@ overbouth_volume_divergence <- output_signal %>%
   ) %>% 
   dplyr::group_split(ticker, id)
 
-overbouth_volume_divergence <- lapply(overbouth_volume_divergence, identify_short_entry, nRSI) %>%
-  dplyr::bind_rows() %>% 
-  dplyr::filter(overbouth, volume_divergence) %>% 
-  dplyr::group_by(ticker, id) %>% 
-  dplyr::slice_tail(n = 1) %>% 
-  dplyr::arrange(desc(date)) %>% 
-  dplyr::ungroup() %>% 
-  dplyr::select(ticker, name, date, nRSI )
+overbouth_volume_divergence <- tryCatch(
+  expr = {
+    message(lapply(overbouth_volume_divergence, identify_short_entry, nRSI) %>%
+              dplyr::bind_rows() %>% 
+              dplyr::filter(overbouth, volume_divergence) %>% 
+              dplyr::group_by(ticker, id) %>% 
+              dplyr::slice_tail(n = 1) %>% 
+              dplyr::arrange(desc(date)) %>% 
+              dplyr::ungroup() %>% 
+              dplyr::select(ticker, name, date, nRSI ))
+    message("Successfully executed the log(x) call.")
+  },
+  error = function(e){
+    message('Caught an error!')
+    print(e)
+  },
+  warning = function(w){
+    message('Caught an warning!')
+    print(w)
+  },
+  finally = {
+    message('All done, quitting.')
+  }
+)    
+
 
 overbouth_volume_divergence %>%
   write.table("signals/overbouth_volume_divergence.txt", sep = "\t", dec = ".", row.names = FALSE)
