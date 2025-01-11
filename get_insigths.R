@@ -913,10 +913,10 @@ identify_short_entry <- function(data, nRSI, nSMA){
                                   data$close[-1] <= data$SMA[-1] & 
                                     lag(data$close, 1)[-1] >= lag(data$SMA, 1)[-1])
   
-  data$short_entry <- data$overbouth & data$volume_divergence & data$reversal_confirmation
+  # data$short_entry <- data$overbouth & data$volume_divergence & data$reversal_confirmation
   
   data %>% 
-    dplyr::select(id, ticker, name, date, volume, close, nRSI, nSMA, overbouth, SMA, volume_divergence, reversal_confirmation, short_entry)
+    dplyr::select(id, ticker, name, date, volume, close, nRSI, nSMA, overbouth, SMA, volume_divergence, reversal_confirmation)
   
   
 }
@@ -943,7 +943,7 @@ overbouth_volume_divergence <- output_signal %>%
   dplyr::slice_tail(n = 1) %>% 
   dplyr::arrange(desc(date)) %>% 
   dplyr::ungroup() %>% 
-  dplyr::select(ticker, name, date, nRSI)
+  dplyr::select(ticker, name, date, nRSI )
 
 overbouth_volume_divergence %>%
   write.table("signals/overbouth_volume_divergence.txt", sep = "\t", dec = ".", row.names = FALSE)
