@@ -900,27 +900,26 @@ stop_loss %>%
 
 
 library(TTR)
-identify_short_entry <- function(data, nRSI, nSMA){
+identify_short_entry <- function(data, nRSI){
   
   data$RSI <- TTR::RSI(data$close, n = data$nRSI)
   data$overbouth <- data$RSI > 70
   
-  data$SMA <- SMA(data$close, n = data$nSMA)
+  # data$SMA <- SMA(data$close, n = data$nSMA)
   
   data$volume_divergence <- c(FALSE, diff(data$volume) < 0 & diff(data$close) > 0)
   
-  data$reversal_confirmation <- c(FALSE, 
-                                  data$close[-1] <= data$SMA[-1] & 
-                                    lag(data$close, 1)[-1] >= lag(data$SMA, 1)[-1])
+  # data$reversal_confirmation <- c(FALSE, 
+  #                                 data$close[-1] <= data$SMA[-1] & 
+  #                                   lag(data$close, 1)[-1] >= lag(data$SMA, 1)[-1])
   
   # data$short_entry <- data$overbouth & data$volume_divergence & data$reversal_confirmation
   
   data %>% 
-    dplyr::select(id, ticker, name, date, volume, close, nRSI, nSMA, overbouth, SMA, volume_divergence, reversal_confirmation)
+    dplyr::select(id, ticker, name, date, volume, close, nRSI, overbouth, SMA, volume_divergence)
   
   
 }
-
 parameter <- tidyr::expand_grid(
   nRSI = c(3, 7, 14, 21, 28, 50),
   nSMA = c(50)
