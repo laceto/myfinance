@@ -937,7 +937,7 @@ overbouth_volume_divergence <- output_signal %>%
   ) %>% 
   dplyr::group_split(ticker, id)
 
-overbouth_volume_divergence <- lapply(overbouth_volume_divergence, identify_short_entry, nRSI, nSMA) %>%
+overbouth_volume_divergence <- lapply(overbouth_volume_divergence, identify_short_entry, nRSI) %>%
   dplyr::bind_rows() %>% 
   dplyr::filter(overbouth, volume_divergence) %>% 
   dplyr::group_by(ticker, id) %>% 
