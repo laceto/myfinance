@@ -1,5 +1,5 @@
-# install.packages("dplyr")
-# install.packages("readxl")
+library(purrr)
+library(TTR)
 library(dplyr)
 library(broom)
 library(tidyquant)
