@@ -1,6 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"NEXI"	"NEXI.MI"	"2020-10-07 07:00:00"	"2024-12-11 08:00:00"	"Finance"	-3	"2024-09-10 07:00:00"
-"TERNA"	"TRN.MI"	"2022-09-27 07:00:00"	"2024-12-06 08:00:00"	"Utilities"	-3	"2024-09-10 07:00:00"
+"TERNA"	"TRN.MI"	"2024-11-07 08:00:00"	"2024-12-06 08:00:00"	"Utilities"	-3	"2024-11-27 08:00:00"
 "INWIT"	"INW.MI"	"2023-07-20 07:00:00"	"2024-11-06 08:00:00"	"Communications"	-3	"2024-09-10 07:00:00"
 "TINEXTA"	"TNXT.MI"	"2022-07-08 07:00:00"	"2024-03-05 08:00:00"	"Technology Services"	0	"2024-05-28 07:00:00"
 "ERG"	"ERG.MI"	"2022-12-15 08:00:00"	"2024-02-23 08:00:00"	"Utilities"	0	"2024-11-28 08:00:00"

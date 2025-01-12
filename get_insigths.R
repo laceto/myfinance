@@ -1,5 +1,5 @@
-# install.packages("dplyr")
-# install.packages("readxl")
+library(purrr)
+library(TTR)
 library(dplyr)
 library(broom)
 library(tidyquant)
@@ -900,6 +900,7 @@ stop_loss %>%
   write.table("signals/stop_loss.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 
+<<<<<<< HEAD
 # library(TTR)
 # identify_short_entry <- function(data, nRSI){
 #   
@@ -949,3 +950,7 @@ stop_loss %>%
 # overbouth_volume_divergence %>%
 #   write.table("signals/overbouth_volume_divergence.txt", sep = "\t", dec = ".", row.names = FALSE)
 # 
+=======
+
+  
+>>>>>>> 53a95b7fdce463009cbdff3bcd53d9df41c07084
