@@ -1,9 +1,9 @@
-"sector"	"name"	"ticker"	"2025-01-10"	"2025-01-09"	"2025-01-08"	"2025-01-07"	"2025-01-06"
+"sector"	"name"	"ticker"	"2025-01-13"	"2025-01-10"	"2025-01-09"	"2025-01-08"	"2025-01-07"
 "Distribution Services"	"AMPLIFON"	"AMP.MI"	0	0	0	0	0
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	-1	-1	-1	-1	-1
 "Electronic Technology"	"GEFRAN"	"GE.MI"	4	4	4	4	4
-"Utilities"	"ITALGAS"	"IG.MI"	3	3	3	1	1
-"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	0	-2	-2	-2	-2
-"Non-Energy Minerals"	"TENARIS"	"TEN.MI"	5	5	5	4	4
+"Utilities"	"ITALGAS"	"IG.MI"	3	1	1	1	1
+"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	0	0	-2	-2	-2
+"Non-Energy Minerals"	"TENARIS"	"TEN.MI"	5	5	5	5	4
