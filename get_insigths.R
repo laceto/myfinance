@@ -207,7 +207,8 @@ regime_change <- bull_changes %>%
   dplyr::arrange(desc(date)) %>% 
   dplyr::rename(
     date_regime_change = date
-  )
+  ) %>% 
+  dplyr::select(name:date_regime_change, rrg)
 
 regime_change %>%
   write.table("signals/regime_change.txt", sep = "\t", dec = ".", row.names = FALSE)
@@ -781,16 +782,18 @@ bear_signal_maxequity_after_change_afterregime <- regime_change_followed_signal 
 bear_signal_maxequity_after_change_afterregime %>% 
   write.table("signals/max_equity_bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
 
-
+ptf_name <- 'NOVO|CEMBRE|BUZZI|GEFRAN|TERNA|EXPERT|CUCINELLI|MEDIOLANUM|RAI|GAROFALO|COMAL|TENARIS
+STM|CEMENTIR|MONCLER|AMPLIFON|A2A|ITALGAS'
 
 ptf_signals <- output_signal %>% 
-  dplyr::filter(stringr::str_detect(name, 'TENARIS|AVIO|GEFRAN|CUCINELLI|CAMPARI|ITALGAS|INTERPUMP|AMPLIFON')) %>% 
+  dplyr::filter(stringr::str_detect(name, ptf_name)) %>% 
   dplyr::mutate(
     date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
   ) %>% 
   # tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>% 
   dplyr::select(date, ticker, name, rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg) %>% 
-  dplyr::filter(date == max(date))
+  dplyr::filter(date == max(date)) %>% 
+  dplyr::arrange(rrg)
 
 ptf_signals %>% 
   write.table("signals/ptf_signals.txt", sep = "\t", dec = ".", row.names = FALSE)
@@ -811,6 +814,31 @@ output_signal %>%
   dplyr::slice_head(n = 5) %>% 
   tidyr::pivot_wider(names_from = date, values_from = last_day_score) %>% 
   write.table("signals/ptf_ts_score.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+fondamentali <- readxl::read_excel('data_fondamentali.xlsx') %>% 
+  dplyr::rename_with(stringr::str_to_lower) %>% 
+  dplyr::select(instrid, description, symbol, capitalization, roe, roi, beta, dividendyield, peratio) %>% 
+  dplyr::distinct() %>% 
+  dplyr::rename(
+    ticker = symbol,
+    name = description,
+    isin = instrid
+  )
+
+readxl::read_excel('portafoglio-export.xlsx', skip = 2) %>% 
+  dplyr::rename_with(stringr::str_to_lower) %>% 
+  dplyr::rename_with(function(x) stringr::str_replace_all(x, " di ", "_")) %>% 
+  dplyr::rename_with(function(x) stringr::str_replace_all(x, "p.zo", "prezzo")) %>% 
+  dplyr::rename_with(function(x) stringr::str_replace_all(x, " ", "_")) %>% 
+  dplyr::rename_with(function(x) stringr::str_replace_all(x, "%", "_perc")) %>% 
+  dplyr::rename_with(function(x) stringr::str_replace_all(x, "€", "amount")) %>% 
+  dplyr::rename(
+    ticker = simbolo,
+    name = titolo
+  ) %>% 
+  dplyr::filter(!is.na(ticker)) %>% 
+  dplyr::left_join(fondamentali) %>% 
+  write.table("signals/ptf_fondamental.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 avg_score_sector <- output_signal %>% 
   dplyr::mutate(
