@@ -1,9 +1,16 @@
-"sector"	"name"	"ticker"	"2025-01-14"	"2025-01-13"	"2025-01-10"	"2025-01-09"	"2025-01-08"
+"sector"	"name"	"ticker"	"2025-01-15"	"2025-01-14"	"2025-01-13"	"2025-01-10"	"2025-01-09"
+"Utilities"	"A2A"	"A2A.MI"	3	3	3	3	3
 "Distribution Services"	"AMPLIFON"	"AMP.MI"	0	0	0	0	0
-"Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	-1	-1	-1	-1	-1
+"Finance"	"BANCA MEDIOLANUM"	"BMED.MI"	5	5	5	5	5
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	2	2	2	2	2
+"Non-Energy Minerals"	"CEMENTIR HOLDING"	"CEM.MI"	4	4	4	4	4
+"Electronic Technology"	"CEMBRE"	"CMB.MI"	2	3	3	3	3
+"Electronic Technology"	"COMAL"	"CML.MI"	5	5	5	5	5
+"Technology Services"	"EXPERT.AI"	"EXAI.MI"	-4	-4	-4	-5	-5
 "Electronic Technology"	"GEFRAN"	"GE.MI"	4	4	4	4	4
+"Health Services"	"GAROFALO HEALTH CARE"	"GHC.MI"	-3	-3	-1	-1	-1
 "Utilities"	"ITALGAS"	"IG.MI"	3	3	3	3	3
-"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	0	0	0	-2	-2
-"Non-Energy Minerals"	"TENARIS"	"TEN.MI"	5	5	5	5	5
+"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	0	0	0	0	0
+"Consumer Services"	"RAI WAY"	"RWAY.MI"	0	0	0	0	2
+"Utilities"	"TERNA"	"TRN.MI"	-3	-3	-3	-3	-3
