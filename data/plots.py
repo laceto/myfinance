@@ -20,6 +20,7 @@ dfs = []
 for file in files:
     file_path = os.path.join('data', file)
     df = pd.read_excel(file_path)
+    df = df.tail(360)
     if df.shape[0] >= 1000:
         dfs.append(df)
         
