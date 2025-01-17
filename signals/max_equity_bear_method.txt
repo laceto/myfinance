@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"ISP.MI"	"INTESA SANPAOLO"	"2025-01-16 16:35:19"	"rtt_5020"	1
 "NEXI.MI"	"NEXI"	"2025-01-10 08:00:00"	"rsma_50100150"	1
 "JUVE.MI"	"JUVENTUS FC"	"2025-01-06 08:00:00"	"rtt_5020"	0
 "TIT.MI"	"TELECOM ITALIA"	"2024-12-16 08:00:00"	"rbo_100"	1

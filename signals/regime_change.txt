@@ -1,10 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ORSERO"	"ORS.MI"	"Distribution Services"	NA	"2025-01-15 16:35:08"	1
-"ALFIO BARDOLLA"	"ABTG.MI"	"Commercial Services"	NA	"2025-01-15 16:05:25"	1
+"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	"2025-01-16 16:35:19"	-1
+"ALFIO BARDOLLA"	"ABTG.MI"	"Commercial Services"	NA	"2025-01-16 13:54:08"	1
+"PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	"2025-01-16 10:58:58"	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	"2025-01-14 08:00:00"	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2025-01-13 08:00:00"	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	"2025-01-10 08:00:00"	1
-"PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	"2025-01-10 08:00:00"	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	"2025-01-09 08:00:00"	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2025-01-09 08:00:00"	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	"2025-01-08 08:00:00"	1
@@ -42,7 +42,6 @@
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	"2024-11-06 08:00:00"	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	"2024-11-05 08:00:00"	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-11-01 08:00:00"	1
-"ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	"2024-10-18 07:00:00"	1
 "KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-10-17 07:00:00"	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	"2024-10-15 07:00:00"	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	"2024-10-11 07:00:00"	1
@@ -60,7 +59,6 @@
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	"2024-07-02 07:00:00"	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	"2024-07-01 07:00:00"	1
 "TPS"	"TPS.MI"	"Commercial Services"	NA	"2024-07-01 07:00:00"	1
-"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	"2024-06-28 07:00:00"	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	"2024-06-24 07:00:00"	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	"2024-05-29 07:00:00"	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	"2024-05-27 07:00:00"	1
@@ -71,8 +69,8 @@
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	"2024-04-24 07:00:00"	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	"2024-04-23 07:00:00"	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	"2024-04-17 07:00:00"	1
+"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	"2024-04-02 07:00:00"	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	"2024-03-14 08:00:00"	1
-"A2A"	"A2A.MI"	"Utilities"	"si"	"2024-03-13 08:00:00"	-1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	"2024-03-11 08:00:00"	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	"2024-03-11 08:00:00"	-1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	"2024-03-06 08:00:00"	1
@@ -93,7 +91,6 @@
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	"2023-06-26 07:00:00"	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	"2023-06-20 07:00:00"	-1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	"2023-06-15 07:00:00"	1
-"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	"2023-06-01 07:00:00"	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	"2022-12-15 08:00:00"	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	"2022-12-15 08:00:00"	-1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	"2022-09-12 07:00:00"	-1
@@ -111,4 +108,5 @@ NA	"NOV.DE"	NA	NA	"2022-01-25 08:00:00"	1
 "NEXI"	"NEXI.MI"	"Finance"	"si"	"2020-10-07 07:00:00"	-1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	"2020-07-24 07:00:00"	-1
 "SOL"	"SOL.MI"	"Process Industries"	NA	"2020-03-12 08:00:00"	1
+"A2A"	"A2A.MI"	"Utilities"	"si"	"2019-12-12 08:00:00"	-1
 "DATALOGIC"	"DAL.MI"	"Electronic Technology"	"si"	"2019-01-28 08:00:00"	-1
