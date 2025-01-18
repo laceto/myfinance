@@ -57,7 +57,7 @@ os.chdir('NT')
 #         pm.execute_notebook(notebook_name, output_notebook_name, parameters=parameters)  
 
 
-for file_name in file_list[:1]:    
+for file_name in file_list:    
     # Set the path to the file    
     path_to_file = os.path.join(folder_path, file_name)    
     print(file_name)  
