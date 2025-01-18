@@ -60,7 +60,7 @@ detect_change <- function(df, regime) {
 bull <- output_signal %>%
   dplyr::group_by(ticker, name) %>%
   dplyr::slice_tail(n = 1) %>%
-  dplyr::filter(rrg != -1) %>%
+  dplyr::filter(rrg == 1) %>%
   dplyr::select(ticker)
 
 # bull
@@ -158,7 +158,7 @@ bull_tot <- bull_score %>%
 bear <- output_signal %>%
   dplyr::group_by(ticker, name) %>%
   dplyr::slice_tail(n = 1) %>%
-  dplyr::filter(rrg == -1) %>%
+  dplyr::filter(rrg != 1) %>%
   dplyr::select(ticker)
 
 # bear
