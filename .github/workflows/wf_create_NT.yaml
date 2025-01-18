@@ -16,6 +16,7 @@ jobs:
         run: |  
           python -m pip install --upgrade pip  
           pip install jupyter
+          pip install --upgrade mplfinance
           pip install -r requirements.txt
           pip install pandas openpyxl nbformat nbconvert papermill
       - name: Run Jupyter Notebook  
