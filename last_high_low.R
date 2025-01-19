@@ -28,10 +28,12 @@ output_signal %>%
   tidyr::pivot_longer(cols = c(hi1, hi2, hi3, hi4, lo1, lo2, lo3, lo4, flr, clg), names_to = 'swing', values_to = 'value') %>% 
   dplyr::filter(!is.na(value)) %>% 
   dplyr::group_by(ticker) %>% 
-  dplyr::slice_tail(n = 1) %>% 
+  # dplyr::slice_tail(n = 1) %>% 
   # dplyr::filter(stringr::str_detect(name, 'BRE'))
-  dplyr::filter(stringr::str_detect(swing, "hi")) %>% 
-  dplyr::arrange(desc(date))
+  dplyr::filter(stringr::str_detect(swing, "hi2")) %>% 
+  dplyr::arrange(desc(date)) %>% View()
+
+# SHORT: ERG 20, TINEXTA 7.8, TERNA 7.8, SNAM 4.3, MARR 10, INWIT 9.5, DANIELI 25, BREMBO 9, BIESSE 7.5
 
 
 output_signal %>% 
