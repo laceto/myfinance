@@ -1,10 +1,12 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	"2025-01-17 16:35:06"	1
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2025-01-17 16:35:00"	1
-"ALFIO BARDOLLA"	"ABTG.MI"	"Commercial Services"	NA	"2025-01-16 08:00:00"	1
-"ACINQUE"	"AC5.MI"	"Utilities"	NA	"2025-01-16 08:00:00"	1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	"2025-01-20 16:39:56"	-1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	"2025-01-20 16:35:24"	1
+"EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	"2025-01-20 16:35:05"	1
+"WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	"2025-01-20 15:38:04"	1
+"INIZIATIVE BRESCIANE"	"IB.MI"	"Utilities"	NA	"2025-01-20 14:54:03"	1
+"CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2025-01-17 08:00:00"	1
+"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	"2025-01-17 08:00:00"	1
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	"2025-01-16 08:00:00"	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	"2025-01-16 08:00:00"	-1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	"2025-01-15 08:00:00"	1
 "HERA"	"HER.MI"	"Utilities"	"si"	"2025-01-15 08:00:00"	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	"2025-01-15 08:00:00"	1
@@ -12,9 +14,7 @@
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	"2025-01-15 08:00:00"	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	"2025-01-13 08:00:00"	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	"2025-01-10 08:00:00"	1
-"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	"2025-01-08 08:00:00"	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	"2025-01-07 08:00:00"	1
-"WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	"2025-01-02 08:00:00"	1
 "ABITARE IN"	"ABT.MI"	"Finance"	NA	"2024-12-27 08:00:00"	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	"2024-12-19 08:00:00"	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	"2024-12-12 08:00:00"	1
@@ -26,7 +26,7 @@
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	"2024-11-27 08:00:00"	1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	"2024-11-27 08:00:00"	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	"2024-11-27 08:00:00"	1
-"PLC"	"PLC.MI"	"Industrial Services"	NA	"2024-11-22 08:00:00"	1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	"2024-11-26 08:00:00"	-1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	"2024-11-21 08:00:00"	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-11-14 08:00:00"	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	"2024-11-14 08:00:00"	1
@@ -41,7 +41,6 @@
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	"2024-11-06 08:00:00"	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	"2024-11-05 08:00:00"	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-11-01 08:00:00"	1
-"KME GROUP"	"KME.MI"	"Non-Energy Minerals"	NA	"2024-10-17 07:00:00"	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	"2024-10-15 07:00:00"	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	"2024-10-11 07:00:00"	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	"2024-10-11 07:00:00"	1
@@ -52,7 +51,6 @@
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	"2024-09-05 07:00:00"	-1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	"2024-08-16 07:00:00"	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	"2024-08-02 07:00:00"	1
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	"2024-07-22 07:00:00"	1
 "GIGLIO GROUP"	"GG.MI"	"Technology Services"	NA	"2024-07-17 07:00:00"	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	"2024-07-10 07:00:00"	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	"2024-07-02 07:00:00"	1
