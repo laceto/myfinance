@@ -1,20 +1,21 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	"2025-01-21 16:35:27"	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	"2025-01-21 16:35:17"	-1
-"CIR"	"CIR.MI"	"Producer Manufacturing"	NA	"2025-01-21 16:35:13"	1
+"EL.EN"	"ELN.MI"	"Health Technology"	NA	"2025-01-22 16:35:21"	1
+"HERA"	"HER.MI"	"Utilities"	"si"	"2025-01-22 16:35:18"	0
+"CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2025-01-22 15:30:32"	1
+"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	"2025-01-21 08:00:00"	1
 "INIZIATIVE BRESCIANE"	"IB.MI"	"Utilities"	NA	"2025-01-20 08:00:00"	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	"2025-01-20 08:00:00"	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	"2025-01-20 08:00:00"	-1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	"2025-01-20 08:00:00"	-1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	"2025-01-20 08:00:00"	-1
+"ABC COMPANY"	"ABC.MI"	"Finance"	NA	"2025-01-17 08:00:00"	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	"2025-01-17 08:00:00"	1
 "CONFINVEST"	"CFV.MI"	"Distribution Services"	NA	"2025-01-17 08:00:00"	1
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2025-01-17 08:00:00"	1
+"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	"2025-01-17 08:00:00"	1
 "ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	"2025-01-17 08:00:00"	1
 "PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	"2025-01-17 08:00:00"	1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	"2025-01-17 08:00:00"	1
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	"2025-01-16 08:00:00"	1
-"EL.EN"	"ELN.MI"	"Health Technology"	NA	"2025-01-15 08:00:00"	1
-"HERA"	"HER.MI"	"Utilities"	"si"	"2025-01-15 08:00:00"	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	"2025-01-15 08:00:00"	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	"2025-01-15 08:00:00"	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	"2025-01-15 08:00:00"	-1
@@ -29,7 +30,6 @@
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	"2024-12-11 08:00:00"	1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	"2024-12-02 08:00:00"	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	"2024-11-28 08:00:00"	1
-"ABC COMPANY"	"ABC.MI"	"Finance"	NA	"2024-11-27 08:00:00"	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	"2024-11-27 08:00:00"	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	"2024-11-22 08:00:00"	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	"2024-11-21 08:00:00"	1
@@ -63,7 +63,6 @@
 "ACEA"	"ACE.MI"	"Utilities"	"si"	"2024-06-24 07:00:00"	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	"2024-05-29 07:00:00"	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	"2024-05-27 07:00:00"	1
-"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	"2024-05-27 07:00:00"	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	"2024-05-14 07:00:00"	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	"2024-05-09 07:00:00"	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	"2024-05-07 07:00:00"	1
@@ -92,7 +91,6 @@
 "INWIT"	"INW.MI"	"Communications"	"si"	"2023-07-20 07:00:00"	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	"2023-06-26 07:00:00"	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	"2023-06-20 07:00:00"	-1
-"CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	"2023-06-15 07:00:00"	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	"2022-12-15 08:00:00"	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	"2022-12-15 08:00:00"	-1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	"2022-09-12 07:00:00"	-1
