@@ -13,6 +13,26 @@ marginabili <- list.files(pattern = "marginabili.xlsx",full.names = T) %>%
     marginabile = "si"
   )
 
+marginabili <- list.files(pattern = "marginabili_20250124.xlsx",full.names = T) %>%
+  readxl::read_excel() %>%
+  dplyr::count(Descrizione, sort = T) %>%
+  dplyr::mutate(
+    marginabile = "si"
+  ) %>% 
+  dplyr::mutate(
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "AZIMUT"), "AZIMUT", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "MPS"), "BANCA MONTE PASCHI SIENA", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "SONDRIO"), "BCA POP SONDRIO", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "LONGHI"), "DE'LONGHI", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "DIGIT VAL"), "DIGITAL VALUE", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "GENERALI"), "GENERALI ASS", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "PIAGGIO"), "PIAGGIO", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "PIRELLI"), "PIRELLI & C", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "RECORDATI"), "RECORDATI ORD", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "STELLANTIS"), "STELLANTIS", Descrizione),
+    Descrizione = dplyr::if_else(stringr::str_detect(Descrizione, "TAMBURI"), "TAMBURI", Descrizione)
+  )
+
 # marginabili
 sectors <- list.files(pattern = "sectors.xlsx", full.names = T) %>%
   readxl::read_excel()
