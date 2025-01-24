@@ -1,10 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"HERA"	"HER.MI"	"Utilities"	"si"	"2025-01-23 16:35:48"	0
-"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	"2025-01-23 16:35:28"	0
-NA	"MFEB.MI"	NA	NA	"2025-01-23 16:35:19"	1
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2025-01-22 08:00:00"	1
+"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	"2025-01-24 16:38:44"	-1
+"FIERA MILANO"	"FM.MI"	"Commercial Services"	NA	"2025-01-24 16:37:13"	1
+"HERA"	"HER.MI"	"Utilities"	"si"	"2025-01-24 16:35:05"	1
+NA	"MFEB.MI"	NA	NA	"2025-01-23 08:00:00"	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	"2025-01-22 08:00:00"	1
-"CIR"	"CIR.MI"	"Producer Manufacturing"	NA	"2025-01-21 08:00:00"	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	"2025-01-21 08:00:00"	1
 "INIZIATIVE BRESCIANE"	"IB.MI"	"Utilities"	NA	"2025-01-20 08:00:00"	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	"2025-01-20 08:00:00"	1
@@ -25,7 +24,6 @@ NA	"MFEB.MI"	NA	NA	"2025-01-23 16:35:19"	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	"2025-01-10 08:00:00"	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	"2025-01-07 08:00:00"	1
 "ABITARE IN"	"ABT.MI"	"Finance"	NA	"2024-12-27 08:00:00"	1
-"NVP"	"NVP.MI"	"Technology Services"	NA	"2024-12-19 08:00:00"	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	"2024-12-12 08:00:00"	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	"2024-12-12 08:00:00"	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	"2024-12-12 08:00:00"	1
@@ -37,6 +35,7 @@ NA	"MFEB.MI"	NA	NA	"2025-01-23 16:35:19"	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	"2024-11-21 08:00:00"	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	"2024-11-14 08:00:00"	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	"2024-11-14 08:00:00"	1
+NA	"IGD.MI"	NA	NA	"2024-11-14 08:00:00"	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	"2024-11-14 08:00:00"	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	"2024-11-14 08:00:00"	-1
 "INTRED"	"ITD.MI"	"Communications"	NA	"2024-11-12 08:00:00"	1
@@ -45,12 +44,14 @@ NA	"MFEB.MI"	NA	NA	"2025-01-23 16:35:19"	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	"2024-11-07 08:00:00"	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	"2024-11-07 08:00:00"	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	"2024-11-07 08:00:00"	-1
+"CONVERGENZE"	"CVG.MI"	"Communications"	NA	"2024-11-06 08:00:00"	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	"2024-11-06 08:00:00"	1
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	"2024-11-06 08:00:00"	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	"2024-11-05 08:00:00"	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	"2024-11-01 08:00:00"	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	"2024-10-15 07:00:00"	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	"2024-10-11 07:00:00"	1
+"NVP"	"NVP.MI"	"Technology Services"	NA	"2024-10-01 07:00:00"	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	"2024-09-27 07:00:00"	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	"2024-09-12 07:00:00"	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	"2024-09-12 07:00:00"	1
@@ -101,6 +102,7 @@ NA	"MFEB.MI"	NA	NA	"2025-01-23 16:35:19"	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	"2022-07-08 07:00:00"	-1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	"2022-07-06 07:00:00"	-1
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	"2022-06-08 07:00:00"	1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	"2022-03-04 08:00:00"	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	"2021-12-08 08:00:00"	-1
 NA	"LLY.DE"	NA	NA	"2021-10-26 07:00:00"	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	"2021-10-13 07:00:00"	-1
