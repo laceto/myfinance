@@ -782,8 +782,7 @@ bear_signal_maxequity_after_change_afterregime <- regime_change_followed_signal 
 bear_signal_maxequity_after_change_afterregime %>% 
   write.table("signals/max_equity_bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
 
-ptf_name <- 'NOVO|CEMBRE|BUZZI|GEFRAN|TERNA|EXPERT|CUCINELLI|MEDIOLANUM|RAI|GAROFALO|COMAL|TENARIS
-STM|CEMENTIR|MONCLER|AMPLIFON|A2A|ITALGAS'
+ptf_name <- 'NOVO|CEMBRE|BUZZI|TERNA|EXPERT|CUCINELLI|COMAL|STM|CEMENTIR|A2A|AVIO|IFIS|SOUNDHOUND|GITLAB|RIGETTI|SNOWFLAKE|SNAM|INWIT|BREMBO|INTERPUMP'
 
 ptf_signals <- output_signal %>% 
   dplyr::filter(stringr::str_detect(name, ptf_name)) %>% 
@@ -887,6 +886,65 @@ sector_trend_score <- avg_score_sector %>%
 
 sector_trend_score %>% 
   write.table("signals/sector_trend_score.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+sector_method_score <- output_signal %>% 
+  dplyr::select(sector, name, ticker, date, rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg) %>% 
+  # dplyr::filter(stringr::str_detect(name, 'A2A|POSTE')) %>% 
+  dplyr::mutate(
+    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+  ) %>% 
+  tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>%
+  # dplyr::group_by(sector, name, ticker, date) %>% 
+  dplyr::group_by(sector, name, method) %>% 
+  dplyr::slice_tail(n = 1) %>% 
+  dplyr::group_by(sector, method) %>% 
+  dplyr::summarise(
+    signal = mean(signal)
+  ) %>% 
+  dplyr::group_by(sector) %>% 
+  dplyr::mutate(
+    score = sum(signal)
+  ) %>% 
+  tidyr::pivot_wider(names_from = method, values_from = signal) %>% 
+  dplyr::arrange(desc(score))
+
+sector_method_score %>% 
+  write.table("signals/sector_method_score.txt", sep = "\t", dec = ".", row.names = FALSE)
+
+sector_ticker <- sector_method_score %>% 
+  dplyr::rename(
+    sector_score = score
+  ) %>% 
+  dplyr::left_join(output_signal %>% 
+                     dplyr::select(sector, name, ticker, date, rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg) %>% 
+                     # dplyr::filter(stringr::str_detect(name, 'A2A|POSTE')) %>% 
+                     dplyr::mutate(
+                       date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+                     ) %>% 
+                     tidyr::pivot_longer(cols = c(rtt_5020, rsma_50100150, rema_50100150, rbo_100, rrg), names_to = "method", values_to = "signal") %>%
+                     # dplyr::group_by(sector, name, ticker, date) %>% 
+                     dplyr::group_by(sector, name, ticker, method) %>% 
+                     dplyr::slice_tail(n = 1) %>% 
+                     dplyr::group_by(sector, name, ticker, method) %>% 
+                     dplyr::summarise(
+                       signal = mean(signal)
+                     ) %>% 
+                     dplyr::group_by(name, ticker) %>% 
+                     dplyr::mutate(
+                       ticker_score = sum(signal)
+                     ) %>% 
+                     tidyr::pivot_wider(names_from = method, values_from = signal) %>% 
+                     dplyr::arrange(desc(ticker_score)) %>% 
+                     dplyr::select(name, ticker, sector, ticker_score),
+                   by = join_by(sector)) %>% 
+  dplyr::select(-c(rbo_100:rtt_5020)) %>% 
+  dplyr::left_join(marginabili %>% 
+                     dplyr::rename(name = Descrizione) %>% 
+                     dplyr::select(-n)
+  )
+
+sector_ticker %>% 
+  write.table("signals/sector_ticker.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 
 stop_loss <- output_signal %>% 
