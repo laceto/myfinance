@@ -10,7 +10,7 @@ output_signal %>%
   dplyr::filter(!is.na(value)) %>% 
   dplyr::group_by(ticker) %>% 
   dplyr::slice_tail(n = 1) %>% 
-  dplyr::filter(stringr::str_detect(swing, "rl|rflr")) %>% 
+  dplyr::filter(stringr::str_detect(swing, "rl3|rflr")) %>% 
   dplyr::arrange(desc(date)) %>%
   dplyr::select(-c(rclose, value)) %>%
   dplyr::rename(

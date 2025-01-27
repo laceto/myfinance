@@ -45,6 +45,9 @@ output_signal <- output_signal %>%
   dplyr::ungroup() %>%
   dplyr::as_tibble()
 
+marginabili <- marginabili %>% 
+  dplyr::count(Descrizione)
+
 output_signal <- output_signal %>%
   dplyr::left_join(sectors, by = join_by(ticker)) %>%
   dplyr::left_join(marginabili, by = c("name" = "Descrizione")) %>% 
@@ -1008,6 +1011,67 @@ stop_loss <- output_signal %>%
 stop_loss %>%
   write.table("signals/stop_loss.txt", sep = "\t", dec = ".", row.names = FALSE)
 
+myRSI <- function (price,n){
+  N <- length(price)
+  U <- rep(0,N)
+  D <- rep(0,N)
+  rsi <- rep(NA,N)
+  Lprice <- Lag(price,1)
+  for (i in 2:N){
+    if (price[i]>=Lprice[i]){
+      U[i] <- 1
+    } else {
+      D[i] <- 1
+    }
+    if (i>n){
+      AvgUp <- mean(U[(i-n+1):i])
+      AvgDn <- mean(D[(i-n+1):i])
+      rsi[i] <- AvgUp/(AvgUp+AvgDn)*100 
+    }
+  }
+  rsi <- reclass(rsi, price)
+  return(rsi)
+}
+
+
+volume_divergence <- function(data){
+  
+  data %>% 
+    dplyr::mutate(
+      diff_volume = volume - dplyr::lag(volume),
+      diff_close = rclose - dplyr::lag(rclose),
+      volume_divergence = diff_volume < 0 & diff_close > 0
+    ) %>% 
+    dplyr::select(-c(diff_volume, diff_close))
+  
+  
+}
+
+mySMA <- function (price,n){
+  sma <- c()
+  sma[1:(n-1)] <- NA
+  for (i in n:length(price)){
+    sma[i]<-mean(price[(i-n+1):i])
+  }
+  sma <- reclass(sma,price)
+  return(sma)
+}
+
+RSI <- output_signal %>% 
+  dplyr::select(rrg, ticker, name, date, volume, rclose) %>% 
+  dplyr::group_by(ticker) %>% 
+  dplyr::mutate(
+    RSI = myRSI(rclose, 14),
+    close = NULL,
+    volume = NULL
+  ) %>% 
+  dplyr::group_by(rrg, ticker) %>% 
+  dplyr::slice_tail(n = 1) %>% 
+  dplyr::arrange(desc(date)) 
+
+
+RSI %>%
+  write.table("signals/RSI.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 # library(TTR)
 # identify_short_entry <- function(data, nRSI){
