@@ -1,63 +1,80 @@
-library(TTR)
+# library(TTR)
 
-identify_short_entry <- function(data, nRSI){
-  
-  nRSI <- unique(data %>% dplyr::pull(nRSI))
+myRSI <- function (price,n){
+  N <- length(price)
+  U <- rep(0,N)
+  D <- rep(0,N)
+  rsi <- rep(NA,N)
+  Lprice <- Lag(price,1)
+  for (i in 2:N){
+    if (price[i]>=Lprice[i]){
+      U[i] <- 1
+    } else {
+      D[i] <- 1
+    }
+    if (i>n){
+      AvgUp <- mean(U[(i-n+1):i])
+      AvgDn <- mean(D[(i-n+1):i])
+      rsi[i] <- AvgUp/(AvgUp+AvgDn)*100 
+    }
+  }
+  rsi <- reclass(rsi, price)
+  return(rsi)
+}
+
+
+volume_divergence <- function(data){
   
   data %>% 
     dplyr::mutate(
-      RSI = TTR::RSI(close, n = nRSI),
-      overbouth = RSI > 70,
       diff_volume = volume - dplyr::lag(volume),
-      diff_close = close - dplyr::lag(close),
+      diff_close = rclose - dplyr::lag(rclose),
       volume_divergence = diff_volume < 0 & diff_close > 0
     ) %>% 
-    dplyr::select(id, ticker, name, date, volume, close, nRSI, overbouth, volume_divergence)
+    dplyr::select(-c(diff_volume, diff_close))
   
   
 }
-parameter <- tidyr::expand_grid(
-  nRSI = c(3, 7, 14, 21, 28, 50)
-) %>% 
-  dplyr::mutate(
-    id = 1:n()
-  )
 
-overbouth_volume_divergence <- output_signal %>% 
-  dplyr::select(marginabile, ticker, name, date, volume, close) %>% 
-  dplyr::semi_join(bear, 'ticker') %>%
-  dplyr::filter(!is.na(marginabile)) %>% 
-  tidyr::expand_grid(
-    parameter
+mySMA <- function (price,n){
+  sma <- c()
+  sma[1:(n-1)] <- NA
+  for (i in n:length(price)){
+    sma[i]<-mean(price[(i-n+1):i])
+  }
+  sma <- reclass(sma,price)
+  return(sma)
+}
+
+RSI <- output_signal %>% 
+  dplyr::select(rrg, ticker, name, date, volume, rclose) %>% 
+  dplyr::group_by(ticker) %>% 
+  dplyr::mutate(
+    RSI = myRSI(rclose, 14),
+    close = NULL,
+    volume = NULL
   ) %>% 
-  dplyr::group_split(ticker, id)
-
-overbouth_volume_divergence <- lapply(overbouth_volume_divergence, identify_short_entry, nRSI) %>%
-  dplyr::bind_rows() %>% 
-  dplyr::filter(overbouth, volume_divergence) %>% 
-  dplyr::group_by(ticker, id) %>% 
+  dplyr::group_by(rrg, ticker) %>% 
   dplyr::slice_tail(n = 1) %>% 
-  dplyr::arrange(desc(date)) %>% 
-  dplyr::ungroup() %>% 
-  dplyr::select(ticker, name, date, nRSI ) %>% 
-  dplyr::mutate(
-    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
-  )
-
-overbouth_volume_divergence %>% 
-  dplyr::filter(stringr::str_detect(name, 'TINEXTA'))
+  dplyr::arrange(desc(RSI)) 
 
 output_signal %>% 
-  dplyr::semi_join(bear) %>% 
-  dplyr::filter(marginabile == 'si') %>% 
-  dplyr::select(rrg, ticker, name, date, close, hi1, hi2, hi3, hi4, lo1, lo2, lo3, lo4, flr, clg) %>%
-  dplyr::mutate(
-    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
-  ) %>% 
-  tidyr::pivot_longer(cols = c(hi1, hi2, hi3, hi4, lo1, lo2, lo3, lo4, flr, clg), names_to = 'swing', values_to = 'value') %>% 
-  dplyr::filter(!is.na(value)) %>% 
+  # dplyr::filter(ticker == 'A2A.MI') %>% 
+  dplyr::select(marginabile, ticker, name, date, volume, rclose) %>% 
+  dplyr::semi_join(bear, 'ticker') %>%
+  dplyr::filter(!is.na(marginabile)) %>% 
   dplyr::group_by(ticker) %>% 
-  dplyr::slice_tail(n = 1) %>% 
-  # dplyr::filter(stringr::str_detect(name, 'BRE'))
-  dplyr::filter(stringr::str_detect(swing, "hi")) %>% 
-  dplyr::arrange(desc(date))
+  dplyr::mutate(
+    RSI = myRSI(rclose, 14),
+    overbouth = RSI > 70,
+    rSMA = mySMA(rclose, 50),
+    prev_rclose = dplyr::lag(rclose),
+    prev_rSMA = dplyr::lag(rSMA),
+    reversal_confirmation = (rclose < rSMA) & (prev_rclose >= prev_rSMA)
+  ) %>% 
+  dplyr::group_by(ticker) %>% 
+  volume_divergence() %>% 
+  dplyr::filter(overbouth, volume_divergence, reversal_confirmation) %>% 
+  dplyr::arrange(desc(date)) 
+  
+

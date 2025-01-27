@@ -47,7 +47,10 @@ output_signal <- output_signal %>%
 
 output_signal <- output_signal %>%
   dplyr::left_join(sectors, by = join_by(ticker)) %>%
-  dplyr::left_join(marginabili, by = c("name" = "Descrizione"))
+  dplyr::left_join(marginabili, by = c("name" = "Descrizione")) %>% 
+  dplyr::mutate(
+    date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
+  )
 #
 get_last_swing <- function(output_signal, swing){
 
