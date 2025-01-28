@@ -1,8 +1,9 @@
-library(purrr)
-library(TTR)
-library(dplyr)
+library(tidyverse)
+# library(purrr)
+# library(TTR)
+# library(dplyr)
 library(broom)
-library(tidyquant)
+# library(tidyquant)
 
 files_stocks <- list.files("data_proc", full.names = T)
 
@@ -45,8 +46,8 @@ output_signal <- output_signal %>%
   dplyr::ungroup() %>%
   dplyr::as_tibble()
 
-marginabili <- marginabili %>% 
-  dplyr::count(Descrizione)
+# marginabili <- marginabili %>% 
+#   dplyr::count(Descrizione)
 
 output_signal <- output_signal %>%
   dplyr::left_join(sectors, by = join_by(ticker)) %>%
