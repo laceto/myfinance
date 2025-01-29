@@ -7,7 +7,6 @@ NA	"NOV.DE"	NA	NA	2025-01-28	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-01-24	1
 NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-01-23	1
-"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2025-01-22	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-01-21	1
 "INIZIATIVE BRESCIANE"	"IB.MI"	"Utilities"	NA	2025-01-20	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-01-20	1
@@ -32,7 +31,6 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2024-11-28	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
-"PLC"	"PLC.MI"	"Industrial Services"	NA	2024-11-22	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2024-11-21	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2024-11-14	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
@@ -94,6 +92,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
+"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2023-06-01	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2022-12-15	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2022-12-15	-1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2022-09-12	-1

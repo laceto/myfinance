@@ -1,8 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
+NA	"PST.MI"	"POSTE ITALIANE"	"si"	3	2025-01-29	14.61
 NA	"SRG.MI"	"SNAM"	"si"	1	2025-01-28	4.54
--1	"ISP.MI"	"INTESA SANPAOLO"	"si"	1	2025-01-24	4.23
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	1	2025-01-24	7.6
-NA	"PST.MI"	"POSTE ITALIANE"	"si"	3	2025-01-22	14.53
 NA	"INW.MI"	"INWIT"	"si"	1	2025-01-21	10.22
 NA	"A2A.MI"	"A2A"	"si"	3	2025-01-17	2.33
 NA	"AMP.MI"	"AMPLIFON"	"si"	1	2025-01-16	26.87
