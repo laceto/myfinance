@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-02-03	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-30	-1
 "VALSOIA"	"VLS.MI"	"Consumer Non-Durables"	NA	2025-01-29	1
@@ -10,6 +11,7 @@ NA	"NOV.DE"	NA	NA	2025-01-28	1
 NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-01-23	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-01-21	1
+"CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-01-20	1
 "INIZIATIVE BRESCIANE"	"IB.MI"	"Utilities"	NA	2025-01-20	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-01-20	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-01-20	-1
@@ -19,6 +21,7 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2025-01-16	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-01-15	1
+"INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2025-01-15	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-01-15	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-15	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
@@ -36,7 +39,6 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2024-11-14	1
-"INTRED"	"ITD.MI"	"Communications"	NA	2024-11-12	1
 "MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
@@ -77,7 +79,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2024-03-06	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
-"INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2024-01-17	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2023-12-19	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2023-10-27	-1
