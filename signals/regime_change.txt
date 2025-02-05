@@ -1,27 +1,20 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-02-04	1
-"EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-02-03	1
-"HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-02-03	1
-"ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-01-31	1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-02-05	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-30	-1
-"VALSOIA"	"VLS.MI"	"Consumer Non-Durables"	NA	2025-01-29	1
 NA	"NOV.DE"	NA	NA	2025-01-28	1
 "ABITARE IN"	"ABT.MI"	"Finance"	NA	2025-01-27	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-01-24	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-01-24	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-01-24	-1
 NA	"MFEB.MI"	NA	NA	2025-01-23	1
-"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-01-23	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-01-21	1
-"INIZIATIVE BRESCIANE"	"IB.MI"	"Utilities"	NA	2025-01-20	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-01-20	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-01-20	-1
 "ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-01-17	1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2025-01-16	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-01-15	1
-"INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2025-01-15	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-01-15	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-13	-1
@@ -30,7 +23,7 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2024-12-12	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2024-12-12	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2024-12-12	1
-"ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2024-11-28	1
+"ABC COMPANY"	"ABC.MI"	"Finance"	NA	2024-11-27	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2024-11-21	1
@@ -62,6 +55,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2024-07-01	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2024-06-24	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
+"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2024-05-27	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2024-05-09	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2024-05-07	1
@@ -78,6 +72,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2024-03-06	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
+"INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2024-01-17	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2023-12-19	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2023-10-27	-1

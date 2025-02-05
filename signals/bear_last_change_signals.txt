@@ -1,7 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"MONC.MI"	"MONCLER"	"si"	-1	2025-02-05
 NA	"RACE.MI"	"FERRARI"	"si"	-3	2025-02-04
 NA	"AMP.MI"	"AMPLIFON"	"si"	0	2025-02-03
-NA	"MONC.MI"	"MONCLER"	"si"	1	2025-02-03
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	-3	2025-01-31
 NA	"ENAV.MI"	"ENAV"	"si"	-3	2025-01-31
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	1	2025-01-31
@@ -14,6 +14,7 @@ NA	"SRG.MI"	"SNAM"	"si"	1	2025-01-27
 NA	"ERG.MI"	"ERG"	"si"	-1	2025-01-24
 NA	"PRT.MI"	"ESPRINET"	"si"	0	2025-01-22
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	1	2025-01-22
+NA	"IP.MI"	"INTERPUMP GROUP"	"si"	1	2025-01-22
 NA	"INW.MI"	"INWIT"	"si"	1	2025-01-21
 NA	"TRN.MI"	"TERNA"	"si"	-2	2025-01-16
 NA	"TNXT.MI"	"TINEXTA"	"si"	-1	2025-01-15
