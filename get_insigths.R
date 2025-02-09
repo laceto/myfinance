@@ -28,8 +28,7 @@ output_signal <- output_signal %>%
   dplyr::ungroup() %>%
   dplyr::as_tibble()
 
-# marginabili <- marginabili %>% 
-#   dplyr::count(Descrizione)
+
 
 output_signal <- output_signal %>%
   dplyr::left_join(sectors, by = join_by(ticker)) %>%
