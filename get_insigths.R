@@ -3,7 +3,7 @@
 # library(TTR)
 library(dplyr)
 library(broom)
-# library(tidyquant)
+library(tidyquant)
 
 files_stocks <- list.files("data_proc", full.names = T)
 
