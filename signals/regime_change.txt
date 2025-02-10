@@ -19,7 +19,6 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-01-20	-1
 "ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-01-17	1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
-"PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2025-01-16	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-01-15	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-01-15	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
@@ -97,7 +96,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2022-07-08	-1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	2022-06-08	1
-"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2022-03-04	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2021-12-08	-1
 NA	"LLY.DE"	NA	NA	2021-10-26	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2021-10-13	-1
