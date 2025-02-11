@@ -1,4 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-02-11	1
+"ABITARE IN"	"ABT.MI"	"Finance"	NA	2025-02-10	1
+"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-10	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-02-07	-1
 "AZIMUT"	"AZM.MI"	"Finance"	NA	2025-02-06	1
@@ -6,11 +9,9 @@
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-02-06	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-02-06	1
 "CONFINVEST"	"CFV.MI"	"Distribution Services"	NA	2025-02-05	1
-"BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-02-04	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-30	-1
 NA	"NOV.DE"	NA	NA	2025-01-28	1
-"ABITARE IN"	"ABT.MI"	"Finance"	NA	2025-01-27	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-01-24	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-01-24	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-01-24	-1
@@ -23,23 +24,21 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-01-15	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-01-10	1
+"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-01-03	1
 "RECORDATI ORD"	"REC.MI"	"Health Technology"	NA	2024-12-16	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2024-12-12	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2024-12-12	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2024-12-12	1
-"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2024-12-04	1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2024-12-11	-1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2024-11-27	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
-"UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2024-11-21	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2024-11-14	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
-"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2024-11-14	1
 "MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2024-11-07	-1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
@@ -57,7 +56,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "GIGLIO GROUP"	"GG.MI"	"Technology Services"	NA	2024-07-17	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
-"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2024-06-28	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2024-06-24	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2024-05-27	1
@@ -68,6 +66,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2024-04-24	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
+"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2024-04-02	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2024-03-14	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2024-03-13	-1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2024-03-11	1
