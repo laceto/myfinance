@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"DIASORIN"	"DIA.MI"	2025-02-07	2025-02-10	"Health Technology"	-1	2024-11-08
 "SALVATORE FERRAGAMO"	"SFER.MI"	2022-09-12	2025-01-31	"Consumer Non-Durables"	1	2025-01-31
 "JUVENTUS FC"	"JUVE.MI"	2020-07-24	2025-01-24	"Consumer Services"	-3	2024-11-29
 "INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	1	2024-09-10

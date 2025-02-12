@@ -1,9 +1,9 @@
-library(tidyverse)
+# library(tidyverse)
 # library(purrr)
 # library(TTR)
-# library(dplyr)
+library(dplyr)
 library(broom)
-# library(tidyquant)
+library(tidyquant)
 
 files_stocks <- list.files("data_proc", full.names = T)
 
