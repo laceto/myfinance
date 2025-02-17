@@ -1,14 +1,14 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-17	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-14	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-02-14	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2025-02-14	-1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
 "ABITARE IN"	"ABT.MI"	"Finance"	NA	2025-02-13	1
 "CIR"	"CIR.MI"	"Producer Manufacturing"	NA	2025-02-13	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-02-13	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-02-13	-1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-02-12	1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-02-11	1
-"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-10	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
 "AZIMUT"	"AZM.MI"	"Finance"	NA	2025-02-06	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2025-02-06	1
@@ -25,18 +25,18 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-01-14	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-01-10	1
-"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-01-03	1
 "RECORDATI ORD"	"REC.MI"	"Health Technology"	NA	2024-12-16	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2024-12-12	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2024-12-12	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2024-12-12	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2024-11-27	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2024-11-26	-1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2024-11-14	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2024-11-14	-1
+"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2024-11-14	1
 "MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
@@ -86,6 +86,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
+"CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2023-06-15	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2023-06-01	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2022-12-15	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2022-12-15	-1
