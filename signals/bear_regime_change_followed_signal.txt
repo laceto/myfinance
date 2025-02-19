@@ -1,8 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
 "DIASORIN"	"DIA.MI"	2025-02-07	-1	2025-02-10	"rtt_5020"	-1
-"TERNA"	"TRN.MI"	2024-12-11	-1	2024-12-12	"rbo_100"	-1
-"SNAM"	"SRG.MI"	2024-11-26	-1	2025-01-08	"rbo_100"	-1
-"A2A"	"A2A.MI"	2024-03-13	-1	2025-02-14	"rbo_100"	-1
+"TERNA"	"TRN.MI"	2024-11-07	-1	2024-12-12	"rbo_100"	-1
 "TELECOM ITALIA"	"TIT.MI"	2024-03-11	-1	2025-02-17	"rema_50100150"	-1
 "INTERPUMP GROUP"	"IP.MI"	2024-02-02	-1	2025-02-17	"rtt_5020"	-1
 "INTERPUMP GROUP"	"IP.MI"	2024-02-02	-1	2025-02-14	"rbo_100"	-1
