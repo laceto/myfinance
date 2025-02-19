@@ -1106,7 +1106,7 @@ rl3 <- output_signal %>%
       dplyr::group_by(ticker) %>% 
       dplyr::slice_head(n = 1)
   ) %>% 
-  dplyr::filter(change == 1)
+  dplyr::filter(change == 1, RSI >= 50)
 
 rl3 %>% 
   dplyr::left_join(readr::read_delim('signals/sector_ticker.txt')) %>% 
@@ -1166,7 +1166,7 @@ rh3 <- output_signal %>%
       dplyr::group_by(ticker) %>% 
       dplyr::slice_head(n = 1)
   ) %>% 
-  dplyr::filter(change == -1)
+  dplyr::filter(change == -1, RSI < 50) 
 
 
 rh3 %>% 
