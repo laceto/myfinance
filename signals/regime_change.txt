@@ -1,15 +1,17 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-02-21	1
+"POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-21	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-20	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-02-20	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-02-20	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-18	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-18	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-02-18	1
+"ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-02-18	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-02-18	-1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-02-18	0
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
 "CIR"	"CIR.MI"	"Producer Manufacturing"	NA	2025-02-13	1
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-02-13	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-02-12	1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-02-11	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
@@ -34,7 +36,6 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
-"MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2024-11-07	-1
@@ -93,7 +94,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	2022-06-08	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2021-12-08	-1
-"POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2021-10-13	-1
+NA	"LLY.DE"	NA	NA	2021-10-26	1
 "MARR"	"MARR.MI"	"Distribution Services"	"si"	2021-10-06	-1
 "BIESSE"	"BSS.MI"	"Producer Manufacturing"	"si"	2021-09-15	-1
 "NEXI"	"NEXI.MI"	"Finance"	"si"	2020-10-07	-1

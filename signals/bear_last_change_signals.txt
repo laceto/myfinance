@@ -1,8 +1,8 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"SRG.MI"	"SNAM"	"si"	0	2025-02-21
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	-3	2025-02-20
 NA	"ENI.MI"	"ENI"	"si"	1	2025-02-19
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	0	2025-02-18
--1	"SRG.MI"	"SNAM"	"si"	1	2025-02-18
 0	"IRE.MI"	"IREN"	"si"	2	2025-02-18
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	-2	2025-02-17
 NA	"INW.MI"	"INWIT"	"si"	-1	2025-02-17
@@ -24,5 +24,4 @@ NA	"ERG.MI"	"ERG"	"si"	-1	2025-01-24
 NA	"NEXI.MI"	"NEXI"	"si"	-1	2025-01-10
 NA	"DAL.MI"	"DATALOGIC"	"si"	-1	2025-01-09
 NA	"CPR.MI"	"CAMPARI"	"si"	-1	2025-01-06
-NA	"PST.MI"	"POSTE ITALIANE"	"si"	3	2024-12-02
 NA	"US.MI"	"UNIPOLSAI"	"si"	-2	2024-06-28
