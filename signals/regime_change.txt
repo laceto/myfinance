@@ -6,8 +6,6 @@
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-02-20	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-18	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-18	1
-"HERA"	"HER.MI"	"Utilities"	"si"	2025-02-18	1
-"ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-02-18	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-02-18	-1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-02-18	0
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
@@ -15,7 +13,6 @@
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-02-12	1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-02-11	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
-"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-02-06	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2025-02-06	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-02-06	1
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-01-31	1
@@ -29,7 +26,6 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-01-15	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-01-14	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
-"RECORDATI ORD"	"REC.MI"	"Health Technology"	NA	2024-12-16	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2024-12-12	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2024-12-12	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
@@ -93,8 +89,8 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2022-07-08	-1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	2022-06-08	1
+"HERA"	"HER.MI"	"Utilities"	"si"	2022-05-10	-1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2021-12-08	-1
-NA	"LLY.DE"	NA	NA	2021-10-26	1
 "MARR"	"MARR.MI"	"Distribution Services"	"si"	2021-10-06	-1
 "BIESSE"	"BSS.MI"	"Producer Manufacturing"	"si"	2021-09-15	-1
 "NEXI"	"NEXI.MI"	"Finance"	"si"	2020-10-07	-1
