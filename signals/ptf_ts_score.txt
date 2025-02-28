@@ -1,5 +1,5 @@
-"sector"	"name"	"ticker"	"2025-02-27"	"2025-02-26"	"2025-02-25"	"2025-02-24"	"2025-02-21"
-"Utilities"	"A2A"	"A2A.MI"	-2	-2	-4	-4	-2
+"sector"	"name"	"ticker"	"2025-02-28"	"2025-02-27"	"2025-02-26"	"2025-02-25"	"2025-02-24"
+"Utilities"	"A2A"	"A2A.MI"	-2	-2	-2	-4	-4
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	5	5	5	5	5
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	1	1	1	1	1
@@ -8,8 +8,9 @@
 "Electronic Technology"	"CEMBRE"	"CMB.MI"	3	3	3	3	3
 "Electronic Technology"	"COMAL"	"CML.MI"	4	4	4	4	4
 "Technology Services"	"EXPERT.AI"	"EXAI.MI"	-1	-1	-1	-1	-1
-"Finance"	"BANCA IFIS"	"IF.MI"	2	2	1	1	1
+"Finance"	"BANCA IFIS"	"IF.MI"	2	2	2	1	1
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-3	-3	-3	-3	-3
-"Utilities"	"SNAM"	"SRG.MI"	1	1	1	0	0
-"Utilities"	"TERNA"	"TRN.MI"	0	0	0	0	0
+"Utilities"	"SNAM"	"SRG.MI"	1	1	1	1	0
+"Producer Manufacturing"	"TENAX INTERNATIONAL"	"TNX.MI"	-1	-1	-1	0	0
+"Utilities"	"TERNA"	"TRN.MI"	1	0	0	0	0

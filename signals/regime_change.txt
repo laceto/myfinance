@@ -1,7 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-02-27	1
-"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-02-27	1
+"TPS"	"TPS.MI"	"Commercial Services"	NA	2025-02-27	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-26	1
+"ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-26	1
+"ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-02-26	1
 NA	"NOV.DE"	NA	NA	2025-02-26	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-02-26	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-02-26	1
@@ -17,6 +18,8 @@ NA	"NOV.DE"	NA	NA	2025-02-26	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2025-02-06	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-02-06	1
+"FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-01-31	1
+"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-01-31	0
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-01-21	1
@@ -29,7 +32,6 @@ NA	"MFEB.MI"	NA	NA	2025-01-23	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2024-12-12	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2024-12-12	1
-"ABC COMPANY"	"ABC.MI"	"Finance"	NA	2024-11-27	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
@@ -48,6 +50,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2024-09-12	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2024-09-05	-1
+"OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2024-08-16	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2024-08-02	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
@@ -57,7 +60,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2024-05-09	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2024-05-07	1
-"REPLY"	"REY.MI"	"Commercial Services"	"si"	2024-04-25	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2024-04-24	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
