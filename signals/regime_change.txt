@@ -1,8 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"TPS"	"TPS.MI"	"Commercial Services"	NA	2025-02-27	1
+"ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-03-03	1
+"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-03	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-26	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-26	1
-"ITALIAN WINE BRANDS"	"IWB.MI"	"Consumer Non-Durables"	NA	2025-02-26	1
 NA	"NOV.DE"	NA	NA	2025-02-26	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-02-26	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-02-26	1
