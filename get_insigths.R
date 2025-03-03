@@ -1106,10 +1106,11 @@ rl3 <- output_signal %>%
       dplyr::group_by(ticker) %>% 
       dplyr::slice_head(n = 1)
   ) %>% 
-  dplyr::filter(change == 1)
+  dplyr::filter(change == 1, RSI >= 50)
 
 rl3 %>% 
   dplyr::left_join(readr::read_delim('signals/sector_ticker.txt')) %>% 
+  dplyr::filter(ticker_score >= 0) %>%
   dplyr::select(-c(swing, method, change, sector, last_day_score, marginabile)) %>%
   write.table("signals/bull_low3_rsi_score.txt", sep = "\t", dec = ".", row.names = FALSE)
 
@@ -1166,10 +1167,11 @@ rh3 <- output_signal %>%
       dplyr::group_by(ticker) %>% 
       dplyr::slice_head(n = 1)
   ) %>% 
-  dplyr::filter(change == -1)
+  dplyr::filter(change == -1, RSI < 50) 
 
 
 rh3 %>% 
   dplyr::left_join(readr::read_delim('signals/sector_ticker.txt')) %>% 
+  dplyr::filter(ticker_score <=0) %>%
   dplyr::select(-c(swing, method, change, sector, last_day_score, marginabile)) %>%
   write.table("signals/bear_high3_rsi_score.txt", sep = "\t", dec = ".", row.names = FALSE)
