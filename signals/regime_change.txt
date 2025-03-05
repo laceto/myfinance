@@ -1,8 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-03-04	1
-"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-04	1
+"TPS"	"TPS.MI"	"Commercial Services"	NA	2025-03-04	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-03-04	-1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-03-04	-1
+"EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-03-03	1
+"FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-03	1
+"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-03	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-26	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-26	1
 NA	"NOV.DE"	NA	NA	2025-02-26	1
@@ -10,10 +12,13 @@ NA	"NOV.DE"	NA	NA	2025-02-26	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-02-26	0
 "RCS MEDIAGROUP"	"RCS.MI"	"Consumer Services"	NA	2025-02-25	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-02-25	-1
+"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-02-21	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-21	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-18	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-02-18	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
+"BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-02-11	1
+"I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2025-02-07	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2025-02-06	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-01-31	0
@@ -61,15 +66,14 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2024-04-24	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
-"BANCA IFIS"	"IF.MI"	"Finance"	NA	2024-04-09	1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2024-04-02	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2024-03-11	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2024-03-11	-1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2024-03-06	1
+"WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2024-03-05	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
-"WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2024-01-17	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2023-12-19	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2023-10-27	-1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
