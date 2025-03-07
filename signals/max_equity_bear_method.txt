@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"MAIRE.MI"	"MAIRE"	2025-03-06	"rrg"	0
 "RACE.MI"	"FERRARI"	2025-03-04	"rrg"	-1
 "JUVE.MI"	"JUVENTUS FC"	2025-03-03	"rtt_5020"	1
 "REY.MI"	"REPLY"	2025-02-27	"rtt_5020"	0
