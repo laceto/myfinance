@@ -1,8 +1,8 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
-"FERRARI"	"RACE.MI"	2025-03-04	-1	2025-03-11	"rtt_5020"	-1
 "PRYSMIAN"	"PRY.MI"	2025-02-25	-1	2025-02-27	"rtt_5020"	-1
 "DIASORIN"	"DIA.MI"	2025-02-07	-1	2025-02-10	"rtt_5020"	-1
 "ENEL"	"ENEL.MI"	2025-01-20	-1	2025-03-06	"rtt_5020"	-1
+"FERRARI"	"RACE.MI"	2025-01-13	-1	2025-03-11	"rtt_5020"	-1
 "TERNA"	"TRN.MI"	2024-11-07	-1	2024-12-12	"rbo_100"	-1
 "TELECOM ITALIA"	"TIT.MI"	2024-03-11	-1	2025-03-06	"rsma_50100150"	-1
 "TELECOM ITALIA"	"TIT.MI"	2024-03-11	-1	2025-02-17	"rema_50100150"	-1

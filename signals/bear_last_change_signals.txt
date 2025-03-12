@@ -1,9 +1,10 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"PRT.MI"	"ESPRINET"	"si"	1	2025-03-12
 NA	"REY.MI"	"REPLY"	"si"	-3	2025-03-11
+NA	"SPM.MI"	"SAIPEM"	"si"	-2	2025-03-11
 NA	"MONC.MI"	"MONCLER"	"si"	-2	2025-03-11
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	-1	2025-03-11
 NA	"RACE.MI"	"FERRARI"	"si"	-1	2025-03-11
-NA	"PRT.MI"	"ESPRINET"	"si"	0	2025-03-11
 NA	"MARR.MI"	"MARR"	"si"	0	2025-03-11
 NA	"PRY.MI"	"PRYSMIAN"	"si"	-1	2025-03-10
 NA	"ENAV.MI"	"ENAV"	"si"	0	2025-03-10
