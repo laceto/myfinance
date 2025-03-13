@@ -1,5 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-12	1
+"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-13	1
+"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-03-13	-1
+"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-12	-1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-03-11	1
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-07	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-03-06	1
@@ -10,8 +12,8 @@
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-03-05	1
 "SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	"Consumer Services"	NA	2025-03-05	1
 "TPS"	"TPS.MI"	"Commercial Services"	NA	2025-03-04	1
+"FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-03-04	-1
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-03-03	1
-"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-03	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-26	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-26	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-02-26	1
@@ -22,7 +24,6 @@
 "I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2025-02-07	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-02-03	1
-"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-01-31	0
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-01-21	1
 "CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-01-20	1
@@ -31,8 +32,6 @@
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-01-15	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-01-14	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-01-13	1
-"FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-13	-1
-"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2024-12-12	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
