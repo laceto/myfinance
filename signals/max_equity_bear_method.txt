@@ -1,8 +1,8 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "BC.MI"	"BRUNELLO CUCINELLI"	2025-03-12	"rrg"	-1
-"SPM.MI"	"SAIPEM"	2025-03-11	"rema_50100150"	1
 "PRY.MI"	"PRYSMIAN"	2025-03-10	"rema_50100150"	1
 "ACE.MI"	"ACEA"	2025-03-05	"rsma_50100150"	1
+"SPM.MI"	"SAIPEM"	2025-03-05	"rsma_50100150"	-1
 "RACE.MI"	"FERRARI"	2025-03-04	"rrg"	-1
 "JUVE.MI"	"JUVENTUS FC"	2025-03-03	"rtt_5020"	1
 "REY.MI"	"REPLY"	2025-02-27	"rtt_5020"	0

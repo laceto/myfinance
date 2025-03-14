@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-03-14	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-13	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-03-13	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-12	-1
@@ -16,7 +17,6 @@
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-03-03	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-26	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-26	1
-"WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-02-26	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-02-25	-1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-02-21	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-18	1
