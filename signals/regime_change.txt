@@ -1,12 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-17	1
 "RCS MEDIAGROUP"	"RCS.MI"	"Consumer Services"	NA	2025-03-17	1
-"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2025-03-17	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-03-14	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-13	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-03-13	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-12	-1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-03-11	1
-"FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-07	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-03-06	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-06	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-03-06	-1
@@ -21,7 +20,6 @@
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-02-26	1
 "CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-02-25	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-02-25	-1
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-02-21	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-02-18	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-02-14	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
@@ -50,7 +48,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2024-09-27	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
-"MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2024-09-10	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2024-09-05	-1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2024-08-16	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2024-08-02	1

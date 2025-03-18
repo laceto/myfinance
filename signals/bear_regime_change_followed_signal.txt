@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
+"BRUNELLO CUCINELLI"	"BC.MI"	2025-03-12	-1	2025-03-18	"rtt_5020"	-1
 "FERRARI"	"RACE.MI"	2025-03-04	-1	2025-03-11	"rtt_5020"	-1
 "PRYSMIAN"	"PRY.MI"	2025-02-25	-1	2025-02-27	"rtt_5020"	-1
 "DIASORIN"	"DIA.MI"	2025-02-07	-1	2025-02-10	"rtt_5020"	-1
