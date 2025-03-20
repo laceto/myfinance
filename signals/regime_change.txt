@@ -1,8 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-03-20	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-03-19	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-03-18	1
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-18	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-03-18	1
 "RCS MEDIAGROUP"	"RCS.MI"	"Consumer Services"	NA	2025-03-17	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-03-14	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-13	1
@@ -15,8 +15,6 @@
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2025-03-06	0
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-03-06	0
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-03-05	1
-"SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	"Consumer Services"	NA	2025-03-05	1
-"TPS"	"TPS.MI"	"Commercial Services"	NA	2025-03-04	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-03-04	-1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-02-26	1
 "CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-02-25	1
@@ -49,8 +47,10 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2024-09-05	-1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2024-08-16	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2024-08-02	1
+"GIGLIO GROUP"	"GG.MI"	"Technology Services"	NA	2024-07-17	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
+"TPS"	"TPS.MI"	"Commercial Services"	NA	2024-07-01	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2024-06-24	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
