@@ -1,7 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "A2A"	"A2A.MI"	2025-02-26	2025-03-20	"Utilities"	3	2025-02-26
-"SOL"	"SOL.MI"	2020-03-12	2025-03-18	"Process Industries"	2	2024-09-13
-"PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	2	2024-05-14
+"SOL"	"SOL.MI"	2020-03-12	2025-03-18	"Process Industries"	2	2025-03-06
+"PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "TPS"	"TPS.MI"	2024-07-01	2025-02-28	"Commercial Services"	1	2025-01-31
 "CIRCLE"	"CIRC.MI"	2023-06-15	2025-02-12	"Commercial Services"	3	2025-02-14
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	5	2024-11-01

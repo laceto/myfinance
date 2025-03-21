@@ -1,9 +1,9 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
+NA	"HER.MI"	"HERA"	"si"	1	2025-03-21	3.97
+NA	"DAL.MI"	"DATALOGIC"	"si"	-1	2025-03-20	5.02
 NA	"NEXI.MI"	"NEXI"	"si"	1	2025-03-20	5.55
-NA	"DAL.MI"	"DATALOGIC"	"si"	1	2025-03-20	5.02
 NA	"PRT.MI"	"ESPRINET"	"si"	1	2025-03-20	5.54
-NA	"HER.MI"	"HERA"	"si"	1	2025-03-20	3.96
-NA	"BRE.MI"	"BREMBO"	"si"	0	2025-03-18	10.41
+NA	"BRE.MI"	"BREMBO"	"si"	-1	2025-03-18	10.41
 NA	"CPR.MI"	"CAMPARI"	"si"	1	2025-03-11	6.49
 NA	"TNXT.MI"	"TINEXTA"	"si"	1	2025-03-07	9.55
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	-1	2025-03-04	3.55
