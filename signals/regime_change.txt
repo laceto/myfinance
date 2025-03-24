@@ -1,4 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
+"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-24	1
+"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2025-03-24	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-03-20	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-03-19	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-03-19	1
@@ -13,7 +16,6 @@
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-03-06	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-06	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-03-06	-1
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2025-03-06	0
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-03-06	0
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-03-05	1
 "SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	"Consumer Services"	NA	2025-03-05	1
@@ -38,6 +40,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2024-11-07	-1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2024-11-06	1
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2024-11-01	1
@@ -61,6 +64,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2024-04-02	1
+"DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2024-03-28	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2024-03-11	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2024-03-11	-1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2024-03-06	1
