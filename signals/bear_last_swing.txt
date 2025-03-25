@@ -1,5 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
-NA	"HER.MI"	"HERA"	"si"	1	2025-03-21	3.97
+NA	"HER.MI"	"HERA"	"si"	1	2025-03-25	3.98
 NA	"DAL.MI"	"DATALOGIC"	"si"	-1	2025-03-20	5.02
 NA	"ENI.MI"	"ENI"	"si"	1	2025-03-20	14.46
 NA	"NEXI.MI"	"NEXI"	"si"	1	2025-03-20	5.55
@@ -25,9 +25,9 @@ NA	"ACE.MI"	"ACEA"	"si"	0	2024-12-16	19.02
 NA	"ENAV.MI"	"ENAV"	"si"	0	2024-12-10	4.25
 NA	"AMP.MI"	"AMPLIFON"	"si"	-1	2024-10-18	28.4
 NA	"ENEL.MI"	"ENEL"	"si"	1	2024-10-17	7.39
-NA	"IP.MI"	"INTERPUMP GROUP"	"si"	-3	2024-09-27	42.52
+NA	"IP.MI"	"INTERPUMP GROUP"	"si"	-1	2024-09-27	42.52
 NA	"ERG.MI"	"ERG"	"si"	-1	2024-09-11	25.42
-NA	"DAN.MI"	"DANIELI & C"	"si"	1	2024-06-19	39.2
+NA	"DAN.MI"	"DANIELI & C"	"si"	0	2024-06-19	39.2
 NA	"BSS.MI"	"BIESSE"	"si"	0	2024-05-22	11.9
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	-1	2024-05-08	1.28
 NA	"US.MI"	"UNIPOLSAI"	"si"	-2	2024-04-30	2.7

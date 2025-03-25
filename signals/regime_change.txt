@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-03-25	1
+"UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-25	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-24	1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2025-03-24	1
@@ -9,6 +11,7 @@
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-18	1
 "RCS MEDIAGROUP"	"RCS.MI"	"Consumer Services"	NA	2025-03-17	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-03-14	1
+"POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-03-13	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-13	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-03-13	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-12	-1
@@ -55,7 +58,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
 "TPS"	"TPS.MI"	"Commercial Services"	NA	2024-07-01	1
-"POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2024-06-24	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2024-05-09	1
