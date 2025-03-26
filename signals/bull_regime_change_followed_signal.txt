@@ -1,5 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
 "NEWLAT FOOD"	"NWL.MI"	2025-03-24	1	2025-03-25	"rbo_100"	1
+"TECHNOGYM"	"TGYM.MI"	2025-03-19	1	2025-03-26	"rtt_5020"	1
 "FILA"	"FILA.MI"	2025-03-18	1	2025-03-24	"rtt_5020"	1
 "LUVE"	"LUVE.MI"	2025-03-14	1	2025-03-25	"rsma_50100150"	1
 "ASCOPIAVE"	"ASC.MI"	2025-03-06	1	2025-03-20	"rtt_5020"	1
