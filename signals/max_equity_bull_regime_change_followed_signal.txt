@@ -1,6 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"NEWLAT FOOD"	"NWL.MI"	2024-05-27	2025-03-25	"Consumer Non-Durables"	3	2025-03-06
+"NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-03-25	"Consumer Non-Durables"	5	2025-03-06
 "FILA"	"FILA.MI"	2025-03-18	2025-03-24	"Producer Manufacturing"	1	2025-03-18
+"DBA GROUP"	"DBA.MI"	2024-03-28	2025-03-24	"Industrial Services"	5	2024-10-14
 "A2A"	"A2A.MI"	2025-02-26	2025-03-20	"Utilities"	3	2025-02-26
 "SOL"	"SOL.MI"	2020-03-12	2025-03-18	"Process Industries"	2	2025-03-25
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
