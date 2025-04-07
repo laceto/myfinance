@@ -1,16 +1,15 @@
-"sector"	"name"	"ticker"	"2025-03-03"	"2025-02-28"	"2025-02-27"	"2025-02-26"	"2025-02-25"
-"Utilities"	"A2A"	"A2A.MI"	-2	-2	-2	-2	-4
-"Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	4	5	5	5	5
-"Producer Manufacturing"	"BREMBO"	"BRE.MI"	1	1	1	1	1
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	3	3	3	3	3
-"Non-Energy Minerals"	"CEMENTIR HOLDING"	"CEM.MI"	5	5	5	5	5
-"Electronic Technology"	"CEMBRE"	"CMB.MI"	3	3	3	3	3
-"Electronic Technology"	"COMAL"	"CML.MI"	4	4	4	4	4
-"Technology Services"	"EXPERT.AI"	"EXAI.MI"	-1	-1	-1	-1	-1
-"Finance"	"BANCA IFIS"	"IF.MI"	2	2	2	2	1
-"Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
-"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-3	-3	-3	-3	-3
-"Utilities"	"SNAM"	"SRG.MI"	1	1	1	1	1
-"Producer Manufacturing"	"TENAX INTERNATIONAL"	"TNX.MI"	-1	-1	-1	-1	0
-"Utilities"	"TERNA"	"TRN.MI"	1	1	0	0	0
+"sector"	"name"	"ticker"	"2025-04-04"	"2025-04-03"	"2025-04-02"	"2025-04-01"	"2025-03-31"
+"Utilities"	"A2A"	"A2A.MI"	2	3	3	3	3
+"Electronic Technology"	"AVIO"	"AVIO.MI"	4	4	4	5	5
+"Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	-1	-1	-1	1	1
+"Producer Manufacturing"	"BREMBO"	"BRE.MI"	-1	-1	-1	-1	-1
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	4	4	4	4	5
+"Non-Energy Minerals"	"CEMENTIR HOLDING"	"CEM.MI"	4	4	5	5	5
+"Electronic Technology"	"CEMBRE"	"CMB.MI"	-2	-1	-1	-1	-1
+"Technology Services"	"EXPERT.AI"	"EXAI.MI"	0	0	0	0	0
+"Finance"	"BANCA IFIS"	"IF.MI"	-1	0	0	0	0
+"Communications"	"INWIT"	"INW.MI"	0	0	-1	-1	-1
+"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-1	-1	-1	-1	-1
+"Utilities"	"SNAM"	"SRG.MI"	3	3	1	1	1
+"Producer Manufacturing"	"TENAX INTERNATIONAL"	"TNX.MI"	-1	0	0	0	0
+"Utilities"	"TERNA"	"TRN.MI"	1	1	1	1	1
