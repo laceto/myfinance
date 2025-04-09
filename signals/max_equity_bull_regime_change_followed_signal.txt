@@ -1,8 +1,10 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"GEL"	"GEL.MI"	2025-04-07	2025-04-09	"Producer Manufacturing"	5	2024-09-12
+"TPS"	"TPS.MI"	2025-03-04	2025-04-07	"Commercial Services"	-1	2025-02-18
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-03-25	"Consumer Non-Durables"	3	2025-03-06
-"SOL"	"SOL.MI"	2020-03-12	2025-03-18	"Process Industries"	3	2025-03-25
+"SOL"	"SOL.MI"	2020-03-12	2025-03-18	"Process Industries"	1	2025-03-25
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
-"CIRCLE"	"CIRC.MI"	2023-06-15	2025-02-12	"Commercial Services"	1	2025-04-08
+"CIRCLE"	"CIRC.MI"	2023-06-15	2025-02-12	"Commercial Services"	1	2025-04-09
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	3	2024-11-01
 "FINECOBANK"	"FBK.MI"	2024-07-02	2024-11-27	"Finance"	1	2025-04-07
 "FIERA MILANO"	"FM.MI"	2024-10-30	2024-11-26	"Commercial Services"	3	2025-04-07
