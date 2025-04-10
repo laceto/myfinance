@@ -1,15 +1,15 @@
-"sector"	"name"	"ticker"	"2025-04-09"	"2025-04-08"	"2025-04-07"	"2025-04-04"	"2025-04-03"
-"Utilities"	"A2A"	"A2A.MI"	1	1	1	2	3
-"Electronic Technology"	"AVIO"	"AVIO.MI"	3	3	3	4	4
+"sector"	"name"	"ticker"	"2025-04-10"	"2025-04-09"	"2025-04-08"	"2025-04-07"	"2025-04-04"
+"Utilities"	"A2A"	"A2A.MI"	1	1	1	1	2
+"Electronic Technology"	"AVIO"	"AVIO.MI"	3	3	3	3	4
 "Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	-1	-1	-1	-1	-1
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	-1	-1	-1	-1	-1
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	3	3	3	4	4
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	3	3	3	3	4
 "Non-Energy Minerals"	"CEMENTIR HOLDING"	"CEM.MI"	4	4	4	4	4
-"Electronic Technology"	"CEMBRE"	"CMB.MI"	0	0	0	0	-1
-"Technology Services"	"EXPERT.AI"	"EXAI.MI"	1	0	0	0	0
-"Finance"	"BANCA IFIS"	"IF.MI"	-1	-1	-1	-1	0
-"Communications"	"INWIT"	"INW.MI"	-1	-1	-1	0	0
+"Electronic Technology"	"CEMBRE"	"CMB.MI"	2	2	2	2	2
+"Technology Services"	"EXPERT.AI"	"EXAI.MI"	1	1	0	0	0
+"Finance"	"BANCA IFIS"	"IF.MI"	-1	-1	-1	-1	-1
+"Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	0
 "Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-1	-1	-1	-1	-1
-"Utilities"	"SNAM"	"SRG.MI"	2	3	3	3	3
+"Utilities"	"SNAM"	"SRG.MI"	2	2	3	3	3
 "Producer Manufacturing"	"TENAX INTERNATIONAL"	"TNX.MI"	-1	-1	-1	-1	-1
-"Utilities"	"TERNA"	"TRN.MI"	2	2	3	3	1
+"Utilities"	"TERNA"	"TRN.MI"	2	2	2	3	3
