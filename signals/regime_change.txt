@@ -1,5 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-10	1
+"BIALETTI INDUSTRIE"	"BIA.MI"	"Consumer Durables"	NA	2025-04-16	1
+"GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-04-16	1
+"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-11	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-04-09	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-04-08	1
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-04-08	1
@@ -10,15 +12,14 @@
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-04-07	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
+"DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-07	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-04-07	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-04-04	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-04	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-04-04	-1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-04-04	-1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2025-04-02	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-04-02	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
-"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-01	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-03-27	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
@@ -26,9 +27,10 @@
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-03-19	1
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-03-18	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-14	1
-"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-12	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-03-12	-1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-11	1
+"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-07	-1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-03-06	-1
 "SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	"Consumer Services"	NA	2025-03-05	1
 "TPS"	"TPS.MI"	"Commercial Services"	NA	2025-03-04	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-02-26	1
@@ -36,7 +38,6 @@
 "RCS MEDIAGROUP"	"RCS.MI"	"Consumer Services"	NA	2025-02-25	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-02-25	-1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
-"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-30	-1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-02	-1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
@@ -47,6 +48,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
+"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2024-11-07	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2024-11-06	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2024-11-06	1
