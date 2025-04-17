@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-17	1
 "BIALETTI INDUSTRIE"	"BIA.MI"	"Consumer Durables"	NA	2025-04-16	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-04-16	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-11	1
@@ -12,7 +13,6 @@
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-04-07	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
-"DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-07	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-04-07	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-04-04	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-04	1
