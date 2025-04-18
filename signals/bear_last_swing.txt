@@ -1,8 +1,8 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
+NA	"TRN.MI"	"TERNA"	"si"	0	2025-04-04	8.83
 NA	"HER.MI"	"HERA"	"si"	0	2025-04-04	4.19
 NA	"ACE.MI"	"ACEA"	"si"	3	2025-04-04	20.14
 NA	"SRG.MI"	"SNAM"	"si"	0	2025-04-04	5.04
-NA	"TRN.MI"	"TERNA"	"si"	2	2025-04-04	8.83
 NA	"IRE.MI"	"IREN"	"si"	0	2025-04-03	2.44
 NA	"TNXT.MI"	"TINEXTA"	"si"	-1	2025-03-28	9.72
 NA	"PRT.MI"	"ESPRINET"	"si"	-1	2025-03-19	5.53

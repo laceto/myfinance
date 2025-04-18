@@ -20,15 +20,6 @@
 "Electronic Technology"	1.66666666666667	"EUROTECH"	"ETH.MI"	-1	NA
 "Electronic Technology"	1.66666666666667	"GVS"	"GVS.MI"	-1	NA
 "Electronic Technology"	1.66666666666667	"OLIDATA"	"OLI.MI"	-1	NA
-"Industrial Services"	0.888888888888889	"DBA GROUP"	"DBA.MI"	5	NA
-"Industrial Services"	0.888888888888889	"GREENTHESIS"	"GTH.MI"	4	NA
-"Industrial Services"	0.888888888888889	"PLC"	"PLC.MI"	3	NA
-"Industrial Services"	0.888888888888889	"A.B.P. NOCIVELLI"	"ABP.MI"	1	NA
-"Industrial Services"	0.888888888888889	"WEBUILD"	"WBD.MI"	1	"si"
-"Industrial Services"	0.888888888888889	"INNOVATEC"	"INC.MI"	-1	NA
-"Industrial Services"	0.888888888888889	"SAIPEM"	"SPM.MI"	-1	"si"
-"Industrial Services"	0.888888888888889	"TREVI FIN IND"	"TFIN.MI"	-1	NA
-"Industrial Services"	0.888888888888889	"MAIRE"	"MAIRE.MI"	-3	"si"
 "Health Technology"	0.727272727272727	"SHEDIR PHARMA GROUP"	"SHE.MI"	5	NA
 "Health Technology"	0.727272727272727	"ARTERRA BIOSCIENCE"	"ARBS.MI"	3	NA
 "Health Technology"	0.727272727272727	"PHILOGEN"	"PHIL.MI"	3	NA
@@ -40,32 +31,21 @@
 "Health Technology"	0.727272727272727	"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	-1	NA
 "Health Technology"	0.727272727272727	"RECORDATI ORD"	"REC.MI"	-1	NA
 "Health Technology"	0.727272727272727	"SAFILO GROUP"	"SFL.MI"	-1	"si"
+"Industrial Services"	0.666666666666667	"DBA GROUP"	"DBA.MI"	5	NA
+"Industrial Services"	0.666666666666667	"GREENTHESIS"	"GTH.MI"	4	NA
+"Industrial Services"	0.666666666666667	"PLC"	"PLC.MI"	3	NA
+"Industrial Services"	0.666666666666667	"WEBUILD"	"WBD.MI"	1	"si"
+"Industrial Services"	0.666666666666667	"A.B.P. NOCIVELLI"	"ABP.MI"	-1	NA
+"Industrial Services"	0.666666666666667	"INNOVATEC"	"INC.MI"	-1	NA
+"Industrial Services"	0.666666666666667	"SAIPEM"	"SPM.MI"	-1	"si"
+"Industrial Services"	0.666666666666667	"TREVI FIN IND"	"TFIN.MI"	-1	NA
+"Industrial Services"	0.666666666666667	"MAIRE"	"MAIRE.MI"	-3	"si"
 "Retail Trade"	0.666666666666667	"UNIEURO"	"UNIR.MI"	5	"si"
 "Retail Trade"	0.666666666666667	"TRENDEVICE"	"TD.MI"	1	NA
 "Retail Trade"	0.666666666666667	"IVS GROUP"	"IVS.MI"	0	NA
 "Retail Trade"	0.666666666666667	"TALEA GROUP"	"TALEA.MI"	0	NA
 "Retail Trade"	0.666666666666667	"E.P.H"	"EPH.MI"	-1	NA
 "Retail Trade"	0.666666666666667	"OVS"	"OVS.MI"	-1	"si"
-"Utilities"	0.6	"ASCOPIAVE"	"ASC.MI"	5	NA
-"Utilities"	0.6	"EVISO"	"EVISO.MI"	4	NA
-"Utilities"	0.6	"ACEA"	"ACE.MI"	3	"si"
-"Utilities"	0.6	"ENEL"	"ENEL.MI"	2	"si"
-"Utilities"	0.6	"TERNA"	"TRN.MI"	2	"si"
-"Utilities"	0.6	"A2A"	"A2A.MI"	1	"si"
-"Utilities"	0.6	"GAS PLUS"	"GSP.MI"	1	NA
-"Utilities"	0.6	"INIZIATIVE BRESCIANE"	"IB.MI"	1	NA
-"Utilities"	0.6	"ITALGAS"	"IG.MI"	1	"si"
-"Utilities"	0.6	"ALERION"	"ARN.MI"	0	NA
-"Utilities"	0.6	"HERA"	"HER.MI"	0	"si"
-"Utilities"	0.6	"IREN"	"IRE.MI"	0	"si"
-"Utilities"	0.6	"SERI INDUSTRIAL"	"SERI.MI"	0	NA
-"Utilities"	0.6	"SNAM"	"SRG.MI"	0	"si"
-"Utilities"	0.6	"ACINQUE"	"AC5.MI"	-1	NA
-"Utilities"	0.6	"ECOSUNTEK"	"ECK.MI"	-1	NA
-"Utilities"	0.6	"ERG"	"ERG.MI"	-1	"si"
-"Utilities"	0.6	"ESI"	"ESIGM.MI"	-1	NA
-"Utilities"	0.6	"FRENDY ENERGY"	"FRE.MI"	-1	NA
-"Utilities"	0.6	"EDISON R"	"EDNR.MI"	-3	NA
 "Consumer Services"	0.565217391304348	"I GRANDI VIAGGI"	"IGV.MI"	5	NA
 "Consumer Services"	0.565217391304348	"CAIRO COMMUNICATION"	"CAI.MI"	4	NA
 "Consumer Services"	0.565217391304348	"CALTAGIRONE EDIT"	"CED.MI"	4	NA
@@ -91,6 +71,26 @@
 "Consumer Services"	0.565217391304348	"S.S. LAZIO"	"SSL.MI"	-3	NA
 "Energy Minerals"	0.5	"SARAS"	"SRS.MI"	2	"si"
 "Energy Minerals"	0.5	"ENI"	"ENI.MI"	-1	"si"
+"Utilities"	0.5	"ASCOPIAVE"	"ASC.MI"	5	NA
+"Utilities"	0.5	"EVISO"	"EVISO.MI"	4	NA
+"Utilities"	0.5	"ACEA"	"ACE.MI"	3	"si"
+"Utilities"	0.5	"ENEL"	"ENEL.MI"	2	"si"
+"Utilities"	0.5	"A2A"	"A2A.MI"	1	"si"
+"Utilities"	0.5	"GAS PLUS"	"GSP.MI"	1	NA
+"Utilities"	0.5	"INIZIATIVE BRESCIANE"	"IB.MI"	1	NA
+"Utilities"	0.5	"ITALGAS"	"IG.MI"	1	"si"
+"Utilities"	0.5	"ALERION"	"ARN.MI"	0	NA
+"Utilities"	0.5	"HERA"	"HER.MI"	0	"si"
+"Utilities"	0.5	"IREN"	"IRE.MI"	0	"si"
+"Utilities"	0.5	"SERI INDUSTRIAL"	"SERI.MI"	0	NA
+"Utilities"	0.5	"SNAM"	"SRG.MI"	0	"si"
+"Utilities"	0.5	"TERNA"	"TRN.MI"	0	"si"
+"Utilities"	0.5	"ACINQUE"	"AC5.MI"	-1	NA
+"Utilities"	0.5	"ECOSUNTEK"	"ECK.MI"	-1	NA
+"Utilities"	0.5	"ERG"	"ERG.MI"	-1	"si"
+"Utilities"	0.5	"ESI"	"ESIGM.MI"	-1	NA
+"Utilities"	0.5	"FRENDY ENERGY"	"FRE.MI"	-1	NA
+"Utilities"	0.5	"EDISON R"	"EDNR.MI"	-3	NA
 "Transportation"	0.428571428571429	"AUTOSTRADE MERID"	"AUTME.MI"	3	NA
 "Transportation"	0.428571428571429	"TOSCANA AEROPORTI"	"TYA.MI"	2	NA
 "Transportation"	0.428571428571429	"TRAWELL CO"	"TWL.MI"	1	NA

@@ -11,4 +11,5 @@
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-1	-1	-1	-1	-1
 "Utilities"	"SNAM"	"SRG.MI"	0	0	0	0	0
-"Utilities"	"TERNA"	"TRN.MI"	2	2	2	2	2
+"Producer Manufacturing"	"TENAX INTERNATIONAL"	"TNX.MI"	-1	-1	-1	-1	-1
+"Utilities"	"TERNA"	"TRN.MI"	0	2	2	2	2

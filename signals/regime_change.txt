@@ -4,7 +4,6 @@
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-04-16	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-11	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-04-09	1
-"A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-04-08	1
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-04-08	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-04-08	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
