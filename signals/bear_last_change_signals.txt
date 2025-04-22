@@ -1,4 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+-1	"DIA.MI"	"DIASORIN"	"si"	0	2025-04-22
+NA	"INW.MI"	"INWIT"	"si"	1	2025-04-22
+NA	"IRE.MI"	"IREN"	"si"	1	2025-04-22
 NA	"TRN.MI"	"TERNA"	"si"	0	2025-04-17
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-5	2025-04-15
 NA	"HER.MI"	"HERA"	"si"	0	2025-04-15
@@ -7,11 +10,9 @@ NA	"ACE.MI"	"ACEA"	"si"	3	2025-04-14
 NA	"SRG.MI"	"SNAM"	"si"	0	2025-04-11
 NA	"PRT.MI"	"ESPRINET"	"si"	-1	2025-04-10
 NA	"CPR.MI"	"CAMPARI"	"si"	-1	2025-04-07
-NA	"INW.MI"	"INWIT"	"si"	-1	2025-04-07
-NA	"ENAV.MI"	"ENAV"	"si"	-1	2025-04-07
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	-1	2025-04-07
+NA	"ENAV.MI"	"ENAV"	"si"	-1	2025-04-07
 NA	"TNXT.MI"	"TINEXTA"	"si"	-1	2025-04-07
-NA	"IRE.MI"	"IREN"	"si"	0	2025-04-07
 NA	"A2A.MI"	"A2A"	"si"	1	2025-04-07
 -1	"MONC.MI"	"MONCLER"	"si"	1	2025-04-07
 NA	"REY.MI"	"REPLY"	"si"	-5	2025-04-04

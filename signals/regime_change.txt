@@ -1,8 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-17	1
+"DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-22	-1
 "BIALETTI INDUSTRIE"	"BIA.MI"	"Consumer Durables"	NA	2025-04-16	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-04-16	1
-"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-11	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-04-09	1
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-04-08	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-04-08	1
@@ -19,6 +18,7 @@
 "B.F"	"BFG.MI"	"Process Industries"	NA	2025-04-02	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-04-02	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
+"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-01	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-03-27	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
