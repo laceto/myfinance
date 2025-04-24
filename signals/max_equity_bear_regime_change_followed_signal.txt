@@ -1,6 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "REPLY"	"REY.MI"	2025-03-12	2025-04-04	"Commercial Services"	-5	2025-01-31
 "DANIELI & C"	"DAN.MI"	2024-09-05	2025-04-03	"Producer Manufacturing"	-2	2025-03-10
-"INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	1	2024-09-10
+"INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	1	2025-04-04
 "TINEXTA"	"TNXT.MI"	2022-07-08	2024-03-05	"Technology Services"	-1	2025-04-04
 "ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	-1	2025-04-04
