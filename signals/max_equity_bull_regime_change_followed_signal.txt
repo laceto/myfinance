@@ -1,4 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"FILA"	"FILA.MI"	2025-04-04	2025-04-25	"Producer Manufacturing"	3	2025-03-18
+"CEMENTIR HOLDING"	"CEM.MI"	2024-03-06	2025-04-25	"Non-Energy Minerals"	5	2025-01-14
 "MUTUIONLINE"	"MOL.MI"	2025-03-20	2025-04-17	"Commercial Services"	3	2025-03-14
 "SOL"	"SOL.MI"	2020-03-12	2025-04-14	"Process Industries"	1	2025-03-25
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-04-10	"Consumer Non-Durables"	5	2025-03-06
