@@ -1,3 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"BC.MI"	"BRUNELLO CUCINELLI"	2025-02-14	-1	-1	2025-04-14	42.8571428571429	0	-5
-"REY.MI"	"REPLY"	2025-01-31	-1	-1	2025-03-04	35.7142857142857	0.5	-5
+"REY.MI"	"REPLY"	2025-01-31	-1	-1	2025-03-04	42.8571428571429	0.5	-5
