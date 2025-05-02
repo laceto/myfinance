@@ -2,8 +2,8 @@
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-04-30	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-28	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-04-22	-1
-"POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-04-17	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-15	1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-04-15	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-04-09	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-04-09	1
 "EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-04-08	1
@@ -11,14 +11,13 @@
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-04-07	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-04-07	1
+"AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-04-07	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-04-04	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-04-04	-1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2025-04-02	1
-"POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-03-27	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
@@ -33,8 +32,8 @@
 "SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	"Consumer Services"	NA	2025-03-05	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-02-26	1
 "CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-02-25	1
-"RCS MEDIAGROUP"	"RCS.MI"	"Consumer Services"	NA	2025-02-25	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-02-25	-1
+"POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-30	-1
@@ -89,7 +88,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
-"CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2023-06-15	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2023-06-01	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2022-12-15	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2022-12-15	-1
