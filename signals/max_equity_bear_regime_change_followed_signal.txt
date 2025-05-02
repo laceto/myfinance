@@ -1,9 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"HERA"	"HER.MI"	2022-05-10	2025-04-03	"Utilities"	1	2024-01-31
-"IREN"	"IRE.MI"	2022-06-21	2025-03-31	"Utilities"	-1	2025-04-03
-"TENARIS"	"TEN.MI"	2025-01-30	2025-03-12	"Non-Energy Minerals"	-5	2025-01-13
-"DIASORIN"	"DIA.MI"	2025-02-07	2025-02-10	"Health Technology"	-1	2024-11-08
-"SALVATORE FERRAGAMO"	"SFER.MI"	2022-09-12	2025-01-31	"Consumer Non-Durables"	-3	2025-01-31
-"INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	0	2024-09-10
-"TINEXTA"	"TNXT.MI"	2022-07-08	2024-03-05	"Technology Services"	0	2025-03-28
-"ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	-1	2024-08-02
+"SNAM"	"SRG.MI"	2025-04-04	2025-04-28	"Utilities"	-1	2025-04-04
+"DANIELI & C"	"DAN.MI"	2024-09-05	2025-04-03	"Producer Manufacturing"	-2	2025-03-07
+"TENARIS"	"TEN.MI"	2025-01-30	2025-03-12	"Non-Energy Minerals"	-3	2025-01-13
+"INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	1	2025-04-04
+"ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	-1	2025-04-04
