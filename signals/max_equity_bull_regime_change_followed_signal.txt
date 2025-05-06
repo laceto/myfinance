@@ -1,6 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "GENERALI ASS"	"G.MI"	2024-05-09	2025-05-05	"Finance"	5	2025-01-06
-"TOSCANA AEROPORTI"	"TYA.MI"	2024-11-06	2025-05-02	"Transportation"	4	2025-02-26
+"TOSCANA AEROPORTI"	"TYA.MI"	2024-11-06	2025-05-02	"Transportation"	5	2025-02-26
 "MEDIOBANCA"	"MB.MI"	2024-05-07	2025-04-29	"Finance"	3	2025-04-07
 "FILA"	"FILA.MI"	2025-04-07	2025-04-25	"Producer Manufacturing"	3	2025-03-18
 "CEMENTIR HOLDING"	"CEM.MI"	2024-03-06	2025-04-25	"Non-Energy Minerals"	5	2025-01-14
@@ -8,6 +8,7 @@
 "SOL"	"SOL.MI"	2020-03-12	2025-04-14	"Process Industries"	3	2025-03-25
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-04-10	"Consumer Non-Durables"	5	2025-03-06
 "IREN"	"IRE.MI"	2025-04-04	2025-04-07	"Utilities"	3	2025-03-05
+"CEMBRE"	"CMB.MI"	2025-04-01	2025-04-04	"Electronic Technology"	5	2025-02-06
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	5	2024-11-01
 "MAPS"	"MAPS.MI"	2024-11-08	2024-12-19	"Technology Services"	3	2025-03-04
