@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-05-07	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-05-05	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-05-02	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-04-30	1
@@ -6,13 +7,11 @@
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-15	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-04-10	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-04-09	1
-"EEMS"	"EEMS.MI"	"Electronic Technology"	NA	2025-04-08	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2025-04-08	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-04-07	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-04-07	1
-"AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
-"CONFINVEST"	"CFV.MI"	"Distribution Services"	NA	2025-04-07	1
+"BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-04-07	1
 "FILA"	"FILA.MI"	"Producer Manufacturing"	NA	2025-04-07	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
@@ -21,8 +20,6 @@
 "B.F"	"BFG.MI"	"Process Industries"	NA	2025-04-02	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-01	1
-"PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
-"ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-03-27	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
