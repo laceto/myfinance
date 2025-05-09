@@ -1,4 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "TERNA"	"TRN.MI"	2022-09-27	2025-05-06	"Utilities"	-2	2024-09-10
-"DANIELI & C"	"DAN.MI"	2024-09-05	2025-04-03	"Producer Manufacturing"	-1	2025-03-07
+"DANIELI & C"	"DAN.MI"	2024-09-05	2025-04-03	"Producer Manufacturing"	1	2025-03-07
 "ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	-1	2025-04-04
