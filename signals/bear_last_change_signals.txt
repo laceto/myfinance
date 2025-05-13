@@ -1,4 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"A2A.MI"	"A2A"	"si"	0	2025-05-13
+NA	"ERG.MI"	"ERG"	"si"	0	2025-05-13
 NA	"MONC.MI"	"MONCLER"	"si"	-2	2025-05-12
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	0	2025-05-12
 NA	"ENI.MI"	"ENI"	"si"	0	2025-05-09
@@ -22,6 +24,6 @@ NA	"TNXT.MI"	"TINEXTA"	"si"	1	2025-04-30
 NA	"BRE.MI"	"BREMBO"	"si"	0	2025-04-29
 NA	"BSS.MI"	"BIESSE"	"si"	0	2025-04-25
 -1	"DIA.MI"	"DIASORIN"	"si"	0	2025-04-22
+NA	"INW.MI"	"INWIT"	"si"	1	2025-04-22
 NA	"TIT.MI"	"TELECOM ITALIA"	"si"	3	2025-04-14
-NA	"ERG.MI"	"ERG"	"si"	-1	2025-01-24
 NA	"US.MI"	"UNIPOLSAI"	"si"	-2	2024-06-28
