@@ -1,6 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "DIA.MI"	"DIASORIN"	2025-05-15	"rtt_5020"	-1
-"MONC.MI"	"MONCLER"	2025-05-09	"rrg"	-1
 "TEN.MI"	"TENARIS"	2025-05-08	"rsma_50100150"	1
 "TRN.MI"	"TERNA"	2025-05-06	"rsma_50100150"	-1
 "REY.MI"	"REPLY"	2025-04-30	"rtt_5020"	0
@@ -12,6 +11,7 @@
 "A2A.MI"	"A2A"	2025-03-20	"rema_50100150"	1
 "PRY.MI"	"PRYSMIAN"	2025-03-10	"rema_50100150"	1
 "BC.MI"	"BRUNELLO CUCINELLI"	2025-03-07	"rrg"	-1
+"MONC.MI"	"MONCLER"	2025-02-14	"rrg"	-1
 "ENAV.MI"	"ENAV"	2025-01-24	"rbo_100"	-1
 "RACE.MI"	"FERRARI"	2025-01-13	"rrg"	-1
 "NEXI.MI"	"NEXI"	2025-01-10	"rsma_50100150"	1
