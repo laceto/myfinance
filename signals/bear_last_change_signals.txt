@@ -1,7 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"TRN.MI"	"TERNA"	"si"	-1	2025-05-20
 NA	"ERG.MI"	"ERG"	"si"	0	2025-05-19
 NA	"PRT.MI"	"ESPRINET"	"si"	-3	2025-05-16
-NA	"A2A.MI"	"A2A"	"si"	0	2025-05-16
 NA	"RACE.MI"	"FERRARI"	"si"	1	2025-05-16
 NA	"MARR.MI"	"MARR"	"si"	1	2025-05-16
 NA	"DIA.MI"	"DIASORIN"	"si"	-1	2025-05-15
@@ -15,7 +15,6 @@ NA	"DAL.MI"	"DATALOGIC"	"si"	0	2025-05-09
 NA	"NEXI.MI"	"NEXI"	"si"	1	2025-05-09
 NA	"DAN.MI"	"DANIELI & C"	"si"	1	2025-05-09
 NA	"AMP.MI"	"AMPLIFON"	"si"	0	2025-05-07
-NA	"TRN.MI"	"TERNA"	"si"	-2	2025-05-06
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	0	2025-05-06
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	0	2025-05-06
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-2	2025-05-05

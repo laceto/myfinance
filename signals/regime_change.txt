@@ -1,13 +1,13 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-20	1
+"CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-05-20	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-05-15	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-05-14	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-05-14	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-05-14	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-05-13	1
-"A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-05-12	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-05-12	1
-"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-05-02	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-04-11	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-04-10	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
