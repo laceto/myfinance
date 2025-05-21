@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-21	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-20	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-05-20	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-05-15	1
@@ -6,6 +7,7 @@
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-05-14	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-05-14	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-05-13	1
+"ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-05-12	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-05-12	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-04-11	-1
@@ -21,7 +23,6 @@
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-04-01	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-01	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
-"LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-03-31	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-03-20	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1

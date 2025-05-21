@@ -1,8 +1,8 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"REY.MI"	"REPLY"	2025-05-21	"rtt_5020"	-1
 "DIA.MI"	"DIASORIN"	2025-05-15	"rtt_5020"	-1
 "TEN.MI"	"TENARIS"	2025-05-08	"rsma_50100150"	1
 "TRN.MI"	"TERNA"	2025-05-06	"rsma_50100150"	-1
-"REY.MI"	"REPLY"	2025-04-30	"rtt_5020"	0
 "TNXT.MI"	"TINEXTA"	2025-04-30	"rbo_100"	1
 "JUVE.MI"	"JUVENTUS FC"	2025-04-28	"rtt_5020"	1
 "SRG.MI"	"SNAM"	2025-04-28	"rsma_50100150"	-1

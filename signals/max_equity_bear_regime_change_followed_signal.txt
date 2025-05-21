@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"REPLY"	"REY.MI"	2025-04-11	2025-05-21	"Commercial Services"	-1	2025-04-11
 "DIASORIN"	"DIA.MI"	2025-02-07	2025-05-15	"Health Technology"	-1	2024-11-08
 "TERNA"	"TRN.MI"	2022-09-27	2025-05-06	"Utilities"	-1	2024-09-10
 "DANIELI & C"	"DAN.MI"	2024-09-05	2025-04-03	"Producer Manufacturing"	1	2025-04-10

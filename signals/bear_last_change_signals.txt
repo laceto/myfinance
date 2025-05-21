@@ -1,4 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"REY.MI"	"REPLY"	"si"	-1	2025-05-21
 NA	"TRN.MI"	"TERNA"	"si"	-1	2025-05-20
 NA	"ERG.MI"	"ERG"	"si"	0	2025-05-19
 NA	"PRT.MI"	"ESPRINET"	"si"	-3	2025-05-16
@@ -6,7 +7,6 @@ NA	"RACE.MI"	"FERRARI"	"si"	1	2025-05-16
 NA	"MARR.MI"	"MARR"	"si"	1	2025-05-16
 NA	"DIA.MI"	"DIASORIN"	"si"	-1	2025-05-15
 -1	"SRG.MI"	"SNAM"	"si"	-1	2025-05-14
-NA	"REY.MI"	"REPLY"	"si"	0	2025-05-14
 NA	"MONC.MI"	"MONCLER"	"si"	-2	2025-05-12
 NA	"TEN.MI"	"TENARIS"	"si"	0	2025-05-12
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	0	2025-05-12
