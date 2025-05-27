@@ -24,7 +24,7 @@
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-04-01	1
-"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-01	1
+"EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-24	1
