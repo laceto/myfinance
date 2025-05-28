@@ -1,5 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
-"REPLY"	"REY.MI"	2025-04-11	-1	2025-05-21	"rtt_5020"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-03-07	-1	2025-04-15	"rbo_100"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-03-07	-1	2025-04-14	"rsma_50100150"	-1
 "MONCLER"	"MONC.MI"	2025-02-14	-1	2025-05-23	"rtt_5020"	-1
