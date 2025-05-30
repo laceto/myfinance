@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"OVS.MI"	"OVS"	2025-05-29	"rrg"	-1
+"OVS.MI"	"OVS"	2025-05-30	"rrg"	-1
 "NEXI.MI"	"NEXI"	2025-05-22	"rsma_50100150"	-1
 "REY.MI"	"REPLY"	2025-05-21	"rtt_5020"	-1
 "DIA.MI"	"DIASORIN"	2025-05-15	"rtt_5020"	-1
