@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_swing_r"	"rh3"
-"OVS.MI"	"OVS"	2025-05-30	1.98
 "TNXT.MI"	"TINEXTA"	2025-05-29	6.39
 "NEXI.MI"	"NEXI"	2025-04-23	3.16
 "REY.MI"	"REPLY"	2025-04-11	89.51

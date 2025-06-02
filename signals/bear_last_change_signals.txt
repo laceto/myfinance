@@ -1,6 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
 NA	"ERG.MI"	"ERG"	"si"	1	2025-05-30
-NA	"OVS.MI"	"OVS"	"si"	1	2025-05-30
 NA	"INW.MI"	"INWIT"	"si"	-2	2025-05-29
 NA	"AMP.MI"	"AMPLIFON"	"si"	1	2025-05-29
 NA	"ENAV.MI"	"ENAV"	"si"	-1	2025-05-26
