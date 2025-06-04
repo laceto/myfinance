@@ -6,6 +6,7 @@
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-05-23	-1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
+"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-21	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-20	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-05-15	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-05-14	1
@@ -17,8 +18,8 @@
 "PHILOGEN"	"PHIL.MI"	"Health Technology"	NA	2025-05-12	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-05-07	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-04-10	1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-04-10	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
-"ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-04-07	1
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-04-07	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
@@ -27,10 +28,9 @@
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-04-01	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
-"MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-03-20	1
+"MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-03-19	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-14	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-07	-1
@@ -61,7 +61,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2024-10-11	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
-"COPERNICO"	"COP.MI"	"Finance"	NA	2024-08-02	1
 "IL SOLE 24 ORE"	"S24.MI"	"Consumer Services"	NA	2024-08-01	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
