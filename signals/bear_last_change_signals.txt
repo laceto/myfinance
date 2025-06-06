@@ -1,6 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	-1	2025-06-05
--1	"SPM.MI"	"SAIPEM"	"si"	1	2025-06-05
 NA	"BRE.MI"	"BREMBO"	"si"	-1	2025-06-04
 NA	"PRT.MI"	"ESPRINET"	"si"	-1	2025-06-04
 NA	"SRG.MI"	"SNAM"	"si"	1	2025-06-04

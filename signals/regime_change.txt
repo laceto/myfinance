@@ -1,5 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-06-05	-1
+"PLC"	"PLC.MI"	"Industrial Services"	NA	2025-06-06	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-06-02	-1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-05-29	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-05-28	1
@@ -24,6 +24,7 @@
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-04-07	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
+"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-04-01	1
@@ -51,8 +52,8 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-07	1
 "BUZZI"	"BZU.MI"	"Non-Energy Minerals"	NA	2024-11-06	1
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
 "I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2024-11-04	1
