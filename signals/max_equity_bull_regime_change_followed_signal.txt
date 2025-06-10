@@ -1,9 +1,8 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "DANIELI & C"	"DAN.MI"	2025-05-23	2025-06-09	"Producer Manufacturing"	5	2025-04-07
-"GAS PLUS"	"GSP.MI"	2025-06-05	2025-06-06	"Utilities"	5	2025-03-06
 "ENEL"	"ENEL.MI"	2025-05-12	2025-05-28	"Utilities"	3	2025-05-12
 "ANTARES VISION"	"AV.MI"	2025-02-19	2025-05-15	"Electronic Technology"	5	2025-03-28
-"MONNALISA"	"MNL.MI"	2025-03-27	2025-05-12	"Consumer Non-Durables"	1	2025-03-27
+"MONNALISA"	"MNL.MI"	2025-03-27	2025-05-12	"Consumer Non-Durables"	3	2025-03-27
 "INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-05-12	"Finance"	5	2024-11-27
 "TOSCANA AEROPORTI"	"TYA.MI"	2024-11-06	2025-05-02	"Transportation"	1	2025-05-28
 "MEDIOBANCA"	"MB.MI"	2024-05-07	2025-04-29	"Finance"	5	2025-04-07

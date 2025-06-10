@@ -1,4 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"TEN.MI"	"TENARIS"	"si"	0	2025-06-10
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	1	2025-06-09
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	-1	2025-06-05
 NA	"BRE.MI"	"BREMBO"	"si"	-1	2025-06-04
@@ -15,7 +16,6 @@ NA	"TNXT.MI"	"TINEXTA"	"si"	-1	2025-05-23
 -1	"REY.MI"	"REPLY"	"si"	-1	2025-05-23
 NA	"MARR.MI"	"MARR"	"si"	0	2025-05-23
 NA	"NEXI.MI"	"NEXI"	"si"	-1	2025-05-22
-NA	"TEN.MI"	"TENARIS"	"si"	-1	2025-05-22
 NA	"TRN.MI"	"TERNA"	"si"	-1	2025-05-20
 NA	"RACE.MI"	"FERRARI"	"si"	1	2025-05-16
 NA	"DIA.MI"	"DIASORIN"	"si"	-1	2025-05-15
