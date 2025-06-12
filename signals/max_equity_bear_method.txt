@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"DAN.MI"	"DANIELI & C"	2025-06-09	"rema_50100150"	1
 "OVS.MI"	"OVS"	2025-06-02	"rrg"	-1
 "NEXI.MI"	"NEXI"	2025-05-22	"rsma_50100150"	-1
 "REY.MI"	"REPLY"	2025-05-21	"rtt_5020"	-1
