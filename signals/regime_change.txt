@@ -2,9 +2,7 @@
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-06-12	-1
 "PHILOGEN"	"PHIL.MI"	"Health Technology"	NA	2025-06-11	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-06-10	1
-"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-06-10	0
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-06-06	1
-"GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-05	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-06-03	1
 "NEUROSOFT"	"NRST.MI"	"Technology Services"	NA	2025-06-02	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-06-02	-1
@@ -18,7 +16,6 @@
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2025-05-15	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-05-15	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-05-14	1
-"ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-05-14	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-05-14	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-05-13	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-05-12	1
@@ -65,6 +62,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2024-10-11	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
+"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2024-09-03	-1
 "IL SOLE 24 ORE"	"S24.MI"	"Consumer Services"	NA	2024-08-01	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
