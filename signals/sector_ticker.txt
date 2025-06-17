@@ -1,10 +1,10 @@
 "sector"	"sector_score"	"name"	"ticker"	"ticker_score"	"marginabile"
 "Electronic Technology"	2.26666666666667	"ANTARES VISION"	"AV.MI"	5	NA
+"Electronic Technology"	2.26666666666667	"AVIO"	"AVIO.MI"	5	NA
 "Electronic Technology"	2.26666666666667	"COMAL"	"CML.MI"	5	NA
-"Electronic Technology"	2.26666666666667	"LEONARDO"	"LDO.MI"	5	"si"
-"Electronic Technology"	2.26666666666667	"AVIO"	"AVIO.MI"	4	NA
 "Electronic Technology"	2.26666666666667	"CEMBRE"	"CMB.MI"	4	NA
 "Electronic Technology"	2.26666666666667	"EEMS"	"EEMS.MI"	4	NA
+"Electronic Technology"	2.26666666666667	"LEONARDO"	"LDO.MI"	4	"si"
 "Electronic Technology"	2.26666666666667	"POWERSOFT"	"PWS.MI"	4	NA
 "Electronic Technology"	2.26666666666667	"EUROTECH"	"ETH.MI"	1	NA
 "Electronic Technology"	2.26666666666667	"GEFRAN"	"GE.MI"	1	NA
@@ -14,26 +14,6 @@
 "Electronic Technology"	2.26666666666667	"OFFICINA STELLARE"	"OS.MI"	0	NA
 "Electronic Technology"	2.26666666666667	"DATALOGIC"	"DAL.MI"	-1	"si"
 "Electronic Technology"	2.26666666666667	"OLIDATA"	"OLI.MI"	-1	NA
-"Utilities"	1.6	"HERA"	"HER.MI"	5	"si"
-"Utilities"	1.6	"IREN"	"IRE.MI"	5	"si"
-"Utilities"	1.6	"EVISO"	"EVISO.MI"	4	NA
-"Utilities"	1.6	"ITALGAS"	"IG.MI"	4	"si"
-"Utilities"	1.6	"A2A"	"A2A.MI"	3	"si"
-"Utilities"	1.6	"ACEA"	"ACE.MI"	3	"si"
-"Utilities"	1.6	"ENEL"	"ENEL.MI"	3	"si"
-"Utilities"	1.6	"GAS PLUS"	"GSP.MI"	3	NA
-"Utilities"	1.6	"ACINQUE"	"AC5.MI"	1	NA
-"Utilities"	1.6	"ECOSUNTEK"	"ECK.MI"	1	NA
-"Utilities"	1.6	"EDISON R"	"EDNR.MI"	1	NA
-"Utilities"	1.6	"ERG"	"ERG.MI"	1	"si"
-"Utilities"	1.6	"SERI INDUSTRIAL"	"SERI.MI"	1	NA
-"Utilities"	1.6	"SNAM"	"SRG.MI"	1	"si"
-"Utilities"	1.6	"ASCOPIAVE"	"ASC.MI"	0	NA
-"Utilities"	1.6	"FRENDY ENERGY"	"FRE.MI"	0	NA
-"Utilities"	1.6	"ALERION"	"ARN.MI"	-1	NA
-"Utilities"	1.6	"ESI"	"ESIGM.MI"	-1	NA
-"Utilities"	1.6	"INIZIATIVE BRESCIANE"	"IB.MI"	-1	NA
-"Utilities"	1.6	"TERNA"	"TRN.MI"	-1	"si"
 "Industrial Services"	1.55555555555556	"DBA GROUP"	"DBA.MI"	5	NA
 "Industrial Services"	1.55555555555556	"MAIRE"	"MAIRE.MI"	5	"si"
 "Industrial Services"	1.55555555555556	"GREENTHESIS"	"GTH.MI"	4	NA
@@ -43,178 +23,180 @@
 "Industrial Services"	1.55555555555556	"INNOVATEC"	"INC.MI"	-1	NA
 "Industrial Services"	1.55555555555556	"A.B.P. NOCIVELLI"	"ABP.MI"	-2	NA
 "Industrial Services"	1.55555555555556	"TREVI FIN IND"	"TFIN.MI"	-2	NA
-"Retail Trade"	1.16666666666667	"UNIEURO"	"UNIR.MI"	5	"si"
-"Retail Trade"	1.16666666666667	"OVS"	"OVS.MI"	2	"si"
-"Retail Trade"	1.16666666666667	"TALEA GROUP"	"TALEA.MI"	1	NA
-"Retail Trade"	1.16666666666667	"IVS GROUP"	"IVS.MI"	0	NA
-"Retail Trade"	1.16666666666667	"TRENDEVICE"	"TD.MI"	0	NA
-"Retail Trade"	1.16666666666667	"E.P.H"	"EPH.MI"	-1	NA
-"Commercial Services"	1.1304347826087	"FIERA MILANO"	"FM.MI"	5	NA
-"Commercial Services"	1.1304347826087	"ITALIAN EXHIBITION GROUP"	"IEG.MI"	5	NA
-"Commercial Services"	1.1304347826087	"SERVIZI ITALIA"	"SRI.MI"	4	NA
-"Commercial Services"	1.1304347826087	"MUTUIONLINE"	"MOL.MI"	3	NA
-"Commercial Services"	1.1304347826087	"PRISMI"	"PRM.MI"	3	NA
-"Commercial Services"	1.1304347826087	"SPINDOX"	"SPN.MI"	3	NA
-"Commercial Services"	1.1304347826087	"CIRCLE"	"CIRC.MI"	2	NA
-"Commercial Services"	1.1304347826087	"OPENJOBMETIS"	"OJM.MI"	2	NA
-"Commercial Services"	1.1304347826087	"DIGITOUCH"	"DGT.MI"	1	NA
-"Commercial Services"	1.1304347826087	"ELES"	"ELES.MI"	1	NA
-"Commercial Services"	1.1304347826087	"H-FARM"	"FARM.MI"	1	NA
-"Commercial Services"	1.1304347826087	"PROMOTICA"	"PMT.MI"	1	NA
-"Commercial Services"	1.1304347826087	"WEBSOLUTE"	"WBS.MI"	1	NA
-"Commercial Services"	1.1304347826087	"ALFIO BARDOLLA"	"ABTG.MI"	0	NA
-"Commercial Services"	1.1304347826087	"ALKEMY"	"ALK.MI"	0	NA
-"Commercial Services"	1.1304347826087	"BASICNET"	"BAN.MI"	0	NA
-"Commercial Services"	1.1304347826087	"TELESIA"	"TLS.MI"	0	NA
-"Commercial Services"	1.1304347826087	"TPS"	"TPS.MI"	0	NA
-"Commercial Services"	1.1304347826087	"AMBROMOBILIARE"	"AMB.MI"	-1	NA
-"Commercial Services"	1.1304347826087	"GPI"	"GPI.MI"	-1	NA
-"Commercial Services"	1.1304347826087	"PORTOBELLO"	"POR.MI"	-1	NA
-"Commercial Services"	1.1304347826087	"REPLY"	"REY.MI"	-1	"si"
-"Commercial Services"	1.1304347826087	"CASTA DIVA GROUP"	"CDG.MI"	-2	NA
-"Finance"	1.04444444444444	"BANCO BPM"	"BAMI.MI"	5	"si"
-"Finance"	1.04444444444444	"BASTOGI SPA"	"B.MI"	5	NA
-"Finance"	1.04444444444444	"BCA POP SONDRIO"	"BPSO.MI"	5	NA
-"Finance"	1.04444444444444	"BPER BANCA"	"BPE.MI"	5	"si"
-"Finance"	1.04444444444444	"INTESA SANPAOLO"	"ISP.MI"	5	"si"
-"Finance"	1.04444444444444	"UNICREDIT"	"UCG.MI"	5	"si"
-"Finance"	1.04444444444444	"UNIPOL"	"UNI.MI"	5	"si"
-"Finance"	1.04444444444444	"MEDIOBANCA"	"MB.MI"	4	"si"
-"Finance"	1.04444444444444	"POSTE ITALIANE"	"PST.MI"	4	"si"
-"Finance"	1.04444444444444	"ABC COMPANY"	"ABC.MI"	3	NA
-"Finance"	1.04444444444444	"AEDES"	"AEDES.MI"	3	NA
-"Finance"	1.04444444444444	"BANCA MEDIOLANUM"	"BMED.MI"	3	"si"
-"Finance"	1.04444444444444	"BANCA SISTEMA"	"BST.MI"	3	NA
-"Finance"	1.04444444444444	"FINECOBANK"	"FBK.MI"	3	NA
-"Finance"	1.04444444444444	"GABETTI"	"GAB.MI"	3	NA
-"Finance"	1.04444444444444	"BANCA GENERALI"	"BGN.MI"	2	"si"
-"Finance"	1.04444444444444	"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	2	NA
-"Finance"	1.04444444444444	"MITTEL"	"MIT.MI"	2	NA
-"Finance"	1.04444444444444	"ANIMA HOLDING"	"ANIM.MI"	1	"si"
-"Finance"	1.04444444444444	"AZIMUT"	"AZM.MI"	1	NA
-"Finance"	1.04444444444444	"BORGOSESIA"	"BO.MI"	1	NA
-"Finance"	1.04444444444444	"DOVALUE"	"DOV.MI"	1	NA
-"Finance"	1.04444444444444	"ILLIMITY BANK"	"ILTY.MI"	1	NA
-"Finance"	1.04444444444444	"MIT SIM"	"MTS.MI"	1	NA
-"Finance"	1.04444444444444	"BCA PROFILO"	"PRO.MI"	0	NA
-"Finance"	1.04444444444444	"GENERALI ASS"	"G.MI"	0	NA
-"Finance"	1.04444444444444	"MET.EXTRA GROUP"	"MET.MI"	0	NA
-"Finance"	1.04444444444444	"VIANINI"	"VIA.MI"	0	NA
-"Finance"	1.04444444444444	"ZEST"	"ZEST.MI"	0	NA
-"Finance"	1.04444444444444	"ABITARE IN"	"ABT.MI"	-1	NA
-"Finance"	1.04444444444444	"BESTBE HOLDING"	"BES.MI"	-1	NA
-"Finance"	1.04444444444444	"CONAFI"	"CNF.MI"	-1	NA
-"Finance"	1.04444444444444	"EQUITA GROUP"	"EQUI.MI"	-1	NA
-"Finance"	1.04444444444444	"MEVIM"	"MEV.MI"	-1	NA
-"Finance"	1.04444444444444	"SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	-1	NA
-"Finance"	1.04444444444444	"TAMBURI"	"TIP.MI"	-1	NA
-"Finance"	1.04444444444444	"4AIM SICAF"	"AIM.MI"	-2	NA
-"Finance"	1.04444444444444	"BANCA IFIS"	"IF.MI"	-2	NA
-"Finance"	1.04444444444444	"BFF BANK"	"BFF.MI"	-2	NA
-"Finance"	1.04444444444444	"COPERNICO"	"COP.MI"	-2	NA
-"Finance"	1.04444444444444	"CREDEM"	"CE.MI"	-2	NA
-"Finance"	1.04444444444444	"FIRST CAPITAL"	"FIC.MI"	-2	NA
-"Finance"	1.04444444444444	"NEXI"	"NEXI.MI"	-2	"si"
-"Finance"	1.04444444444444	"UNIPOLSAI"	"US.MI"	-2	"si"
-"Finance"	1.04444444444444	"BCO DESIO BRIANZA"	"BDB.MI"	-3	NA
+"Utilities"	1.5	"IREN"	"IRE.MI"	5	"si"
+"Utilities"	1.5	"EVISO"	"EVISO.MI"	4	NA
+"Utilities"	1.5	"HERA"	"HER.MI"	4	"si"
+"Utilities"	1.5	"ITALGAS"	"IG.MI"	4	"si"
+"Utilities"	1.5	"A2A"	"A2A.MI"	3	"si"
+"Utilities"	1.5	"ACEA"	"ACE.MI"	3	"si"
+"Utilities"	1.5	"ENEL"	"ENEL.MI"	3	"si"
+"Utilities"	1.5	"GAS PLUS"	"GSP.MI"	3	NA
+"Utilities"	1.5	"ACINQUE"	"AC5.MI"	1	NA
+"Utilities"	1.5	"ECOSUNTEK"	"ECK.MI"	1	NA
+"Utilities"	1.5	"EDISON R"	"EDNR.MI"	1	NA
+"Utilities"	1.5	"ERG"	"ERG.MI"	1	"si"
+"Utilities"	1.5	"FRENDY ENERGY"	"FRE.MI"	1	NA
+"Utilities"	1.5	"SERI INDUSTRIAL"	"SERI.MI"	1	NA
+"Utilities"	1.5	"SNAM"	"SRG.MI"	1	"si"
+"Utilities"	1.5	"ALERION"	"ARN.MI"	-1	NA
+"Utilities"	1.5	"ASCOPIAVE"	"ASC.MI"	-1	NA
+"Utilities"	1.5	"ESI"	"ESIGM.MI"	-1	NA
+"Utilities"	1.5	"INIZIATIVE BRESCIANE"	"IB.MI"	-1	NA
+"Utilities"	1.5	"TERNA"	"TRN.MI"	-2	"si"
+"Commercial Services"	1.21739130434783	"FIERA MILANO"	"FM.MI"	5	NA
+"Commercial Services"	1.21739130434783	"ITALIAN EXHIBITION GROUP"	"IEG.MI"	5	NA
+"Commercial Services"	1.21739130434783	"MUTUIONLINE"	"MOL.MI"	5	NA
+"Commercial Services"	1.21739130434783	"SERVIZI ITALIA"	"SRI.MI"	4	NA
+"Commercial Services"	1.21739130434783	"H-FARM"	"FARM.MI"	3	NA
+"Commercial Services"	1.21739130434783	"PRISMI"	"PRM.MI"	3	NA
+"Commercial Services"	1.21739130434783	"SPINDOX"	"SPN.MI"	3	NA
+"Commercial Services"	1.21739130434783	"CIRCLE"	"CIRC.MI"	2	NA
+"Commercial Services"	1.21739130434783	"OPENJOBMETIS"	"OJM.MI"	2	NA
+"Commercial Services"	1.21739130434783	"DIGITOUCH"	"DGT.MI"	1	NA
+"Commercial Services"	1.21739130434783	"PROMOTICA"	"PMT.MI"	1	NA
+"Commercial Services"	1.21739130434783	"WEBSOLUTE"	"WBS.MI"	1	NA
+"Commercial Services"	1.21739130434783	"ALFIO BARDOLLA"	"ABTG.MI"	0	NA
+"Commercial Services"	1.21739130434783	"ALKEMY"	"ALK.MI"	0	NA
+"Commercial Services"	1.21739130434783	"BASICNET"	"BAN.MI"	0	NA
+"Commercial Services"	1.21739130434783	"TELESIA"	"TLS.MI"	0	NA
+"Commercial Services"	1.21739130434783	"TPS"	"TPS.MI"	0	NA
+"Commercial Services"	1.21739130434783	"AMBROMOBILIARE"	"AMB.MI"	-1	NA
+"Commercial Services"	1.21739130434783	"ELES"	"ELES.MI"	-1	NA
+"Commercial Services"	1.21739130434783	"GPI"	"GPI.MI"	-1	NA
+"Commercial Services"	1.21739130434783	"PORTOBELLO"	"POR.MI"	-1	NA
+"Commercial Services"	1.21739130434783	"REPLY"	"REY.MI"	-1	"si"
+"Commercial Services"	1.21739130434783	"CASTA DIVA GROUP"	"CDG.MI"	-2	NA
 "Energy Minerals"	1	"SARAS"	"SRS.MI"	2	"si"
 "Energy Minerals"	1	"ENI"	"ENI.MI"	0	"si"
-"Non-Energy Minerals"	1	"CEMENTIR HOLDING"	"CEM.MI"	5	NA
-"Non-Energy Minerals"	1	"BUZZI"	"BZU.MI"	3	NA
-"Non-Energy Minerals"	1	"FRANCHI UMBERTO MARMI"	"FUM.MI"	1	NA
-"Non-Energy Minerals"	1	"KME GROUP"	"KME.MI"	0	NA
-"Non-Energy Minerals"	1	"TENARIS"	"TEN.MI"	0	"si"
-"Non-Energy Minerals"	1	"CALTAGIRONE"	"CALT.MI"	-3	NA
+"Retail Trade"	1	"UNIEURO"	"UNIR.MI"	5	"si"
+"Retail Trade"	1	"OVS"	"OVS.MI"	2	"si"
+"Retail Trade"	1	"IVS GROUP"	"IVS.MI"	0	NA
+"Retail Trade"	1	"TALEA GROUP"	"TALEA.MI"	0	NA
+"Retail Trade"	1	"TRENDEVICE"	"TD.MI"	0	NA
+"Retail Trade"	1	"E.P.H"	"EPH.MI"	-1	NA
 NA	1	NA	"IGD.MI"	5	NA
 NA	1	NA	"NOV.DE"	1	NA
 NA	1	NA	"STMMI.MI"	1	NA
 NA	1	NA	"LLY.DE"	0	NA
 NA	1	NA	"MFEB.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"I GRANDI VIAGGI"	"IGV.MI"	5	NA
-"Consumer Services"	0.791666666666667	"IL SOLE 24 ORE"	"S24.MI"	5	NA
-"Consumer Services"	0.791666666666667	"CAIRO COMMUNICATION"	"CAI.MI"	4	NA
-"Consumer Services"	0.791666666666667	"CALTAGIRONE EDIT"	"CED.MI"	2	NA
-"Consumer Services"	0.791666666666667	"FENIX ENTERTAINMENT"	"FNX.MI"	2	NA
-"Consumer Services"	0.791666666666667	"RCS MEDIAGROUP"	"RCS.MI"	2	NA
-"Consumer Services"	0.791666666666667	"CLASS EDITORI"	"CLE.MI"	1	NA
-"Consumer Services"	0.791666666666667	"GAMBERO ROSSO"	"GAMB.MI"	1	NA
-"Consumer Services"	0.791666666666667	"LUCISANO MEDIA GROUP"	"LMG.MI"	1	NA
-"Consumer Services"	0.791666666666667	"MONDO TV"	"MTV.MI"	1	NA
-"Consumer Services"	0.791666666666667	"MONRIF"	"MON.MI"	1	NA
-"Consumer Services"	0.791666666666667	"RAI WAY"	"RWAY.MI"	1	NA
-"Consumer Services"	0.791666666666667	"VISIBILIA EDITORE"	"VE.MI"	1	NA
-"Consumer Services"	0.791666666666667	"IERVOLINO & LADY BACARDI ENTERTAINMENT"	"IE.MI"	0	NA
-"Consumer Services"	0.791666666666667	"MONDADORI EDIT"	"MN.MI"	0	NA
-"Consumer Services"	0.791666666666667	"NOTORIOUS PICTURES"	"NPI.MI"	0	NA
-"Consumer Services"	0.791666666666667	"SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	0	NA
-"Consumer Services"	0.791666666666667	"IDNTT"	"IDNTT.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"LEONE FILM GROUP"	"LFG.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"LONGINO&CARDENAL"	"LON.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"NETWEEK"	"NTW.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"POLIGRAFICI PRINTING"	"POPR.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"S.S. LAZIO"	"SSL.MI"	-1	NA
-"Consumer Services"	0.791666666666667	"JUVENTUS FC"	"JUVE.MI"	-2	"si"
-"Producer Manufacturing"	0.666666666666667	"FINCANTIERI"	"FCT.MI"	5	"si"
-"Producer Manufacturing"	0.666666666666667	"GEL"	"GEL.MI"	5	NA
-"Producer Manufacturing"	0.666666666666667	"BEGHELLI"	"BE.MI"	4	NA
-"Producer Manufacturing"	0.666666666666667	"LUVE"	"LUVE.MI"	3	NA
-"Producer Manufacturing"	0.666666666666667	"PIOVAN"	"PVN.MI"	3	NA
-"Producer Manufacturing"	0.666666666666667	"DANIELI & C"	"DAN.MI"	2	"si"
-"Producer Manufacturing"	0.666666666666667	"VIMI FASTENERS"	"VIM.MI"	2	NA
-"Producer Manufacturing"	0.666666666666667	"ATON GREEN STORAGE"	"ATON.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"CAREL INDUSTRIES"	"CRL.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"ESAUTOMOTION"	"ESAU.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"FIDIA"	"FDA.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"INTERPUMP GROUP"	"IP.MI"	1	"si"
-"Producer Manufacturing"	0.666666666666667	"MARZOCCHI POMPE"	"MARP.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"SALCEF GROUP"	"SCF.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"SIT"	"SIT.MI"	1	NA
-"Producer Manufacturing"	0.666666666666667	"BIESSE"	"BSS.MI"	0	"si"
-"Producer Manufacturing"	0.666666666666667	"CIR"	"CIR.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"CLABO"	"CLABO.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"FERVI"	"FVI.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"GIBUS"	"GBUS.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"INDEL B"	"INDB.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"IRCE"	"IRC.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"LANDI RENZO"	"LNDR.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"PRYSMIAN"	"PRY.MI"	0	"si"
-"Producer Manufacturing"	0.666666666666667	"SAES GETTERS"	"SG.MI"	0	NA
-"Producer Manufacturing"	0.666666666666667	"BREMBO"	"BRE.MI"	-1	"si"
-"Producer Manufacturing"	0.666666666666667	"COMER INDUSTRIES"	"COM.MI"	-1	NA
-"Producer Manufacturing"	0.666666666666667	"ILPRA"	"ILP.MI"	-1	NA
-"Producer Manufacturing"	0.666666666666667	"OSAI AUTOMATION SYSTEM"	"OSA.MI"	-1	NA
-"Producer Manufacturing"	0.666666666666667	"SCIUKER FRAMES"	"SCK.MI"	-1	NA
-"Producer Manufacturing"	0.666666666666667	"SOGEFI"	"SGF.MI"	-1	NA
-"Producer Manufacturing"	0.666666666666667	"TENAX INTERNATIONAL"	"TNX.MI"	-1	NA
-"Producer Manufacturing"	0.666666666666667	"FILA"	"FILA.MI"	-3	NA
+"Finance"	0.933333333333333	"BANCO BPM"	"BAMI.MI"	5	"si"
+"Finance"	0.933333333333333	"BASTOGI SPA"	"B.MI"	5	NA
+"Finance"	0.933333333333333	"BCA POP SONDRIO"	"BPSO.MI"	5	NA
+"Finance"	0.933333333333333	"BPER BANCA"	"BPE.MI"	5	"si"
+"Finance"	0.933333333333333	"INTESA SANPAOLO"	"ISP.MI"	5	"si"
+"Finance"	0.933333333333333	"UNICREDIT"	"UCG.MI"	5	"si"
+"Finance"	0.933333333333333	"UNIPOL"	"UNI.MI"	5	"si"
+"Finance"	0.933333333333333	"MEDIOBANCA"	"MB.MI"	4	"si"
+"Finance"	0.933333333333333	"POSTE ITALIANE"	"PST.MI"	4	"si"
+"Finance"	0.933333333333333	"ABC COMPANY"	"ABC.MI"	3	NA
+"Finance"	0.933333333333333	"AEDES"	"AEDES.MI"	3	NA
+"Finance"	0.933333333333333	"BANCA SISTEMA"	"BST.MI"	3	NA
+"Finance"	0.933333333333333	"FINECOBANK"	"FBK.MI"	3	NA
+"Finance"	0.933333333333333	"GABETTI"	"GAB.MI"	3	NA
+"Finance"	0.933333333333333	"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	2	NA
+"Finance"	0.933333333333333	"MITTEL"	"MIT.MI"	2	NA
+"Finance"	0.933333333333333	"ANIMA HOLDING"	"ANIM.MI"	1	"si"
+"Finance"	0.933333333333333	"AZIMUT"	"AZM.MI"	1	NA
+"Finance"	0.933333333333333	"BANCA MEDIOLANUM"	"BMED.MI"	1	"si"
+"Finance"	0.933333333333333	"BORGOSESIA"	"BO.MI"	1	NA
+"Finance"	0.933333333333333	"DOVALUE"	"DOV.MI"	1	NA
+"Finance"	0.933333333333333	"EQUITA GROUP"	"EQUI.MI"	1	NA
+"Finance"	0.933333333333333	"MIT SIM"	"MTS.MI"	1	NA
+"Finance"	0.933333333333333	"BCA PROFILO"	"PRO.MI"	0	NA
+"Finance"	0.933333333333333	"GENERALI ASS"	"G.MI"	0	NA
+"Finance"	0.933333333333333	"ILLIMITY BANK"	"ILTY.MI"	0	NA
+"Finance"	0.933333333333333	"MET.EXTRA GROUP"	"MET.MI"	0	NA
+"Finance"	0.933333333333333	"VIANINI"	"VIA.MI"	0	NA
+"Finance"	0.933333333333333	"ZEST"	"ZEST.MI"	0	NA
+"Finance"	0.933333333333333	"ABITARE IN"	"ABT.MI"	-1	NA
+"Finance"	0.933333333333333	"BESTBE HOLDING"	"BES.MI"	-1	NA
+"Finance"	0.933333333333333	"CONAFI"	"CNF.MI"	-1	NA
+"Finance"	0.933333333333333	"MEVIM"	"MEV.MI"	-1	NA
+"Finance"	0.933333333333333	"SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	-1	NA
+"Finance"	0.933333333333333	"TAMBURI"	"TIP.MI"	-1	NA
+"Finance"	0.933333333333333	"4AIM SICAF"	"AIM.MI"	-2	NA
+"Finance"	0.933333333333333	"BANCA GENERALI"	"BGN.MI"	-2	"si"
+"Finance"	0.933333333333333	"BANCA IFIS"	"IF.MI"	-2	NA
+"Finance"	0.933333333333333	"BFF BANK"	"BFF.MI"	-2	NA
+"Finance"	0.933333333333333	"COPERNICO"	"COP.MI"	-2	NA
+"Finance"	0.933333333333333	"CREDEM"	"CE.MI"	-2	NA
+"Finance"	0.933333333333333	"FIRST CAPITAL"	"FIC.MI"	-2	NA
+"Finance"	0.933333333333333	"NEXI"	"NEXI.MI"	-2	"si"
+"Finance"	0.933333333333333	"UNIPOLSAI"	"US.MI"	-2	"si"
+"Finance"	0.933333333333333	"BCO DESIO BRIANZA"	"BDB.MI"	-3	NA
+"Consumer Services"	0.75	"I GRANDI VIAGGI"	"IGV.MI"	5	NA
+"Consumer Services"	0.75	"IL SOLE 24 ORE"	"S24.MI"	5	NA
+"Consumer Services"	0.75	"CAIRO COMMUNICATION"	"CAI.MI"	4	NA
+"Consumer Services"	0.75	"RAI WAY"	"RWAY.MI"	3	NA
+"Consumer Services"	0.75	"FENIX ENTERTAINMENT"	"FNX.MI"	2	NA
+"Consumer Services"	0.75	"RCS MEDIAGROUP"	"RCS.MI"	2	NA
+"Consumer Services"	0.75	"CLASS EDITORI"	"CLE.MI"	1	NA
+"Consumer Services"	0.75	"GAMBERO ROSSO"	"GAMB.MI"	1	NA
+"Consumer Services"	0.75	"LUCISANO MEDIA GROUP"	"LMG.MI"	1	NA
+"Consumer Services"	0.75	"MONDO TV"	"MTV.MI"	1	NA
+"Consumer Services"	0.75	"MONRIF"	"MON.MI"	1	NA
+"Consumer Services"	0.75	"VISIBILIA EDITORE"	"VE.MI"	1	NA
+"Consumer Services"	0.75	"CALTAGIRONE EDIT"	"CED.MI"	0	NA
+"Consumer Services"	0.75	"IERVOLINO & LADY BACARDI ENTERTAINMENT"	"IE.MI"	0	NA
+"Consumer Services"	0.75	"MONDADORI EDIT"	"MN.MI"	0	NA
+"Consumer Services"	0.75	"NOTORIOUS PICTURES"	"NPI.MI"	0	NA
+"Consumer Services"	0.75	"SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	0	NA
+"Consumer Services"	0.75	"IDNTT"	"IDNTT.MI"	-1	NA
+"Consumer Services"	0.75	"LEONE FILM GROUP"	"LFG.MI"	-1	NA
+"Consumer Services"	0.75	"LONGINO&CARDENAL"	"LON.MI"	-1	NA
+"Consumer Services"	0.75	"POLIGRAFICI PRINTING"	"POPR.MI"	-1	NA
+"Consumer Services"	0.75	"S.S. LAZIO"	"SSL.MI"	-1	NA
+"Consumer Services"	0.75	"JUVENTUS FC"	"JUVE.MI"	-2	"si"
+"Consumer Services"	0.75	"NETWEEK"	"NTW.MI"	-2	NA
+"Producer Manufacturing"	0.484848484848485	"FINCANTIERI"	"FCT.MI"	5	"si"
+"Producer Manufacturing"	0.484848484848485	"BEGHELLI"	"BE.MI"	4	NA
+"Producer Manufacturing"	0.484848484848485	"GEL"	"GEL.MI"	4	NA
+"Producer Manufacturing"	0.484848484848485	"PIOVAN"	"PVN.MI"	3	NA
+"Producer Manufacturing"	0.484848484848485	"DANIELI & C"	"DAN.MI"	2	"si"
+"Producer Manufacturing"	0.484848484848485	"VIMI FASTENERS"	"VIM.MI"	2	NA
+"Producer Manufacturing"	0.484848484848485	"ATON GREEN STORAGE"	"ATON.MI"	1	NA
+"Producer Manufacturing"	0.484848484848485	"CAREL INDUSTRIES"	"CRL.MI"	1	NA
+"Producer Manufacturing"	0.484848484848485	"ESAUTOMOTION"	"ESAU.MI"	1	NA
+"Producer Manufacturing"	0.484848484848485	"INTERPUMP GROUP"	"IP.MI"	1	"si"
+"Producer Manufacturing"	0.484848484848485	"MARZOCCHI POMPE"	"MARP.MI"	1	NA
+"Producer Manufacturing"	0.484848484848485	"SALCEF GROUP"	"SCF.MI"	1	NA
+"Producer Manufacturing"	0.484848484848485	"SIT"	"SIT.MI"	1	NA
+"Producer Manufacturing"	0.484848484848485	"CIR"	"CIR.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"CLABO"	"CLABO.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"FERVI"	"FVI.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"FIDIA"	"FDA.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"GIBUS"	"GBUS.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"INDEL B"	"INDB.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"IRCE"	"IRC.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"LANDI RENZO"	"LNDR.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"LUVE"	"LUVE.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"PRYSMIAN"	"PRY.MI"	0	"si"
+"Producer Manufacturing"	0.484848484848485	"SAES GETTERS"	"SG.MI"	0	NA
+"Producer Manufacturing"	0.484848484848485	"BIESSE"	"BSS.MI"	-1	"si"
+"Producer Manufacturing"	0.484848484848485	"BREMBO"	"BRE.MI"	-1	"si"
+"Producer Manufacturing"	0.484848484848485	"COMER INDUSTRIES"	"COM.MI"	-1	NA
+"Producer Manufacturing"	0.484848484848485	"ILPRA"	"ILP.MI"	-1	NA
+"Producer Manufacturing"	0.484848484848485	"OSAI AUTOMATION SYSTEM"	"OSA.MI"	-1	NA
+"Producer Manufacturing"	0.484848484848485	"SCIUKER FRAMES"	"SCK.MI"	-1	NA
+"Producer Manufacturing"	0.484848484848485	"SOGEFI"	"SGF.MI"	-1	NA
+"Producer Manufacturing"	0.484848484848485	"TENAX INTERNATIONAL"	"TNX.MI"	-1	NA
+"Producer Manufacturing"	0.484848484848485	"FILA"	"FILA.MI"	-3	NA
 "Health Services"	0.333333333333333	"HEALTH ITALIA"	"HI.MI"	3	NA
 "Health Services"	0.333333333333333	"EUKEDOS"	"EUK.MI"	0	NA
 "Health Services"	0.333333333333333	"GAROFALO HEALTH CARE"	"GHC.MI"	-2	NA
-"Consumer Durables"	0.28	"BIALETTI INDUSTRIE"	"BIA.MI"	4	NA
-"Consumer Durables"	0.28	"TECHNOGYM"	"TGYM.MI"	4	"si"
-"Consumer Durables"	0.28	"FOPE"	"FPE.MI"	3	NA
-"Consumer Durables"	0.28	"ILLA"	"ILLA.MI"	2	NA
-"Consumer Durables"	0.28	"B&C SPEAKERS"	"BEC.MI"	1	NA
-"Consumer Durables"	0.28	"ELICA"	"ELC.MI"	1	NA
-"Consumer Durables"	0.28	"PIRELLI & C"	"PIRC.MI"	1	NA
-"Consumer Durables"	0.28	"SANLORENZO"	"SL.MI"	1	NA
-"Consumer Durables"	0.28	"SOMEC"	"SOM.MI"	1	NA
-"Consumer Durables"	0.28	"CALEFFI"	"CLF.MI"	0	NA
-"Consumer Durables"	0.28	"EMAK"	"EM.MI"	0	NA
-"Consumer Durables"	0.28	"FERRARI"	"RACE.MI"	0	"si"
-"Consumer Durables"	0.28	"IMMSI"	"IMS.MI"	0	NA
-"Consumer Durables"	0.28	"PIAGGIO"	"PIA.MI"	0	NA
-"Consumer Durables"	0.28	"SABAF"	"SAB.MI"	0	NA
-"Consumer Durables"	0.28	"ASKOLL EVA"	"EVA.MI"	-1	NA
-"Consumer Durables"	0.28	"CELLULARLINE"	"CELL.MI"	-1	NA
-"Consumer Durables"	0.28	"DE'LONGHI"	"DLG.MI"	-1	NA
-"Consumer Durables"	0.28	"EDILIZIACROBATICA"	"EDAC.MI"	-1	NA
-"Consumer Durables"	0.28	"GISMONDI 1754"	"GIS.MI"	-1	NA
-"Consumer Durables"	0.28	"PIQUADRO"	"PQ.MI"	-1	NA
-"Consumer Durables"	0.28	"RADICI"	"RAD.MI"	-1	NA
-"Consumer Durables"	0.28	"STELLANTIS"	"STLAM.MI"	-1	NA
-"Consumer Durables"	0.28	"ZUCCHI"	"ZUC.MI"	-1	NA
-"Consumer Durables"	0.28	"PININFARINA SPA"	"PINF.MI"	-2	NA
+"Non-Energy Minerals"	0.333333333333333	"CEMENTIR HOLDING"	"CEM.MI"	5	NA
+"Non-Energy Minerals"	0.333333333333333	"FRANCHI UMBERTO MARMI"	"FUM.MI"	1	NA
+"Non-Energy Minerals"	0.333333333333333	"KME GROUP"	"KME.MI"	0	NA
+"Non-Energy Minerals"	0.333333333333333	"TENARIS"	"TEN.MI"	0	"si"
+"Non-Energy Minerals"	0.333333333333333	"BUZZI"	"BZU.MI"	-1	NA
+"Non-Energy Minerals"	0.333333333333333	"CALTAGIRONE"	"CALT.MI"	-3	NA
+"Process Industries"	0.285714285714286	"SOL"	"SOL.MI"	3	NA
+"Process Industries"	0.285714285714286	"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	2	NA
+"Process Industries"	0.285714285714286	"AQUAFIL"	"ECNL.MI"	1	NA
+"Process Industries"	0.285714285714286	"B.F"	"BFG.MI"	-1	NA
+"Process Industries"	0.285714285714286	"GRIFAL"	"GRAL.MI"	-1	NA
+"Process Industries"	0.285714285714286	"NEODECORTECH"	"NDT.MI"	-1	NA
+"Process Industries"	0.285714285714286	"ZIGNAGO VETRO"	"ZV.MI"	-1	NA
 "Health Technology"	0.272727272727273	"SHEDIR PHARMA GROUP"	"SHE.MI"	5	NA
 "Health Technology"	0.272727272727273	"PHILOGEN"	"PHIL.MI"	3	NA
 "Health Technology"	0.272727272727273	"RECORDATI ORD"	"REC.MI"	1	NA
@@ -226,84 +208,102 @@ NA	1	NA	"MFEB.MI"	-1	NA
 "Health Technology"	0.272727272727273	"PHARMANUTRA"	"PHN.MI"	-1	NA
 "Health Technology"	0.272727272727273	"SAFILO GROUP"	"SFL.MI"	-1	"si"
 "Health Technology"	0.272727272727273	"ENERVIT"	"ENV.MI"	-2	NA
-"Technology Services"	0.21875	"MAPS"	"MAPS.MI"	5	NA
-"Technology Services"	0.21875	"NVP"	"NVP.MI"	5	NA
-"Technology Services"	0.21875	"FOS"	"FOS.MI"	4	NA
-"Technology Services"	0.21875	"RELATECH"	"RLT.MI"	3	NA
-"Technology Services"	0.21875	"CROWDFUNDME"	"CFM.MI"	1	NA
-"Technology Services"	0.21875	"DIGITAL VALUE"	"DGV.MI"	1	NA
-"Technology Services"	0.21875	"MEGLIOQUESTO"	"MQSPA.MI"	1	NA
-"Technology Services"	0.21875	"NEUROSOFT"	"NRST.MI"	1	NA
-"Technology Services"	0.21875	"SOFTLAB"	"SFT.MI"	1	NA
-"Technology Services"	0.21875	"TINEXTA"	"TNXT.MI"	1	"si"
-"Technology Services"	0.21875	"TRIBOO"	"TB.MI"	1	NA
-"Technology Services"	0.21875	"VANTEA SMART"	"VNT.MI"	1	NA
-"Technology Services"	0.21875	"CLEANBNB"	"CBB.MI"	0	NA
-"Technology Services"	0.21875	"CYBEROO"	"CYB.MI"	0	NA
-"Technology Services"	0.21875	"GIGLIO GROUP"	"GG.MI"	0	NA
-"Technology Services"	0.21875	"NEOSPERIENCE"	"NSP.MI"	0	NA
-"Technology Services"	0.21875	"RETI"	"RETI.MI"	0	NA
-"Technology Services"	0.21875	"TECMA SOLUTIONS"	"TCM.MI"	0	NA
-"Technology Services"	0.21875	"TXT E-SOLUTIONS"	"TXT.MI"	0	NA
-"Technology Services"	0.21875	"WIIT"	"WIIT.MI"	0	NA
-"Technology Services"	0.21875	"ALGOWATT"	"ALW.MI"	-1	NA
-"Technology Services"	0.21875	"ALMAWAVE"	"AIW.MI"	-1	NA
-"Technology Services"	0.21875	"DHH"	"DHH.MI"	-1	NA
-"Technology Services"	0.21875	"DIGITAL BROS"	"DIB.MI"	-1	NA
-"Technology Services"	0.21875	"DOXEE"	"DOX.MI"	-1	NA
-"Technology Services"	0.21875	"EXPERT.AI"	"EXAI.MI"	-1	NA
-"Technology Services"	0.21875	"GROWENS"	"GROW.MI"	-1	NA
-"Technology Services"	0.21875	"IT WAY"	"ITW.MI"	-1	NA
-"Technology Services"	0.21875	"SOSTRAVEL.COM"	"SOS.MI"	-1	NA
-"Technology Services"	0.21875	"UCAPITAL24"	"U24.MI"	-1	NA
-"Technology Services"	0.21875	"CY4GATE"	"CY4.MI"	-3	NA
-"Technology Services"	0.21875	"EXPRIVIA"	"XPR.MI"	-5	NA
-"Process Industries"	0.142857142857143	"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	3	NA
-"Process Industries"	0.142857142857143	"SOL"	"SOL.MI"	3	NA
-"Process Industries"	0.142857142857143	"AQUAFIL"	"ECNL.MI"	1	NA
-"Process Industries"	0.142857142857143	"B.F"	"BFG.MI"	-1	NA
-"Process Industries"	0.142857142857143	"GRIFAL"	"GRAL.MI"	-1	NA
-"Process Industries"	0.142857142857143	"ZIGNAGO VETRO"	"ZV.MI"	-1	NA
-"Process Industries"	0.142857142857143	"NEODECORTECH"	"NDT.MI"	-3	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"NEWLAT FOOD"	"NWL.MI"	4	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"TOD'S"	"TOD.MI"	3	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"MONNALISA"	"MNL.MI"	2	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"BIOERA"	"BIE.MI"	1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"CSP INT IND CALZE"	"CSP.MI"	1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"ITALIAN WINE BRANDS"	"IWB.MI"	1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"ITALMOBILIARE"	"ITM.MI"	1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"MASI AGRICOLA"	"MASI.MI"	1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"VALSOIA"	"VLS.MI"	1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"RATTI"	"RAT.MI"	0	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"AEFFE"	"AEF.MI"	-1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"BRUNELLO CUCINELLI"	"BC.MI"	-1	"si"
-"Consumer Non-Durables"	8.32667268468867e-17	"CULTI MILANO"	"CULT.MI"	-1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"GEOX"	"GEO.MI"	-1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"IIG"	"IIG.MI"	-1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"PATTERN"	"PTR.MI"	-1	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"SALVATORE FERRAGAMO"	"SFER.MI"	-1	"si"
-"Consumer Non-Durables"	8.32667268468867e-17	"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	-2	NA
-"Consumer Non-Durables"	8.32667268468867e-17	"CAMPARI"	"CPR.MI"	-3	"si"
-"Consumer Non-Durables"	8.32667268468867e-17	"MONCLER"	"MONC.MI"	-3	"si"
-"Communications"	5.55111512312578e-17	"SG COMPANY"	"SGC.MI"	3	NA
-"Communications"	5.55111512312578e-17	"TELECOM ITALIA"	"TIT.MI"	2	"si"
-"Communications"	5.55111512312578e-17	"CONVERGENZE"	"CVG.MI"	1	NA
-"Communications"	5.55111512312578e-17	"INTRED"	"ITD.MI"	0	NA
-"Communications"	5.55111512312578e-17	"PLANETEL"	"PLN.MI"	0	NA
-"Communications"	5.55111512312578e-17	"GO INTERNET"	"GO.MI"	-1	NA
-"Communications"	5.55111512312578e-17	"TESSELLIS"	"TSL.MI"	-1	NA
-"Communications"	5.55111512312578e-17	"INWIT"	"INW.MI"	-2	"si"
-"Communications"	5.55111512312578e-17	"UNIDATA"	"UD.MI"	-2	NA
-"Transportation"	5.55111512312578e-17	"AEROPORTO GUGLIELMO MARCONI DI BOLOGNA"	"ADB.MI"	1	NA
-"Transportation"	5.55111512312578e-17	"AUTOSTRADE MERID"	"AUTME.MI"	1	NA
-"Transportation"	5.55111512312578e-17	"D'AMICO"	"DIS.MI"	1	NA
-"Transportation"	5.55111512312578e-17	"TOSCANA AEROPORTI"	"TYA.MI"	1	NA
-"Transportation"	5.55111512312578e-17	"FNM"	"FNM.MI"	0	NA
-"Transportation"	5.55111512312578e-17	"ENAV"	"ENAV.MI"	-1	"si"
-"Transportation"	5.55111512312578e-17	"TRAWELL CO"	"TWL.MI"	-3	NA
+"Consumer Durables"	0.12	"BIALETTI INDUSTRIE"	"BIA.MI"	4	NA
+"Consumer Durables"	0.12	"TECHNOGYM"	"TGYM.MI"	4	"si"
+"Consumer Durables"	0.12	"FOPE"	"FPE.MI"	3	NA
+"Consumer Durables"	0.12	"ILLA"	"ILLA.MI"	2	NA
+"Consumer Durables"	0.12	"B&C SPEAKERS"	"BEC.MI"	1	NA
+"Consumer Durables"	0.12	"ELICA"	"ELC.MI"	1	NA
+"Consumer Durables"	0.12	"PIRELLI & C"	"PIRC.MI"	1	NA
+"Consumer Durables"	0.12	"SANLORENZO"	"SL.MI"	1	NA
+"Consumer Durables"	0.12	"CALEFFI"	"CLF.MI"	0	NA
+"Consumer Durables"	0.12	"EMAK"	"EM.MI"	0	NA
+"Consumer Durables"	0.12	"FERRARI"	"RACE.MI"	0	"si"
+"Consumer Durables"	0.12	"PIAGGIO"	"PIA.MI"	0	NA
+"Consumer Durables"	0.12	"SABAF"	"SAB.MI"	0	NA
+"Consumer Durables"	0.12	"ASKOLL EVA"	"EVA.MI"	-1	NA
+"Consumer Durables"	0.12	"CELLULARLINE"	"CELL.MI"	-1	NA
+"Consumer Durables"	0.12	"DE'LONGHI"	"DLG.MI"	-1	NA
+"Consumer Durables"	0.12	"EDILIZIACROBATICA"	"EDAC.MI"	-1	NA
+"Consumer Durables"	0.12	"GISMONDI 1754"	"GIS.MI"	-1	NA
+"Consumer Durables"	0.12	"IMMSI"	"IMS.MI"	-1	NA
+"Consumer Durables"	0.12	"PIQUADRO"	"PQ.MI"	-1	NA
+"Consumer Durables"	0.12	"RADICI"	"RAD.MI"	-1	NA
+"Consumer Durables"	0.12	"STELLANTIS"	"STLAM.MI"	-1	NA
+"Consumer Durables"	0.12	"ZUCCHI"	"ZUC.MI"	-1	NA
+"Consumer Durables"	0.12	"PININFARINA SPA"	"PINF.MI"	-2	NA
+"Consumer Durables"	0.12	"SOMEC"	"SOM.MI"	-2	NA
+"Technology Services"	0	"NVP"	"NVP.MI"	5	NA
+"Technology Services"	0	"FOS"	"FOS.MI"	4	NA
+"Technology Services"	0	"MAPS"	"MAPS.MI"	4	NA
+"Technology Services"	0	"RELATECH"	"RLT.MI"	3	NA
+"Technology Services"	0	"CROWDFUNDME"	"CFM.MI"	1	NA
+"Technology Services"	0	"MEGLIOQUESTO"	"MQSPA.MI"	1	NA
+"Technology Services"	0	"NEUROSOFT"	"NRST.MI"	1	NA
+"Technology Services"	0	"TINEXTA"	"TNXT.MI"	1	"si"
+"Technology Services"	0	"VANTEA SMART"	"VNT.MI"	1	NA
+"Technology Services"	0	"CLEANBNB"	"CBB.MI"	0	NA
+"Technology Services"	0	"CYBEROO"	"CYB.MI"	0	NA
+"Technology Services"	0	"GIGLIO GROUP"	"GG.MI"	0	NA
+"Technology Services"	0	"RETI"	"RETI.MI"	0	NA
+"Technology Services"	0	"TECMA SOLUTIONS"	"TCM.MI"	0	NA
+"Technology Services"	0	"TRIBOO"	"TB.MI"	0	NA
+"Technology Services"	0	"TXT E-SOLUTIONS"	"TXT.MI"	0	NA
+"Technology Services"	0	"WIIT"	"WIIT.MI"	0	NA
+"Technology Services"	0	"ALGOWATT"	"ALW.MI"	-1	NA
+"Technology Services"	0	"ALMAWAVE"	"AIW.MI"	-1	NA
+"Technology Services"	0	"DHH"	"DHH.MI"	-1	NA
+"Technology Services"	0	"DIGITAL BROS"	"DIB.MI"	-1	NA
+"Technology Services"	0	"DIGITAL VALUE"	"DGV.MI"	-1	NA
+"Technology Services"	0	"DOXEE"	"DOX.MI"	-1	NA
+"Technology Services"	0	"EXPERT.AI"	"EXAI.MI"	-1	NA
+"Technology Services"	0	"GROWENS"	"GROW.MI"	-1	NA
+"Technology Services"	0	"IT WAY"	"ITW.MI"	-1	NA
+"Technology Services"	0	"NEOSPERIENCE"	"NSP.MI"	-1	NA
+"Technology Services"	0	"SOFTLAB"	"SFT.MI"	-1	NA
+"Technology Services"	0	"SOSTRAVEL.COM"	"SOS.MI"	-1	NA
+"Technology Services"	0	"UCAPITAL24"	"U24.MI"	-1	NA
+"Technology Services"	0	"CY4GATE"	"CY4.MI"	-3	NA
+"Technology Services"	0	"EXPRIVIA"	"XPR.MI"	-5	NA
+"Communications"	-0.111111111111111	"CONVERGENZE"	"CVG.MI"	2	NA
+"Communications"	-0.111111111111111	"SG COMPANY"	"SGC.MI"	2	NA
+"Communications"	-0.111111111111111	"TELECOM ITALIA"	"TIT.MI"	2	"si"
+"Communications"	-0.111111111111111	"PLANETEL"	"PLN.MI"	0	NA
+"Communications"	-0.111111111111111	"GO INTERNET"	"GO.MI"	-1	NA
+"Communications"	-0.111111111111111	"INTRED"	"ITD.MI"	-1	NA
+"Communications"	-0.111111111111111	"TESSELLIS"	"TSL.MI"	-1	NA
+"Communications"	-0.111111111111111	"INWIT"	"INW.MI"	-2	"si"
+"Communications"	-0.111111111111111	"UNIDATA"	"UD.MI"	-2	NA
+"Consumer Non-Durables"	-0.15	"NEWLAT FOOD"	"NWL.MI"	4	NA
+"Consumer Non-Durables"	-0.15	"TOD'S"	"TOD.MI"	3	NA
+"Consumer Non-Durables"	-0.15	"BIOERA"	"BIE.MI"	1	NA
+"Consumer Non-Durables"	-0.15	"CSP INT IND CALZE"	"CSP.MI"	1	NA
+"Consumer Non-Durables"	-0.15	"ITALIAN WINE BRANDS"	"IWB.MI"	1	NA
+"Consumer Non-Durables"	-0.15	"MASI AGRICOLA"	"MASI.MI"	1	NA
+"Consumer Non-Durables"	-0.15	"VALSOIA"	"VLS.MI"	1	NA
+"Consumer Non-Durables"	-0.15	"ITALMOBILIARE"	"ITM.MI"	0	NA
+"Consumer Non-Durables"	-0.15	"MONNALISA"	"MNL.MI"	0	NA
+"Consumer Non-Durables"	-0.15	"RATTI"	"RAT.MI"	0	NA
+"Consumer Non-Durables"	-0.15	"AEFFE"	"AEF.MI"	-1	NA
+"Consumer Non-Durables"	-0.15	"BRUNELLO CUCINELLI"	"BC.MI"	-1	"si"
+"Consumer Non-Durables"	-0.15	"CULTI MILANO"	"CULT.MI"	-1	NA
+"Consumer Non-Durables"	-0.15	"GEOX"	"GEO.MI"	-1	NA
+"Consumer Non-Durables"	-0.15	"IIG"	"IIG.MI"	-1	NA
+"Consumer Non-Durables"	-0.15	"PATTERN"	"PTR.MI"	-1	NA
+"Consumer Non-Durables"	-0.15	"SALVATORE FERRAGAMO"	"SFER.MI"	-1	"si"
+"Consumer Non-Durables"	-0.15	"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	-2	NA
+"Consumer Non-Durables"	-0.15	"CAMPARI"	"CPR.MI"	-3	"si"
+"Consumer Non-Durables"	-0.15	"MONCLER"	"MONC.MI"	-3	"si"
 "Distribution Services"	-0.333333333333333	"AMPLIFON"	"AMP.MI"	1	"si"
 "Distribution Services"	-0.333333333333333	"CONFINVEST"	"CFV.MI"	1	NA
 "Distribution Services"	-0.333333333333333	"MARR"	"MARR.MI"	0	"si"
 "Distribution Services"	-0.333333333333333	"SESA"	"SES.MI"	0	NA
 "Distribution Services"	-0.333333333333333	"ESPRINET"	"PRT.MI"	-1	"si"
 "Distribution Services"	-0.333333333333333	"ORSERO"	"ORS.MI"	-3	NA
+"Transportation"	-0.571428571428571	"AEROPORTO GUGLIELMO MARCONI DI BOLOGNA"	"ADB.MI"	1	NA
+"Transportation"	-0.571428571428571	"D'AMICO"	"DIS.MI"	1	NA
+"Transportation"	-0.571428571428571	"AUTOSTRADE MERID"	"AUTME.MI"	0	NA
+"Transportation"	-0.571428571428571	"FNM"	"FNM.MI"	0	NA
+"Transportation"	-0.571428571428571	"TOSCANA AEROPORTI"	"TYA.MI"	-1	NA
+"Transportation"	-0.571428571428571	"ENAV"	"ENAV.MI"	-2	"si"
+"Transportation"	-0.571428571428571	"TRAWELL CO"	"TWL.MI"	-3	NA

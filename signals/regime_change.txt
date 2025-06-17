@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-06-17	1
+"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-06-16	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-06-12	-1
 "PHILOGEN"	"PHIL.MI"	"Health Technology"	NA	2025-06-11	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-06-10	1
@@ -20,7 +22,6 @@
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-05-13	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-05-12	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-05-07	-1
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-04-10	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-04-10	1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
 "BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-04-07	1
@@ -28,10 +29,10 @@
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-04-02	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-04-01	1
-"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-03-27	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-03-20	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
+"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-03-19	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-14	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-12	-1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
