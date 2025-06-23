@@ -1,6 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-06-20	1
-"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-06-18	1
+"ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-06-23	1
+"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-06-23	1
+"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-06-19	1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-06-16	1
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-06-16	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-06-12	-1
@@ -9,7 +10,6 @@
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-06-03	1
 "NEUROSOFT"	"NRST.MI"	"Technology Services"	NA	2025-06-02	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-06-02	-1
-"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-05-29	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-05-29	-1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-05-28	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-05-27	1
@@ -18,7 +18,6 @@
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-21	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-20	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2025-05-15	1
-"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-05-15	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-05-14	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-05-14	-1
@@ -32,6 +31,7 @@
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-04-01	1
+"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-04-01	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-24	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-03-20	1
@@ -45,7 +45,6 @@
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-02-19	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-02-14	-1
-"I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2025-02-07	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-02-07	-1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
@@ -62,6 +61,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
+"I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2024-11-04	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2024-11-01	1
 "FIERA MILANO"	"FM.MI"	"Commercial Services"	NA	2024-10-30	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2024-10-11	1
