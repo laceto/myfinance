@@ -1,9 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-07-07	1
-"HERA"	"HER.MI"	"Utilities"	"si"	2025-07-07	0
+"HERA"	"HER.MI"	"Utilities"	"si"	2025-07-07	-1
 "ATON GREEN STORAGE"	"ATON.MI"	"Producer Manufacturing"	NA	2025-07-04	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-03	1
-"GVS"	"GVS.MI"	"Electronic Technology"	NA	2025-07-03	1
+"DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-07-02	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-06-30	-1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-27	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-06-24	1
@@ -29,7 +29,7 @@
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-05-14	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-05-14	-1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
-"GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-04-11	1
+"OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-05-12	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-04-11	-1
 "ABC COMPANY"	"ABC.MI"	"Finance"	NA	2025-04-07	1
