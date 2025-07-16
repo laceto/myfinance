@@ -893,6 +893,7 @@ sector_trend_score <- avg_score_sector %>%
   dplyr::arrange(delta_score)
 
 sector_trend_score %>% 
+  dplyr::arrange(desc(avg_score.y)) %>% 
   write.table("signals/sector_trend_score.txt", sep = "\t", dec = ".", row.names = FALSE)
 
 sector_method_score <- output_signal %>% 
