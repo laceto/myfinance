@@ -1,6 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"AMPLIFON"	"AMP.MI"	2023-06-26	2025-07-22	"Distribution Services"	-2	2025-06-25
+"TERNA"	"TRN.MI"	2025-07-15	2025-07-17	"Utilities"	0	2025-04-04
 "SAIPEM"	"SPM.MI"	2024-09-03	2025-06-30	"Industrial Services"	-1	2025-06-19
 "REPLY"	"REY.MI"	2025-04-11	2025-05-21	"Commercial Services"	-1	2025-04-11
-"DIASORIN"	"DIA.MI"	2025-02-07	2025-05-15	"Health Technology"	-1	2024-11-08
 "INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	1	2025-04-04
 "ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	0	2025-07-03
