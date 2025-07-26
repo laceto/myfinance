@@ -1,6 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-07-24	-1
-"A2A"	"A2A.MI"	"Utilities"	"si"	2025-07-23	-1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-07-25	1
+"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-07-25	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2025-07-23	-1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-07-21	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-07-21	1
@@ -8,12 +8,12 @@
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-07-16	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-07-16	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-07-15	-1
+"A2A"	"A2A.MI"	"Utilities"	"si"	2025-07-14	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-07-14	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2025-07-09	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-07-09	1
-"ATON GREEN STORAGE"	"ATON.MI"	"Producer Manufacturing"	NA	2025-07-04	1
+"GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-03	1
 "DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-07-02	1
-"GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
 "CELLULARLINE"	"CELL.MI"	"Consumer Durables"	NA	2025-06-27	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-27	1
 "B&C SPEAKERS"	"BEC.MI"	"Consumer Durables"	NA	2025-06-23	1
@@ -69,7 +69,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2024-09-03	-1
 "IL SOLE 24 ORE"	"S24.MI"	"Consumer Services"	NA	2024-08-01	1
-"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-25	1
+"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
@@ -104,6 +104,5 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MARR"	"MARR.MI"	"Distribution Services"	"si"	2021-10-06	-1
 "BIESSE"	"BSS.MI"	"Producer Manufacturing"	"si"	2021-09-15	-1
 "NEXI"	"NEXI.MI"	"Finance"	"si"	2020-10-07	-1
-"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2020-07-24	-1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2020-03-12	1
 "DATALOGIC"	"DAL.MI"	"Electronic Technology"	"si"	2019-01-28	-1
