@@ -10,7 +10,7 @@ fondamentali <- readxl::read_excel('data_fondamentali.xlsx') %>%
     isin = instrid
   )
 
-ptf_fondamental <- readxl::read_excel('portafoglio-export.xlsx', skip = 2) %>% 
+ptf_fondamental <- readxl::read_excel('portafoglio-export.xls', skip = 2) %>% 
   dplyr::rename_with(stringr::str_to_lower) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, " di ", "_")) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, "p.zo", "prezzo")) %>% 
@@ -42,7 +42,7 @@ port <- ptf_fondamental %>%
     ticker = dplyr::if_else(ticker == 'NOVC.FRA', 'NOV.DE', ticker)
   )
 
-movimenti <- readxl::read_excel('movimento titoli.xlsx', skip = 5) %>% 
+movimenti <- readxl::read_excel('movimento titoli.xls', skip = 5) %>% 
   dplyr::rename_with(stringr::str_to_lower) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, " di ", "_")) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, "p.zo", "prezzo")) %>% 
