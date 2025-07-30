@@ -1,6 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"PRYSMIAN"	"PRY.MI"	2025-02-25	2025-07-28	"Producer Manufacturing"	-1	2025-01-24
+"JUVENTUS FC"	"JUVE.MI"	2020-07-24	2025-07-25	"Consumer Services"	-3	2025-05-19
 "AMPLIFON"	"AMP.MI"	2023-06-26	2025-07-22	"Distribution Services"	-2	2025-06-25
-"TERNA"	"TRN.MI"	2025-07-15	2025-07-17	"Utilities"	0	2025-04-04
 "SAIPEM"	"SPM.MI"	2024-09-03	2025-06-30	"Industrial Services"	-2	2025-06-19
 "REPLY"	"REY.MI"	2025-04-11	2025-05-21	"Commercial Services"	-1	2025-04-11
 "INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	1	2025-04-04

@@ -1,19 +1,21 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"FOPE"	"FPE.MI"	"Consumer Durables"	NA	2025-07-29	1
+"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-07-29	1
+"SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	2025-07-29	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-07-25	1
-"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-07-25	1
+"HERA"	"HER.MI"	"Utilities"	"si"	2025-07-25	1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-07-25	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2025-07-23	-1
-"GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-07-21	1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-07-21	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-07-17	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-07-16	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-07-16	1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-07-15	-1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-07-14	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-07-14	1
-"HERA"	"HER.MI"	"Utilities"	"si"	2025-07-09	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-07-09	1
-"GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-03	1
 "DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-07-02	1
+"GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
+"POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-07-01	1
 "CELLULARLINE"	"CELL.MI"	"Consumer Durables"	NA	2025-06-27	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-27	1
 "B&C SPEAKERS"	"BEC.MI"	"Consumer Durables"	NA	2025-06-23	1
@@ -38,11 +40,12 @@
 "BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
+"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-24	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-03-20	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
-"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-03-19	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-14	1
+"RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-11	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
 "ALA"	"ALA.MI"	"Commercial Services"	NA	2025-03-04	1
@@ -78,6 +81,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2024-04-02	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2024-03-11	-1
+"CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2024-03-06	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
@@ -104,5 +108,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MARR"	"MARR.MI"	"Distribution Services"	"si"	2021-10-06	-1
 "BIESSE"	"BSS.MI"	"Producer Manufacturing"	"si"	2021-09-15	-1
 "NEXI"	"NEXI.MI"	"Finance"	"si"	2020-10-07	-1
+"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2020-07-24	-1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2020-03-12	1
 "DATALOGIC"	"DAL.MI"	"Electronic Technology"	"si"	2019-01-28	-1

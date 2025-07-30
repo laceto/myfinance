@@ -1,4 +1,4 @@
-"name"	"isin"	"ticker"	"mercato"	"strumento"	"valuta"	"quantit‡"	"prezzo_medio_carico"	"cambio_carico"	"valore_carico"	"prezzo_mercato"	"cambio_mercato"	"valore_mercato_amount"	"var_perc"	"var_amount"	"var_in_valuta"	"rateo"	"capitalization"	"roe"	"roi"	"beta"	"dividendyield"	"peratio"
+"name"	"isin"	"ticker"	"mercato"	"strumento"	"valuta"	"quantit√†"	"prezzo_medio_carico"	"cambio_carico"	"valore_carico"	"prezzo_mercato"	"cambio_mercato"	"valore_mercato_amount"	"var_perc"	"var_amount"	"var_in_valuta"	"rateo"	"capitalization"	"roe"	"roi"	"beta"	"dividendyield"	"peratio"
 "STMICROELECTRONICS"	"NL0000226223"	"STMMI.MI"	"AFF"	"Azione"	"EUR"	89	43.52217	1	3873.47313	22.62	"1"	"2013.1800000000001"	"-48.026488999999998"	"-1860.29313"	-1860.29313	0	22027.3	20.66986	17.69243	1.22345	1.10995	6.65298
 "BREMBO"	"NL0015001KT6"	"BRE.MI"	"AFF"	"Azione"	"EUR"	50	8.409	1	420.45	8.76	"1"	"438"	"4.174099"	"17.550000000000001"	17.55	0	2937.18	12.8388	9.73723	1.04082	3.41064	10.3817
 "IVECO GRP"	"NL0015000LU4"	"IVG.MI"	"AFF"	"Azione"	"EUR"	25	15.94941	1	398.73525	18.835	"1"	"470.875"	"18.092143"	"72.139750000000006"	72.13975	0	2549.425	10.91278	2.22572	NA	2.34043	9.55741
