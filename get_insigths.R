@@ -832,7 +832,7 @@ fondamentali <- readxl::read_excel('data_fondamentali.xlsx') %>%
     isin = instrid
   )
 
-readxl::read_excel('portafoglio-export.xlsx', skip = 2) %>% 
+readxl::read_excel('portafoglio-export.xls', skip = 2) %>% 
   dplyr::rename_with(stringr::str_to_lower) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, " di ", "_")) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, "p.zo", "prezzo")) %>% 
