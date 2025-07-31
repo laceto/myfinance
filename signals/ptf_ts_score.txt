@@ -1,14 +1,36 @@
-"sector"	"name"	"ticker"	"2025-07-29"	"2025-07-28"	"2025-07-25"	"2025-07-24"	"2025-07-23"
-"Utilities"	"A2A"	"A2A.MI"	1	1	1	1	1
+"sector"	"name"	"ticker"	"2025-07-31"	"2025-07-30"	"2025-07-29"	"2025-07-28"	"2025-07-25"
+"Utilities"	"ACEA"	"ACE.MI"	1	1	1	1	1
+"Distribution Services"	"AMPLIFON"	"AMP.MI"	-3	-3	-2	-2	-2
+"Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	0	0	0	0	1
-"Producer Manufacturing"	"BREMBO"	"BRE.MI"	0	1	1	1	1
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-4	-4	1	1	1
-"Non-Energy Minerals"	"CEMENTIR HOLDING"	"CEM.MI"	-1	-1	-1	-1	2
+"Finance"	"AZIMUT"	"AZM.MI"	1	1	1	1	1
+"Finance"	"BANCO BPM"	"BAMI.MI"	3	3	3	3	3
+"Consumer Non-Durables"	"BRUNELLO CUCINELLI"	"BC.MI"	0	0	0	0	0
+"Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
+"Producer Manufacturing"	"BREMBO"	"BRE.MI"	0	0	0	1	1
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-2	-2	-2	-2	3
 "Electronic Technology"	"CEMBRE"	"CMB.MI"	5	5	5	5	5
-"Technology Services"	"EXPERT.AI"	"EXAI.MI"	5	5	5	5	-1
-"Finance"	"BANCA IFIS"	"IF.MI"	-1	-1	-1	-1	-1
-"Communications"	"INWIT"	"INW.MI"	1	1	1	1	1
-"Producer Manufacturing"	"INTERPUMP GROUP"	"IP.MI"	-1	-1	-1	-1	-1
-"Utilities"	"SNAM"	"SRG.MI"	3	3	1	1	1
-"Utilities"	"TERNA"	"TRN.MI"	2	2	2	0	0
+"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	1	1	1	1	1
+"Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
+"Transportation"	"ENAV"	"ENAV.MI"	-3	-1	-1	-1	-1
+"Utilities"	"ENEL"	"ENEL.MI"	1	1	1	1	1
+"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	5	5	5	5	5
+"Finance"	"GENERALI ASS"	"G.MI"	1	1	1	1	1
+"Utilities"	"HERA"	"HER.MI"	-3	-3	-3	-3	-3
+"Utilities"	"ITALGAS"	"IG.MI"	3	3	3	3	2
+"Communications"	"INWIT"	"INW.MI"	3	3	1	1	1
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	4	5	5	5	5
+"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	-1	-1	-1	-1	-1
+"Finance"	"NEXI"	"NEXI.MI"	0	1	1	1	1
+"Industrial Services"	"PLC"	"PLC.MI"	5	5	5	5	5
+"Producer Manufacturing"	"PRYSMIAN"	"PRY.MI"	-1	-1	-1	-1	1
+"Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	5	5	5
+"Consumer Durables"	"FERRARI"	"RACE.MI"	-1	3	3	3	3
+"Commercial Services"	"REPLY"	"REY.MI"	-1	-1	-1	-1	-1
+"Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	0	0	0	0	0
+"Consumer Durables"	"STELLANTIS"	"STLAM.MI"	-1	-1	-1	-1	-1
+NA	NA	"STMMI.MI"	-2	-2	-2	-2	-2
+"Non-Energy Minerals"	"TENARIS"	"TEN.MI"	0	1	1	1	1
+"Technology Services"	"TINEXTA"	"TNXT.MI"	5	5	3	3	3
+"Utilities"	"TERNA"	"TRN.MI"	1	1	2	2	2
+"Industrial Services"	"WEBUILD"	"WBD.MI"	5	5	5	5	5
