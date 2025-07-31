@@ -790,10 +790,17 @@ bear_signal_maxequity_after_change_afterregime <- regime_change_followed_signal 
 bear_signal_maxequity_after_change_afterregime %>% 
   write.table("signals/max_equity_bear_regime_change_followed_signal.txt", sep = "\t", dec = ".", row.names = FALSE)
 
-ptf_name <- 'NOVO|CEMBRE|BUZZI|TERNA|EXPERT|CUCINELLI|COMAL|STM|CEMENTIR|A2A|AVIO|IFIS|SOUNDHOUND|GITLAB|RIGETTI|SNOWFLAKE|SNAM|INWIT|BREMBO|INTERPUMP'
+ptf_name <- readxl::read_excel('portafoglio-export.xls', skip = 2) %>% 
+  dplyr::select(Simbolo) %>%
+  dplyr::rename(
+    ticker = Simbolo
+  )
+  
+# ptf_name <- 'NOVO|CEMBRE|BUZZI|TERNA|EXPERT|CUCINELLI|COMAL|STM|CEMENTIR|A2A|AVIO|IFIS|SOUNDHOUND|GITLAB|RIGETTI|SNOWFLAKE|SNAM|INWIT|BREMBO|INTERPUMP'
 
 ptf_signals <- output_signal %>% 
-  dplyr::filter(stringr::str_detect(name, ptf_name)) %>% 
+  dplyr::semi_join(ptf_name) %>% 
+  # dplyr::filter(stringr::str_detect(name, ptf_name)) %>% 
   dplyr::mutate(
     date = lubridate::ymd(paste(lubridate::year(date), lubridate::month(date), lubridate::day(date), "-"))
   ) %>% 
