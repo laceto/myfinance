@@ -1,6 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "PRYSMIAN"	"PRY.MI"	2025-02-25	2025-07-28	"Producer Manufacturing"	-1	2025-01-24
-"AMPLIFON"	"AMP.MI"	2023-06-26	2025-07-22	"Distribution Services"	-3	2024-10-08
-"SAIPEM"	"SPM.MI"	2024-09-03	2025-06-30	"Industrial Services"	-2	2025-06-19
+"AMPLIFON"	"AMP.MI"	2023-06-26	2025-07-22	"Distribution Services"	-3	2025-06-26
 "REPLY"	"REY.MI"	2025-04-11	2025-05-21	"Commercial Services"	-1	2025-04-11
-"ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	-2	2025-07-03
+"ERG"	"ERG.MI"	2022-12-15	2024-02-23	"Utilities"	-1	2025-07-03

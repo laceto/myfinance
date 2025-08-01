@@ -1,6 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ATON GREEN STORAGE"	"ATON.MI"	"Producer Manufacturing"	NA	2025-08-01	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2025-07-31	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-07-31	1
+"SPINDOX"	"SPN.MI"	"Commercial Services"	NA	2025-07-31	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-07-31	-1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-07-30	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2025-07-30	1
@@ -8,7 +9,6 @@
 "SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	2025-07-30	1
 "VANTEA SMART"	"VNT.MI"	"Technology Services"	NA	2025-07-30	1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-07-29	1
-"FOPE"	"FPE.MI"	"Consumer Durables"	NA	2025-07-29	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-07-29	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2025-07-23	-1
 "MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-07-21	1
@@ -25,13 +25,12 @@
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-06-18	1
 "BANCA IFIS"	"IF.MI"	"Finance"	NA	2025-06-16	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-06-02	1
-"OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-06-02	-1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-05-30	1
+"OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-05-30	-1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-05-28	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-05-16	0
-"CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-05-15	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-05-12	1
@@ -50,6 +49,7 @@
 "RAI WAY"	"RWAY.MI"	"Consumer Services"	NA	2025-03-11	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
+"ALA"	"ALA.MI"	"Commercial Services"	NA	2025-03-04	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-02-25	-1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-02-19	1
@@ -59,7 +59,6 @@
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-14	-1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
-"BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MAPS"	"MAPS.MI"	"Technology Services"	NA	2024-11-08	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
@@ -73,7 +72,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2024-09-03	-1
-"IL SOLE 24 ORE"	"S24.MI"	"Consumer Services"	NA	2024-08-01	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
@@ -104,6 +102,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2022-07-15	1
 "UNICREDIT"	"UCG.MI"	"Finance"	"si"	2022-07-15	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2022-07-05	0
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	2022-06-08	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2022-05-10	-1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2021-12-08	-1
