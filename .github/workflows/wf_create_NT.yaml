@@ -1,4 +1,4 @@
-name: create Jupyter Notebook Action  
+name: wf_create_NT  
 
 on:
   workflow_run:
