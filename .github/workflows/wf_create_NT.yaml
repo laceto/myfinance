@@ -2,7 +2,7 @@ name: wf_create_NT
 
 on:
   workflow_run:
-    workflows: ["wf_signals"]
+    workflows: ["wf_write_signals"]
     types:
       - completed
       
