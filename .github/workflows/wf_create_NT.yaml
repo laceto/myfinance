@@ -1,6 +1,13 @@
 name: create Jupyter Notebook Action  
+
 on:
-  workflow_dispatch:  
+  workflow_run:
+    workflows: ["wf_signals"]
+    types:
+      - completed
+      
+# on:
+#   workflow_dispatch:  
 
 jobs:  
   build:  
