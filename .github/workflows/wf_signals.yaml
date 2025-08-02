@@ -1,7 +1,15 @@
+# on:
+#   schedule:
+#     - cron: "36 17 * * 1-5"
+#   workflow_dispatch:
+
+name: wf_signals
+
 on:
-  schedule:
-    - cron: "36 17 * * 1-5"
-  workflow_dispatch:
+  workflow_run:
+    workflows: ["wf_yf"]
+    types:
+      - completed
 
 jobs:  
   build:  

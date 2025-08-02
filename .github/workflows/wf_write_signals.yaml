@@ -1,8 +1,17 @@
+# on:
+#   schedule:
+#     - cron:  "0 19 * * 1-5"
+#   workflow_dispatch:
+name: wf_write_signals
+
 on:
-  schedule:
-    - cron:  "0 19 * * 1-5"
+  workflow_run:
+    workflows: ["wf_signals"]
+    types:
+      - completed
   workflow_dispatch:
 
+      
 jobs:
   build:
     runs-on: ubuntu-latest
