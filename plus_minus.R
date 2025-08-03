@@ -192,6 +192,64 @@ split_transactions %>%
     cumsum(controvalore)
   ) %>% View()
 
+split_transactions %>% 
+  # dplyr::filter(stringr::str_detect(name, 'MONCL')) %>% 
+  dplyr::group_by(name, transaction_id) %>% 
+  dplyr::mutate(
+    transaction_id_trade = 1:n(),
+    trade_type = dplyr::if_else(transaction_id_trade == 1 && segno == 'V', 'short', 'long'),
+    cum_quantita = cumsum(quantita),
+    trade_status = dplyr::if_else(dplyr::last(cum_quantita) == 0, 'closed', 'open'),
+    trade_start_date = min(operazione),
+    trade_end_date = max(operazione),
+    trade_year = lubridate::year(trade_end_date)
+  ) %>% 
+  # dplyr::group_split(transaction_id) %>% 
+  dplyr::filter(trade_status == 'closed') %>% 
+  dplyr::left_join(output_signal %>% dplyr::count(name, sector) %>% dplyr::select(-n)) %>% 
+  dplyr::group_by(sector, trade_year, trade_type, segno) %>% 
+  dplyr::summarise(
+    controvalore = sum(controvalore)
+  ) %>% 
+  tidyr::pivot_wider(names_from = segno, values_from = controvalore) %>% 
+  dplyr::mutate(
+    result = dplyr::if_else(trade_type == 'long', -V - A, -V - A),
+    result_perc = result / dplyr::if_else(trade_type == 'long', A, -V)
+  ) %>% view()
+
+
+split_transactions %>% 
+  # dplyr::filter(stringr::str_detect(name, 'MONCL')) %>% 
+  dplyr::group_by(name, transaction_id) %>% 
+  dplyr::mutate(
+    transaction_id_trade = 1:n(),
+    trade_type = dplyr::if_else(transaction_id_trade == 1 && segno == 'V', 'short', 'long'),
+    cum_quantita = cumsum(quantita),
+    trade_status = dplyr::if_else(dplyr::last(cum_quantita) == 0, 'closed', 'open'),
+    trade_start_date = min(operazione),
+    trade_end_date = max(operazione),
+    trade_year = lubridate::year(trade_end_date)
+  ) %>% 
+  # dplyr::group_split(transaction_id) %>% 
+  dplyr::filter(trade_status == 'closed') %>% 
+  dplyr::left_join(output_signal %>% dplyr::count(name, sector) %>% dplyr::select(-n)) %>% 
+  dplyr::group_by(sector, trade_year, trade_type, segno) %>% 
+  dplyr::summarise(
+    controvalore = sum(controvalore)
+  ) %>% 
+  tidyr::pivot_wider(names_from = segno, values_from = controvalore) %>% 
+  dplyr::mutate(
+    result = dplyr::if_else(trade_type == 'long', -V - A, -V - A),
+    invested = dplyr::if_else(trade_type == 'long', A, -V),
+    result_perc = result / invested
+  ) %>% 
+  dplyr::group_by(sector) %>% 
+  dplyr::summarise(
+    result = sum(result),
+    invested = sum(invested),
+    result_perc = result / invested
+  ) %>% view()
+
 library(ggplot2)
 library(scales)
 
