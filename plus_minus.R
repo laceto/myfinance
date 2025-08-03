@@ -192,8 +192,40 @@ split_transactions %>%
     cumsum(controvalore)
   ) %>% View()
 
+library(ggplot2)
+library(scales)
 
-
+split_transactions %>% 
+  # dplyr::filter(stringr::str_detect(name, 'MONCL')) %>% 
+  dplyr::group_by(name, transaction_id) %>% 
+  dplyr::mutate(
+    transaction_id_trade = 1:n(),
+    trade_type = dplyr::if_else(transaction_id_trade == 1 && segno == 'V', 'short', 'long'),
+    cum_quantita = cumsum(quantita),
+    trade_status = dplyr::if_else(dplyr::last(cum_quantita) == 0, 'closed', 'open'),
+    trade_start_date = min(operazione),
+    trade_end_date = max(operazione),
+    trade_year = lubridate::year(trade_end_date)
+  ) %>% 
+  # dplyr::group_split(transaction_id) %>% 
+  dplyr::filter(trade_status == 'closed') %>% 
+  dplyr::group_by(name, transaction_id, trade_year, trade_type, segno) %>% 
+  dplyr::summarise(
+    controvalore = sum(controvalore)
+  ) %>% 
+  tidyr::pivot_wider(names_from = segno, values_from = controvalore) %>% 
+  dplyr::mutate(
+    result = dplyr::if_else(trade_type == 'long', -V - A, -V - A),
+    result_perc = result / dplyr::if_else(trade_type == 'long', A, -V)
+  ) %>% 
+  ggplot(aes(x = result_perc)) +
+  geom_histogram(binwidth = 0.05, fill = "steelblue", color = "white") +
+  labs(
+    title = "Distribuzione dei rendimenti",
+    x = "Rendimento (%)",
+    y = "Numero di operazioni"
+  ) +
+  theme_minimal()
 
 ptf <- split_transactions %>% 
   # dplyr::filter(stringr::str_detect(name, 'MONCL')) %>% 
