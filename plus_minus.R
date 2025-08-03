@@ -1,3 +1,5 @@
+library(tidyverse)
+
 readxl::read_excel('movimento titoli.xls', skip = 5) %>% 
   dplyr::rename_with(stringr::str_to_lower) %>% 
   dplyr::rename_with(function(x) stringr::str_replace_all(x, " di ", "_")) %>% 
@@ -220,5 +222,63 @@ ptf %>%
   dplyr::mutate(
     
   )
+
+prezzi <- ptf %>% 
+  dplyr::filter(stringr::str_detect(name, 'FINCAN')) %>%
+  dplyr::group_by(name, descrizione, transaction_id) %>% 
+  dplyr::mutate(
+    transaction_id_trade = 1:n(),
+    trade_type = dplyr::if_else(transaction_id_trade == 1 && segno == 'V', 'short', 'long'),
+    cum_quantita = cumsum(quantita),
+    trade_status = dplyr::if_else(dplyr::last(cum_quantita) == 0, 'closed', 'open'),
+    trade_start_date = min(operazione),
+    trade_end_date = max(operazione),
+    trade_year = lubridate::year(trade_end_date)
+  ) %>%
+  dplyr::select(operazione, name, descrizione, transaction_id, trade_year, trade_type, trade_status, segno, prezzo, quantita) %>% 
+  dplyr::arrange(desc(operazione))
+
+prezzo_medio_carico <- function(quantita, prezzi) {
+  if (length(quantita) != length(prezzi)) {
+    stop("Le lunghezze di 'quantita' e 'prezzi' devono essere uguali.")
+  }
+  prezzo_medio <- sum(quantita * prezzi) / sum(quantita)
+  return(prezzo_medio)
+}
+
+prezzi %>% 
+  dplyr::count(name, descrizione, transaction_id, segno) %>% 
+  dplyr::filter(n > 1) %>% 
+  right_join(prezzi) %>% 
+  dplyr::filter(!is.na(n)) %>% 
+  dplyr::arrange(descrizione, transaction_id, operazione) %>% 
+  dplyr::group_split(name, descrizione, transaction_id)
+  
+
+ptf %>% 
+  dplyr::filter(stringr::str_detect(name, 'CAMPARI')) %>%
+  dplyr::group_by(name, descrizione, transaction_id) %>% 
+  dplyr::mutate(
+    transaction_id_trade = 1:n(),
+    trade_type = dplyr::if_else(transaction_id_trade == 1 && segno == 'V', 'short', 'long'),
+    cum_quantita = cumsum(quantita),
+    trade_status = dplyr::if_else(dplyr::last(cum_quantita) == 0, 'closed', 'open'),
+    trade_start_date = min(operazione),
+    trade_end_date = max(operazione),
+    trade_year = lubridate::year(trade_end_date)
+  ) %>% 
+  dplyr::arrange(desc(operazione)) %>% 
+  dplyr::group_by(name, descrizione, transaction_id, trade_year, trade_type, trade_status, segno) %>% 
+  dplyr::summarise(
+    controvalore = sum(controvalore)
+  ) %>% 
+  dplyr::left_join(prezzi)
+
+# %>% 
+#   tidyr::pivot_wider(names_from = segno, values_from = controvalore) %>% 
+#   dplyr::mutate(
+#     plus = dplyr::if_else(trade_type == 'long', -V - A, -V - A)
+#   )
+
 
 
