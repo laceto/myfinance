@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"SIT"	"SIT.MI"	2025-06-02	2025-08-06	"Producer Manufacturing"	3	2025-05-14
 "PLC"	"PLC.MI"	2025-03-31	2025-07-25	"Industrial Services"	5	2025-05-14
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-07-22	"Non-Energy Minerals"	2	2025-06-05
 "CALTAGIRONE EDIT"	"CED.MI"	2025-06-18	2025-07-17	"Consumer Services"	1	2025-06-18
@@ -7,7 +8,7 @@
 "INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-07-08	"Finance"	5	2024-11-27
 "CAREL INDUSTRIES"	"CRL.MI"	2025-05-21	2025-07-07	"Producer Manufacturing"	3	2025-04-07
 "ANTARES VISION"	"AV.MI"	2025-02-19	2025-07-07	"Electronic Technology"	5	2025-03-28
-"SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	4	2025-03-25
+"SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	5	2025-03-25
 "ECOSUNTEK"	"ECK.MI"	2025-05-28	2025-06-09	"Utilities"	4	2025-05-19
 "DANIELI & C"	"DAN.MI"	2025-05-23	2025-06-09	"Producer Manufacturing"	5	2025-04-07
 "TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-04-11

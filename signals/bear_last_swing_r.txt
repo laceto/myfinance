@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_swing_r"	"rh3"
-"BMED.MI"	"BANCA MEDIOLANUM"	2025-08-01	8.05
 "ENI.MI"	"ENI"	2025-08-01	7.72
 "MARR.MI"	"MARR"	2025-08-01	5.36
 "SFL.MI"	"SAFILO GROUP"	2025-08-01	0.65
