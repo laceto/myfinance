@@ -1,10 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"NEUROSOFT"	"NRST.MI"	"Technology Services"	NA	2025-08-06	1
+"DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-08-06	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-08-05	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-08-05	-1
 "ATON GREEN STORAGE"	"ATON.MI"	"Producer Manufacturing"	NA	2025-08-04	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-08-04	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-08-04	1
+"FOPE"	"FPE.MI"	"Consumer Durables"	NA	2025-08-01	1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-08-01	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2025-07-31	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-07-30	1
@@ -33,8 +34,8 @@
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-05-28	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
-"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-21	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-05-16	0
+"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-05-12	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
@@ -87,7 +88,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2024-01-17	1
-"CREDEM"	"CE.MI"	"Finance"	NA	2023-12-19	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2023-10-27	-1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
 "EVISO"	"EVISO.MI"	"Utilities"	NA	2023-10-19	1
