@@ -1,7 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
 NA	"CPR.MI"	"CAMPARI"	"si"	-1	2025-08-08	6.74
 NA	"NEXI.MI"	"NEXI"	"si"	1	2025-08-08	5.51
-NA	"TIT.MI"	"TELECOM ITALIA"	"si"	3	2025-08-08	0.44
+NA	"SFL.MI"	"SAFILO GROUP"	"si"	-1	2025-08-07	1.29
 NA	"ENI.MI"	"ENI"	"si"	-1	2025-08-06	15.03
 NA	"MARR.MI"	"MARR"	"si"	0	2025-07-30	10.56
 NA	"DAL.MI"	"DATALOGIC"	"si"	-1	2025-07-29	4.92
@@ -26,5 +26,4 @@ NA	"PRT.MI"	"ESPRINET"	"si"	1	2025-05-02	5.57
 NA	"MONC.MI"	"MONCLER"	"si"	-1	2025-02-14	70.48
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	1	2025-02-13	47.12
 -1	"DIA.MI"	"DIASORIN"	"si"	-1	2025-01-28	107.45
-NA	"SFL.MI"	"SAFILO GROUP"	"si"	-1	2024-05-08	1.28
 NA	"US.MI"	"UNIPOLSAI"	"si"	-2	2024-04-30	2.7
