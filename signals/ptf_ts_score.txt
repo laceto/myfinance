@@ -1,26 +1,26 @@
-"sector"	"name"	"ticker"	"2025-08-12"	"2025-08-11"	"2025-08-08"	"2025-08-07"	"2025-08-06"
-"Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	-3	-3
+"sector"	"name"	"ticker"	"2025-08-13"	"2025-08-12"	"2025-08-11"	"2025-08-08"	"2025-08-07"
+"Utilities"	"ACEA"	"ACE.MI"	-3	-3	-1	-1	-3
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Finance"	"AZIMUT"	"AZM.MI"	1	1	1	1	1
 "Finance"	"BANCO BPM"	"BAMI.MI"	5	5	5	5	5
 "Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
-"Producer Manufacturing"	"BREMBO"	"BRE.MI"	0	0	0	0	0
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-5	-5	-5	-5	-5
+"Producer Manufacturing"	"BREMBO"	"BRE.MI"	1	0	0	0	0
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-3	-5	-5	-5	-5
 "Electronic Technology"	"CEMBRE"	"CMB.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	-1	-1	-1	1	1
-"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	3	3	3	3	3
+"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	-1	-1	-1	-1	1
+"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	5	3	3	3	3
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
-"Transportation"	"ENAV"	"ENAV.MI"	-1	-2	-2	-2	-2
-"Utilities"	"ENEL"	"ENEL.MI"	1	1	1	1	3
+"Transportation"	"ENAV"	"ENAV.MI"	-1	-1	-2	-2	-2
+"Utilities"	"ENEL"	"ENEL.MI"	1	1	1	1	1
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	5	5	5	5	5
 "Finance"	"GENERALI ASS"	"G.MI"	1	1	1	1	1
 "Utilities"	"HERA"	"HER.MI"	-3	-3	-3	-3	-3
 "Utilities"	"ITALGAS"	"IG.MI"	3	3	3	3	3
-"Communications"	"INWIT"	"INW.MI"	1	3	3	3	3
-"Industrial Services"	"MAIRE"	"MAIRE.MI"	5	4	4	4	4
+"Communications"	"INWIT"	"INW.MI"	1	1	3	3	3
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	5	5	4	4	4
 "Consumer Non-Durables"	"MONCLER"	"MONC.MI"	-1	-1	-1	-1	-1
-"Finance"	"NEXI"	"NEXI.MI"	1	1	1	1	0
+"Finance"	"NEXI"	"NEXI.MI"	-1	1	1	1	1
 "Industrial Services"	"PLC"	"PLC.MI"	5	5	5	5	5
 "Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	5	5	5
 "Commercial Services"	"REPLY"	"REY.MI"	-1	-1	-1	-1	-1
