@@ -1,5 +1,5 @@
 "sector"	"name"	"ticker"	"2025-08-14"	"2025-08-13"	"2025-08-12"	"2025-08-11"	"2025-08-08"
-"Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	1	1
+"Utilities"	"ACEA"	"ACE.MI"	-3	-3	-3	-1	-1
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Finance"	"AZIMUT"	"AZM.MI"	1	1	1	1	1
@@ -28,5 +28,5 @@
 "Consumer Durables"	"STELLANTIS"	"STLAM.MI"	-1	-1	-1	-1	-1
 NA	NA	"STMMI.MI"	-1	-1	-1	-1	-1
 "Technology Services"	"TINEXTA"	"TNXT.MI"	5	5	5	5	5
-"Utilities"	"TERNA"	"TRN.MI"	-1	-1	-1	-1	-1
+"Utilities"	"TERNA"	"TRN.MI"	-1	1	1	1	1
 "Industrial Services"	"WEBUILD"	"WBD.MI"	5	5	5	5	5
