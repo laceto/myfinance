@@ -1,7 +1,8 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	-1	2025-08-13
 "A.B.P. NOCIVELLI"	"ABP.MI"	2025-08-05	2025-08-14	"Industrial Services"	5	2025-05-21
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	5	2025-08-04
-"MEDIOBANCA"	"MB.MI"	2024-05-07	2025-08-08	"Finance"	5	2025-07-14
+"MEDIOBANCA"	"MB.MI"	2024-05-07	2025-08-08	"Finance"	3	2025-07-14
 "BCO DESIO BRIANZA"	"BDB.MI"	2024-04-02	2025-08-07	"Finance"	3	2025-08-05
 "ENEL"	"ENEL.MI"	2025-07-30	2025-08-06	"Utilities"	2	2025-07-30
 "PLC"	"PLC.MI"	2025-03-31	2025-07-25	"Industrial Services"	5	2025-05-14
