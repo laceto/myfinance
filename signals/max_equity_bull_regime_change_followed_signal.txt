@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	2	2025-08-18
 "MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	-1	2025-08-13
 "A.B.P. NOCIVELLI"	"ABP.MI"	2025-08-05	2025-08-14	"Industrial Services"	5	2025-05-21
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	5	2025-08-04
@@ -9,17 +10,15 @@
 "CELLULARLINE"	"CELL.MI"	2025-06-27	2025-07-22	"Consumer Durables"	5	2025-06-27
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-07-22	"Non-Energy Minerals"	3	2025-08-14
 "CALTAGIRONE EDIT"	"CED.MI"	2025-06-18	2025-07-17	"Consumer Services"	1	2025-06-18
-"BANCA GENERALI"	"BGN.MI"	2024-07-10	2025-07-09	"Finance"	2	2025-07-09
+"BANCA GENERALI"	"BGN.MI"	2024-07-10	2025-07-09	"Finance"	2	2025-08-21
 "INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-07-08	"Finance"	5	2024-11-27
 "CAREL INDUSTRIES"	"CRL.MI"	2025-05-13	2025-07-07	"Producer Manufacturing"	5	2025-04-07
 "ANTARES VISION"	"AV.MI"	2025-02-19	2025-07-07	"Electronic Technology"	5	2025-03-28
 "SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	5	2025-03-25
-"ECOSUNTEK"	"ECK.MI"	2025-05-28	2025-06-09	"Utilities"	4	2025-08-12
 "DANIELI & C"	"DAN.MI"	2025-05-23	2025-06-09	"Producer Manufacturing"	5	2025-04-07
 "TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-04-11
 "CONVERGENZE"	"CVG.MI"	2025-03-19	2025-04-24	"Communications"	3	2025-07-23
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-04-10	"Consumer Non-Durables"	5	2025-03-06
-"IREN"	"IRE.MI"	2025-04-04	2025-04-07	"Utilities"	3	2025-03-05
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	5	2024-11-01
 "RELATECH"	"RLT.MI"	2024-11-05	2024-11-11	"Technology Services"	3	2024-11-05

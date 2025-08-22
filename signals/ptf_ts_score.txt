@@ -1,4 +1,4 @@
-"sector"	"name"	"ticker"	"2025-08-21"	"2025-08-20"	"2025-08-19"	"2025-08-18"	"2025-08-14"
+"sector"	"name"	"ticker"	"2025-08-22"	"2025-08-21"	"2025-08-20"	"2025-08-19"	"2025-08-18"
 "Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	-1	-1
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
@@ -17,16 +17,16 @@
 "Finance"	"GENERALI ASS"	"G.MI"	-1	-1	-1	-1	-1
 "Utilities"	"HERA"	"HER.MI"	-3	-3	-3	-3	-3
 "Utilities"	"ITALGAS"	"IG.MI"	3	3	3	3	3
-"Communications"	"INWIT"	"INW.MI"	0	0	0	-1	-1
+"Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"MAIRE"	"MAIRE.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	-1	-1	-1	0	0
+"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	-1	-1	-1	-1	0
 "Finance"	"NEXI"	"NEXI.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"PLC"	"PLC.MI"	5	5	5	5	5
-"Finance"	"POSTE ITALIANE"	"PST.MI"	3	3	3	3	5
+"Finance"	"POSTE ITALIANE"	"PST.MI"	3	3	3	3	3
 "Commercial Services"	"REPLY"	"REY.MI"	-1	-1	-1	-1	-1
 "Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	-1	-1	-1	-1	-1
 "Consumer Durables"	"STELLANTIS"	"STLAM.MI"	-1	-1	-1	-1	-1
-NA	NA	"STMMI.MI"	-1	-1	-1	-1	-1
+NA	NA	"STMMI.MI"	0	-1	-1	-1	-1
 "Technology Services"	"TINEXTA"	"TNXT.MI"	5	5	5	5	5
-"Utilities"	"TERNA"	"TRN.MI"	-2	0	0	0	-1
+"Utilities"	"TERNA"	"TRN.MI"	-2	-2	0	0	0
 "Industrial Services"	"WEBUILD"	"WBD.MI"	5	5	5	5	5
