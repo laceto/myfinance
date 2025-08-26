@@ -1,11 +1,11 @@
-"sector"	"name"	"ticker"	"2025-08-25"	"2025-08-22"	"2025-08-21"	"2025-08-20"	"2025-08-19"
+"sector"	"name"	"ticker"	"2025-08-26"	"2025-08-25"	"2025-08-22"	"2025-08-21"	"2025-08-20"
 "Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	-1	-1
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Finance"	"AZIMUT"	"AZM.MI"	1	1	1	1	1
 "Finance"	"BANCO BPM"	"BAMI.MI"	5	5	5	5	5
 "Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
-"Producer Manufacturing"	"BREMBO"	"BRE.MI"	1	1	1	1	1
+"Producer Manufacturing"	"BREMBO"	"BRE.MI"	-1	1	1	1	1
 "Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-1	-1	-1	-1	-1
 "Electronic Technology"	"CEMBRE"	"CMB.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	1	1	1	1	1
@@ -19,14 +19,14 @@
 "Utilities"	"ITALGAS"	"IG.MI"	2	2	2	2	2
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"MAIRE"	"MAIRE.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	-1	-1	-1	-1	-1
+"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	0	-1	-1	-1	-1
 "Finance"	"NEXI"	"NEXI.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"PLC"	"PLC.MI"	5	5	5	5	5
 "Finance"	"POSTE ITALIANE"	"PST.MI"	3	3	3	3	3
 "Commercial Services"	"REPLY"	"REY.MI"	-1	-1	-1	-1	-1
 "Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	-1	-1	-1	-1	-1
 "Consumer Durables"	"STELLANTIS"	"STLAM.MI"	-1	-1	-1	-1	-1
-NA	NA	"STMMI.MI"	0	0	-1	-1	-1
+NA	NA	"STMMI.MI"	0	0	0	-1	-1
 "Technology Services"	"TINEXTA"	"TNXT.MI"	5	5	5	5	5
 "Utilities"	"TERNA"	"TRN.MI"	-2	-2	-2	-2	-2
 "Industrial Services"	"WEBUILD"	"WBD.MI"	5	5	5	5	5
