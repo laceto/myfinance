@@ -1,13 +1,12 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
 NA	"BRE.MI"	"BREMBO"	"si"	-1	2025-08-26
-NA	"DIA.MI"	"DIASORIN"	"si"	0	2025-08-26
 NA	"MONC.MI"	"MONCLER"	"si"	0	2025-08-26
+NA	"DIA.MI"	"DIASORIN"	"si"	0	2025-08-26
 NA	"PRY.MI"	"PRYSMIAN"	"si"	1	2025-08-26
 NA	"ERG.MI"	"ERG"	"si"	1	2025-08-25
 NA	"SPM.MI"	"SAIPEM"	"si"	-1	2025-08-22
 NA	"A2A.MI"	"A2A"	"si"	0	2025-08-22
 NA	"SRG.MI"	"SNAM"	"si"	2	2025-08-22
-NA	"TRN.MI"	"TERNA"	"si"	-2	2025-08-18
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	1	2025-08-18
 NA	"CPR.MI"	"CAMPARI"	"si"	1	2025-08-14
 NA	"NEXI.MI"	"NEXI"	"si"	-1	2025-08-13

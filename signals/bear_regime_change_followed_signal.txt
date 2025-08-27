@@ -1,7 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
 "OVS"	"OVS.MI"	2025-05-30	-1	2025-07-01	"rsma_50100150"	-1
-"TERNA"	"TRN.MI"	2025-05-07	-1	2025-08-14	"rbo_100"	-1
-"TERNA"	"TRN.MI"	2025-05-07	-1	2025-07-17	"rsma_50100150"	-1
 "REPLY"	"REY.MI"	2025-04-11	-1	2025-05-21	"rtt_5020"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-03-07	-1	2025-07-24	"rtt_5020"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-03-07	-1	2025-04-15	"rbo_100"	-1
