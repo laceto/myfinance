@@ -1,4 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"BASTOGI SPA"	"B.MI"	2025-08-19	2025-08-28	"Finance"	1	2025-08-19
+"PRYSMIAN"	"PRY.MI"	2025-08-04	2025-08-26	"Producer Manufacturing"	3	2025-04-22
 "NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	2	2025-08-18
 "MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	-1	2025-08-13
 "A.B.P. NOCIVELLI"	"ABP.MI"	2025-08-05	2025-08-14	"Industrial Services"	5	2025-05-21
