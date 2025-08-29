@@ -1,2 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"ENI.MI"	"ENI"	2025-08-01	-1	1	2025-07-31	42.8571428571429	0.5	-1
+"TRN.MI"	"TERNA"	2025-04-04	-1	1	2025-07-17	42.8571428571429	0.7	-2

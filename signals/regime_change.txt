@@ -1,7 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-29	1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-08-29	-1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-08-28	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-08-28	1
-"ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-08-27	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-08-27	1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-08-25	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
@@ -15,6 +16,7 @@
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-08-18	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
+"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2025-08-07	-1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-08-06	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-08-05	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
@@ -22,6 +24,7 @@
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-08-04	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2025-08-01	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2025-07-31	1
+"SPINDOX"	"SPN.MI"	"Commercial Services"	NA	2025-07-31	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-07-30	1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-07-30	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-07-29	1
@@ -43,9 +46,7 @@
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-04-11	-1
-"BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-04-03	1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
@@ -53,6 +54,7 @@
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-14	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-07	-1
+"ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-02-19	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
@@ -75,7 +77,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2024-09-12	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2024-09-10	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2024-09-03	-1
-"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2024-07-10	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
