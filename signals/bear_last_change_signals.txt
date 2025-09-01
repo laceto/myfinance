@@ -1,4 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"CPR.MI"	"CAMPARI"	"si"	0	2025-09-01
+NA	"RACE.MI"	"FERRARI"	"si"	0	2025-09-01
 -1	"TRN.MI"	"TERNA"	"si"	-2	2025-08-29
 NA	"ERG.MI"	"ERG"	"si"	-1	2025-08-29
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	3	2025-08-29
@@ -10,7 +12,6 @@ NA	"DIA.MI"	"DIASORIN"	"si"	0	2025-08-26
 NA	"SPM.MI"	"SAIPEM"	"si"	-1	2025-08-22
 NA	"A2A.MI"	"A2A"	"si"	0	2025-08-22
 NA	"SRG.MI"	"SNAM"	"si"	2	2025-08-22
-NA	"CPR.MI"	"CAMPARI"	"si"	1	2025-08-14
 NA	"NEXI.MI"	"NEXI"	"si"	-1	2025-08-13
 NA	"INW.MI"	"INWIT"	"si"	-1	2025-08-12
 NA	"ENAV.MI"	"ENAV"	"si"	-1	2025-08-12
@@ -21,7 +22,6 @@ NA	"BSS.MI"	"BIESSE"	"si"	-2	2025-08-04
 NA	"DAL.MI"	"DATALOGIC"	"si"	-1	2025-08-04
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	-1	2025-08-01
 NA	"ENI.MI"	"ENI"	"si"	-1	2025-07-31
-NA	"RACE.MI"	"FERRARI"	"si"	-1	2025-07-31
 NA	"TEN.MI"	"TENARIS"	"si"	0	2025-07-31
 NA	"HER.MI"	"HERA"	"si"	-3	2025-07-30
 NA	"PRT.MI"	"ESPRINET"	"si"	1	2025-07-28
