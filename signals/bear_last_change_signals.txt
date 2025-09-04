@@ -1,4 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-1	2025-09-04
 NA	"NEXI.MI"	"NEXI"	"si"	-2	2025-09-03
 NA	"TEN.MI"	"TENARIS"	"si"	0	2025-09-03
 NA	"ENI.MI"	"ENI"	"si"	-3	2025-09-02
@@ -12,7 +13,6 @@ NA	"RACE.MI"	"FERRARI"	"si"	0	2025-09-01
 NA	"ERG.MI"	"ERG"	"si"	-1	2025-08-29
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	3	2025-08-29
 NA	"AMP.MI"	"AMPLIFON"	"si"	0	2025-08-28
-NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	0	2025-08-28
 NA	"BRE.MI"	"BREMBO"	"si"	-1	2025-08-26
 NA	"MONC.MI"	"MONCLER"	"si"	0	2025-08-26
 NA	"DIA.MI"	"DIASORIN"	"si"	0	2025-08-26
