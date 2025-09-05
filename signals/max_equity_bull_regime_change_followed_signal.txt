@@ -1,8 +1,9 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"GEL"	"GEL.MI"	2025-08-20	2025-09-05	"Producer Manufacturing"	3	2025-08-20
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	2025-08-28	2025-09-02	"Health Technology"	5	2025-05-20
 "BASTOGI SPA"	"B.MI"	2025-08-19	2025-08-28	"Finance"	1	2025-08-19
-"PRYSMIAN"	"PRY.MI"	2025-08-04	2025-08-26	"Producer Manufacturing"	3	2025-04-22
-"NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	2	2025-08-18
+"PRYSMIAN"	"PRY.MI"	2025-08-04	2025-08-26	"Producer Manufacturing"	5	2025-04-22
+"NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	3	2025-08-18
 "MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	-1	2025-08-13
 "SPINDOX"	"SPN.MI"	2025-07-31	2025-08-11	"Commercial Services"	5	2025-07-23
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	2	2025-09-03
@@ -17,7 +18,6 @@
 "ANTARES VISION"	"AV.MI"	2025-02-19	2025-07-07	"Electronic Technology"	5	2025-03-28
 "SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	5	2025-08-04
 "DANIELI & C"	"DAN.MI"	2025-05-23	2025-06-09	"Producer Manufacturing"	5	2025-04-07
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	2025-04-28	2025-05-19	"Consumer Non-Durables"	3	2025-06-09
 "TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-04-11
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-04-10	"Consumer Non-Durables"	4	2025-03-06
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
@@ -25,5 +25,5 @@
 "RELATECH"	"RLT.MI"	2024-11-05	2024-11-11	"Technology Services"	3	2024-11-05
 "WEBUILD"	"WBD.MI"	2024-01-17	2024-10-10	"Industrial Services"	4	2025-04-07
 "UNIPOL"	"UNI.MI"	2024-02-15	2024-02-16	"Finance"	2	2025-07-02
-"BPER BANCA"	"BPE.MI"	2022-06-08	2022-09-20	"Finance"	5	2025-07-11
-"UNICREDIT"	"UCG.MI"	2022-07-15	2022-09-09	"Finance"	5	2025-07-03
+"BPER BANCA"	"BPE.MI"	2022-06-08	2022-09-20	"Finance"	5	2023-12-21
+"UNICREDIT"	"UCG.MI"	2022-07-15	2022-09-09	"Finance"	4	2025-07-03

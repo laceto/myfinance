@@ -1,5 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2025-09-03	1
+"BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2025-09-05	1
+"DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-09-05	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-09-02	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-09-02	1
 "POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-09-02	1
