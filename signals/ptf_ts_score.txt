@@ -1,32 +1,32 @@
-"sector"	"name"	"ticker"	"2025-09-05"	"2025-09-04"	"2025-09-03"	"2025-09-02"	"2025-09-01"
+"sector"	"name"	"ticker"	"2025-09-08"	"2025-09-05"	"2025-09-04"	"2025-09-03"	"2025-09-02"
 "Utilities"	"ACEA"	"ACE.MI"	0	0	0	0	0
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
-"Finance"	"AZIMUT"	"AZM.MI"	2	2	2	3	3
+"Finance"	"AZIMUT"	"AZM.MI"	2	2	2	2	3
 "Finance"	"BANCO BPM"	"BAMI.MI"	5	5	5	5	5
-"Finance"	"BCA POP SONDRIO"	"BPSO.MI"	3	3	5	5	5
+"Finance"	"BCA POP SONDRIO"	"BPSO.MI"	3	3	3	5	5
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	-1	-1	-1	-1	-1
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	0	0	0	0	-1
-"Electronic Technology"	"CEMBRE"	"CMB.MI"	4	5	5	5	5
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	0	0	0	0	0
+"Electronic Technology"	"CEMBRE"	"CMB.MI"	4	4	5	5	5
 "Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	0	0	0	0	0
-"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	4	4	4	4	5
+"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	4	4	4	4	4
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
 "Transportation"	"ENAV"	"ENAV.MI"	-1	-1	-1	-1	-1
 "Utilities"	"ENEL"	"ENEL.MI"	2	2	2	2	2
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	5	5	5	5	5
-"Finance"	"GENERALI ASS"	"G.MI"	0	0	0	1	1
+"Finance"	"GENERALI ASS"	"G.MI"	0	0	0	0	1
 "Utilities"	"HERA"	"HER.MI"	-3	-3	-3	-3	-3
 "Utilities"	"ITALGAS"	"IG.MI"	3	3	3	3	3
-"Communications"	"INWIT"	"INW.MI"	-3	-3	-3	-3	-1
-"Industrial Services"	"MAIRE"	"MAIRE.MI"	4	4	4	4	5
+"Communications"	"INWIT"	"INW.MI"	-3	-3	-3	-3	-3
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	4	4	4	4	4
 "Consumer Non-Durables"	"MONCLER"	"MONC.MI"	0	0	0	0	0
-"Finance"	"NEXI"	"NEXI.MI"	-2	-2	-2	-1	-1
+"Finance"	"NEXI"	"NEXI.MI"	-2	-2	-2	-2	-1
 "Industrial Services"	"PLC"	"PLC.MI"	4	4	4	4	4
-"Finance"	"POSTE ITALIANE"	"PST.MI"	2	2	2	3	3
+"Finance"	"POSTE ITALIANE"	"PST.MI"	2	2	2	2	3
 "Commercial Services"	"REPLY"	"REY.MI"	-1	-1	-1	-1	-1
 "Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	-1	-1	-1	-1	-1
 "Consumer Durables"	"STELLANTIS"	"STLAM.MI"	-1	-1	-1	-1	-1
-NA	NA	"STMMI.MI"	2	2	0	0	0
+NA	NA	"STMMI.MI"	2	2	2	0	0
 "Technology Services"	"TINEXTA"	"TNXT.MI"	5	5	5	5	5
-"Utilities"	"TERNA"	"TRN.MI"	-1	-1	-1	-1	0
+"Utilities"	"TERNA"	"TRN.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"WEBUILD"	"WBD.MI"	4	4	4	4	4
