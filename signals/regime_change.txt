@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-09-09	1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-09-09	-1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-05	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-09-05	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-09-02	1
@@ -6,11 +8,11 @@
 "POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-09-02	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2025-09-02	-1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-29	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-08-27	1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-08-25	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-08-22	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-08-22	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-08-21	1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-08-21	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-08-20	1
@@ -18,6 +20,7 @@
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-08-19	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-08-19	-1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-08-18	1
+"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-14	1
 "DIGITAL BROS"	"DIB.MI"	"Technology Services"	NA	2025-08-14	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
@@ -54,7 +57,7 @@
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-04-11	-1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-04-03	1
+"EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
@@ -90,7 +93,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2024-05-07	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
-"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2024-04-02	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2024-03-06	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
