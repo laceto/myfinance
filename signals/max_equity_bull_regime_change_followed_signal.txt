@@ -1,4 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"ILPRA"	"ILP.MI"	2025-08-20	2025-09-15	"Producer Manufacturing"	3	2025-08-20
+"EVISO"	"EVISO.MI"	2023-10-19	2025-09-15	"Utilities"	-1	2025-09-15
 "COMER INDUSTRIES"	"COM.MI"	2025-07-24	2025-09-12	"Producer Manufacturing"	4	2025-09-04
 "MEDIOBANCA"	"MB.MI"	2024-05-07	2025-09-12	"Finance"	3	2025-07-14
 "GEL"	"GEL.MI"	2025-08-20	2025-09-05	"Producer Manufacturing"	3	2025-08-20
@@ -7,13 +9,13 @@
 "PRYSMIAN"	"PRY.MI"	2025-08-04	2025-08-26	"Producer Manufacturing"	5	2025-04-22
 "NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	2	2025-08-18
 "MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	-1	2025-08-13
-"SPINDOX"	"SPN.MI"	2025-07-31	2025-08-11	"Commercial Services"	5	2025-07-23
+"SPINDOX"	"SPN.MI"	2025-07-31	2025-08-11	"Commercial Services"	4	2025-07-23
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	2	2025-09-03
-"ENEL"	"ENEL.MI"	2025-07-30	2025-08-06	"Utilities"	-1	2025-07-30
+"SIT"	"SIT.MI"	2025-05-14	2025-08-06	"Producer Manufacturing"	5	2025-05-14
 "ECOSUNTEK"	"ECK.MI"	2025-06-10	2025-07-30	"Utilities"	5	2025-05-16
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-07-22	"Non-Energy Minerals"	5	2025-08-14
 "CALTAGIRONE EDIT"	"CED.MI"	2025-06-18	2025-07-17	"Consumer Services"	1	2025-06-18
-"INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-07-08	"Finance"	5	2024-11-27
+"INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-07-08	"Finance"	5	2025-07-14
 "CAREL INDUSTRIES"	"CRL.MI"	2025-05-13	2025-07-07	"Producer Manufacturing"	4	2025-04-07
 "ANTARES VISION"	"AV.MI"	2025-02-19	2025-07-07	"Electronic Technology"	5	2025-03-28
 "SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	5	2025-08-04
