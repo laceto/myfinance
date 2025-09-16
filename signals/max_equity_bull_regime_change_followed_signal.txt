@@ -1,6 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"ILPRA"	"ILP.MI"	2025-08-20	2025-09-15	"Producer Manufacturing"	3	2025-08-20
-"EVISO"	"EVISO.MI"	2023-10-19	2025-09-15	"Utilities"	-1	2025-09-15
+"ILPRA"	"ILP.MI"	2025-08-20	2025-09-15	"Producer Manufacturing"	5	2025-08-20
+"EVISO"	"EVISO.MI"	2023-10-19	2025-09-15	"Utilities"	-1	2024-07-15
 "COMER INDUSTRIES"	"COM.MI"	2025-07-24	2025-09-12	"Producer Manufacturing"	4	2025-09-04
 "MEDIOBANCA"	"MB.MI"	2024-05-07	2025-09-12	"Finance"	3	2025-07-14
 "GEL"	"GEL.MI"	2025-08-20	2025-09-05	"Producer Manufacturing"	3	2025-08-20
@@ -11,7 +11,6 @@
 "MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	-1	2025-08-13
 "SPINDOX"	"SPN.MI"	2025-07-31	2025-08-11	"Commercial Services"	4	2025-07-23
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	2	2025-09-03
-"SIT"	"SIT.MI"	2025-05-14	2025-08-06	"Producer Manufacturing"	5	2025-05-14
 "ECOSUNTEK"	"ECK.MI"	2025-06-10	2025-07-30	"Utilities"	5	2025-05-16
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-07-22	"Non-Energy Minerals"	5	2025-08-14
 "CALTAGIRONE EDIT"	"CED.MI"	2025-06-18	2025-07-17	"Consumer Services"	1	2025-06-18
