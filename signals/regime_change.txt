@@ -1,24 +1,25 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-09-18	1
-"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2025-09-18	1
+"DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-09-19	1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-19	1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-09-19	1
+"CELLULARLINE"	"CELL.MI"	"Consumer Durables"	NA	2025-09-18	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-09-18	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-09-18	1
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-15	1
+"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-09-17	1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-09-16	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-15	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-09-15	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
+"ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-09-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-09-11	-1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-09-02	1
-"GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-09-02	1
 "POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-09-02	1
-"CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-29	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-08-29	1
+"CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-27	1
+"OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-08-27	1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-08-25	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-08-22	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-08-22	1
-"CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-08-21	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
@@ -29,6 +30,7 @@
 "AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-14	1
 "DIGITAL BROS"	"DIB.MI"	"Technology Services"	NA	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
+"PIAGGIO"	"PIA.MI"	"Consumer Durables"	NA	2025-08-12	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2025-08-07	-1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-08-04	1
@@ -44,7 +46,6 @@
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-07-14	1
 "ELICA"	"ELC.MI"	"Consumer Durables"	NA	2025-07-14	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
-"GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-06-20	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
@@ -56,6 +57,7 @@
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
+"GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-04-11	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
