@@ -1,5 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "REY.MI"	"REPLY"	2025-09-18	"rtt_5020"	0
+"LDO.MI"	"LEONARDO"	2025-09-16	"rrg"	-1
 "NEXI.MI"	"NEXI"	2025-09-10	"rtt_5020"	-1
 "DIA.MI"	"DIASORIN"	2025-09-09	"rtt_5020"	-1
 "MONC.MI"	"MONCLER"	2025-08-18	"rrg"	-1
@@ -15,7 +16,6 @@
 "RACE.MI"	"FERRARI"	2025-01-13	"rrg"	-1
 "INW.MI"	"INWIT"	2024-11-06	"rbo_100"	-1
 "US.MI"	"UNIPOLSAI"	2024-03-26	"rema_50100150"	1
-"ERG.MI"	"ERG"	2024-02-08	"rema_50100150"	1
 "IP.MI"	"INTERPUMP GROUP"	2024-02-02	"rrg"	-1
 "BRE.MI"	"BREMBO"	2023-09-26	"rrg"	-1
 "CPR.MI"	"CAMPARI"	2023-06-20	"rrg"	-1
