@@ -1,10 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-09-23	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
-"ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-09-22	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-09-22	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2025-09-19	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-19	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-09-19	1
 "CELLULARLINE"	"CELL.MI"	"Consumer Durables"	NA	2025-09-18	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-09-18	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-09-17	1
@@ -15,6 +14,7 @@
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-09-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-09-11	-1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-09-02	1
+"GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-09-02	1
 "POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-09-02	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-08-29	1
 "AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-28	1
@@ -61,7 +61,6 @@
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
-"GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-04-11	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
