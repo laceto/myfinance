@@ -1,5 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "REY.MI"	"REPLY"	2025-09-18	"rtt_5020"	0
+"TRN.MI"	"TERNA"	2025-09-12	"rsma_50100150"	1
 "NEXI.MI"	"NEXI"	2025-09-10	"rtt_5020"	-1
 "DIA.MI"	"DIASORIN"	2025-09-09	"rtt_5020"	-1
 "MONC.MI"	"MONCLER"	2025-08-18	"rrg"	-1
