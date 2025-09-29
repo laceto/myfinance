@@ -1,6 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"TRN.MI"	"TERNA"	"si"	0	2025-09-29
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-1	2025-09-25
--1	"TRN.MI"	"TERNA"	"si"	-1	2025-09-25
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	0	2025-09-25
 NA	"HER.MI"	"HERA"	"si"	0	2025-09-24
 NA	"MONC.MI"	"MONCLER"	"si"	1	2025-09-23
