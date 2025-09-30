@@ -1,6 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-09-29	1
-"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-09-29	1
+"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-09-30	1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-09-30	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-09-26	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-09-25	-1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-09-24	1

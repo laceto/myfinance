@@ -1,5 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"ACEA"	"ACE.MI"	2025-03-10	2025-09-26	"Utilities"	1	2025-08-25
+"ACEA"	"ACE.MI"	2025-03-10	2025-09-26	"Utilities"	2	2025-08-25
 "SNAM"	"SRG.MI"	2025-09-23	2025-09-25	"Utilities"	1	2025-09-23
 "ALMAWAVE"	"AIW.MI"	2025-08-22	2025-09-19	"Technology Services"	3	2025-08-22
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-09-19	"Non-Energy Minerals"	3	2025-08-14
@@ -10,9 +10,9 @@
 "GEL"	"GEL.MI"	2025-08-20	2025-09-05	"Producer Manufacturing"	3	2025-08-20
 "OFFICINA STELLARE"	"OS.MI"	2025-08-27	2025-09-04	"Electronic Technology"	5	2025-08-21
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	2025-07-30	2025-09-02	"Health Technology"	5	2025-07-30
-"BASTOGI SPA"	"B.MI"	2025-08-19	2025-08-28	"Finance"	3	2025-08-19
+"BASTOGI SPA"	"B.MI"	2025-08-19	2025-08-28	"Finance"	5	2025-08-19
 "PRYSMIAN"	"PRY.MI"	2025-08-04	2025-08-26	"Producer Manufacturing"	5	2025-04-22
-"NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	2	2025-08-18
+"NUSCO"	"NUS.MI"	2025-05-27	2025-08-22	"Producer Manufacturing"	3	2025-09-30
 "MAPS"	"MAPS.MI"	2024-11-08	2025-08-21	"Technology Services"	1	2025-09-25
 "SPINDOX"	"SPN.MI"	2025-07-31	2025-08-11	"Commercial Services"	5	2025-07-23
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	2	2025-09-25
@@ -24,12 +24,13 @@
 "SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	5	2025-08-04
 "DANIELI & C"	"DAN.MI"	2025-05-23	2025-06-09	"Producer Manufacturing"	5	2025-04-07
 "EDISON R"	"EDNR.MI"	2025-05-19	2025-05-21	"Utilities"	5	2025-02-26
+"MAIRE"	"MAIRE.MI"	2024-11-06	2025-05-06	"Industrial Services"	4	2025-04-07
 "TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-04-11
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-04-10	"Consumer Non-Durables"	4	2025-07-09
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	5	2024-11-01
 "RELATECH"	"RLT.MI"	2024-11-05	2024-11-11	"Technology Services"	3	2024-11-05
-"WEBUILD"	"WBD.MI"	2024-01-17	2024-10-10	"Industrial Services"	-1	2025-04-07
+"WEBUILD"	"WBD.MI"	2024-01-17	2024-10-10	"Industrial Services"	-1	2025-09-25
 "UNIPOL"	"UNI.MI"	2024-02-15	2024-02-16	"Finance"	5	2025-07-02
 "BPER BANCA"	"BPE.MI"	2022-06-08	2022-09-20	"Finance"	5	2025-07-11
 "UNICREDIT"	"UCG.MI"	2022-07-15	2022-09-09	"Finance"	4	2025-07-03

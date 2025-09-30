@@ -1,5 +1,5 @@
-"sector"	"name"	"ticker"	"2025-09-29"	"2025-09-26"	"2025-09-25"	"2025-09-24"	"2025-09-23"
-"Utilities"	"ACEA"	"ACE.MI"	1	1	-1	-1	-1
+"sector"	"name"	"ticker"	"2025-09-30"	"2025-09-26"	"2025-09-25"	"2025-09-24"	"2025-09-23"
+"Utilities"	"ACEA"	"ACE.MI"	2	1	-1	-1	-1
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
 "Finance"	"AZIMUT"	"AZM.MI"	5	4	4	4	4
@@ -16,7 +16,7 @@
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	5	5	5	5	5
 "Finance"	"GENERALI ASS"	"G.MI"	0	0	0	0	0
 "Utilities"	"HERA"	"HER.MI"	0	0	0	0	-1
-"Utilities"	"ITALGAS"	"IG.MI"	4	4	4	4	4
+"Utilities"	"ITALGAS"	"IG.MI"	5	4	4	4	4
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"MAIRE"	"MAIRE.MI"	4	4	4	4	4
 "Consumer Non-Durables"	"MONCLER"	"MONC.MI"	1	1	1	1	1
