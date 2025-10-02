@@ -1,23 +1,26 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-10-02	1
+"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-10-02	-1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-10-01	1
-"ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-10-01	-1
+"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-09-30	1
+"MONNALISA"	"MNL.MI"	"Consumer Non-Durables"	NA	2025-09-30	1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-09-29	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-09-26	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-09-25	-1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-09-24	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-09-23	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-09-22	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-19	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-09-17	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-09-16	1
+"COPERNICO"	"COP.MI"	"Finance"	NA	2025-09-15	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-09-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-09-11	-1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-09-02	1
-"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-28	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-27	1
-"EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2025-08-27	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-08-27	1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-08-25	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-08-22	1
@@ -27,6 +30,7 @@
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-08-19	1
+"CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-08-19	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-08-18	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-08-18	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
@@ -38,6 +42,7 @@
 "SPINDOX"	"SPN.MI"	"Commercial Services"	NA	2025-07-31	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-07-30	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2025-07-30	1
+"SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	2025-07-30	1
 "COMER INDUSTRIES"	"COM.MI"	"Producer Manufacturing"	NA	2025-07-24	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2025-07-23	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-07-14	1
@@ -47,9 +52,9 @@
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
+"NUSCO"	"NUS.MI"	"Producer Manufacturing"	NA	2025-05-27	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
-"EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
@@ -63,9 +68,9 @@
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-03-19	1
-"UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-03-14	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-03-07	-1
+"ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-02-19	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
@@ -89,7 +94,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "FINECOBANK"	"FBK.MI"	"Finance"	NA	2024-07-02	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
-"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2024-05-07	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
