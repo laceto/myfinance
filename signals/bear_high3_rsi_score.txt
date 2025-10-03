@@ -1,2 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"MB.MI"	"MEDIOBANCA"	2025-05-12	-1	-1	2025-10-01	14.2857142857143	1	-5
+"MB.MI"	"MEDIOBANCA"	2025-05-12	-1	-1	2025-10-01	14.2857142857143	1.06666666666667	-5
