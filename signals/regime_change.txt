@@ -1,7 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2025-10-06	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-03	1
-"EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2025-10-03	1
-"POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-10-03	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-10-02	-1
@@ -14,6 +13,7 @@
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-09-22	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-19	1
+"CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-09-18	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-09-16	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-09-15	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
@@ -23,7 +23,6 @@
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-09-02	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-27	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-08-27	1
-"IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-08-25	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2025-08-20	1
@@ -31,7 +30,6 @@
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "BASTOGI SPA"	"B.MI"	"Finance"	NA	2025-08-19	1
 "CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-08-19	1
-"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-08-19	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-08-18	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
@@ -52,7 +50,6 @@
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
-"NUSCO"	"NUS.MI"	"Producer Manufacturing"	NA	2025-05-27	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
