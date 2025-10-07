@@ -1,5 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
-NA	"BSS.MI"	"BIESSE"	"si"	1	2025-10-06	8.32
+NA	"BSS.MI"	"BIESSE"	"si"	1	2025-10-07	8.56
 NA	"PRT.MI"	"ESPRINET"	"si"	-1	2025-10-06	6.32
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	2	2025-10-03	1.67
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	1	2025-10-03	5.97
