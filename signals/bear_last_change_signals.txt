@@ -1,5 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
-NA	"SFL.MI"	"SAFILO GROUP"	"si"	2	2025-10-06
+-1	"IG.MI"	"ITALGAS"	"si"	1	2025-10-08
+NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	1	2025-10-08
+NA	"SFL.MI"	"SAFILO GROUP"	"si"	3	2025-10-08
 NA	"MARR.MI"	"MARR"	"si"	0	2025-10-03
 NA	"ENAV.MI"	"ENAV"	"si"	1	2025-10-03
 -1	"MB.MI"	"MEDIOBANCA"	"si"	-5	2025-10-02
@@ -24,5 +26,4 @@ NA	"INW.MI"	"INWIT"	"si"	-1	2025-09-15
 NA	"DAL.MI"	"DATALOGIC"	"si"	1	2025-09-15
 NA	"NEXI.MI"	"NEXI"	"si"	-1	2025-09-12
 NA	"DIA.MI"	"DIASORIN"	"si"	-1	2025-09-09
-NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	0	2025-09-02
 NA	"US.MI"	"UNIPOLSAI"	"si"	-2	2024-06-28

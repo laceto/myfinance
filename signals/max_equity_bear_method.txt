@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"IG.MI"	"ITALGAS"	2025-10-08	"rrg"	-1
 "MB.MI"	"MEDIOBANCA"	2025-09-30	"rtt_5020"	-1
 "SRG.MI"	"SNAM"	2025-09-25	"rsma_50100150"	1
 "REY.MI"	"REPLY"	2025-09-18	"rtt_5020"	0
