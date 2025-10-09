@@ -1,29 +1,27 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "PLC"	"PLC.MI"	2025-03-31	2025-10-06	"Industrial Services"	3	2025-05-14
 "LUCISANO MEDIA GROUP"	"LMG.MI"	2025-03-31	2025-10-03	"Consumer Services"	3	2025-08-21
+"SPINDOX"	"SPN.MI"	2025-07-31	2025-09-26	"Commercial Services"	5	2025-07-23
 "ACEA"	"ACE.MI"	2025-03-10	2025-09-26	"Utilities"	3	2025-08-25
 "OFFICINA STELLARE"	"OS.MI"	2025-08-27	2025-09-23	"Electronic Technology"	3	2025-08-21
-"MAPS"	"MAPS.MI"	2024-11-08	2025-09-19	"Technology Services"	1	2025-09-25
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-09-19	"Non-Energy Minerals"	3	2025-08-14
 "EQUITA GROUP"	"EQUI.MI"	2025-03-31	2025-09-18	"Finance"	5	2025-07-09
 "ILPRA"	"ILP.MI"	2025-08-20	2025-09-15	"Producer Manufacturing"	5	2025-08-20
 "COMER INDUSTRIES"	"COM.MI"	2025-07-24	2025-09-12	"Producer Manufacturing"	4	2025-09-04
 "GEL"	"GEL.MI"	2025-08-20	2025-09-05	"Producer Manufacturing"	2	2025-08-20
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	2025-07-30	2025-09-02	"Health Technology"	5	2025-07-30
-"CAIRO COMMUNICATION"	"CAI.MI"	2025-08-19	2025-09-01	"Consumer Services"	3	2025-08-19
 "PRYSMIAN"	"PRY.MI"	2025-08-04	2025-08-26	"Producer Manufacturing"	5	2025-04-22
 "A.B.P. NOCIVELLI"	"ABP.MI"	2025-08-05	2025-08-14	"Industrial Services"	5	2025-05-21
-"SPINDOX"	"SPN.MI"	2025-07-31	2025-08-11	"Commercial Services"	5	2025-07-23
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-08-11	"Finance"	2	2025-10-06
 "SIT"	"SIT.MI"	2025-05-14	2025-08-06	"Producer Manufacturing"	5	2025-07-16
 "CALTAGIRONE EDIT"	"CED.MI"	2025-06-18	2025-07-17	"Consumer Services"	1	2025-06-18
 "INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-07-08	"Finance"	5	2025-07-14
 "ANTARES VISION"	"AV.MI"	2025-02-19	2025-07-07	"Electronic Technology"	5	2025-03-28
-"SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	5	2025-08-04
+"SOL"	"SOL.MI"	2020-03-12	2025-07-07	"Process Industries"	4	2025-08-04
 "DANIELI & C"	"DAN.MI"	2025-05-23	2025-06-09	"Producer Manufacturing"	5	2025-04-07
 "EDISON R"	"EDNR.MI"	2025-05-19	2025-05-21	"Utilities"	5	2025-02-26
 "MAIRE"	"MAIRE.MI"	2024-11-06	2025-05-06	"Industrial Services"	5	2025-04-07
-"TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-04-11
+"TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-10-08
 "NEWLAT FOOD"	"NWL.MI"	2025-03-20	2025-04-10	"Consumer Non-Durables"	3	2025-07-09
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	5	2024-11-01

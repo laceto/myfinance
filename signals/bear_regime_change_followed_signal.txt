@@ -1,5 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
 "BANCA GENERALI"	"BGN.MI"	2025-08-07	-1	2025-09-22	"rtt_5020"	-1
+"FERRARI"	"RACE.MI"	2025-07-31	-1	2025-10-09	"rtt_5020"	-1
 "DIASORIN"	"DIA.MI"	2025-06-23	-1	2025-09-09	"rtt_5020"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-03-07	-1	2025-09-25	"rtt_5020"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-03-07	-1	2025-04-15	"rbo_100"	-1

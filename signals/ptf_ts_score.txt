@@ -1,4 +1,4 @@
-"sector"	"name"	"ticker"	"2025-10-08"	"2025-10-07"	"2025-10-06"	"2025-10-03"	"2025-10-02"
+"sector"	"name"	"ticker"	"2025-10-09"	"2025-10-08"	"2025-10-07"	"2025-10-06"	"2025-10-03"
 "Utilities"	"ACEA"	"ACE.MI"	3	3	3	3	3
 "Electronic Technology"	"ANTARES VISION"	"AV.MI"	5	5	5	5	5
 "Electronic Technology"	"AVIO"	"AVIO.MI"	5	5	5	5	5
@@ -7,26 +7,26 @@
 "Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	-2	-2	-2	-2	-2
 "Non-Energy Minerals"	"BUZZI"	"BZU.MI"	0	0	0	0	0
-"Electronic Technology"	"CEMBRE"	"CMB.MI"	-3	-3	-1	-1	1
+"Electronic Technology"	"CEMBRE"	"CMB.MI"	-3	-3	-3	-1	-1
 "Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	-1	-1	-1	-1	-1
-"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	0	4	4	4	4
+"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	-3	-2	4	4	4
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
-"Transportation"	"ENAV"	"ENAV.MI"	1	1	1	1	-1
-"Utilities"	"ENEL"	"ENEL.MI"	3	3	3	3	2
+"Transportation"	"ENAV"	"ENAV.MI"	1	1	1	1	1
+"Utilities"	"ENEL"	"ENEL.MI"	3	3	3	3	3
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	5	5	5	5	5
 "Finance"	"GENERALI ASS"	"G.MI"	-2	-2	-2	-2	-2
-"Utilities"	"HERA"	"HER.MI"	0	0	0	0	0
-"Utilities"	"ITALGAS"	"IG.MI"	1	3	3	3	5
+"Utilities"	"HERA"	"HER.MI"	1	0	0	0	0
+"Utilities"	"ITALGAS"	"IG.MI"	1	3	3	3	3
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"MAIRE"	"MAIRE.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"MONCLER"	"MONC.MI"	1	1	1	1	1
 "Finance"	"NEXI"	"NEXI.MI"	-1	-1	-1	-1	-1
-"Industrial Services"	"PLC"	"PLC.MI"	3	3	5	4	4
-"Finance"	"POSTE ITALIANE"	"PST.MI"	5	4	4	4	4
+"Industrial Services"	"PLC"	"PLC.MI"	3	3	3	5	4
+"Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	4	4	4
 "Commercial Services"	"REPLY"	"REY.MI"	0	0	0	0	0
 "Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	1	1	1	1	1
 "Consumer Durables"	"STELLANTIS"	"STLAM.MI"	1	1	1	1	1
 NA	NA	"STMMI.MI"	1	1	1	1	1
 "Technology Services"	"TINEXTA"	"TNXT.MI"	5	5	5	5	5
-"Utilities"	"TERNA"	"TRN.MI"	0	0	0	0	0
-"Industrial Services"	"WEBUILD"	"WBD.MI"	-3	-3	-3	-3	-1
+"Utilities"	"TERNA"	"TRN.MI"	1	0	0	0	0
+"Industrial Services"	"WEBUILD"	"WBD.MI"	-3	-3	-3	-3	-3
