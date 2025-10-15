@@ -1,7 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
-NA	"MONC.MI"	"MONCLER"	"si"	0	2025-10-14
+NA	"MONC.MI"	"MONCLER"	"si"	1	2025-10-15
+NA	"ENAV.MI"	"ENAV"	"si"	1	2025-10-15
 NA	"MB.MI"	"MEDIOBANCA"	"si"	-3	2025-10-13
-NA	"ENAV.MI"	"ENAV"	"si"	-1	2025-10-10
 NA	"SRG.MI"	"SNAM"	"si"	0	2025-10-10
 NA	"DAL.MI"	"DATALOGIC"	"si"	0	2025-10-10
 -1	"ACE.MI"	"ACEA"	"si"	1	2025-10-10
