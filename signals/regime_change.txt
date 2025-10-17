@@ -1,18 +1,21 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-10-16	1
+"BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
+"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
+"COPERNICO"	"COP.MI"	"Finance"	NA	2025-10-17	1
+"FIRST CAPITAL"	"FIC.MI"	"Finance"	NA	2025-10-17	1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-10-17	1
+"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-14	1
-"BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-14	1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-10-14	1
+"POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2025-10-13	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-10	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-10-10	-1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-10-09	1
-"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-08	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-10-08	1
-"COPERNICO"	"COP.MI"	"Finance"	NA	2025-10-08	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2025-10-06	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-10-02	-1
@@ -24,6 +27,7 @@
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-09-22	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-19	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-09-17	1
+"A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-09-11	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-09-11	-1
@@ -31,14 +35,12 @@
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
-"OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-08-19	1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-08-19	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-08-18	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2025-08-07	-1
-"A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-08-05	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-08-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-08-01	1
@@ -51,20 +53,22 @@
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-06-20	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
+"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-05-13	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
+"AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
+"MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2025-03-19	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
@@ -82,6 +86,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
+"I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2024-11-04	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2024-11-01	1
 "FIERA MILANO"	"FM.MI"	"Commercial Services"	NA	2024-10-30	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
