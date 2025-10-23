@@ -1,22 +1,21 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-22	1
-"COPERNICO"	"COP.MI"	"Finance"	NA	2025-10-22	1
-"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-10-22	1
+"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-23	1
+"OLIDATA"	"OLI.MI"	"Electronic Technology"	NA	2025-10-23	1
 "RACING FORCE"	"RFG.MI"	"Producer Manufacturing"	NA	2025-10-22	1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2025-10-21	1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-10-20	1
 "WEBSOLUTE"	"WBS.MI"	"Commercial Services"	NA	2025-10-20	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-10-17	1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-10-16	1
+"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-14	1
-"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-10	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-10-08	1
+"COPERNICO"	"COP.MI"	"Finance"	NA	2025-10-08	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-10-08	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2025-10-06	1
 "COFLE"	"CFL.MI"	"Producer Manufacturing"	NA	2025-10-03	1
@@ -55,6 +54,7 @@
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
+"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-06-20	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
