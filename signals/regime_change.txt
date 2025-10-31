@@ -1,5 +1,4 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-10-30	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-10-28	-1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-10-27	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-24	1
@@ -19,7 +18,7 @@
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-14	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-10-08	1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-10-08	1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-10-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-10-02	-1
@@ -60,6 +59,7 @@
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1

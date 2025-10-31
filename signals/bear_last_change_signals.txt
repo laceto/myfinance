@@ -1,4 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"PRT.MI"	"ESPRINET"	"si"	0	2025-10-31
 NA	"AMP.MI"	"AMPLIFON"	"si"	-1	2025-10-30
 NA	"BSS.MI"	"BIESSE"	"si"	-1	2025-10-29
 NA	"MARR.MI"	"MARR"	"si"	-1	2025-10-29
@@ -16,7 +17,6 @@ NA	"MB.MI"	"MEDIOBANCA"	"si"	-1	2025-10-16
 NA	"REY.MI"	"REPLY"	"si"	-1	2025-10-16
 NA	"CPR.MI"	"CAMPARI"	"si"	0	2025-10-16
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	1	2025-10-16
-NA	"PRT.MI"	"ESPRINET"	"si"	1	2025-10-16
 NA	"DAL.MI"	"DATALOGIC"	"si"	0	2025-10-10
 NA	"RACE.MI"	"FERRARI"	"si"	-1	2025-10-09
 -1	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-1	2025-10-09
