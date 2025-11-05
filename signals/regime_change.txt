@@ -33,7 +33,6 @@
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-09-19	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-09-02	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-08-27	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
@@ -55,10 +54,12 @@
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
+"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2025-06-17	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
@@ -72,7 +73,6 @@
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-02-19	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
-"I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2025-01-15	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-14	-1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-13	-1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1

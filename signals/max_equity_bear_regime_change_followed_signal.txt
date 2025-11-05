@@ -1,6 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "SALVATORE FERRAGAMO"	"SFER.MI"	2022-09-12	2025-10-27	"Consumer Non-Durables"	-1	2025-01-31
 "REPLY"	"REY.MI"	2025-10-10	2025-10-16	"Commercial Services"	-1	2025-10-10
-"NEXI"	"NEXI.MI"	2020-10-07	2025-09-10	"Finance"	-1	2025-04-23
 "DIASORIN"	"DIA.MI"	2025-06-23	2025-09-09	"Health Technology"	-1	2025-06-23
 "INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	-1	2025-04-04
