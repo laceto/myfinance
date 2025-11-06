@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-11-06	0
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-11-03	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-10-28	-1
@@ -8,7 +9,6 @@
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-10-22	1
 "RACING FORCE"	"RFG.MI"	"Producer Manufacturing"	NA	2025-10-22	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-10-22	-1
-"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-10-20	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-10-17	1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
@@ -18,13 +18,11 @@
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-14	1
-"CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2025-10-14	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-10-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-10-02	-1
-"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-09-30	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-09-26	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-09-25	-1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
@@ -38,6 +36,7 @@
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-08-19	1
+"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-14	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2025-08-07	-1
@@ -54,7 +53,6 @@
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
-"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2025-06-17	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
@@ -73,6 +71,7 @@
 "ANTARES VISION"	"AV.MI"	"Electronic Technology"	NA	2025-02-19	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-01-30	-1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
+"I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2025-01-15	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-14	-1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-13	-1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
