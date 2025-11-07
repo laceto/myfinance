@@ -1,17 +1,17 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-11-06	0
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-11-03	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-10-28	-1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-10-27	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-24	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-10-24	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-10-22	1
 "RACING FORCE"	"RFG.MI"	"Producer Manufacturing"	NA	2025-10-22	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-10-22	-1
+"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-10-20	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-10-17	1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
+"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-10-17	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-10-17	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
@@ -36,6 +36,7 @@
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-08-19	1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-08-18	-1
 "AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-14	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-08-12	1
@@ -53,10 +54,10 @@
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2025-06-18	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-06-18	1
+"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2025-06-17	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-05-23	1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
-"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
