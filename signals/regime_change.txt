@@ -1,9 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"CREDEM"	"CE.MI"	"Finance"	NA	2025-11-10	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-11-10	1
-"TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2025-11-10	1
+"CREDEM"	"CE.MI"	"Finance"	NA	2025-11-11	1
+"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-11	1
+"TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2025-11-11	1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-11-10	0
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-11-07	-1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-11-03	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-10-27	1
 "COFLE"	"CFL.MI"	"Producer Manufacturing"	NA	2025-10-24	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-24	1
@@ -14,7 +16,6 @@
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-10-17	1
-"WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-10-17	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
@@ -24,8 +25,6 @@
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-10-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2025-10-02	-1
-"DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-09-26	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-09-25	-1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-09-22	1
@@ -60,7 +59,6 @@
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
-"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
