@@ -1,10 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-11-14	1
+"RACING FORCE"	"RFG.MI"	"Producer Manufacturing"	NA	2025-11-14	1
+"SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2025-11-13	1
-"WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-13	1
-"EMAK"	"EM.MI"	"Consumer Durables"	NA	2025-11-12	1
-"JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-11-12	1
-"SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-12	1
-"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-11-12	-1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-11	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-11-07	-1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
@@ -17,11 +15,13 @@
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-10-17	1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
+"EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-10-17	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-14	1
+"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-10-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
@@ -31,8 +31,6 @@
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-09-22	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
-"NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-08-26	1
-"ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-08-19	1
@@ -62,7 +60,6 @@
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-03-31	1
-"PLC"	"PLC.MI"	"Industrial Services"	NA	2025-03-31	1
 "MUTUIONLINE"	"MOL.MI"	"Commercial Services"	NA	2025-03-20	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-03-20	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
