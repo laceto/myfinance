@@ -1,11 +1,14 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-18	1
+"SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2025-11-18	1
+"WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2025-11-18	0
+"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2025-11-17	1
+"CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-11-17	1
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-11-13	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2025-11-13	1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2025-11-12	1
-"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-11-12	-1
-"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-11	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-11-07	-1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-11-03	1
@@ -21,6 +24,7 @@
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
+"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
 "IT WAY"	"ITW.MI"	"Technology Services"	NA	2025-10-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
@@ -54,7 +58,6 @@
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
-"AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-07	-1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
@@ -90,7 +93,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
-"WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2024-01-17	1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
 "EVISO"	"EVISO.MI"	"Utilities"	NA	2023-10-19	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2023-09-26	-1
