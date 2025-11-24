@@ -1,6 +1,6 @@
 "ticker"	"name"	"date_last_swing_r"	"rh3"
 "ACE.MI"	"ACEA"	2025-11-21	11.12
-"SRG.MI"	"SNAM"	2025-11-21	2.78
+"SRG.MI"	"SNAM"	2025-11-21	2.79
 "ENEL.MI"	"ENEL"	2025-11-18	4.39
 "BRE.MI"	"BREMBO"	2025-11-07	4.88
 "TEN.MI"	"TENARIS"	2025-11-07	8.58
