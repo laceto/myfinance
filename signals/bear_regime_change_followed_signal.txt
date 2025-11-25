@@ -1,5 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
-"SNAM"	"SRG.MI"	2025-11-21	-1	2025-11-24	"rsma_50100150"	-1
 "TERNA"	"TRN.MI"	2025-10-22	-1	2025-11-21	"rsma_50100150"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-10-09	-1	2025-11-18	"rtt_5020"	-1
 "MONCLER"	"MONC.MI"	2025-08-18	-1	2025-11-07	"rsma_50100150"	-1
