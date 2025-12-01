@@ -1,5 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"A2A"	"A2A.MI"	"Utilities"	"si"	2025-11-28	0
+"A2A"	"A2A.MI"	"Utilities"	"si"	2025-12-01	-1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-27	1
 "DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-26	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-11-26	-1
@@ -16,19 +16,19 @@
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-11-13	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2025-11-13	1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-11-13	-1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2025-11-12	1
 "ELICA"	"ELC.MI"	"Consumer Durables"	NA	2025-11-12	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2025-11-10	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
+"CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-29	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-10-27	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-24	1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2025-10-22	-1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-20	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
-"CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-15	1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
@@ -41,7 +41,6 @@
 "LINDBERGH"	"LDB.MI"	"Transportation"	NA	2025-09-16	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-09-02	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
@@ -61,6 +60,7 @@
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2025-05-13	1
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-07	-1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-04-04	1

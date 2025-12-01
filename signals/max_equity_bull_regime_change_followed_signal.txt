@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"CAIRO COMMUNICATION"	"CAI.MI"	2025-11-14	2025-12-01	"Consumer Services"	1	2025-11-14
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-11-26	"Finance"	3	2025-10-06
 "ESAUTOMOTION"	"ESAU.MI"	2025-10-15	2025-11-19	"Producer Manufacturing"	1	2025-10-03
 "WEBUILD"	"WBD.MI"	2024-01-17	2025-11-19	"Industrial Services"	1	2025-11-12
@@ -12,12 +13,12 @@
 "CALTAGIRONE"	"CALT.MI"	2024-05-29	2025-09-19	"Non-Energy Minerals"	3	2025-08-14
 "LINDBERGH"	"LDB.MI"	2025-09-16	2025-09-18	"Transportation"	5	2025-08-21
 "EQUITA GROUP"	"EQUI.MI"	2025-03-31	2025-09-18	"Finance"	4	2025-07-09
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	2025-09-02	2025-09-17	"Consumer Non-Durables"	5	2025-06-09
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	2025-04-28	2025-09-17	"Consumer Non-Durables"	5	2025-06-09
 "COMER INDUSTRIES"	"COM.MI"	2025-07-24	2025-09-12	"Producer Manufacturing"	5	2025-09-04
 "PRYSMIAN"	"PRY.MI"	2025-07-31	2025-08-26	"Producer Manufacturing"	4	2025-11-21
 "SIT"	"SIT.MI"	2025-05-14	2025-08-06	"Producer Manufacturing"	5	2025-07-16
 "MAIRE"	"MAIRE.MI"	2024-11-06	2025-05-06	"Industrial Services"	3	2025-11-27
-"TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	4	2025-11-12
+"TINEXTA"	"TNXT.MI"	2025-04-11	2025-04-30	"Technology Services"	5	2025-11-12
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	-1	2025-11-26
 "RELATECH"	"RLT.MI"	2024-11-05	2024-11-11	"Technology Services"	3	2024-11-05
