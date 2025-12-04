@@ -1,6 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
 "ELICA"	"ELC.MI"	"Consumer Durables"	NA	2025-12-03	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-12-02	1
+"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-12-01	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-12-01	-1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-27	1
 "DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-26	1
@@ -33,7 +34,6 @@
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
-"ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-10-09	-1
@@ -60,7 +60,6 @@
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-06-20	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-06-19	-1
 "EDISON R"	"EDNR.MI"	"Utilities"	NA	2025-05-19	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
