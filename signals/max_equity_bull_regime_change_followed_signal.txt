@@ -1,7 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"CAIRO COMMUNICATION"	"CAI.MI"	2025-11-14	2025-12-08	"Consumer Services"	1	2025-11-14
 "ILPRA"	"ILP.MI"	2025-08-20	2025-12-03	"Producer Manufacturing"	5	2025-11-13
 "CAREL INDUSTRIES"	"CRL.MI"	2025-05-13	2025-12-03	"Producer Manufacturing"	1	2025-11-11
-"CAIRO COMMUNICATION"	"CAI.MI"	2025-11-14	2025-12-02	"Consumer Services"	1	2025-11-14
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-11-26	"Finance"	2	2025-10-06
 "WEBUILD"	"WBD.MI"	2024-01-17	2025-11-19	"Industrial Services"	1	2025-11-12
 "IREN"	"IRE.MI"	2025-04-04	2025-11-13	"Utilities"	2	2025-03-05

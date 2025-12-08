@@ -1,5 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"MEDIOBANCA"	"MB.MI"	2025-11-26	2025-11-27	"Finance"	-1	2025-05-12
+"MEDIOBANCA"	"MB.MI"	2025-10-02	2025-11-27	"Finance"	-1	2025-05-12
 "TENARIS"	"TEN.MI"	2025-01-14	2025-11-27	"Non-Energy Minerals"	-1	2025-11-07
 "TERNA"	"TRN.MI"	2025-11-13	2025-11-21	"Utilities"	-1	2025-10-22
 "JUVENTUS FC"	"JUVE.MI"	2020-07-24	2025-01-24	"Consumer Services"	-1	2025-05-19

@@ -1,7 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
-"MEDIOBANCA"	"MB.MI"	2025-11-26	-1	2025-11-27	"rtt_5020"	-1
 "TINEXTA"	"TNXT.MI"	2025-11-24	-1	2025-12-03	"rsma_50100150"	-1
 "TERNA"	"TRN.MI"	2025-11-13	-1	2025-11-21	"rsma_50100150"	-1
+"MEDIOBANCA"	"MB.MI"	2025-10-02	-1	2025-11-27	"rtt_5020"	-1
 "MONCLER"	"MONC.MI"	2025-08-18	-1	2025-11-26	"rema_50100150"	-1
 "MONCLER"	"MONC.MI"	2025-08-18	-1	2025-11-07	"rsma_50100150"	-1
 "FERRARI"	"RACE.MI"	2025-07-31	-1	2025-11-21	"rtt_5020"	-1

@@ -1,4 +1,5 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"ENEL.MI"	"ENEL"	"si"	0	2025-12-08
 NA	"DIA.MI"	"DIASORIN"	"si"	0	2025-12-05
 NA	"ACE.MI"	"ACEA"	"si"	1	2025-12-05
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	0	2025-12-04
@@ -18,7 +19,6 @@ NA	"TRN.MI"	"TERNA"	"si"	-1	2025-11-21
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	-1	2025-11-21
 NA	"RACE.MI"	"FERRARI"	"si"	-1	2025-11-21
 NA	"REY.MI"	"REPLY"	"si"	-1	2025-11-18
-NA	"ENEL.MI"	"ENEL"	"si"	1	2025-11-18
 NA	"DAL.MI"	"DATALOGIC"	"si"	-1	2025-11-17
 NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	-1	2025-11-05
 NA	"AMP.MI"	"AMPLIFON"	"si"	-1	2025-10-30
