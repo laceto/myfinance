@@ -3,6 +3,7 @@
 "ELICA"	"ELC.MI"	"Consumer Durables"	NA	2025-12-03	1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-12-03	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-12-02	1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-12-02	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-12-01	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-12-01	-1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-27	1
@@ -12,12 +13,12 @@
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-11-24	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-11-24	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-11-24	-1
-"TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2025-11-18	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-11-18	-1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2025-11-17	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-11-14	1
 "CAIRO COMMUNICATION"	"CAI.MI"	"Consumer Services"	NA	2025-11-14	1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
+"TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2025-11-13	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2025-11-13	-1
@@ -47,7 +48,6 @@
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-08-18	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-07-31	1
@@ -56,6 +56,7 @@
 "SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	2025-07-30	1
 "COMER INDUSTRIES"	"COM.MI"	"Producer Manufacturing"	NA	2025-07-24	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2025-07-23	-1
+"DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-07-02	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2025-07-02	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1

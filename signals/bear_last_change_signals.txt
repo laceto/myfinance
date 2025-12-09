@@ -1,16 +1,16 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"SRG.MI"	"SNAM"	"si"	0	2025-12-09
 NA	"ENEL.MI"	"ENEL"	"si"	0	2025-12-08
 NA	"DIA.MI"	"DIASORIN"	"si"	0	2025-12-05
 NA	"ACE.MI"	"ACEA"	"si"	1	2025-12-05
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	0	2025-12-04
 NA	"SFER.MI"	"SALVATORE FERRAGAMO"	"si"	3	2025-12-04
 NA	"TNXT.MI"	"TINEXTA"	"si"	1	2025-12-03
+-1	"MONC.MI"	"MONCLER"	"si"	-1	2025-12-02
 NA	"CPR.MI"	"CAMPARI"	"si"	1	2025-12-02
 -1	"A2A.MI"	"A2A"	"si"	-2	2025-12-01
-NA	"SRG.MI"	"SNAM"	"si"	1	2025-11-28
 NA	"TEN.MI"	"TENARIS"	"si"	-1	2025-11-27
 NA	"MB.MI"	"MEDIOBANCA"	"si"	-1	2025-11-27
-NA	"MONC.MI"	"MONCLER"	"si"	-1	2025-11-26
 NA	"BSS.MI"	"BIESSE"	"si"	0	2025-11-26
 NA	"ENAV.MI"	"ENAV"	"si"	3	2025-11-26
 NA	"HER.MI"	"HERA"	"si"	-1	2025-11-24
