@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"PLC"	"PLC.MI"	"Industrial Services"	NA	2025-12-10	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-12-05	1
 "ELICA"	"ELC.MI"	"Consumer Durables"	NA	2025-12-03	1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2025-12-03	1
@@ -13,6 +14,7 @@
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-11-24	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2025-11-24	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-11-24	-1
+"TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2025-11-18	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-11-18	-1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2025-11-17	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-11-14	1
@@ -29,7 +31,6 @@
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-29	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2025-10-27	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-10-24	1
-"BFF BANK"	"BFF.MI"	"Finance"	NA	2025-10-17	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1

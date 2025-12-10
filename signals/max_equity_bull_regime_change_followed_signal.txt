@@ -1,6 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "CAIRO COMMUNICATION"	"CAI.MI"	2025-11-14	2025-12-08	"Consumer Services"	1	2025-11-14
-"ILPRA"	"ILP.MI"	2025-08-20	2025-12-03	"Producer Manufacturing"	5	2025-11-13
 "CAREL INDUSTRIES"	"CRL.MI"	2025-05-13	2025-12-03	"Producer Manufacturing"	3	2025-11-11
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-11-26	"Finance"	2	2025-10-06
 "WEBUILD"	"WBD.MI"	2024-01-17	2025-11-19	"Industrial Services"	1	2025-11-12
@@ -17,7 +16,6 @@
 "SIT"	"SIT.MI"	2025-05-14	2025-08-06	"Producer Manufacturing"	5	2025-07-16
 "MAIRE"	"MAIRE.MI"	2024-11-06	2025-05-06	"Industrial Services"	3	2025-11-27
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
-"AVIO"	"AVIO.MI"	2024-11-01	2025-01-24	"Electronic Technology"	-1	2025-11-26
 "RELATECH"	"RLT.MI"	2024-11-05	2024-11-11	"Technology Services"	3	2024-11-05
 "UNIPOL"	"UNI.MI"	2024-02-15	2024-02-16	"Finance"	5	2025-09-03
 "BPER BANCA"	"BPE.MI"	2022-06-08	2022-09-20	"Finance"	5	2025-07-11
