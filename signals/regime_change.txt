@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-12-17	1
+"FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-12-17	-1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2025-12-16	1
 "TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2025-12-16	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-12-15	1
@@ -48,7 +50,6 @@
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
-"FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-08-20	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2025-08-19	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
@@ -68,7 +69,6 @@
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-04-28	1
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-04-07	-1
 "EQUITA GROUP"	"EQUI.MI"	"Finance"	NA	2025-03-31	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-03-06	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
