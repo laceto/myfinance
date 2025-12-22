@@ -1,5 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"MEDIOBANCA"	"MB.MI"	2025-10-02	2025-11-27	"Finance"	-1	2025-05-12
 "TENARIS"	"TEN.MI"	2025-01-14	2025-11-27	"Non-Energy Minerals"	-2	2025-11-07
 "TERNA"	"TRN.MI"	2025-11-13	2025-11-21	"Utilities"	-2	2025-10-22
 "REPLY"	"REY.MI"	2025-10-10	2025-11-18	"Commercial Services"	-1	2025-10-10
