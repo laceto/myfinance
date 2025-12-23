@@ -102,8 +102,7 @@ split_transactions <- df %>%
   dplyr::bind_rows()
 
 
-# split_transactions <- split_transactions_by_cumulative_quantity(df)
-# split_transactions
+split_transactions %>% View()
 
 split_transactions %>% 
   # dplyr::filter(stringr::str_detect(name, 'MONCL')) %>% 
