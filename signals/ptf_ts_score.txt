@@ -1,29 +1,29 @@
-"sector"	"name"	"ticker"	"2025-12-22"	"2025-12-19"	"2025-12-18"	"2025-12-17"	"2025-12-16"
-"Utilities"	"ACEA"	"ACE.MI"	0	1	1	1	1
-"Electronic Technology"	"ANTARES VISION"	"AV.MI"	1	1	4	4	3
-"Electronic Technology"	"AVIO"	"AVIO.MI"	-2	-2	-3	-3	-3
+"sector"	"name"	"ticker"	"2025-12-23"	"2025-12-22"	"2025-12-19"	"2025-12-18"	"2025-12-17"
+"Utilities"	"ACEA"	"ACE.MI"	0	0	1	1	1
+"Electronic Technology"	"ANTARES VISION"	"AV.MI"	1	1	1	4	4
+"Electronic Technology"	"AVIO"	"AVIO.MI"	-2	-2	-2	-3	-3
 "Finance"	"AZIMUT"	"AZM.MI"	4	4	4	4	4
-"Finance"	"BANCO BPM"	"BAMI.MI"	5	5	4	4	4
+"Finance"	"BANCO BPM"	"BAMI.MI"	5	5	5	4	4
 "Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	2	2	2	2	2
 "Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-1	-1	-1	-1	-1
 "Electronic Technology"	"CEMBRE"	"CMB.MI"	5	5	5	5	5
-"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	0	1	1	1	1
+"Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	0	0	1	1	1
 "Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	1	1	1	1	1
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
 "Transportation"	"ENAV"	"ENAV.MI"	3	3	3	3	3
-"Utilities"	"ENEL"	"ENEL.MI"	2	2	0	0	0
-"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	-3	-3	-3	-3	3
-"Finance"	"GENERALI ASS"	"G.MI"	1	1	1	1	1
+"Utilities"	"ENEL"	"ENEL.MI"	2	2	2	0	0
+"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	-3	-3	-3	-3	-3
+"Finance"	"GENERALI ASS"	"G.MI"	-1	1	1	1	1
 "Utilities"	"HERA"	"HER.MI"	-2	-2	-2	-2	-2
 "Utilities"	"ITALGAS"	"IG.MI"	4	4	4	4	4
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
 "Consumer Durables"	"IVECO GROUP"	"IVG.MI"	1	1	1	1	1
-"Industrial Services"	"MAIRE"	"MAIRE.MI"	3	3	3	3	3
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	4	3	3	3	3
 "Consumer Non-Durables"	"MONCLER"	"MONC.MI"	-1	-1	-1	-1	-1
 "Finance"	"NEXI"	"NEXI.MI"	0	0	0	0	0
 "Industrial Services"	"PLC"	"PLC.MI"	-4	-4	-4	-4	-4
-"Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	5	4	4
+"Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	5	5	4
 "Commercial Services"	"REPLY"	"REY.MI"	-1	-1	-1	-1	-1
 "Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	3	3	3	3	3
 "Consumer Durables"	"STELLANTIS"	"STLAM.MI"	-1	-1	-1	-1	-1
