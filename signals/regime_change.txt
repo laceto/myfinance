@@ -1,9 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ACINQUE"	"AC5.MI"	"Utilities"	NA	2025-12-29	1
+"ELES"	"ELES.MI"	"Commercial Services"	NA	2025-12-29	1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2025-12-23	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-12-22	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-12-22	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-12-19	1
-"SERI INDUSTRIAL"	"SERI.MI"	"Utilities"	NA	2025-12-19	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-12-18	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-12-18	1
 "TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2025-12-16	1
@@ -35,7 +36,6 @@
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2025-11-10	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-29	1
-"ELES"	"ELES.MI"	"Commercial Services"	NA	2025-10-27	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
