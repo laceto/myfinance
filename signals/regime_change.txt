@@ -1,15 +1,16 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ACINQUE"	"AC5.MI"	"Utilities"	NA	2025-12-29	1
-"ELES"	"ELES.MI"	"Commercial Services"	NA	2025-12-29	1
+"ELES"	"ELES.MI"	"Commercial Services"	NA	2025-12-30	1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2025-12-23	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-12-22	1
 "UCAPITAL24"	"U24.MI"	"Technology Services"	NA	2025-12-22	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-12-19	1
+"SERI INDUSTRIAL"	"SERI.MI"	"Utilities"	NA	2025-12-19	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2025-12-18	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-12-18	1
 "TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2025-12-16	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-12-15	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2025-12-11	1
+NA	"LLY.DE"	NA	NA	2025-12-11	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-12-05	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2025-12-04	1
 "ELICA"	"ELC.MI"	"Consumer Durables"	NA	2025-12-03	1
@@ -19,7 +20,6 @@
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2025-12-01	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-12-01	-1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2025-11-27	1
-"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-11-26	1
 "DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-26	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2025-11-25	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2025-11-24	1
@@ -36,13 +36,14 @@
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2025-11-10	1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-10-29	1
+"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2025-10-17	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2025-10-10	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-10-10	-1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
-"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-09-30	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-09-26	-1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
@@ -54,10 +55,10 @@
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2025-08-20	1
+"AZIMUT"	"AZM.MI"	"Finance"	NA	2025-08-14	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2025-08-14	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-07-31	1
-"FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-07-31	-1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2025-07-30	1
 "SOGEFI"	"SGF.MI"	"Producer Manufacturing"	NA	2025-07-30	1
 "COMER INDUSTRIES"	"COM.MI"	"Producer Manufacturing"	NA	2025-07-24	1
@@ -77,12 +78,12 @@
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
 "I GRANDI VIAGGI"	"IGV.MI"	"Consumer Services"	NA	2025-01-15	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2025-01-14	-1
+"FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-13	-1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2024-11-07	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2024-11-01	1
