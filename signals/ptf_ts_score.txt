@@ -14,7 +14,7 @@
 "Transportation"	"ENAV"	"ENAV.MI"	3	3	3	3	3
 "Utilities"	"ENEL"	"ENEL.MI"	2	2	2	2	2
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	-3	-3	-3	-3	-3
-"Finance"	"GENERALI ASS"	"G.MI"	-3	-1	-1	1	1
+"Finance"	"GENERALI ASS"	"G.MI"	-1	-1	-1	1	1
 "Utilities"	"HERA"	"HER.MI"	-2	-2	-2	-2	-2
 "Utilities"	"ITALGAS"	"IG.MI"	4	4	4	4	4
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
