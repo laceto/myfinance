@@ -1,8 +1,8 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"LDO.MI"	"LEONARDO"	"si"	-1	2026-01-05
 NA	"TEN.MI"	"TENARIS"	"si"	0	2026-01-02
 NA	"MB.MI"	"MEDIOBANCA"	"si"	1	2026-01-02
 NA	"MONC.MI"	"MONCLER"	"si"	-2	2025-12-29
-NA	"LDO.MI"	"LEONARDO"	"si"	-2	2025-12-23
 NA	"CPR.MI"	"CAMPARI"	"si"	0	2025-12-22
 NA	"ACE.MI"	"ACEA"	"si"	0	2025-12-22
 NA	"DAL.MI"	"DATALOGIC"	"si"	0	2025-12-22

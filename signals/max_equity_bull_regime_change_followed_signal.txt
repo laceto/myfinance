@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"SIT"	"SIT.MI"	2025-05-14	2026-01-05	"Producer Manufacturing"	5	2025-07-16
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	2025-10-15	2026-01-02	"Health Technology"	5	2025-05-20
 "NEODECORTECH"	"NDT.MI"	2025-11-14	2025-12-23	"Process Industries"	5	2025-11-10
 "INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-12-15	"Finance"	5	2025-07-14
