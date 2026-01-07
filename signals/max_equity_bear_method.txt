@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"TNXT.MI"	"TINEXTA"	2026-01-05	"rbo_100"	-1
 "MB.MI"	"MEDIOBANCA"	2026-01-02	"rtt_5020"	1
 "JUVE.MI"	"JUVENTUS FC"	2025-12-22	"rtt_5020"	1
 "BC.MI"	"BRUNELLO CUCINELLI"	2025-12-18	"rrg"	-1
