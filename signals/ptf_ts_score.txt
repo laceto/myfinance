@@ -1,33 +1,33 @@
-"sector"	"name"	"ticker"	"2026-01-09"	"2026-01-08"	"2026-01-07"	"2026-01-06"	"2026-01-05"
-"Utilities"	"ACEA"	"ACE.MI"	1	1	1	-2	0
-"Electronic Technology"	"ANTARES VISION"	"AV.MI"	-1	-1	-1	-1	-1
+"sector"	"name"	"ticker"	"2026-01-12"	"2026-01-09"	"2026-01-08"	"2026-01-07"	"2026-01-06"
+"Utilities"	"ACEA"	"ACE.MI"	1	1	1	1	-2
+"Electronic Technology"	"ANTARES VISION"	"AV.MI"	-3	-1	-1	-1	-1
 "Electronic Technology"	"AVIO"	"AVIO.MI"	-2	-2	-2	-2	-2
 "Finance"	"AZIMUT"	"AZM.MI"	5	5	5	5	5
 "Finance"	"BANCO BPM"	"BAMI.MI"	3	3	3	3	3
 "Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	3	3	3	3	3
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	1	-1	-1	-1	-1
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	1	1	-1	-1	-1
 "Electronic Technology"	"CEMBRE"	"CMB.MI"	5	5	5	5	5
 "Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	0	0	0	0	0
-"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	-1	-1	-1	1	1
+"Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	-1	-1	-1	-1	1
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
 "Transportation"	"ENAV"	"ENAV.MI"	3	3	3	3	3
 "Utilities"	"ENEL"	"ENEL.MI"	3	3	3	3	3
-"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	-2	-2	-2	-3	-3
-"Finance"	"GENERALI ASS"	"G.MI"	1	1	1	-3	-3
-"Utilities"	"HERA"	"HER.MI"	-1	-1	-1	-2	-2
-"Utilities"	"ITALGAS"	"IG.MI"	5	5	5	5	4
+"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	-2	-2	-2	-2	-3
+"Finance"	"GENERALI ASS"	"G.MI"	1	1	1	1	-3
+"Utilities"	"HERA"	"HER.MI"	-1	-1	-1	-1	-2
+"Utilities"	"ITALGAS"	"IG.MI"	5	5	5	5	5
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
-"Consumer Durables"	"IVECO GROUP"	"IVG.MI"	1	1	1	1	1
-"Industrial Services"	"MAIRE"	"MAIRE.MI"	4	4	4	4	4
-"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	0	0	-2	-2	-2
-"Finance"	"NEXI"	"NEXI.MI"	0	0	0	0	0
-"Industrial Services"	"PLC"	"PLC.MI"	-2	-2	-2	-4	-4
+"Consumer Durables"	"IVECO GROUP"	"IVG.MI"	-1	1	1	1	1
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	2	4	4	4	4
+"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	2	0	0	-2	-2
+"Finance"	"NEXI"	"NEXI.MI"	-1	0	0	0	0
+"Industrial Services"	"PLC"	"PLC.MI"	-2	-2	-2	-2	-4
 "Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	5	5	5
-"Commercial Services"	"REPLY"	"REY.MI"	0	0	-1	-1	-1
+"Commercial Services"	"REPLY"	"REY.MI"	0	0	0	-1	-1
 "Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	3	3	3	3	3
-"Consumer Durables"	"STELLANTIS"	"STLAM.MI"	0	-2	-2	-1	-1
+"Consumer Durables"	"STELLANTIS"	"STLAM.MI"	0	0	-2	-2	-1
 NA	NA	"STMMI.MI"	0	0	0	0	0
 "Technology Services"	"TINEXTA"	"TNXT.MI"	1	1	1	1	1
-"Utilities"	"TERNA"	"TRN.MI"	-1	-1	-1	-1	-2
-"Industrial Services"	"WEBUILD"	"WBD.MI"	3	3	3	3	2
+"Utilities"	"TERNA"	"TRN.MI"	-1	-1	-1	-1	-1
+"Industrial Services"	"WEBUILD"	"WBD.MI"	3	3	3	3	3

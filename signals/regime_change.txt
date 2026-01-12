@@ -1,5 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"IT WAY"	"ITW.MI"	"Technology Services"	NA	2026-01-07	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-01-12	1
+"EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-01-07	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2026-01-05	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-01-05	1
 "TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2026-01-05	1
@@ -32,7 +33,6 @@ NA	"LLY.DE"	NA	NA	2025-12-11	1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2025-11-13	1
-"EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2025-11-12	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2025-11-10	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2025-11-07	-1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2025-11-03	1

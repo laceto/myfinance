@@ -1,2 +1,2 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"TENARIS"	"TEN.MI"	2025-01-14	2025-11-27	"Non-Energy Minerals"	0	2025-11-07
+"TENARIS"	"TEN.MI"	2025-01-14	2025-11-27	"Non-Energy Minerals"	0	2025-11-19
