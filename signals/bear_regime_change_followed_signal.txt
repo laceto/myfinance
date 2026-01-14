@@ -1,5 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
-"LEONARDO"	"LDO.MI"	2025-10-10	-1	2025-11-25	"rema_50100150"	-1
+"LEONARDO"	"LDO.MI"	2025-10-10	-1	2026-01-14	"rsma_50100150"	-1
 "TENARIS"	"TEN.MI"	2025-01-14	-1	2025-11-27	"rsma_50100150"	-1
 "FERRARI"	"RACE.MI"	2025-01-13	-1	2025-11-21	"rtt_5020"	-1
 "INWIT"	"INW.MI"	2023-07-20	-1	2025-09-02	"rtt_5020"	-1
