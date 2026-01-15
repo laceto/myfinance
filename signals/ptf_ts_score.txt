@@ -1,32 +1,32 @@
-"sector"	"name"	"ticker"	"2026-01-14"	"2026-01-13"	"2026-01-12"	"2026-01-09"	"2026-01-08"
+"sector"	"name"	"ticker"	"2026-01-15"	"2026-01-14"	"2026-01-13"	"2026-01-12"	"2026-01-09"
 "Utilities"	"ACEA"	"ACE.MI"	1	1	1	1	1
-"Electronic Technology"	"ANTARES VISION"	"AV.MI"	-3	-3	-3	-1	-1
-"Electronic Technology"	"AVIO"	"AVIO.MI"	-2	-2	-2	-2	-2
+"Electronic Technology"	"ANTARES VISION"	"AV.MI"	-3	-3	-3	-3	-1
+"Electronic Technology"	"AVIO"	"AVIO.MI"	-1	-2	-2	-2	-2
 "Finance"	"AZIMUT"	"AZM.MI"	5	5	5	5	5
 "Finance"	"BANCO BPM"	"BAMI.MI"	3	3	3	3	3
 "Finance"	"BCA POP SONDRIO"	"BPSO.MI"	5	5	5	5	5
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	3	3	3	3	3
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	1	1	1	1	-1
-"Electronic Technology"	"CEMBRE"	"CMB.MI"	4	4	5	5	5
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	1	1	1	1	1
+"Electronic Technology"	"CEMBRE"	"CMB.MI"	2	4	4	5	5
 "Consumer Non-Durables"	"CAMPARI"	"CPR.MI"	0	0	0	0	0
 "Producer Manufacturing"	"CAREL INDUSTRIES"	"CRL.MI"	-1	-1	-1	-1	-1
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	5	5	5	5	5
 "Transportation"	"ENAV"	"ENAV.MI"	3	3	3	3	3
-"Utilities"	"ENEL"	"ENEL.MI"	5	5	3	3	3
+"Utilities"	"ENEL"	"ENEL.MI"	5	5	5	3	3
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	-2	-2	-2	-2	-2
 "Finance"	"GENERALI ASS"	"G.MI"	-1	1	1	1	1
 "Utilities"	"HERA"	"HER.MI"	-1	-1	-1	-1	-1
 "Utilities"	"ITALGAS"	"IG.MI"	5	5	5	5	5
 "Communications"	"INWIT"	"INW.MI"	-1	-1	-1	-1	-1
-"Consumer Durables"	"IVECO GROUP"	"IVG.MI"	-1	-1	-1	1	1
-"Industrial Services"	"MAIRE"	"MAIRE.MI"	2	2	2	4	4
-"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	2	2	2	0	0
-"Finance"	"NEXI"	"NEXI.MI"	-1	-1	-1	0	0
-"Industrial Services"	"PLC"	"PLC.MI"	1	-1	-2	-2	-2
+"Consumer Durables"	"IVECO GROUP"	"IVG.MI"	-1	-1	-1	-1	1
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	2	2	2	2	4
+"Consumer Non-Durables"	"MONCLER"	"MONC.MI"	1	2	2	2	0
+"Finance"	"NEXI"	"NEXI.MI"	-1	-1	-1	-1	0
+"Industrial Services"	"PLC"	"PLC.MI"	3	1	-1	-2	-2
 "Finance"	"POSTE ITALIANE"	"PST.MI"	5	5	5	5	5
 "Commercial Services"	"REPLY"	"REY.MI"	0	0	0	0	0
-"Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	2	3	3	3	3
-"Consumer Durables"	"STELLANTIS"	"STLAM.MI"	2	0	0	0	-2
+"Consumer Non-Durables"	"SALVATORE FERRAGAMO"	"SFER.MI"	2	2	3	3	3
+"Consumer Durables"	"STELLANTIS"	"STLAM.MI"	2	2	0	0	0
 NA	NA	"STMMI.MI"	0	0	0	0	0
 "Technology Services"	"TINEXTA"	"TNXT.MI"	1	1	1	1	1
 "Utilities"	"TERNA"	"TRN.MI"	-1	-1	-1	-1	-1

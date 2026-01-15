@@ -1,10 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"PLC"	"PLC.MI"	"Industrial Services"	NA	2026-01-15	1
+"PORTOBELLO"	"POR.MI"	"Commercial Services"	NA	2026-01-15	1
+"TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2026-01-15	1
+"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-15	0
 "CONVERGENZE"	"CVG.MI"	"Communications"	NA	2026-01-14	1
-"TECMA SOLUTIONS"	"TCM.MI"	"Technology Services"	NA	2026-01-14	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-01-14	1
 "TRAWELL CO"	"TWL.MI"	"Transportation"	NA	2026-01-14	1
-"SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-14	-1
-"PORTOBELLO"	"POR.MI"	"Commercial Services"	NA	2026-01-13	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-01-13	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-01-12	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-01-07	1
@@ -23,7 +23,7 @@
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-12-18	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-12-18	-1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2025-12-15	1
-NA	"LLY.DE"	NA	NA	2025-12-11	1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2025-12-05	1
 "SECO"	"IOT.MI"	"Electronic Technology"	NA	2025-12-02	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2025-12-02	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-12-02	-1
@@ -44,7 +44,6 @@ NA	"LLY.DE"	NA	NA	2025-12-11	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2025-10-16	1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
-"TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2025-10-15	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2025-10-10	-1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-10-02	-1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
@@ -120,3 +119,4 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "JUVENTUS FC"	"JUVE.MI"	"Consumer Services"	"si"	2020-07-24	-1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2020-03-12	1
 "DATALOGIC"	"DAL.MI"	"Electronic Technology"	"si"	2019-01-28	-1
+"TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2016-08-19	0
