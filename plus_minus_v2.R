@@ -1,3 +1,5 @@
+library(tidyverse)
+
 load_data <- function(){
   files_stocks <- list.files("data_proc", full.names = T)
   
@@ -242,7 +244,7 @@ trade_type <- split_transactions %>%
     op_date = operazione
   )
 
-ticker_name <- 'A2A.MI'
+ticker_name <- 'BMED.MI'
 
 trades_ticker <- split_transactions %>% 
   transactions_per_ticker(ticker = ticker_name) %>% 
@@ -252,4 +254,27 @@ trades_ticker <- split_transactions %>%
 prezzi <- output_signal %>% 
   get_closing_per_ticker(ticker_name = ticker_name, min_date =  as.Date('2023-01-02'), max_date =  as.Date('2025-12-25'))
 
-get_stuff(trades = trades_ticker, prezzi = prezzi)
+a <- get_stuff(trades = trades_ticker, prezzi = prezzi)
+
+ticker_name <- 'BPE.MI'
+
+trades_ticker <- split_transactions %>% 
+  transactions_per_ticker(ticker = ticker_name) %>% 
+  dplyr::left_join(trade_type, join_by(name, op_date)) %>% 
+  fill(trade_type, .direction = 'down')
+
+prezzi <- output_signal %>% 
+  get_closing_per_ticker(ticker_name = ticker_name, min_date =  as.Date('2023-01-02'), max_date =  as.Date('2025-12-25'))
+
+b <- get_stuff(trades = trades_ticker, prezzi = prezzi)
+
+a %>% 
+  dplyr::bind_rows(b) %>% 
+  dplyr::arrange(op_date) %>% 
+  dplyr::group_by(op_date) %>% 
+  dplyr::summarise(
+    cum_quantita = sum(cum_quantita),
+    cum_cash = sum(cum_cash),
+    mtm_value = sum(mtm_value),
+    portfolio_value = sum(portfolio_value),
+  ) %>% view()
