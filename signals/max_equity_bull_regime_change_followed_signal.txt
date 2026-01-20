@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"ERG"	"ERG.MI"	2025-08-14	2026-01-20	"Utilities"	3	2025-12-19
 "ANTARES VISION"	"AV.MI"	2025-02-19	2026-01-19	"Electronic Technology"	-1	2026-01-15
 "CULTI MILANO"	"CULT.MI"	2025-12-22	2026-01-14	"Consumer Non-Durables"	3	2025-11-25
 "CIRCLE"	"CIRC.MI"	2025-09-04	2026-01-13	"Commercial Services"	2	2025-11-24
@@ -6,8 +7,7 @@
 "SIT"	"SIT.MI"	2025-05-14	2026-01-05	"Producer Manufacturing"	5	2025-07-16
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	2025-10-15	2026-01-02	"Health Technology"	5	2025-05-20
 "NEODECORTECH"	"NDT.MI"	2025-11-14	2025-12-23	"Process Industries"	5	2025-11-10
-"INTESA SANPAOLO"	"ISP.MI"	2023-06-01	2025-12-15	"Finance"	5	2025-07-14
-"SOL"	"SOL.MI"	2020-03-12	2025-12-15	"Process Industries"	3	2026-01-05
+"SOL"	"SOL.MI"	2020-03-12	2025-12-15	"Process Industries"	2	2026-01-05
 "CAIRO COMMUNICATION"	"CAI.MI"	2025-11-14	2025-12-08	"Consumer Services"	2	2025-11-14
 "FINECOBANK"	"FBK.MI"	2024-07-02	2025-11-26	"Finance"	5	2025-10-06
 "BREMBO"	"BRE.MI"	2025-10-16	2025-11-19	"Producer Manufacturing"	3	2025-11-21
@@ -24,6 +24,6 @@
 "MAIRE"	"MAIRE.MI"	2024-11-06	2025-05-06	"Industrial Services"	3	2025-11-27
 "PIOVAN"	"PVN.MI"	2024-05-14	2025-03-07	"Producer Manufacturing"	3	2024-05-14
 "RELATECH"	"RLT.MI"	2024-11-05	2024-11-11	"Technology Services"	3	2024-11-05
-"UNIPOL"	"UNI.MI"	2024-02-15	2024-02-16	"Finance"	5	2025-09-03
+"UNIPOL"	"UNI.MI"	2024-02-15	2024-02-16	"Finance"	4	2025-09-03
 "BPER BANCA"	"BPE.MI"	2022-06-08	2022-09-20	"Finance"	5	2025-07-11
 "UNICREDIT"	"UCG.MI"	2022-07-15	2022-09-09	"Finance"	5	2025-10-24
