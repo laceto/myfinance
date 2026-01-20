@@ -108,7 +108,6 @@ SL <- readr::read_delim('signals/stop_loss.txt') %>%
   dplyr::select(ticker, lo3, hi3) %>% 
   dplyr::semi_join(port)
 
-
 port %>% 
   dplyr::mutate(
     ticker = dplyr::if_else(ticker == 'NOVC.FRA', 'NOV.DE', ticker)
