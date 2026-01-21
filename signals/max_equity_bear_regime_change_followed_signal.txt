@@ -1,3 +1,12 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"REPLY"	"REY.MI"	2025-12-10	2026-01-19	"Commercial Services"	-1	2025-12-10
-"TENARIS"	"TEN.MI"	2025-01-14	2025-11-27	"Non-Energy Minerals"	-1	2025-11-19
+"MONCLER"	"MONC.MI"	2025-12-02	2026-01-21	"Consumer Non-Durables"	-1	2025-12-02
+"HERA"	"HER.MI"	2022-05-10	2025-07-30	"Utilities"	-1	2025-04-04
+"JUVENTUS FC"	"JUVE.MI"	2020-07-24	2025-01-24	"Consumer Services"	1	2025-05-19
+"NEXI"	"NEXI.MI"	2020-10-07	2024-11-14	"Finance"	-1	2025-04-23
+"DATALOGIC"	"DAL.MI"	2019-01-28	2024-11-14	"Electronic Technology"	-1	2025-10-24
+"INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	-1	2025-04-04
+"MARR"	"MARR.MI"	2021-10-06	2024-08-05	"Distribution Services"	0	2025-10-10
+"AMPLIFON"	"AMP.MI"	2023-06-26	2024-07-10	"Distribution Services"	-1	2025-06-26
+"UNIPOLSAI"	"US.MI"	2022-07-06	2024-05-20	"Finance"	-2	2024-02-16
+"CAMPARI"	"CPR.MI"	2023-06-20	2023-09-12	"Consumer Non-Durables"	1	2025-08-01
+"BIESSE"	"BSS.MI"	2021-09-15	2023-04-11	"Producer Manufacturing"	-1	2025-12-12
