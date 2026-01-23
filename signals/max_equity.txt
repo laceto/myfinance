@@ -309,6 +309,7 @@
 "TNX.MI"	"rbo_100"	NA
 "TNXT.MI"	"rbo_100"	NA
 "TOD.MI"	"rbo_100"	NA
+"TPRO.MI"	"rbo_100"	NA
 "TPS.MI"	"rbo_100"	NA
 "TRN.MI"	"rbo_100"	NA
 "TSL.MI"	"rbo_100"	NA
