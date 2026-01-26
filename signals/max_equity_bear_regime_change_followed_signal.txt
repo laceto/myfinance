@@ -1,5 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"MONCLER"	"MONC.MI"	2025-12-02	2026-01-23	"Consumer Non-Durables"	-1	2025-12-02
 "HERA"	"HER.MI"	2022-05-10	2025-07-30	"Utilities"	-1	2025-04-04
 "JUVENTUS FC"	"JUVE.MI"	2020-07-24	2025-01-24	"Consumer Services"	1	2025-05-19
 "NEXI"	"NEXI.MI"	2020-10-07	2024-11-14	"Finance"	-1	2025-04-23
