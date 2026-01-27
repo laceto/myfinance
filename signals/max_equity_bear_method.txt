@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"LDO.MI"	"LEONARDO"	2026-01-08	"rbo_100"	1
 "BGN.MI"	"BANCA GENERALI"	2025-11-24	"rbo_100"	1
 "ACE.MI"	"ACEA"	2025-11-19	"rbo_100"	1
 "MONC.MI"	"MONCLER"	2025-11-07	"rbo_100"	1
