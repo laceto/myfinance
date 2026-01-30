@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"BANCA SISTEMA"	"BST.MI"	"Finance"	NA	2026-01-30	1
+"SERI INDUSTRIAL"	"SERI.MI"	"Utilities"	NA	2026-01-30	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2026-01-29	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-01-28	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-01-28	1
