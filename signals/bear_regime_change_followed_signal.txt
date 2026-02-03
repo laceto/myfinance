@@ -1,4 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
+"FINCANTIERI"	"FCT.MI"	2025-12-17	-1	2026-01-29	"rtt_5020"	-1
+"FINCANTIERI"	"FCT.MI"	2025-12-17	-1	2025-12-18	"rsma_50100150"	-1
 "REPLY"	"REY.MI"	2025-12-10	-1	2026-01-19	"rtt_5020"	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	2025-09-23	-1	2026-01-19	"rtt_5020"	-1
 "MONCLER"	"MONC.MI"	2025-02-14	-1	2026-01-27	"rbo_100"	-1
