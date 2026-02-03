@@ -1,4 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"MARR.MI"	"MARR"	"si"	0	2026-02-03
+NA	"TEN.MI"	"TENARIS"	"si"	1	2026-02-03
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	3	2026-01-30
 NA	"FCT.MI"	"FINCANTIERI"	"si"	-5	2026-01-29
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	0	2026-01-28
@@ -6,9 +8,7 @@ NA	"MONC.MI"	"MONCLER"	"si"	-1	2026-01-27
 -1	"LDO.MI"	"LEONARDO"	"si"	1	2026-01-27
 -1	"BGN.MI"	"BANCA GENERALI"	"si"	2	2026-01-26
 NA	"TRN.MI"	"TERNA"	"si"	1	2026-01-23
-NA	"MARR.MI"	"MARR"	"si"	1	2026-01-23
 NA	"CPR.MI"	"CAMPARI"	"si"	1	2026-01-20
-NA	"TEN.MI"	"TENARIS"	"si"	-1	2026-01-19
 NA	"AMP.MI"	"AMPLIFON"	"si"	-1	2026-01-19
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-1	2026-01-19
 NA	"REY.MI"	"REPLY"	"si"	-1	2026-01-19
