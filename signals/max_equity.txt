@@ -262,6 +262,7 @@
 "RETI.MI"	"rbo_100"	NA
 "REY.MI"	"rbo_100"	NA
 "RFG.MI"	"rbo_100"	NA
+"RKT.MI"	"rbo_100"	NA
 "RLT.MI"	"rbo_100"	NA
 "RWAY.MI"	"rbo_100"	NA
 "S24.MI"	"rbo_100"	NA
