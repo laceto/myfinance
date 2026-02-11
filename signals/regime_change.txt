@@ -1,11 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"DATRIX"	"DATA.MI"	"Technology Services"	NA	2026-02-10	1
-"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-02-09	1
+"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-02-11	1
+"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-02-11	1
+"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-10	1
 "GABETTI"	"GAB.MI"	"Finance"	NA	2026-02-09	1
 "INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2026-02-09	1
 "RACING FORCE"	"RFG.MI"	"Producer Manufacturing"	NA	2026-02-09	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-02-09	1
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-05	1
 "DIGITAL BROS"	"DIB.MI"	"Technology Services"	NA	2026-02-04	1
 NA	"LLY.DE"	NA	NA	2026-02-04	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-02-03	-1
@@ -30,16 +30,15 @@ NA	"LLY.DE"	NA	NA	2026-02-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-01-05	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-01-05	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-01-05	-1
-"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-01-02	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-12-22	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-12-19	1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-12-18	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-12-17	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-12-10	-1
 "DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-12-02	1
 "TECHNOPROBE"	"TPRO.MI"	"Electronic Technology"	NA	2025-11-28	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2025-11-25	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2025-11-24	0
-"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2025-11-20	-1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1

@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"CPR.MI"	"CAMPARI"	2026-02-11	"rbo_100"	1
 "ANIM.MI"	"ANIMA HOLDING"	2026-02-05	"rbo_100"	1
 "MONC.MI"	"MONCLER"	2026-01-27	"rbo_100"	-1
 "LDO.MI"	"LEONARDO"	2026-01-08	"rbo_100"	1
@@ -7,7 +8,6 @@
 "TEN.MI"	"TENARIS"	2025-11-07	"rbo_100"	1
 "IRE.MI"	"IREN"	2025-10-31	"rbo_100"	-1
 "ENAV.MI"	"ENAV"	2025-10-15	"rbo_100"	1
-"MB.MI"	"MEDIOBANCA"	2025-09-25	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2025-08-14	"rbo_100"	-1
 "IP.MI"	"INTERPUMP GROUP"	2025-08-07	"rbo_100"	1
 "HER.MI"	"HERA"	2025-07-30	"rbo_100"	-1
@@ -23,5 +23,4 @@
 "MARR.MI"	"MARR"	2024-08-05	"rbo_100"	-1
 "AMP.MI"	"AMPLIFON"	2024-07-10	"rbo_100"	-1
 "US.MI"	"UNIPOLSAI"	2024-05-20	"rbo_100"	-1
-"CPR.MI"	"CAMPARI"	2023-09-12	"rbo_100"	-1
 "BSS.MI"	"BIESSE"	2023-04-11	"rbo_100"	-1
