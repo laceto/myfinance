@@ -1,2 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"FCT.MI"	"FINCANTIERI"	2025-10-09	-1	-1	2025-12-18	42.8571428571429	1.05128205128205	-5
+"LDO.MI"	"LEONARDO"	2026-01-19	-1	1	2026-01-14	42.8571428571429	0.1875	0
