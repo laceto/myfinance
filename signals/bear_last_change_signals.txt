@@ -1,6 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"FCT.MI"	"FINCANTIERI"	"si"	-3	2026-02-23
+NA	"MB.MI"	"MEDIOBANCA"	"si"	-1	2026-02-23
 NA	"TRN.MI"	"TERNA"	"si"	-1	2026-02-20
-NA	"MB.MI"	"MEDIOBANCA"	"si"	-1	2026-02-20
 NA	"AMP.MI"	"AMPLIFON"	"si"	0	2026-02-20
 -1	"WBD.MI"	"WEBUILD"	"si"	-1	2026-02-19
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	0	2026-02-19
@@ -18,7 +19,6 @@ NA	"RACE.MI"	"FERRARI"	"si"	0	2026-02-10
 NA	"INW.MI"	"INWIT"	"si"	1	2026-02-05
 NA	"MARR.MI"	"MARR"	"si"	1	2026-02-05
 NA	"SFL.MI"	"SAFILO GROUP"	"si"	3	2026-01-30
-NA	"FCT.MI"	"FINCANTIERI"	"si"	-5	2026-01-29
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	0	2026-01-28
 NA	"REY.MI"	"REPLY"	"si"	-1	2026-01-19
 NA	"IRE.MI"	"IREN"	"si"	2	2026-01-15
