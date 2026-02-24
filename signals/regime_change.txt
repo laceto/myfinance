@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"UNIDATA"	"UD.MI"	"Communications"	NA	2026-02-24	1
+"ALERION"	"ARN.MI"	"Utilities"	NA	2026-02-23	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-02-20	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-20	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2026-02-20	1
@@ -9,11 +11,9 @@
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-02-17	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-02-17	1
-"CONVERGENZE"	"CVG.MI"	"Communications"	NA	2026-02-17	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2026-02-17	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-02-17	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-02-17	-1
-"LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2026-02-16	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-02-16	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-02-16	-1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2026-02-13	1
@@ -24,11 +24,10 @@
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-02-06	1
 NA	"LLY.DE"	NA	NA	2026-02-04	1
 "TAMBURI"	"TIP.MI"	"Finance"	NA	2026-02-04	1
+"SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-02-03	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-02-03	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-03	-1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2026-02-02	1
-"SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-01-28	1
-"ALERION"	"ARN.MI"	"Utilities"	NA	2026-01-27	1
 "PORTOBELLO"	"POR.MI"	"Commercial Services"	NA	2026-01-27	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-01-27	-1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2026-01-23	1
