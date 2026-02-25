@@ -1,9 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2026-02-25	1
+"ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2026-02-25	1
 "UNIDATA"	"UD.MI"	"Communications"	NA	2026-02-24	1
-"ALERION"	"ARN.MI"	"Utilities"	NA	2026-02-23	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-02-20	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-20	1
-"FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2026-02-20	1
 "SECO"	"IOT.MI"	"Electronic Technology"	NA	2026-02-20	1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-02-19	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-19	-1
@@ -24,14 +24,15 @@
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-02-06	1
 NA	"LLY.DE"	NA	NA	2026-02-04	1
 "TAMBURI"	"TIP.MI"	"Finance"	NA	2026-02-04	1
+"PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2026-02-03	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-02-03	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-02-03	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-03	-1
 "COPERNICO"	"COP.MI"	"Finance"	NA	2026-02-02	1
 "PORTOBELLO"	"POR.MI"	"Commercial Services"	NA	2026-01-27	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-01-27	-1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2026-01-23	1
 "SVAS BIOSANA"	"SVS.MI"	"Health Technology"	NA	2026-01-23	1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-01-22	-1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-20	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-01-12	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-01-07	1
