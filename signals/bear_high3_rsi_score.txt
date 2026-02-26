@@ -1,2 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"IP.MI"	"INTERPUMP GROUP"	2026-02-13	1	-1	2026-02-25	35.7142857142857	0.871794871794872	-3
+"IP.MI"	"INTERPUMP GROUP"	2026-02-13	1	-1	2026-02-25	28.5714285714286	0.871794871794872	-3
