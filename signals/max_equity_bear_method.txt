@@ -1,4 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"BRE.MI"	"BREMBO"	2026-03-03	"rbo_100"	-1
+"SFER.MI"	"SALVATORE FERRAGAMO"	2026-03-03	"rbo_100"	-1
 "IP.MI"	"INTERPUMP GROUP"	2026-02-17	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2026-02-13	"rbo_100"	1
 "CPR.MI"	"CAMPARI"	2026-02-11	"rbo_100"	1
