@@ -1,14 +1,17 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-04	1
+"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-03-06	1
+"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-06	1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-03-06	1
+"FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-04	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-03-04	1
 "TAMBURI"	"TIP.MI"	"Finance"	NA	2026-03-04	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-03-04	-1
-"BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-03-04	-1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
 "FINE FOODS & PHARMACEUTICALS NTM"	"FF.MI"	"Health Technology"	NA	2026-03-03	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-03	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-03-03	-1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-03-02	1
+"PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2026-03-02	1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-03-02	1
 "UNIDATA"	"UD.MI"	"Communications"	NA	2026-02-27	1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2026-02-26	1
@@ -31,18 +34,17 @@ NA	"LLY.DE"	NA	NA	2026-02-26	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-02-06	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-02-04	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-03	-1
-"PORTOBELLO"	"POR.MI"	"Commercial Services"	NA	2026-01-27	1
+"PORTOBELLO"	"POR.MI"	"Commercial Services"	NA	2026-02-02	1
+"DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-01-29	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2026-01-23	1
 "SVAS BIOSANA"	"SVS.MI"	"Health Technology"	NA	2026-01-23	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-01-22	-1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-20	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-01-12	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-01-07	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2026-01-05	1
-"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-01-02	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2025-12-22	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2025-12-19	1
-"FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2025-12-17	-1
+"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-12-18	-1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-12-10	1
 "DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-12-02	1
 "TECHNOPROBE"	"TPRO.MI"	"Electronic Technology"	NA	2025-11-28	1
@@ -55,8 +57,8 @@ NA	"LLY.DE"	NA	NA	2026-02-26	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-10	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
-"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2025-09-23	-1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
+"OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2025-09-22	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2025-09-19	1
 "LINDBERGH"	"LDB.MI"	"Transportation"	NA	2025-09-16	1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2025-09-12	1
@@ -105,6 +107,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
 "CREDEM"	"CE.MI"	"Finance"	NA	2023-12-19	1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
+"BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2023-09-26	-1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	2023-08-29	1
 "IVS GROUP"	"IVS.MI"	"Retail Trade"	NA	2023-07-24	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
