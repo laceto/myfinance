@@ -74,6 +74,7 @@
 "COM.MI"	"rbo_100"	NA
 "COP.MI"	"rbo_100"	NA
 "CORE.MI"	"rbo_100"	NA
+"COSMO.MI"	"rbo_100"	NA
 "CPR.MI"	"rbo_100"	NA
 "CRL.MI"	"rbo_100"	NA
 "CSP.MI"	"rbo_100"	NA
