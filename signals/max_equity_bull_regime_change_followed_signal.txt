@@ -1,9 +1,9 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"PIQUADRO"	"PQ.MI"	2026-03-05	2026-03-27	"Consumer Durables"	0	2026-03-04
+"PIQUADRO"	"PQ.MI"	2026-03-05	2026-03-27	"Consumer Durables"	2	2026-03-04
 "SOL"	"SOL.MI"	2020-03-12	2026-03-27	"Process Industries"	3	2026-02-03
 "HEALTH ITALIA"	"HI.MI"	2025-05-22	2026-03-20	"Health Services"	5	2025-09-22
 "IVECO GROUP"	"IVG.MI"	2025-04-07	2026-03-19	"Consumer Durables"	5	2026-02-26
-"DIRECTA SIM"	"D.MI"	2025-11-26	2026-03-12	"Finance"	1	2025-11-20
+"DIRECTA SIM"	"D.MI"	2025-11-21	2026-03-12	"Finance"	3	2025-11-20
 "GAS PLUS"	"GSP.MI"	2025-06-23	2026-03-03	"Utilities"	3	2026-02-26
 "LUCISANO MEDIA GROUP"	"LMG.MI"	2025-12-10	2026-02-26	"Consumer Services"	2	2025-12-02
 "ASCOPIAVE"	"ASC.MI"	2025-10-10	2026-02-12	"Utilities"	3	2025-10-08
@@ -16,7 +16,7 @@
 "CREDEM"	"CE.MI"	2023-12-19	2025-11-11	"Finance"	1	2026-03-23
 "ENI"	"ENI.MI"	2025-09-22	2025-10-24	"Energy Minerals"	5	2025-09-22
 "ENAV"	"ENAV.MI"	2025-04-07	2025-10-15	"Transportation"	4	2025-02-26
-"BASTOGI SPA"	"B.MI"	2025-08-19	2025-10-06	"Finance"	4	2026-03-04
+"BASTOGI SPA"	"B.MI"	2025-08-19	2025-10-06	"Finance"	5	2026-03-04
 "CIRCLE"	"CIRC.MI"	2025-09-04	2025-09-17	"Commercial Services"	5	2025-11-24
 "LINDBERGH"	"LDB.MI"	2025-08-21	2025-09-16	"Transportation"	4	2026-01-29
 "COMER INDUSTRIES"	"COM.MI"	2025-07-24	2025-07-31	"Producer Manufacturing"	3	2026-03-17
