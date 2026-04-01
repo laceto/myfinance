@@ -1,10 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-01	1
+"ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-03-31	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-03-31	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
-"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2026-03-26	1
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-03-23	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-23	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-23	1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2026-03-20	1
