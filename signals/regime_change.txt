@@ -1,5 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-01	1
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
+"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-03-31	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-03-31	1
@@ -7,6 +8,7 @@
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-23	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-23	1
+"IREN"	"IRE.MI"	"Utilities"	"si"	2026-03-23	-1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2026-03-20	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-03-20	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-03-20	1
@@ -15,7 +17,6 @@
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-03-20	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-03-20	0
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-03-17	1
-"TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-03-17	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-03-13	-1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-12	-1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
@@ -30,7 +31,6 @@
 "TOSCANA AEROPORTI"	"TYA.MI"	"Transportation"	NA	2026-02-27	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-26	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-24	-1
-"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-02-20	1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-02-19	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-19	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-02-19	-1
@@ -110,7 +110,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2022-07-15	1
 "UNICREDIT"	"UCG.MI"	"Finance"	"si"	2022-07-15	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
-"IREN"	"IRE.MI"	"Utilities"	"si"	2022-06-21	-1
 "BPER BANCA"	"BPE.MI"	"Finance"	"si"	2022-06-08	1
 "HERA"	"HER.MI"	"Utilities"	"si"	2022-05-10	-1
 "MARR"	"MARR.MI"	"Distribution Services"	"si"	2021-10-06	-1
