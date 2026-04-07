@@ -1,9 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-07	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-03-31	1
-"SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-03-31	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-23	1
