@@ -1,10 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2026-04-08	1
+"ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2026-04-09	1
+"A2A"	"A2A.MI"	"Utilities"	"si"	2026-04-09	-1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-07	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
-"A2A"	"A2A.MI"	"Utilities"	"si"	2026-03-31	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-23	1
@@ -15,14 +15,11 @@
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-20	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-03-20	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-03-20	-1
-"TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-03-20	0
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-03-17	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-03-13	-1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-12	-1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-03-09	1
-"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-03-09	-1
-"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	"Process Industries"	NA	2026-03-06	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-03-06	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-03-05	1
 "PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2026-03-05	1
@@ -37,6 +34,7 @@
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2026-02-17	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2026-02-13	1
+"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-01-26	-1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-20	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-01-12	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2026-01-05	1
@@ -44,7 +42,7 @@
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-12-10	-1
 "DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-12-02	1
 "TECHNOPROBE"	"TPRO.MI"	"Electronic Technology"	NA	2025-11-28	1
-"DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-21	1
+"DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-26	1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
@@ -72,6 +70,7 @@
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
+"TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2025-04-11	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-04-07	1
 "IVECO GROUP"	"IVG.MI"	"Consumer Durables"	NA	2025-04-07	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
