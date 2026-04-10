@@ -1,14 +1,17 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2026-04-09	1
+"4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-04-10	1
+"BASICNET"	"BAN.MI"	"Commercial Services"	NA	2026-04-10	1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	-1
+"ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2026-04-10	0
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-04-09	-1
+"REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-04-09	-1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-07	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
-"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-03-31	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-23	1
-"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-23	1
+"SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-03-23	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2026-03-23	-1
 "CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2026-03-20	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-03-20	1
@@ -20,6 +23,7 @@
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-12	-1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-03-09	1
+"INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-09	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-03-06	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-03-05	1
 "PIQUADRO"	"PQ.MI"	"Consumer Durables"	NA	2026-03-05	1
@@ -28,7 +32,6 @@
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2026-03-02	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-26	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-24	-1
-"4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-02-19	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-19	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-02-19	-1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
@@ -39,10 +42,9 @@
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-01-12	1
 "GPI"	"GPI.MI"	"Commercial Services"	NA	2026-01-05	1
 "LUCISANO MEDIA GROUP"	"LMG.MI"	"Consumer Services"	NA	2025-12-10	1
-"REPLY"	"REY.MI"	"Commercial Services"	"si"	2025-12-10	-1
 "DOXEE"	"DOX.MI"	"Technology Services"	NA	2025-12-02	1
 "TECHNOPROBE"	"TPRO.MI"	"Electronic Technology"	NA	2025-11-28	1
-"DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-26	1
+"DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-21	1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
@@ -50,7 +52,6 @@
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2025-10-15	1
 "ASCOPIAVE"	"ASC.MI"	"Utilities"	NA	2025-10-10	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2025-10-08	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
@@ -102,7 +103,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
-"SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2022-12-15	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2022-07-15	1
 "UNICREDIT"	"UCG.MI"	"Finance"	"si"	2022-07-15	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
