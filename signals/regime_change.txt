@@ -1,11 +1,13 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2026-04-13	1
+"BASICNET"	"BAN.MI"	"Commercial Services"	NA	2026-04-13	1
+"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-04-13	1
+"ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2026-04-13	1
+"SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-04-10	1
-"BASICNET"	"BAN.MI"	"Commercial Services"	NA	2026-04-10	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	-1
-"ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2026-04-10	0
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-04-09	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-04-09	-1
-"SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-07	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-03-31	1
@@ -13,7 +15,6 @@
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-03-23	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-03-23	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2026-03-23	-1
-"CULTI MILANO"	"CULT.MI"	"Consumer Non-Durables"	NA	2026-03-20	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-03-20	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-20	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-03-20	1
@@ -32,7 +33,7 @@
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2026-03-02	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-26	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-24	-1
-"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-19	-1
+"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-23	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-02-19	-1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
 "DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2026-02-17	1
