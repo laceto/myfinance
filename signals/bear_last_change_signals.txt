@@ -1,5 +1,4 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
-NA	"PRT.MI"	"ESPRINET"	"si"	0	2026-04-13
 NA	"BSS.MI"	"BIESSE"	"si"	0	2026-04-10
 NA	"MONC.MI"	"MONCLER"	"si"	1	2026-04-10
 -1	"LDO.MI"	"LEONARDO"	"si"	2	2026-04-10

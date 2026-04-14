@@ -1,13 +1,12 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
+NA	"TRN.MI"	"TERNA"	"si"	3	2026-04-13	10.35
 NA	"CPR.MI"	"CAMPARI"	"si"	1	2026-04-10	6.82
 -1	"A2A.MI"	"A2A"	"si"	0	2026-04-08	2.58
 -1	"LDO.MI"	"LEONARDO"	"si"	2	2026-03-13	64.92
-NA	"TRN.MI"	"TERNA"	"si"	3	2026-02-27	10.23
 NA	"HER.MI"	"HERA"	"si"	-2	2026-02-27	4.45
 NA	"MONC.MI"	"MONCLER"	"si"	1	2026-02-26	59.34
 NA	"BRE.MI"	"BREMBO"	"si"	-1	2026-02-12	11
 NA	"IRE.MI"	"IREN"	"si"	-1	2026-02-11	2.86
-NA	"PRT.MI"	"ESPRINET"	"si"	0	2026-02-03	6.69
 NA	"BGN.MI"	"BANCA GENERALI"	"si"	-2	2026-01-06	59.4
 NA	"BSS.MI"	"BIESSE"	"si"	0	2026-01-02	7.29
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	-1	2025-12-22	2.98
