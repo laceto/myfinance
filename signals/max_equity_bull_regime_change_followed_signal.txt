@@ -1,17 +1,16 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"LUVE"	"LUVE.MI"	2026-03-17	2026-04-14	"Producer Manufacturing"	3	2026-03-17
-"ALERION"	"ARN.MI"	2026-03-09	2026-04-02	"Utilities"	1	2026-02-25
+"LUVE"	"LUVE.MI"	2025-06-20	2026-04-14	"Producer Manufacturing"	3	2025-06-20
+"ALERION"	"ARN.MI"	2026-03-09	2026-04-02	"Utilities"	3	2026-02-25
 "PIQUADRO"	"PQ.MI"	2026-03-05	2026-03-27	"Consumer Durables"	1	2026-03-04
 "SOL"	"SOL.MI"	2020-03-12	2026-03-27	"Process Industries"	3	2026-02-03
 "HEALTH ITALIA"	"HI.MI"	2025-05-22	2026-03-20	"Health Services"	5	2025-09-22
-"DIRECTA SIM"	"D.MI"	2025-11-26	2026-03-12	"Finance"	5	2025-11-20
+"DIRECTA SIM"	"D.MI"	2025-11-21	2026-03-12	"Finance"	5	2025-11-20
 "GAS PLUS"	"GSP.MI"	2025-06-23	2026-03-03	"Utilities"	4	2026-02-26
 "ASCOPIAVE"	"ASC.MI"	2025-10-10	2026-02-12	"Utilities"	3	2025-10-08
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	2023-08-29	2026-01-27	"Commercial Services"	5	2025-11-19
 "EL.EN"	"ELN.MI"	2025-11-13	2025-12-05	"Health Technology"	0	2026-03-23
 "CEMBRE"	"CMB.MI"	2025-08-05	2025-11-28	"Electronic Technology"	3	2025-09-24
 "NEODECORTECH"	"NDT.MI"	2025-11-14	2025-11-26	"Process Industries"	2	2026-03-09
-"ACEA"	"ACE.MI"	2025-03-10	2025-11-19	"Utilities"	3	2025-08-25
 "CREDEM"	"CE.MI"	2023-12-19	2025-11-11	"Finance"	0	2026-03-23
 "ENI"	"ENI.MI"	2025-09-22	2025-10-24	"Energy Minerals"	5	2025-09-22
 "ENAV"	"ENAV.MI"	2025-04-07	2025-10-15	"Transportation"	5	2025-02-26
