@@ -1,2 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"TNXT.MI"	"TINEXTA"	2026-03-20	1	-1	2026-04-10	28.5714285714286	0.722222222222222	-2
+"TNXT.MI"	"TINEXTA"	2026-03-20	1	-1	2026-04-10	35.7142857142857	0.722222222222222	-2

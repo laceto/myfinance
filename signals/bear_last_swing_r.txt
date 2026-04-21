@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_swing_r"	"rh3"
-"LDO.MI"	"LEONARDO"	2026-03-20	30.91
 "TNXT.MI"	"TINEXTA"	2026-03-20	7.25
 "TRN.MI"	"TERNA"	2026-03-20	4.79
 "ERG.MI"	"ERG"	2026-03-09	11.68

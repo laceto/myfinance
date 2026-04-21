@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
+"CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-21	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-04-17	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-04-17	-1
@@ -11,7 +13,7 @@
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-04-13	-1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-04-10	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	-1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-04-09	-1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
@@ -32,6 +34,7 @@
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-03-03	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-26	1
+"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-02-24	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-24	-1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-23	-1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
@@ -72,6 +75,7 @@
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
+"AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-04-07	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1

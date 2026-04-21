@@ -306,6 +306,7 @@
 "TGYM.MI"	"rbo_100"	NA
 "TIME.MI"	"rbo_100"	NA
 "TIP.MI"	"rbo_100"	NA
+"TISG.MI"	"rbo_100"	NA
 "TIT.MI"	"rbo_100"	NA
 "TLS.MI"	"rbo_100"	NA
 "TNX.MI"	"rbo_100"	NA
