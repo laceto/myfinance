@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-21	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-04-17	1
@@ -13,7 +14,7 @@
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-04-13	-1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-04-10	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-04-09	-1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
@@ -22,8 +23,8 @@
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-03-23	-1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-03-20	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-20	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-03-20	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-03-20	-1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-03-17	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-03-13	-1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-03-09	1
@@ -75,7 +76,6 @@
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2025-05-15	1
 "SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
-"AUTOSTRADE MERID"	"AUTME.MI"	"Transportation"	NA	2025-04-07	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2025-04-07	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2025-03-10	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1

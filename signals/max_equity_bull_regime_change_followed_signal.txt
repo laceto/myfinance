@@ -1,6 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "SOMEC"	"SOM.MI"	2026-04-13	2026-04-21	"Consumer Durables"	5	2026-04-13
-"OVS"	"OVS.MI"	2024-04-17	2026-04-20	"Retail Trade"	3	2026-01-12
+"OVS"	"OVS.MI"	2024-04-17	2026-04-20	"Retail Trade"	3	2025-09-26
 "UNIPOL"	"UNI.MI"	2024-02-15	2026-04-16	"Finance"	5	2026-01-28
 "LUVE"	"LUVE.MI"	2025-06-20	2026-04-14	"Producer Manufacturing"	3	2025-06-20
 "ALERION"	"ARN.MI"	2026-03-09	2026-04-02	"Utilities"	3	2026-02-25
