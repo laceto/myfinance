@@ -1,7 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-22	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
-"CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-21	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-04-17	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-04-17	-1
