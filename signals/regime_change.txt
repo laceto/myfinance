@@ -1,8 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-04-27	0
 "BASICNET"	"BAN.MI"	"Commercial Services"	NA	2026-04-24	1
+"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-04-23	-1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-22	1
-"B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
+"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-04-21	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-04-17	-1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-04-17	0
@@ -27,7 +27,6 @@
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-03-20	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-03-17	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-03-17	1
-"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-03-13	-1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-03-09	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-09	1
@@ -39,7 +38,6 @@
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-02-26	1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-02-24	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-02-24	-1
-"MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-23	-1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2026-02-13	1
@@ -105,6 +103,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
+"SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2022-12-15	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2022-07-15	1
 "UNICREDIT"	"UCG.MI"	"Finance"	"si"	2022-07-15	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1

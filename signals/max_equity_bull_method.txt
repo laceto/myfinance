@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"BFG.MI"	"B.F"	2026-04-21	"rbo_100"	1
 "SOM.MI"	"SOMEC"	2026-04-21	"rbo_100"	1
 "CED.MI"	"CALTAGIRONE EDIT"	2026-04-20	"rbo_100"	1
 "OVS.MI"	"OVS"	2026-04-20	"rbo_100"	1
