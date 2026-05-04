@@ -1,8 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ROCKET SHARING COMPANY"	"RKT.MI"	"Technology Services"	NA	2026-05-04	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-04-30	1
+"INTERNATIONAL CARE COMPANY"	"ICC.MI"	"Health Services"	NA	2026-04-30	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2026-04-30	1
 NA	"LLY.DE"	NA	NA	2026-04-30	1
-"SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-04-30	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-04-29	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-04-29	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-04-29	-1
@@ -21,12 +22,13 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-04-13	-1
 "4AIM SICAF"	"AIM.MI"	"Finance"	NA	2026-04-10	1
-"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-04-09	-1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-04-08	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-04-02	1
 "ESAUTOMOTION"	"ESAU.MI"	"Producer Manufacturing"	NA	2026-04-01	1
 "ORSERO"	"ORS.MI"	"Distribution Services"	NA	2026-04-01	1
+"DATRIX"	"DATA.MI"	"Technology Services"	NA	2026-03-30	1
+"LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-03-30	-1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2026-03-23	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-03-23	-1
@@ -97,7 +99,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
-"CREDEM"	"CE.MI"	"Finance"	NA	2023-12-19	1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2023-09-26	-1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	2023-08-29	1
@@ -105,6 +106,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
+"SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2022-12-15	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2022-07-15	1
 "UNICREDIT"	"UCG.MI"	"Finance"	"si"	2022-07-15	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
