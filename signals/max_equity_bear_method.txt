@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"ENAV.MI"	"ENAV"	2026-04-30	"rbo_100"	-1
 "ANIM.MI"	"ANIMA HOLDING"	2026-04-21	"rbo_100"	-1
 "BGN.MI"	"BANCA GENERALI"	2026-04-09	"rbo_100"	-1
 "DAL.MI"	"DATALOGIC"	2026-03-25	"rbo_100"	1
