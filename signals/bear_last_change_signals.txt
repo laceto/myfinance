@@ -1,8 +1,9 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"MB.MI"	"MEDIOBANCA"	"si"	-1	2026-05-12
+NA	"MARR.MI"	"MARR"	"si"	-1	2026-05-12
+NA	"IRE.MI"	"IREN"	"si"	0	2026-05-12
 NA	"LDO.MI"	"LEONARDO"	"si"	-3	2026-05-11
-NA	"MB.MI"	"MEDIOBANCA"	"si"	-3	2026-05-11
 NA	"DAL.MI"	"DATALOGIC"	"si"	-2	2026-05-11
-NA	"IRE.MI"	"IREN"	"si"	-1	2026-05-11
 NA	"ERG.MI"	"ERG"	"si"	0	2026-05-11
 NA	"BRE.MI"	"BREMBO"	"si"	1	2026-05-08
 NA	"CPR.MI"	"CAMPARI"	"si"	-1	2026-05-07
@@ -22,7 +23,6 @@ NA	"BSS.MI"	"BIESSE"	"si"	1	2026-04-21
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	0	2026-04-20
 NA	"WBD.MI"	"WEBUILD"	"si"	0	2026-04-17
 NA	"AMP.MI"	"AMPLIFON"	"si"	0	2026-04-16
-NA	"MARR.MI"	"MARR"	"si"	0	2026-04-16
 NA	"NEXI.MI"	"NEXI"	"si"	1	2026-04-15
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	0	2026-04-08
 NA	"TRN.MI"	"TERNA"	"si"	3	2026-04-08
