@@ -1,12 +1,13 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-05-13	1
+"ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-05-13	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-05-12	1
-"DOVALUE"	"DOV.MI"	"Finance"	NA	2026-05-11	1
 "EVISO"	"EVISO.MI"	"Utilities"	NA	2026-05-11	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-05-11	1
 "IREN"	"IRE.MI"	"Utilities"	"si"	2026-05-11	-1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2026-05-11	-1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-05-08	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-05-07	1
-"ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-05-06	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-05-06	-1
 "A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2026-05-04	1
@@ -16,7 +17,6 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-04-21	-1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-04-20	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
-"POWERSOFT"	"PWS.MI"	"Electronic Technology"	NA	2026-04-16	1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-04-14	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2026-04-13	1
@@ -31,7 +31,6 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-03-23	-1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-03-20	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-20	1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2026-03-20	-1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-03-17	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-09	1
