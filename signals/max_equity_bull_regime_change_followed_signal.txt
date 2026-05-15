@@ -1,5 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"ESPRINET"	"PRT.MI"	2026-04-14	2026-05-14	"Distribution Services"	5	2026-04-02
+"ESPRINET"	"PRT.MI"	2026-03-25	2026-05-14	"Distribution Services"	5	2026-04-02
 "SOMEC"	"SOM.MI"	2026-04-13	2026-04-21	"Consumer Durables"	1	2026-04-13
 "OVS"	"OVS.MI"	2024-04-17	2026-04-20	"Retail Trade"	3	2025-09-26
 "UNIPOL"	"UNI.MI"	2024-02-15	2026-04-16	"Finance"	5	2026-01-28
