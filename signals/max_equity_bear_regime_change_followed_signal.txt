@@ -1,6 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"LEONARDO"	"LDO.MI"	2026-04-10	2026-05-11	"Electronic Technology"	-3	2026-03-19
-"CAMPARI"	"CPR.MI"	2023-06-20	2026-05-07	"Consumer Non-Durables"	-3	2025-08-01
+"LEONARDO"	"LDO.MI"	2026-03-30	2026-05-11	"Electronic Technology"	-5	2026-03-19
+"CAMPARI"	"CPR.MI"	2023-06-20	2026-05-07	"Consumer Non-Durables"	-1	2025-08-01
 "ANIMA HOLDING"	"ANIM.MI"	2025-07-23	2026-04-21	"Finance"	1	2026-03-03
 "A2A"	"A2A.MI"	2025-11-07	2026-04-17	"Utilities"	-1	2025-11-06
 "BREMBO"	"BRE.MI"	2023-09-26	2026-03-04	"Producer Manufacturing"	1	2025-08-29
