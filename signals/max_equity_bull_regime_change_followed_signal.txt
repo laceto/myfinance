@@ -1,10 +1,11 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"POSTE ITALIANE"	"PST.MI"	2025-02-20	2026-05-18	"Finance"	1	2026-03-24
+"SOFTLAB"	"SFT.MI"	2025-05-15	2026-05-19	"Technology Services"	5	2026-04-01
+"POSTE ITALIANE"	"PST.MI"	2025-02-20	2026-05-18	"Finance"	3	2026-03-24
 "ESPRINET"	"PRT.MI"	2026-03-25	2026-05-14	"Distribution Services"	5	2026-04-02
 "MEDIOBANCA"	"MB.MI"	2026-02-20	2026-05-12	"Finance"	1	2026-03-09
 "ILPRA"	"ILP.MI"	2026-02-25	2026-04-30	"Producer Manufacturing"	1	2026-02-25
-"SOMEC"	"SOM.MI"	2026-04-13	2026-04-21	"Consumer Durables"	1	2026-04-13
-"OVS"	"OVS.MI"	2024-04-17	2026-04-20	"Retail Trade"	3	2026-01-12
+"SOMEC"	"SOM.MI"	2026-04-13	2026-04-21	"Consumer Durables"	3	2026-04-13
+"OVS"	"OVS.MI"	2024-04-17	2026-04-20	"Retail Trade"	3	2026-03-20
 "UNIPOL"	"UNI.MI"	2024-02-15	2026-04-16	"Finance"	2	2026-01-28
 "ALERION"	"ARN.MI"	2026-03-09	2026-04-02	"Utilities"	5	2026-02-25
 "VIMI FASTENERS"	"VIM.MI"	2025-10-08	2026-03-30	"Producer Manufacturing"	5	2025-08-22
