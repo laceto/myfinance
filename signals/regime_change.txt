@@ -1,6 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-05-26	-1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2026-05-25	1
-"WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-05-22	-1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-05-19	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-05-18	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2026-05-18	1
@@ -15,13 +15,13 @@
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-05-07	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-05-06	-1
+"BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-05-05	-1
 NA	"LLY.DE"	NA	NA	2026-04-30	1
 "ROCKET SHARING COMPANY"	"RKT.MI"	"Technology Services"	NA	2026-04-28	1
 "BASICNET"	"BAN.MI"	"Commercial Services"	NA	2026-04-24	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-04-21	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
-"BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-04-16	-1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2026-04-13	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-04-13	1
@@ -31,6 +31,7 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-27	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-25	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-03-23	1
+"DIGITAL VALUE"	"DGV.MI"	"Technology Services"	NA	2026-03-20	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-20	1
 "ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-03-06	1
