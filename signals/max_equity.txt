@@ -36,6 +36,7 @@
 "BDB.MI"	"rbo_100"	NA
 "BE.MI"	"rbo_100"	NA
 "BEC.MI"	"rbo_100"	NA
+"BELL.MI"	"rbo_100"	NA
 "BES.MI"	"rbo_100"	NA
 "BFF.MI"	"rbo_100"	NA
 "BFG.MI"	"rbo_100"	NA
@@ -50,6 +51,7 @@
 "BRE.MI"	"rbo_100"	NA
 "BSS.MI"	"rbo_100"	NA
 "BST.MI"	"rbo_100"	NA
+"BWZ.MI"	"rbo_100"	NA
 "BZU.MI"	"rbo_100"	NA
 "CAI.MI"	"rbo_100"	NA
 "CALT.MI"	"rbo_100"	NA
