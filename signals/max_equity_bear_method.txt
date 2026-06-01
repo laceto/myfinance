@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"TRN.MI"	"TERNA"	2026-06-01	"rbo_100"	-1
 "BRE.MI"	"BREMBO"	2026-05-29	"rbo_100"	1
 "LDO.MI"	"LEONARDO"	2026-05-11	"rbo_100"	-1
 "CPR.MI"	"CAMPARI"	2026-05-07	"rbo_100"	-1
@@ -8,7 +9,6 @@
 "DAL.MI"	"DATALOGIC"	2026-03-25	"rbo_100"	1
 "ERG.MI"	"ERG"	2026-03-17	"rbo_100"	-1
 "IP.MI"	"INTERPUMP GROUP"	2026-02-17	"rbo_100"	-1
-"TRN.MI"	"TERNA"	2026-02-13	"rbo_100"	1
 "BAMI.MI"	"BANCO BPM"	2026-01-30	"rbo_100"	-1
 "MONC.MI"	"MONCLER"	2026-01-27	"rbo_100"	-1
 "TNXT.MI"	"TINEXTA"	2026-01-05	"rbo_100"	-1

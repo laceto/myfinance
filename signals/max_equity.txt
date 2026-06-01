@@ -159,6 +159,7 @@
 "GVS.MI"	"rbo_100"	NA
 "HER.MI"	"rbo_100"	NA
 "HI.MI"	"rbo_100"	NA
+"HQF.MI"	"rbo_100"	NA
 "IB.MI"	"rbo_100"	NA
 "ICC.MI"	"rbo_100"	NA
 "ICF.MI"	"rbo_100"	NA
@@ -261,6 +262,7 @@
 "RAD.MI"	"rbo_100"	NA
 "RAT.MI"	"rbo_100"	NA
 "RCS.MI"	"rbo_100"	NA
+"RDF.MI"	"rbo_100"	NA
 "REC.MI"	"rbo_100"	NA
 "RETI.MI"	"rbo_100"	NA
 "REY.MI"	"rbo_100"	NA
