@@ -1,5 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"EUROTECH"	"ETH.MI"	2026-06-01	2026-06-02	"Electronic Technology"	5	2026-05-06
 "POSTE ITALIANE"	"PST.MI"	2025-02-20	2026-05-18	"Finance"	3	2026-03-24
 "ESPRINET"	"PRT.MI"	2026-03-25	2026-05-14	"Distribution Services"	5	2026-04-02
 "MEDIOBANCA"	"MB.MI"	2026-02-20	2026-05-12	"Finance"	3	2026-03-09
