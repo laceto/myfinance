@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
+"EXPERT.AI"	"EXAI.MI"	2026-05-29	1	2026-06-05	"rsma_50100150"	1
 "CAREL INDUSTRIES"	"CRL.MI"	2026-05-15	1	2026-05-18	"rema_50100150"	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	2026-05-12	1	2026-05-21	"rsma_50100150"	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	2026-05-12	1	2026-05-21	"rema_50100150"	1
