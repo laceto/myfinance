@@ -7,7 +7,6 @@
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-06-08	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-06-04	1
-"ACEA"	"ACE.MI"	"Utilities"	"si"	2026-06-02	-1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-02	-1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-06-02	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-06-01	-1
@@ -15,9 +14,9 @@
 "LEONE FILM GROUP"	"LFG.MI"	"Consumer Services"	NA	2026-05-29	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-05-18	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-05-18	-1
-"CAREL INDUSTRIES"	"CRL.MI"	"Producer Manufacturing"	NA	2026-05-15	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-05-13	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-05-13	1
+"ACEA"	"ACE.MI"	"Utilities"	"si"	2026-05-12	-1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-05-07	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-05-06	-1

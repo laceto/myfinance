@@ -114,6 +114,7 @@
 "ENV.MI"	"rbo_100"	NA
 "EPH.MI"	"rbo_100"	NA
 "EQUI.MI"	"rbo_100"	NA
+"ERFO.MI"	"rbo_100"	NA
 "ERG.MI"	"rbo_100"	NA
 "ESAU.MI"	"rbo_100"	NA
 "ESIGM.MI"	"rbo_100"	NA
