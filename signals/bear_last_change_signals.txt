@@ -1,8 +1,8 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"CPR.MI"	"CAMPARI"	"si"	-1	2026-06-12
 NA	"SRG.MI"	"SNAM"	"si"	-4	2026-06-11
 NA	"ACE.MI"	"ACEA"	"si"	-1	2026-06-10
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	1	2026-06-10
-NA	"CPR.MI"	"CAMPARI"	"si"	-3	2026-06-09
 NA	"BGN.MI"	"BANCA GENERALI"	"si"	1	2026-06-09
 NA	"ENEL.MI"	"ENEL"	"si"	-2	2026-06-08
 NA	"TRN.MI"	"TERNA"	"si"	-1	2026-06-08
