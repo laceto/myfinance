@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"BGN.MI"	"BANCA GENERALI"	2026-06-15	"rbo_100"	1
 "ENEL.MI"	"ENEL"	2026-06-02	"rbo_100"	-1
 "SRG.MI"	"SNAM"	2026-06-02	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2026-06-01	"rbo_100"	-1
@@ -8,11 +9,9 @@
 "ANIM.MI"	"ANIMA HOLDING"	2026-04-21	"rbo_100"	-1
 "A2A.MI"	"A2A"	2026-04-17	"rbo_100"	-1
 "ACE.MI"	"ACEA"	2026-04-15	"rbo_100"	-1
-"BGN.MI"	"BANCA GENERALI"	2026-04-09	"rbo_100"	-1
 "DAL.MI"	"DATALOGIC"	2026-03-25	"rbo_100"	1
 "ERG.MI"	"ERG"	2026-03-17	"rbo_100"	-1
 "IP.MI"	"INTERPUMP GROUP"	2026-02-17	"rbo_100"	-1
-"BAMI.MI"	"BANCO BPM"	2026-01-30	"rbo_100"	-1
 "MONC.MI"	"MONCLER"	2026-01-27	"rbo_100"	-1
 "TNXT.MI"	"TINEXTA"	2026-01-05	"rbo_100"	-1
 "IRE.MI"	"IREN"	2025-10-31	"rbo_100"	-1
