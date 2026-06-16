@@ -272,6 +272,7 @@
 "RLT.MI"	"rbo_100"	NA
 "RWAY.MI"	"rbo_100"	NA
 "S24.MI"	"rbo_100"	NA
+"S3D.MI"	"rbo_100"	NA
 "SAB.MI"	"rbo_100"	NA
 "SCF.MI"	"rbo_100"	NA
 "SCK.MI"	"rbo_100"	NA
