@@ -2,9 +2,8 @@
 "AZIMUT"	"AZM.MI"	"Finance"	NA	2026-06-15	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-06-15	1
-"DOXEE"	"DOX.MI"	"Technology Services"	NA	2026-06-15	1
-"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-12	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-06-12	1
+"BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2026-06-10	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-06-08	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-06-08	1
@@ -21,6 +20,7 @@
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-05-07	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-05-06	-1
+"DOXEE"	"DOX.MI"	"Technology Services"	NA	2026-05-05	1
 NA	"LLY.DE"	NA	NA	2026-04-30	1
 "BASICNET"	"BAN.MI"	"Commercial Services"	NA	2026-04-24	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
@@ -31,11 +31,9 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-04-13	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-04-10	-1
-"A2A"	"A2A.MI"	"Utilities"	"si"	2026-04-09	-1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-25	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-25	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-03-20	-1
-"ALERION"	"ARN.MI"	"Utilities"	NA	2026-03-09	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-03-06	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-03-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
@@ -53,6 +51,7 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-21	1
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "WIIT"	"WIIT.MI"	"Technology Services"	NA	2025-11-14	1
+"A2A"	"A2A.MI"	"Utilities"	"si"	2025-11-07	-1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2025-10-08	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-09-30	1
@@ -83,6 +82,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2024-11-06	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
 "FIERA MILANO"	"FM.MI"	"Commercial Services"	NA	2024-10-30	1
+"GENERALFINANCE"	"GF.MI"	"Finance"	NA	2024-10-04	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2024-08-05	1
 "CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1

@@ -148,6 +148,7 @@
 "GE.MI"	"rbo_100"	NA
 "GEL.MI"	"rbo_100"	NA
 "GEO.MI"	"rbo_100"	NA
+"GF.MI"	"rbo_100"	NA
 "GG.MI"	"rbo_100"	NA
 "GHC.MI"	"rbo_100"	NA
 "GIS.MI"	"rbo_100"	NA
