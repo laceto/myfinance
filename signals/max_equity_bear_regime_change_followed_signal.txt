@@ -1,5 +1,4 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"SNAM"	"SRG.MI"	2026-03-20	2026-06-02	"Utilities"	-4	2026-03-20
 "TERNA"	"TRN.MI"	2026-01-12	2026-06-01	"Utilities"	-1	2026-03-20
 "LEONARDO"	"LDO.MI"	2026-04-10	2026-05-11	"Electronic Technology"	-3	2026-03-19
 "CAMPARI"	"CPR.MI"	2023-06-20	2026-05-07	"Consumer Non-Durables"	-1	2025-08-01
