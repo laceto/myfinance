@@ -97,6 +97,7 @@
 "DIS.MI"	"rbo_100"	NA
 "DIT.MI"	"rbo_100"	NA
 "DLG.MI"	"rbo_100"	NA
+"DNR.MI"	"rbo_100"	NA
 "DOV.MI"	"rbo_100"	NA
 "DOX.MI"	"rbo_100"	NA
 "ECK.MI"	"rbo_100"	NA
