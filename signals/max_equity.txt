@@ -153,6 +153,7 @@
 "GG.MI"	"rbo_100"	NA
 "GHC.MI"	"rbo_100"	NA
 "GIS.MI"	"rbo_100"	NA
+"GML.MI"	"rbo_100"	NA
 "GO.MI"	"rbo_100"	NA
 "GPI.MI"	"rbo_100"	NA
 "GRAL.MI"	"rbo_100"	NA
