@@ -1,6 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "BGN.MI"	"BANCA GENERALI"	2026-06-15	"rbo_100"	1
-"SRG.MI"	"SNAM"	2026-06-02	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2026-06-01	"rbo_100"	-1
 "BRE.MI"	"BREMBO"	2026-05-29	"rbo_100"	1
 "LDO.MI"	"LEONARDO"	2026-05-11	"rbo_100"	-1
