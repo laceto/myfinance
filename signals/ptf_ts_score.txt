@@ -1,4 +1,4 @@
-"sector"	"name"	"ticker"	"2026-07-01"	"2026-06-30"	"2026-06-29"	"2026-06-26"	"2026-06-25"
+"sector"	"name"	"ticker"	"2026-07-02"	"2026-06-30"	"2026-06-29"	"2026-06-26"	"2026-06-25"
 "Utilities"	"A2A"	"A2A.MI"	0	0	0	0	0
 "Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	-1	-1
 "Distribution Services"	"AMPLIFON"	"AMP.MI"	-1	-1	-1	-1	-1
@@ -16,7 +16,7 @@
 "Finance"	"INTESA SANPAOLO"	"ISP.MI"	3	3	3	3	3
 "Producer Manufacturing"	"LUVE"	"LUVE.MI"	4	4	4	4	5
 "Industrial Services"	"MAIRE"	"MAIRE.MI"	1	1	-1	-1	-1
-"Retail Trade"	"OVS"	"OVS.MI"	4	5	5	5	5
+"Retail Trade"	"OVS"	"OVS.MI"	5	5	5	5	5
 "Industrial Services"	"PLC"	"PLC.MI"	4	4	4	4	4
 "Producer Manufacturing"	"PRYSMIAN"	"PRY.MI"	4	4	4	4	4
 "Utilities"	"SNAM"	"SRG.MI"	0	0	-2	-2	-2
