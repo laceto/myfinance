@@ -1,11 +1,11 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
--1	"SRG.MI"	"SNAM"	"si"	-2	2026-07-03
-NA	"TNXT.MI"	"TINEXTA"	"si"	-1	2026-07-03
+NA	"TEN.MI"	"TENARIS"	"si"	-1	2026-07-06
+NA	"LDO.MI"	"LEONARDO"	"si"	0	2026-07-06
+-1	"SRG.MI"	"SNAM"	"si"	-2	2026-07-02
+NA	"TNXT.MI"	"TINEXTA"	"si"	0	2026-07-02
 NA	"BGN.MI"	"BANCA GENERALI"	"si"	-1	2026-06-30
-NA	"TEN.MI"	"TENARIS"	"si"	1	2026-06-30
 NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	-2	2026-06-26
 NA	"WBD.MI"	"WEBUILD"	"si"	-1	2026-06-26
-NA	"LDO.MI"	"LEONARDO"	"si"	-1	2026-06-26
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	0	2026-06-26
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	0	2026-06-26
 NA	"REY.MI"	"REPLY"	"si"	-3	2026-06-25
