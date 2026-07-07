@@ -1,9 +1,9 @@
-"sector"	"name"	"ticker"	"2026-07-06"	"2026-07-03"	"2026-07-02"	"2026-07-01"	"2026-06-30"
+"sector"	"name"	"ticker"	"2026-07-07"	"2026-07-06"	"2026-07-03"	"2026-07-02"	"2026-07-01"
 "Utilities"	"A2A"	"A2A.MI"	0	0	0	0	0
 "Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	-1	-1
-"Distribution Services"	"AMPLIFON"	"AMP.MI"	-1	-1	-1	-1	-1
+"Distribution Services"	"AMPLIFON"	"AMP.MI"	0	-1	-1	-1	-1
 "Electronic Technology"	"AVIO"	"AVIO.MI"	-3	-3	-3	-3	-3
-"Finance"	"AZIMUT"	"AZM.MI"	1	3	3	3	3
+"Finance"	"AZIMUT"	"AZM.MI"	1	1	3	3	3
 "Finance"	"BANCO BPM"	"BAMI.MI"	3	3	3	3	3
 "Producer Manufacturing"	"BREMBO"	"BRE.MI"	-2	-2	-2	-2	-2
 "Non-Energy Minerals"	"BUZZI"	"BZU.MI"	0	0	0	0	0
@@ -11,15 +11,15 @@
 "Electronic Technology"	"DATALOGIC"	"DAL.MI"	3	3	3	3	3
 "Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	3	3	3	3	3
 "Finance"	"FINECOBANK"	"FBK.MI"	1	1	1	1	1
-"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	3	1	1	1	1
-"Utilities"	"ITALGAS"	"IG.MI"	1	1	1	1	1
+"Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	3	3	1	1	1
+"Utilities"	"ITALGAS"	"IG.MI"	3	1	1	1	1
 "Finance"	"INTESA SANPAOLO"	"ISP.MI"	3	3	3	3	3
 "Producer Manufacturing"	"LUVE"	"LUVE.MI"	4	4	4	4	4
-"Industrial Services"	"MAIRE"	"MAIRE.MI"	3	1	1	1	1
-"Retail Trade"	"OVS"	"OVS.MI"	4	4	4	4	5
+"Industrial Services"	"MAIRE"	"MAIRE.MI"	3	3	1	1	1
+"Retail Trade"	"OVS"	"OVS.MI"	4	4	4	4	4
 "Industrial Services"	"PLC"	"PLC.MI"	4	4	4	4	4
 "Producer Manufacturing"	"PRYSMIAN"	"PRY.MI"	4	4	4	4	4
-"Utilities"	"SNAM"	"SRG.MI"	-2	-2	-2	0	0
-NA	NA	"STMMI.MI"	3	3	3	3	3
+"Utilities"	"SNAM"	"SRG.MI"	-2	-2	-2	-2	0
+NA	NA	"STMMI.MI"	2	3	3	3	3
 "Consumer Durables"	"TECHNOGYM"	"TGYM.MI"	-1	-1	-1	-1	-1
 "Industrial Services"	"WEBUILD"	"WBD.MI"	-1	-1	-1	-1	-1
