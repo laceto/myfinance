@@ -1,4 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+-1	"ERG.MI"	"ERG"	"si"	0	2026-07-13
+NA	"NEXI.MI"	"NEXI"	"si"	1	2026-07-13
+NA	"DAL.MI"	"DATALOGIC"	"si"	2	2026-07-13
 NA	"DIA.MI"	"DIASORIN"	"si"	1	2026-07-10
 NA	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	-1	2026-07-08
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	-1	2026-07-08
@@ -15,9 +18,7 @@ NA	"WBD.MI"	"WEBUILD"	"si"	-1	2026-06-26
 NA	"JUVE.MI"	"JUVENTUS FC"	"si"	0	2026-06-26
 NA	"REY.MI"	"REPLY"	"si"	-3	2026-06-25
 NA	"A2A.MI"	"A2A"	"si"	0	2026-06-25
-NA	"DAL.MI"	"DATALOGIC"	"si"	3	2026-06-24
 NA	"BRE.MI"	"BREMBO"	"si"	-2	2026-06-23
-NA	"NEXI.MI"	"NEXI"	"si"	-1	2026-06-23
 NA	"MONC.MI"	"MONCLER"	"si"	-1	2026-06-22
 NA	"IRE.MI"	"IREN"	"si"	-1	2026-06-22
 -1	"ACE.MI"	"ACEA"	"si"	-1	2026-06-22

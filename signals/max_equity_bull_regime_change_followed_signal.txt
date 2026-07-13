@@ -1,5 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"CREDEM"	"CE.MI"	2026-07-06	2026-07-08	"Finance"	3	2026-06-04
+"CREDEM"	"CE.MI"	2026-06-09	2026-07-08	"Finance"	3	2026-06-04
 "BANCA MEDIOLANUM"	"BMED.MI"	2024-04-23	2026-07-02	"Finance"	3	2026-03-23
 "UNIPOL"	"UNI.MI"	2024-02-15	2026-07-01	"Finance"	5	2026-06-04
 NA	"LLY.DE"	2026-04-30	2026-06-29	NA	3	2026-04-30
