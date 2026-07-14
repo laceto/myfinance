@@ -1,10 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-07-14	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-07-13	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-07-08	-1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2026-07-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-07-06	-1
 "TPS"	"TPS.MI"	"Commercial Services"	NA	2026-07-02	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2026-07-02	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-07-01	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-06-30	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-06-30	1
@@ -16,15 +16,16 @@
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-06-22	-1
 "TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-06-19	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-06-11	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-06-08	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-02	-1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2026-06-02	-1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-05-19	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-05-18	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-05-15	1
-"ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-05-14	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-05-07	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 NA	"LLY.DE"	NA	NA	2026-04-30	1
@@ -48,7 +49,6 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-01-23	-1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-20	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-01-12	-1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2025-12-02	-1
 "TECHNOPROBE"	"TPRO.MI"	"Electronic Technology"	NA	2025-11-28	1
 "DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-21	1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
