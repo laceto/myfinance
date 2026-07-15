@@ -113,6 +113,7 @@
 "ENEL.MI"	"rbo_100"	NA
 "ENI.MI"	"rbo_100"	NA
 "ENV.MI"	"rbo_100"	NA
+"ENY.MI"	"rbo_100"	NA
 "EPH.MI"	"rbo_100"	NA
 "EQUI.MI"	"rbo_100"	NA
 "ERFO.MI"	"rbo_100"	NA
@@ -290,6 +291,7 @@
 "SGC.MI"	"rbo_100"	NA
 "SGF.MI"	"rbo_100"	NA
 "SHE.MI"	"rbo_100"	NA
+"SIAV.MI"	"rbo_100"	NA
 "SIT.MI"	"rbo_100"	NA
 "SL.MI"	"rbo_100"	NA
 "SOL.MI"	"rbo_100"	NA
