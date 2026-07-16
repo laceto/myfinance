@@ -1,6 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-07-15	1
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-07-15	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-07-14	1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-07-14	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-07-13	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-07-08	-1
 "ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2026-07-06	1
@@ -18,7 +20,6 @@
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-06-22	-1
 "TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-06-19	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-06-11	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-06-08	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
@@ -33,7 +34,6 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2026-04-13	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
-"VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-03-30	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-03-30	-1
 "PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-25	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-25	1
