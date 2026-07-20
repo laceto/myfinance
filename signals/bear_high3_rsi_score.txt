@@ -1,3 +1,2 @@
 "ticker"	"name"	"date_swing"	"rsma_50100150"	"rema_50100150"	"date_last_ma_change"	"RSI"	"sector_score"	"ticker_score"
-"REY.MI"	"REPLY"	2026-06-01	-1	1	2026-06-19	42.8571428571429	0.5	-3
-"TRN.MI"	"TERNA"	2026-03-20	-1	1	2026-06-01	42.8571428571429	0.25	-1
+"TRN.MI"	"TERNA"	2026-03-20	-1	1	2026-06-01	42.8571428571429	0.35	-1

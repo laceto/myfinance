@@ -5,8 +5,6 @@
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-07-14	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-07-13	-1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-07-08	-1
-"ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2026-07-06	1
-"CREDEM"	"CE.MI"	"Finance"	NA	2026-07-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-07-06	-1
 "TPS"	"TPS.MI"	"Commercial Services"	NA	2026-07-02	1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-07-01	1
@@ -16,14 +14,13 @@
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-06-25	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-06-25	-1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-06-24	1
-"BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-06-23	-1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-06-22	-1
-"TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-06-19	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
+"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-15	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
+"CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-06-08	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
-"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-02	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-06-02	-1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-05-19	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-05-18	1
@@ -87,7 +84,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "GENERALFINANCE"	"GF.MI"	"Finance"	NA	2024-10-04	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2024-08-05	1
-"CALTAGIRONE"	"CALT.MI"	"Non-Energy Minerals"	NA	2024-05-29	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
@@ -95,6 +91,7 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
+"BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2023-09-26	-1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	2023-08-29	1
 "IVS GROUP"	"IVS.MI"	"Retail Trade"	NA	2023-07-24	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
