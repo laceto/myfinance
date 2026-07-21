@@ -14,6 +14,7 @@
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-06-25	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-06-25	-1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-06-24	1
+"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-06-22	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-06-22	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-15	-1
@@ -42,7 +43,6 @@ NA	"LLY.DE"	NA	NA	2026-04-30	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-20	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
-"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-02-04	1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-01-23	-1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-01-20	1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-01-12	-1
