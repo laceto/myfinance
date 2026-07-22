@@ -346,6 +346,7 @@
 "WBS.MI"	"rbo_100"	NA
 "WIIT.MI"	"rbo_100"	NA
 "XPR.MI"	"rbo_100"	NA
+"YOLO.MI"	"rbo_100"	NA
 "ZEST.MI"	"rbo_100"	NA
 "ZUC.MI"	"rbo_100"	NA
 "ZV.MI"	"rbo_100"	NA
