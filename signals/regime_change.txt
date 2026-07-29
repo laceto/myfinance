@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ITALGAS"	"IG.MI"	"Utilities"	"si"	2026-07-29	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-07-28	1
 "ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-07-28	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-07-22	-1
@@ -27,7 +28,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
-"ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2026-04-13	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-04-13	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-03-30	-1
@@ -52,7 +52,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-11-13	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-11-07	-1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
-"ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-09-30	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1

@@ -13,4 +13,4 @@
 "MARR"	"MARR.MI"	2021-10-06	2024-08-05	"Distribution Services"	-1	2026-02-19
 "AMPLIFON"	"AMP.MI"	2023-06-26	2024-07-10	"Distribution Services"	1	2026-05-07
 "UNIPOLSAI"	"US.MI"	2022-07-06	2024-05-20	"Finance"	-2	2024-02-16
-"BIESSE"	"BSS.MI"	2021-09-15	2023-04-11	"Producer Manufacturing"	0	2025-10-09
+"BIESSE"	"BSS.MI"	2021-09-15	2023-04-11	"Producer Manufacturing"	-1	2025-10-09
