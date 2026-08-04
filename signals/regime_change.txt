@@ -1,11 +1,10 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-08-04	1
 NA	"STMMI.MI"	NA	NA	2026-07-30	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-07-28	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-07-22	-1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-07-22	0
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-07-08	-1
-"CREDEM"	"CE.MI"	"Finance"	NA	2026-07-06	1
-"TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-07-06	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-07-01	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-06-30	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-06-30	1
@@ -18,6 +17,7 @@ NA	"STMMI.MI"	NA	NA	2026-07-30	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-15	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-06-11	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
+"CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-06-08	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-06-02	-1
@@ -31,7 +31,9 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-03-30	-1
+"PLC"	"PLC.MI"	"Industrial Services"	NA	2026-03-25	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-25	1
+"TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-03-20	0
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-03-06	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-03-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
@@ -66,7 +68,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
 "DIASORIN"	"DIA.MI"	"Health Technology"	"si"	2025-06-23	-1
 "HEALTH ITALIA"	"HI.MI"	"Health Services"	NA	2025-05-22	1
-"SIT"	"SIT.MI"	"Producer Manufacturing"	NA	2025-05-14	1
 "POSTE ITALIANE"	"PST.MI"	"Finance"	"si"	2025-02-20	1
 "SHEDIR PHARMA GROUP"	"SHE.MI"	"Health Technology"	NA	2025-01-17	1
 "FERRARI"	"RACE.MI"	"Consumer Durables"	"si"	2025-01-13	-1

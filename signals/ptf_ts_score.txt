@@ -1,25 +1,25 @@
-"sector"	"name"	"ticker"	"2026-08-03"	"2026-07-31"	"2026-07-30"	"2026-07-29"	"2026-07-28"
-"Utilities"	"A2A"	"A2A.MI"	-1	-1	-1	0	0
-"Utilities"	"ACEA"	"ACE.MI"	-1	-1	0	0	0
-"Distribution Services"	"AMPLIFON"	"AMP.MI"	3	3	1	1	1
+"sector"	"name"	"ticker"	"2026-08-04"	"2026-08-03"	"2026-07-31"	"2026-07-30"	"2026-07-29"
+"Utilities"	"A2A"	"A2A.MI"	-1	-1	-1	-1	0
+"Utilities"	"ACEA"	"ACE.MI"	-1	-1	-1	0	0
+"Distribution Services"	"AMPLIFON"	"AMP.MI"	1	3	3	1	1
 "Electronic Technology"	"AVIO"	"AVIO.MI"	-1	-1	-1	-1	-1
-"Finance"	"AZIMUT"	"AZM.MI"	1	1	1	0	0
-"Finance"	"BANCO BPM"	"BAMI.MI"	5	5	5	3	3
-"Producer Manufacturing"	"BREMBO"	"BRE.MI"	0	0	0	0	-1
-"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-1	-1	-1	-1	-1
-"Non-Energy Minerals"	"CALTAGIRONE"	"CALT.MI"	1	1	0	0	0
+"Finance"	"AZIMUT"	"AZM.MI"	1	1	1	1	0
+"Finance"	"BANCO BPM"	"BAMI.MI"	5	5	5	5	3
+"Producer Manufacturing"	"BREMBO"	"BRE.MI"	0	0	0	0	0
+"Non-Energy Minerals"	"BUZZI"	"BZU.MI"	-1	0	0	0	0
+"Non-Energy Minerals"	"CALTAGIRONE"	"CALT.MI"	1	1	1	0	0
 "Electronic Technology"	"DATALOGIC"	"DAL.MI"	2	2	2	2	2
-"Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	-1	-1	1	3	3
-"Finance"	"FINECOBANK"	"FBK.MI"	1	3	3	3	3
+"Producer Manufacturing"	"DANIELI & C"	"DAN.MI"	-1	-1	-1	1	3
+"Finance"	"FINECOBANK"	"FBK.MI"	1	1	3	3	3
 "Producer Manufacturing"	"FINCANTIERI"	"FCT.MI"	3	3	3	3	3
 "Utilities"	"ITALGAS"	"IG.MI"	-1	-1	-1	-1	-1
-"Finance"	"INTESA SANPAOLO"	"ISP.MI"	1	5	5	5	5
+"Finance"	"INTESA SANPAOLO"	"ISP.MI"	1	1	5	5	5
 "Producer Manufacturing"	"LUVE"	"LUVE.MI"	3	3	3	3	3
 "Industrial Services"	"MAIRE"	"MAIRE.MI"	1	1	1	1	1
-"Retail Trade"	"OVS"	"OVS.MI"	4	4	4	4	4
-"Industrial Services"	"PLC"	"PLC.MI"	1	2	4	4	4
+"Retail Trade"	"OVS"	"OVS.MI"	5	4	4	4	4
+"Industrial Services"	"PLC"	"PLC.MI"	2	2	2	4	4
 "Producer Manufacturing"	"PRYSMIAN"	"PRY.MI"	3	3	3	3	3
-"Utilities"	"SNAM"	"SRG.MI"	-1	-1	-1	-1	-3
-NA	NA	"STMMI.MI"	3	3	3	1	1
+"Utilities"	"SNAM"	"SRG.MI"	-1	-1	-1	-1	-1
+NA	NA	"STMMI.MI"	3	3	3	3	1
 "Consumer Durables"	"TECHNOGYM"	"TGYM.MI"	-1	-1	-1	-1	-1
-"Industrial Services"	"WEBUILD"	"WBD.MI"	0	-1	-1	-1	-1
+"Industrial Services"	"WEBUILD"	"WBD.MI"	0	0	-1	-1	-1
