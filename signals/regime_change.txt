@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-08-04	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-08-04	1
 NA	"STMMI.MI"	NA	NA	2026-07-30	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-07-28	1
