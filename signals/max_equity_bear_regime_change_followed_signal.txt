@@ -1,4 +1,5 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
+"TENARIS"	"TEN.MI"	2026-06-18	2026-08-06	"Non-Energy Minerals"	-5	2026-03-27
 "TERNA"	"TRN.MI"	2026-01-12	2026-06-01	"Utilities"	0	2026-03-20
 "ITALGAS"	"IG.MI"	2025-09-08	2026-05-15	"Utilities"	-1	2026-02-17
 "LEONARDO"	"LDO.MI"	2026-03-30	2026-05-11	"Electronic Technology"	1	2026-03-19
@@ -12,6 +13,5 @@
 "NEXI"	"NEXI.MI"	2020-10-07	2024-11-14	"Finance"	1	2026-05-04
 "INWIT"	"INW.MI"	2023-07-20	2024-11-06	"Communications"	-1	2026-03-03
 "MARR"	"MARR.MI"	2021-10-06	2024-08-05	"Distribution Services"	-1	2026-02-19
-"AMPLIFON"	"AMP.MI"	2023-06-26	2024-07-10	"Distribution Services"	-1	2026-08-03
 "UNIPOLSAI"	"US.MI"	2022-07-06	2024-05-20	"Finance"	-2	2024-02-16
 "BIESSE"	"BSS.MI"	2021-09-15	2023-04-11	"Producer Manufacturing"	0	2025-10-09
