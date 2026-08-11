@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"GVS.MI"	"GVS"	2026-08-07	"rbo_100"	1
+"VIM.MI"	"VIMI FASTENERS"	2026-08-11	"rbo_100"	1
 "SFL.MI"	"SAFILO GROUP"	2026-08-06	"rbo_100"	1
 "STAR7.MI"	"STAR7"	2026-08-04	"rbo_100"	-1
 "DAN.MI"	"DANIELI & C"	2026-07-30	"rbo_100"	-1

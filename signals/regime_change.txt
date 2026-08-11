@@ -1,8 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"GVS"	"GVS.MI"	"Electronic Technology"	NA	2026-08-10	1
+"VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-08-11	1
 "TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-08-10	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-08-07	1
-"AZIMUT"	"AZM.MI"	"Finance"	NA	2026-08-05	1
+"AZIMUT"	"AZM.MI"	"Finance"	NA	2026-08-06	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-08-04	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-08-04	1
 NA	"STMMI.MI"	NA	NA	2026-07-30	1
