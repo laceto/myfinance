@@ -1,5 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "TEN.MI"	"TENARIS"	2026-08-06	"rbo_100"	-1
+"AMP.MI"	"AMPLIFON"	2026-07-31	"rbo_100"	1
 "RACE.MI"	"FERRARI"	2026-07-30	"rbo_100"	1
 "REY.MI"	"REPLY"	2026-07-30	"rbo_100"	1
 "BGN.MI"	"BANCA GENERALI"	2026-06-15	"rbo_100"	1
@@ -29,6 +30,5 @@
 "NEXI.MI"	"NEXI"	2024-11-14	"rbo_100"	-1
 "INW.MI"	"INWIT"	2024-11-06	"rbo_100"	-1
 "MARR.MI"	"MARR"	2024-08-05	"rbo_100"	-1
-"AMP.MI"	"AMPLIFON"	2024-07-10	"rbo_100"	-1
 "US.MI"	"UNIPOLSAI"	2024-05-20	"rbo_100"	-1
 "BSS.MI"	"BIESSE"	2023-04-11	"rbo_100"	-1
