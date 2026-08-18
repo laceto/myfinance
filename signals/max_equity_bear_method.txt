@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"AMP.MI"	"AMPLIFON"	2026-08-14	"rbo_100"	1
+"AMP.MI"	"AMPLIFON"	2026-07-31	"rbo_100"	1
 "RACE.MI"	"FERRARI"	2026-07-30	"rbo_100"	1
 "REY.MI"	"REPLY"	2026-07-30	"rbo_100"	1
 "BGN.MI"	"BANCA GENERALI"	2026-06-15	"rbo_100"	1
