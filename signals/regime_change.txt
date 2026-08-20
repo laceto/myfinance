@@ -1,23 +1,21 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-08-20	1
+"FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-08-19	1
+"SIAV"	"SIAV.MI"	"Technology Services"	NA	2026-08-19	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-08-18	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-08-17	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-08-17	1
 "TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-08-17	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-08-11	-1
-"GVS"	"GVS.MI"	"Electronic Technology"	NA	2026-08-10	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-08-10	1
 "DOVALUE"	"DOV.MI"	"Finance"	NA	2026-08-07	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-08-07	1
+"AZIMUT"	"AZM.MI"	"Finance"	NA	2026-08-06	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-08-06	-1
-"AZIMUT"	"AZM.MI"	"Finance"	NA	2026-08-05	1
-"ARTERRA BIOSCIENCE"	"ARBS.MI"	"Health Technology"	NA	2026-08-04	1
 "CENTRALE DEL LATTE D'ITALIA"	"CLI.MI"	"Consumer Non-Durables"	NA	2026-08-04	1
-NA	"STMMI.MI"	NA	NA	2026-07-30	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-07-28	1
-"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-07-24	-1
-"BFF BANK"	"BFF.MI"	"Finance"	NA	2026-07-15	1
+"TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-07-22	-1
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-07-13	1
-"ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2026-07-13	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-07-08	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-07-01	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-06-30	1
@@ -25,7 +23,6 @@ NA	"STMMI.MI"	NA	NA	2026-07-30	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-06-24	1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-06-22	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
-"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-06-15	-1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-06-11	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
@@ -47,6 +44,7 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-03-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-03-03	1
+"ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2026-02-25	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-20	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
 "GEL"	"GEL.MI"	"Producer Manufacturing"	NA	2026-02-18	1
