@@ -1,7 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
 "REPLY"	"REY.MI"	2026-06-25	-1	2026-08-21	"rsma_50100150"	-1
 "REPLY"	"REY.MI"	2026-06-25	-1	2026-08-19	"rema_50100150"	-1
-"MONCLER"	"MONC.MI"	2026-06-11	-1	2026-07-23	"rtt_5020"	-1
 "ENEL"	"ENEL.MI"	2026-06-02	-1	2026-08-14	"rtt_5020"	-1
 "SNAM"	"SRG.MI"	2026-06-02	-1	2026-07-14	"rtt_5020"	-1
 "ERG"	"ERG.MI"	2026-04-17	-1	2026-07-27	"rtt_5020"	-1

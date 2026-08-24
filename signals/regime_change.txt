@@ -7,6 +7,7 @@
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-08-17	1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-08-17	1
 "TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-08-17	1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-08-17	-1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-08-11	-1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-08-10	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-08-07	1
@@ -24,7 +25,6 @@
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-06-24	1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-06-22	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-06-15	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-06-11	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
