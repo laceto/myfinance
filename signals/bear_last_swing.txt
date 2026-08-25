@@ -1,7 +1,7 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
+NA	"NEXI.MI"	"NEXI"	"si"	-1	2026-08-25	4.49
 -1	"BC.MI"	"BRUNELLO CUCINELLI"	"si"	1	2026-08-06	95.04
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	1	2026-08-06	39
-NA	"NEXI.MI"	"NEXI"	"si"	-1	2026-08-05	4.44
 NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	1	2026-08-05	7.47
 NA	"CPR.MI"	"CAMPARI"	"si"	1	2026-07-30	6.39
 -1	"MONC.MI"	"MONCLER"	"si"	-1	2026-07-21	52.76
