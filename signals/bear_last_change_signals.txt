@@ -1,4 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"A2A.MI"	"A2A"	"si"	1	2026-08-26
+NA	"HER.MI"	"HERA"	"si"	1	2026-08-26
 NA	"REY.MI"	"REPLY"	"si"	-1	2026-08-21
 NA	"NEXI.MI"	"NEXI"	"si"	-1	2026-08-20
 NA	"RACE.MI"	"FERRARI"	"si"	-1	2026-08-20
@@ -20,8 +22,6 @@ NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	1	2026-08-04
 NA	"IRE.MI"	"IREN"	"si"	-1	2026-08-03
 NA	"WBD.MI"	"WEBUILD"	"si"	0	2026-08-03
 NA	"BSS.MI"	"BIESSE"	"si"	0	2026-08-03
-NA	"A2A.MI"	"A2A"	"si"	-1	2026-07-30
-NA	"HER.MI"	"HERA"	"si"	0	2026-07-30
 NA	"SRG.MI"	"SNAM"	"si"	-1	2026-07-29
 NA	"IG.MI"	"ITALGAS"	"si"	-1	2026-07-28
 NA	"ERG.MI"	"ERG"	"si"	-1	2026-07-27
