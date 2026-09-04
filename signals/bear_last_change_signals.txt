@@ -1,4 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"TNXT.MI"	"TINEXTA"	"si"	0	2026-09-04
+-1	"ACE.MI"	"ACEA"	"si"	-1	2026-09-03
 NA	"DAL.MI"	"DATALOGIC"	"si"	2	2026-09-03
 NA	"DIA.MI"	"DIASORIN"	"si"	-3	2026-09-02
 NA	"A2A.MI"	"A2A"	"si"	0	2026-09-02
@@ -17,11 +19,9 @@ NA	"RACE.MI"	"FERRARI"	"si"	-1	2026-08-20
 NA	"AMP.MI"	"AMPLIFON"	"si"	1	2026-08-19
 NA	"ENEL.MI"	"ENEL"	"si"	-1	2026-08-14
 NA	"TRN.MI"	"TERNA"	"si"	-1	2026-08-12
--1	"TNXT.MI"	"TINEXTA"	"si"	-1	2026-08-06
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	1	2026-08-05
 NA	"IRE.MI"	"IREN"	"si"	-1	2026-08-03
 NA	"BSS.MI"	"BIESSE"	"si"	0	2026-08-03
-NA	"ACE.MI"	"ACEA"	"si"	-1	2026-07-31
 NA	"SRG.MI"	"SNAM"	"si"	-1	2026-07-29
 NA	"IG.MI"	"ITALGAS"	"si"	-1	2026-07-28
 NA	"ERG.MI"	"ERG"	"si"	-1	2026-07-27
