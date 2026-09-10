@@ -127,6 +127,7 @@
 "EXAI.MI"	"rbo_100"	NA
 "FARM.MI"	"rbo_100"	NA
 "FBK.MI"	"rbo_100"	NA
+"FCH.MI"	"rbo_100"	NA
 "FCM.MI"	"rbo_100"	NA
 "FCT.MI"	"rbo_100"	NA
 "FDA.MI"	"rbo_100"	NA
