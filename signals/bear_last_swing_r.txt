@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_swing_r"	"rh3"
+"ENI.MI"	"ENI"	2026-09-10	9.73
 "DIA.MI"	"DIASORIN"	2026-09-01	30.91
 "REY.MI"	"REPLY"	2026-09-01	49.24
 "IP.MI"	"INTERPUMP GROUP"	2026-08-27	15.07
