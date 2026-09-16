@@ -1,4 +1,5 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"ENI"	"ENI.MI"	"Energy Minerals"	"si"	2026-09-15	0
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-09-14	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-09-09	1
 "DHH"	"DHH.MI"	"Technology Services"	NA	2026-09-08	1
@@ -37,6 +38,7 @@ NA	"STMMI.MI"	NA	NA	2026-08-26	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-05-12	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 NA	"LLY.DE"	NA	NA	2026-04-29	1
+"B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-21	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
@@ -62,7 +64,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2025-11-07	-1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
-"ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-09-08	-1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-09-04	1
