@@ -1,5 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "DIA.MI"	"DIASORIN"	2026-09-18	"rbo_100"	1
+"TEN.MI"	"TENARIS"	2026-08-06	"rbo_100"	-1
 "AMP.MI"	"AMPLIFON"	2026-07-31	"rbo_100"	1
 "RACE.MI"	"FERRARI"	2026-07-30	"rbo_100"	1
 "REY.MI"	"REPLY"	2026-07-30	"rbo_100"	1
@@ -17,7 +18,6 @@
 "A2A.MI"	"A2A"	2026-04-17	"rbo_100"	-1
 "ACE.MI"	"ACEA"	2026-04-15	"rbo_100"	-1
 "DAL.MI"	"DATALOGIC"	2026-03-25	"rbo_100"	1
-"ERG.MI"	"ERG"	2026-03-17	"rbo_100"	-1
 "IP.MI"	"INTERPUMP GROUP"	2026-02-17	"rbo_100"	-1
 "MONC.MI"	"MONCLER"	2026-01-27	"rbo_100"	-1
 "TNXT.MI"	"TINEXTA"	2026-01-05	"rbo_100"	-1

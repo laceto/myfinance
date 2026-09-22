@@ -1,13 +1,16 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-09-21	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-09-18	1
+"D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-09-18	1
+"ERG"	"ERG.MI"	"Utilities"	"si"	2026-09-18	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-09-16	-1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2026-09-15	0
+"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-09-10	-1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-09-09	1
 "EVISO"	"EVISO.MI"	"Utilities"	NA	2026-09-02	1
-"MAPS"	"MAPS.MI"	"Technology Services"	NA	2026-09-01	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-09-01	-1
 NA	"STMMI.MI"	NA	NA	2026-08-26	1
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-08-21	1
+"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-08-20	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-08-20	-1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-08-19	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-08-19	-1
@@ -22,7 +25,6 @@ NA	"STMMI.MI"	NA	NA	2026-08-26	1
 "BELLINI NAUTICA"	"BELL.MI"	"Retail Trade"	NA	2026-07-14	1
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-07-13	1
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2026-07-13	1
-"D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-07-01	1
 "SECO"	"IOT.MI"	"Electronic Technology"	NA	2026-06-26	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-06-24	1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-06-22	1
@@ -41,14 +43,12 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-21	1
-"ERG"	"ERG.MI"	"Utilities"	"si"	2026-04-17	-1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2026-04-13	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-25	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-03-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
-"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-03-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-20	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-01-23	-1
