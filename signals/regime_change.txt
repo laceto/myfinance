@@ -1,11 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CONFINVEST"	"CFV.MI"	"Distribution Services"	NA	2026-09-24	1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-09-21	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-09-21	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-09-18	1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-09-18	1
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-09-16	-1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2026-09-15	0
-"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-09-10	-1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-09-09	1
 "EVISO"	"EVISO.MI"	"Utilities"	NA	2026-09-02	1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-09-01	-1
@@ -13,9 +13,7 @@ NA	"STMMI.MI"	NA	NA	2026-08-26	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-08-20	1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-08-20	-1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-08-19	1
-"SIAV"	"SIAV.MI"	"Technology Services"	NA	2026-08-19	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-08-19	-1
-"SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-08-17	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-08-10	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-08-07	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-08-06	-1
@@ -38,6 +36,7 @@ NA	"STMMI.MI"	NA	NA	2026-08-26	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-06-02	-1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-05-27	1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-05-12	-1
+"BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-05-08	1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 NA	"LLY.DE"	NA	NA	2026-04-29	1
 "OFFICINA STELLARE"	"OS.MI"	"Electronic Technology"	NA	2026-04-22	1
@@ -49,6 +48,7 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-03-25	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-03-04	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
+"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-03-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-20	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-01-23	-1
@@ -66,6 +66,7 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
 "ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-09-08	-1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
+"LINDBERGH"	"LDB.MI"	"Transportation"	NA	2025-08-21	1
 "CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2025-07-31	1
 "COMER INDUSTRIES"	"COM.MI"	"Producer Manufacturing"	NA	2025-07-24	1
@@ -94,7 +95,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
 "SARAS"	"SRS.MI"	"Energy Minerals"	"si"	2023-10-25	1
-"BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2023-09-26	-1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	2023-08-29	1
 "IVS GROUP"	"IVS.MI"	"Retail Trade"	NA	2023-07-24	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
