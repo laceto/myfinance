@@ -23,7 +23,7 @@ download_data <- function(ticker){
       data <- data$get_history(start = '2016-01-01', interval = '1d')
       #data <- data$get_history(start = Sys.Date(), interval = '1d')
       
-      data <- as.data.frame(subset(data, !is.na(volume)))
+      data <- as.data.frame(subset(data, !is.na(volume) & !is.na(close)))
       data$ticker = ticker
       #print(data)
       #name_file <- paste0("./data/", ticker, ".txt")
