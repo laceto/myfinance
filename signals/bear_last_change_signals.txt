@@ -1,9 +1,9 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_change"
+NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	1	2026-10-12
+NA	"PRY.MI"	"PRYSMIAN"	"si"	0	2026-10-09
 NA	"NEXI.MI"	"NEXI"	"si"	1	2026-10-09
 NA	"INW.MI"	"INWIT"	"si"	3	2026-10-09
 NA	"BRE.MI"	"BREMBO"	"si"	-1	2026-10-08
-0	"A2A.MI"	"A2A"	"si"	0	2026-10-08
-NA	"ANIM.MI"	"ANIMA HOLDING"	"si"	3	2026-10-07
 NA	"IP.MI"	"INTERPUMP GROUP"	"si"	-1	2026-10-06
 NA	"AMP.MI"	"AMPLIFON"	"si"	1	2026-10-06
 NA	"IRE.MI"	"IREN"	"si"	-1	2026-10-01
