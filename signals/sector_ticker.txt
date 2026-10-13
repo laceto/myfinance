@@ -92,45 +92,45 @@ NA	1	NA	"NOV.DE"	-3	NA
 "Transportation"	0.75	"AEROPORTO GUGLIELMO MARCONI DI BOLOGNA"	"ADB.MI"	-1	NA
 "Transportation"	0.75	"ENAV"	"ENAV.MI"	-1	"si"
 "Transportation"	0.75	"FNM"	"FNM.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"ILPRA"	"ILP.MI"	5	NA
-"Producer Manufacturing"	0.743589743589744	"TESMEC"	"TES.MI"	5	NA
-"Producer Manufacturing"	0.743589743589744	"BEGHELLI"	"BE.MI"	4	NA
-"Producer Manufacturing"	0.743589743589744	"OSAI AUTOMATION SYSTEM"	"OSA.MI"	4	NA
-"Producer Manufacturing"	0.743589743589744	"CLABO"	"CLABO.MI"	3	NA
-"Producer Manufacturing"	0.743589743589744	"COFLE"	"CFL.MI"	3	NA
-"Producer Manufacturing"	0.743589743589744	"LUVE"	"LUVE.MI"	3	NA
-"Producer Manufacturing"	0.743589743589744	"PIOVAN"	"PVN.MI"	3	NA
-"Producer Manufacturing"	0.743589743589744	"SCIUKER FRAMES"	"SCK.MI"	3	NA
-"Producer Manufacturing"	0.743589743589744	"PRYSMIAN"	"PRY.MI"	2	"si"
-"Producer Manufacturing"	0.743589743589744	"VIMI FASTENERS"	"VIM.MI"	2	NA
-"Producer Manufacturing"	0.743589743589744	"ATON GREEN STORAGE"	"ATON.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"COMER INDUSTRIES"	"COM.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"DANIELI & C"	"DAN.MI"	1	"si"
-"Producer Manufacturing"	0.743589743589744	"FERVI"	"FVI.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"FIDIA"	"FDA.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"GEL"	"GEL.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"NUSCO"	"NUS.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"OMER"	"OMER.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"SALCEF GROUP"	"SCF.MI"	1	NA
-"Producer Manufacturing"	0.743589743589744	"FINCANTIERI"	"FCT.MI"	0	"si"
-"Producer Manufacturing"	0.743589743589744	"GIBUS"	"GBUS.MI"	0	NA
-"Producer Manufacturing"	0.743589743589744	"MARZOCCHI POMPE"	"MARP.MI"	0	NA
-"Producer Manufacturing"	0.743589743589744	"SAES GETTERS"	"SG.MI"	0	NA
-"Producer Manufacturing"	0.743589743589744	"ARISTON HOLDING"	"ARIS.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"BIESSE"	"BSS.MI"	-1	"si"
-"Producer Manufacturing"	0.743589743589744	"BREMBO"	"BRE.MI"	-1	"si"
-"Producer Manufacturing"	0.743589743589744	"CAREL INDUSTRIES"	"CRL.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"ESAUTOMOTION"	"ESAU.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"FILA"	"FILA.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"INDEL B"	"INDB.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"INTERPUMP GROUP"	"IP.MI"	-1	"si"
-"Producer Manufacturing"	0.743589743589744	"IRCE"	"IRC.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"LANDI RENZO"	"LNDR.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"RACING FORCE"	"RFG.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"SOGEFI"	"SGF.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"TENAX INTERNATIONAL"	"TNX.MI"	-1	NA
-"Producer Manufacturing"	0.743589743589744	"CIR"	"CIR.MI"	-2	NA
-"Producer Manufacturing"	0.743589743589744	"SIT"	"SIT.MI"	-2	NA
+"Producer Manufacturing"	0.692307692307692	"ILPRA"	"ILP.MI"	5	NA
+"Producer Manufacturing"	0.692307692307692	"TESMEC"	"TES.MI"	5	NA
+"Producer Manufacturing"	0.692307692307692	"BEGHELLI"	"BE.MI"	4	NA
+"Producer Manufacturing"	0.692307692307692	"OSAI AUTOMATION SYSTEM"	"OSA.MI"	4	NA
+"Producer Manufacturing"	0.692307692307692	"COFLE"	"CFL.MI"	3	NA
+"Producer Manufacturing"	0.692307692307692	"LUVE"	"LUVE.MI"	3	NA
+"Producer Manufacturing"	0.692307692307692	"PIOVAN"	"PVN.MI"	3	NA
+"Producer Manufacturing"	0.692307692307692	"SCIUKER FRAMES"	"SCK.MI"	3	NA
+"Producer Manufacturing"	0.692307692307692	"PRYSMIAN"	"PRY.MI"	2	"si"
+"Producer Manufacturing"	0.692307692307692	"VIMI FASTENERS"	"VIM.MI"	2	NA
+"Producer Manufacturing"	0.692307692307692	"ATON GREEN STORAGE"	"ATON.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"CLABO"	"CLABO.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"COMER INDUSTRIES"	"COM.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"DANIELI & C"	"DAN.MI"	1	"si"
+"Producer Manufacturing"	0.692307692307692	"FERVI"	"FVI.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"FIDIA"	"FDA.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"GEL"	"GEL.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"NUSCO"	"NUS.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"OMER"	"OMER.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"SALCEF GROUP"	"SCF.MI"	1	NA
+"Producer Manufacturing"	0.692307692307692	"FINCANTIERI"	"FCT.MI"	0	"si"
+"Producer Manufacturing"	0.692307692307692	"GIBUS"	"GBUS.MI"	0	NA
+"Producer Manufacturing"	0.692307692307692	"MARZOCCHI POMPE"	"MARP.MI"	0	NA
+"Producer Manufacturing"	0.692307692307692	"SAES GETTERS"	"SG.MI"	0	NA
+"Producer Manufacturing"	0.692307692307692	"ARISTON HOLDING"	"ARIS.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"BIESSE"	"BSS.MI"	-1	"si"
+"Producer Manufacturing"	0.692307692307692	"BREMBO"	"BRE.MI"	-1	"si"
+"Producer Manufacturing"	0.692307692307692	"CAREL INDUSTRIES"	"CRL.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"ESAUTOMOTION"	"ESAU.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"FILA"	"FILA.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"INDEL B"	"INDB.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"INTERPUMP GROUP"	"IP.MI"	-1	"si"
+"Producer Manufacturing"	0.692307692307692	"IRCE"	"IRC.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"LANDI RENZO"	"LNDR.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"RACING FORCE"	"RFG.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"SOGEFI"	"SGF.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"TENAX INTERNATIONAL"	"TNX.MI"	-1	NA
+"Producer Manufacturing"	0.692307692307692	"CIR"	"CIR.MI"	-2	NA
+"Producer Manufacturing"	0.692307692307692	"SIT"	"SIT.MI"	-2	NA
 "Process Industries"	0.666666666666667	"B.F"	"BFG.MI"	5	NA
 "Process Industries"	0.666666666666667	"NEODECORTECH"	"NDT.MI"	4	NA
 "Process Industries"	0.666666666666667	"INDUSTRIE CHIMICHE FORESTALI"	"ICF.MI"	1	NA
