@@ -1,6 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
-"TERNA"	"TRN.MI"	2026-01-12	2026-06-01	"Utilities"	-1	2026-07-23
-"ITALGAS"	"IG.MI"	2025-09-08	2026-05-15	"Utilities"	-1	2026-02-17
+"PRYSMIAN"	"PRY.MI"	2026-10-02	2026-10-15	"Producer Manufacturing"	-3	2026-10-02
+"ITALGAS"	"IG.MI"	2025-09-08	2026-05-15	"Utilities"	0	2026-02-17
 "ENAV"	"ENAV.MI"	2025-01-30	2026-04-30	"Transportation"	-1	2026-06-15
 "INTERPUMP GROUP"	"IP.MI"	2024-02-02	2026-02-17	"Producer Manufacturing"	-1	2026-10-09
 "IREN"	"IRE.MI"	2022-06-21	2025-10-31	"Utilities"	-1	2026-02-12
