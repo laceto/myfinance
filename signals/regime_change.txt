@@ -1,11 +1,12 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-10-19	1
+"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-10-19	-1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-16	-1
 "B&C SPEAKERS"	"BEC.MI"	"Consumer Durables"	NA	2026-10-15	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-10-15	-1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-15	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-10-14	-1
-"TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-10-14	-1
 "IDNTT"	"IDNTT.MI"	"Consumer Services"	NA	2026-10-12	1
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2026-10-09	1
 "DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-10-09	1
@@ -56,6 +57,7 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
 "MEDIOBANCA"	"MB.MI"	"Finance"	"si"	2026-02-20	1
 "STAR7"	"STAR7.MI"	"Industrial Services"	NA	2026-02-19	1
+"ITALGAS"	"IG.MI"	"Utilities"	"si"	2026-02-18	-1
 "WEBUILD"	"WBD.MI"	"Industrial Services"	"si"	2026-01-23	-1
 "TECHNOPROBE"	"TPRO.MI"	"Electronic Technology"	NA	2025-11-28	1
 "DIRECTA SIM"	"D.MI"	"Finance"	NA	2025-11-21	1
@@ -66,7 +68,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
 "ILLIMITY BANK"	"ILTY.MI"	"Finance"	NA	2025-09-12	1
-"ITALGAS"	"IG.MI"	"Utilities"	"si"	2025-09-08	-1
 "CIRCLE"	"CIRC.MI"	"Commercial Services"	NA	2025-09-04	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "LINDBERGH"	"LDB.MI"	"Transportation"	NA	2025-08-21	1
