@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"BEC.MI"	"B&C SPEAKERS"	2026-10-15	"rbo_100"	1
 "PRY.MI"	"PRYSMIAN"	2026-10-15	"rbo_100"	-1
 "IDNTT.MI"	"IDNTT"	2026-10-12	"rbo_100"	1
 "DIS.MI"	"D'AMICO"	2026-10-02	"rbo_100"	1

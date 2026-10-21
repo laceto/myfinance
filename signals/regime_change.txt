@@ -1,8 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
 "S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-10-19	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-10-19	-1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-16	-1
-"B&C SPEAKERS"	"BEC.MI"	"Consumer Durables"	NA	2026-10-15	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-10-15	-1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-15	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
@@ -11,7 +11,6 @@
 "BFF BANK"	"BFF.MI"	"Finance"	NA	2026-10-09	1
 "DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-10-09	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-10-08	1
-"BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-07	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-10-07	1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-10-07	1
 NA	"STMMI.MI"	NA	NA	2026-10-07	1
