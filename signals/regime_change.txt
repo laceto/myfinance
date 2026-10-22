@@ -1,10 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-22	-1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
-"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-10-19	1
 "TENARIS"	"TEN.MI"	"Non-Energy Minerals"	"si"	2026-10-19	-1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-16	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-10-15	-1
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-15	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-10-14	-1
 "IDNTT"	"IDNTT.MI"	"Consumer Services"	NA	2026-10-12	1
@@ -27,6 +26,7 @@ NA	"STMMI.MI"	NA	NA	2026-10-07	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-08-10	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-08-07	1
 "TINEXTA"	"TNXT.MI"	"Technology Services"	"si"	2026-08-06	-1
+"S.S. LAZIO"	"SSL.MI"	"Consumer Services"	NA	2026-07-30	1
 "PROMOTICA"	"PMT.MI"	"Commercial Services"	NA	2026-07-24	1
 "TECHNOGYM"	"TGYM.MI"	"Consumer Durables"	"si"	2026-07-22	-1
 "BELLINI NAUTICA"	"BELL.MI"	"Retail Trade"	NA	2026-07-14	1
@@ -63,6 +63,7 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "NEODECORTECH"	"NDT.MI"	"Process Industries"	NA	2025-11-14	1
 "SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	"Finance"	NA	2025-11-14	1
 "EL.EN"	"ELN.MI"	"Health Technology"	NA	2025-11-13	1
+"A2A"	"A2A.MI"	"Utilities"	"si"	2025-11-07	-1
 "ALMAWAVE"	"AIW.MI"	"Technology Services"	NA	2025-10-15	1
 "DANIELI & C"	"DAN.MI"	"Producer Manufacturing"	"si"	2025-09-26	1
 "ENI"	"ENI.MI"	"Energy Minerals"	"si"	2025-09-22	1
@@ -92,7 +93,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1
 "BANCA MEDIOLANUM"	"BMED.MI"	"Finance"	"si"	2024-04-23	1
 "OVS"	"OVS.MI"	"Retail Trade"	"si"	2024-04-17	1
-"A2A"	"A2A.MI"	"Utilities"	"si"	2024-03-13	-1
 "UNIPOL"	"UNI.MI"	"Finance"	"si"	2024-02-15	1
 "TOD'S"	"TOD.MI"	"Consumer Non-Durables"	NA	2024-02-12	1
 "INTERPUMP GROUP"	"IP.MI"	"Producer Manufacturing"	"si"	2024-02-02	-1
