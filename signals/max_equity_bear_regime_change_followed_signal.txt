@@ -1,7 +1,7 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "ITALGAS"	"IG.MI"	2026-02-18	2026-05-15	"Utilities"	1	2026-10-22
-"ENAV"	"ENAV.MI"	2025-01-30	2026-04-30	"Transportation"	0	2026-10-22
-"IREN"	"IRE.MI"	2022-06-21	2025-10-31	"Utilities"	-1	2026-10-22
+"ENAV"	"ENAV.MI"	2025-01-30	2026-04-30	"Transportation"	1	2026-10-22
+"IREN"	"IRE.MI"	2022-06-21	2025-10-31	"Utilities"	0	2026-10-22
 "HERA"	"HER.MI"	2022-05-10	2025-07-30	"Utilities"	0	2025-11-20
 "JUVENTUS FC"	"JUVE.MI"	2020-07-24	2025-01-24	"Consumer Services"	-1	2025-05-19
 "MARR"	"MARR.MI"	2021-10-06	2024-08-05	"Distribution Services"	-1	2026-02-19

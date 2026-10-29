@@ -1,5 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"date_last_change"	"sector"	"last_day_score"	"date_last_swing_r"
 "TENARIS"	"TEN.MI"	2026-03-03	2026-10-28	"Non-Energy Minerals"	3	2026-08-13
+"OMER"	"OMER.MI"	2026-08-28	2026-10-08	"Producer Manufacturing"	1	2026-07-17
 "OFFICINA STELLARE"	"OS.MI"	2026-04-22	2026-10-02	"Electronic Technology"	5	2026-04-08
 "GAS PLUS"	"GSP.MI"	2025-06-23	2026-09-15	"Utilities"	3	2026-06-18
 "VIMI FASTENERS"	"VIM.MI"	2026-08-10	2026-08-11	"Producer Manufacturing"	2	2026-07-09
@@ -10,7 +11,7 @@
 "UNICREDIT"	"UCG.MI"	2022-07-15	2026-07-22	"Finance"	3	2026-04-24
 "CREDEM"	"CE.MI"	2026-06-09	2026-07-08	"Finance"	3	2026-06-04
 "BANCA MEDIOLANUM"	"BMED.MI"	2024-04-23	2026-07-02	"Finance"	3	2026-06-04
-"SECO"	"IOT.MI"	2026-06-26	2026-07-01	"Electronic Technology"	4	2026-05-19
+"SECO"	"IOT.MI"	2026-06-26	2026-07-01	"Electronic Technology"	5	2026-05-19
 "UNIPOL"	"UNI.MI"	2024-02-15	2026-07-01	"Finance"	3	2026-10-12
 NA	"LLY.DE"	2026-04-29	2026-06-29	NA	5	2026-08-04
 "GENERALI ASS"	"G.MI"	2026-04-13	2026-06-09	"Finance"	3	2026-10-05
