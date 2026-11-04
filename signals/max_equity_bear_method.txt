@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"ENAV.MI"	"ENAV"	2026-11-02	"rbo_100"	1
 "BC.MI"	"BRUNELLO CUCINELLI"	2026-10-16	"rbo_100"	1
 "IP.MI"	"INTERPUMP GROUP"	2026-10-16	"rbo_100"	1
 "A2A.MI"	"A2A"	2026-10-13	"rbo_100"	1
@@ -16,9 +17,9 @@
 "ENEL.MI"	"ENEL"	2026-06-02	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2026-06-01	"rbo_100"	-1
 "BRE.MI"	"BREMBO"	2026-05-29	"rbo_100"	1
+"TGYM.MI"	"TECHNOGYM"	2026-05-28	"rbo_100"	-1
 "IG.MI"	"ITALGAS"	2026-05-15	"rbo_100"	-1
 "LDO.MI"	"LEONARDO"	2026-05-11	"rbo_100"	-1
-"ENAV.MI"	"ENAV"	2026-04-30	"rbo_100"	-1
 "ACE.MI"	"ACEA"	2026-04-15	"rbo_100"	-1
 "DAL.MI"	"DATALOGIC"	2026-03-25	"rbo_100"	1
 "MONC.MI"	"MONCLER"	2026-01-27	"rbo_100"	-1
