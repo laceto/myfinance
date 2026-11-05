@@ -1,7 +1,6 @@
 "name"	"ticker"	"date_regime_change"	"rrg"	"date_last_change"	"method"	"signal"
 "SNAM"	"SRG.MI"	2026-10-28	1	2026-10-30	"rbo_100"	1
 "SIAV"	"SIAV.MI"	2026-10-27	1	2026-10-28	"rema_50100150"	1
-NA	"STMMI.MI"	2026-10-23	1	2026-10-28	"rsma_50100150"	1
 "IDNTT"	"IDNTT.MI"	2026-10-12	1	2026-10-15	"rema_50100150"	1
 "LUVE"	"LUVE.MI"	2026-10-07	1	2026-10-20	"rsma_50100150"	1
 "DE'LONGHI"	"DLG.MI"	2026-08-31	1	2026-09-30	"rtt_5020"	1

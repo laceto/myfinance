@@ -19,5 +19,6 @@
 "Industrial Services"	"PLC"	"PLC.MI"	0	0	0	0	0
 "Producer Manufacturing"	"PRYSMIAN"	"PRY.MI"	1	1	1	-1	-1
 "Utilities"	"SNAM"	"SRG.MI"	5	5	5	3	3
+NA	NA	"STMMI.MI"	-3	-3	-3	-3	-3
 "Consumer Durables"	"TECHNOGYM"	"TGYM.MI"	1	1	1	1	1
 "Industrial Services"	"WEBUILD"	"WBD.MI"	0	0	0	0	0
