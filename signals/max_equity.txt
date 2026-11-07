@@ -271,6 +271,7 @@
 "RDF.MI"	"rbo_100"	NA
 "REC.MI"	"rbo_100"	NA
 "RETI.MI"	"rbo_100"	NA
+"REVO.MI"	"rbo_100"	NA
 "REY.MI"	"rbo_100"	NA
 "RFG.MI"	"rbo_100"	NA
 "RKT.MI"	"rbo_100"	NA

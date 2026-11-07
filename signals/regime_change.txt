@@ -1,33 +1,35 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-11-03	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-06	1
+"EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-11-06	1
+"FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
+"SOL"	"SOL.MI"	"Process Industries"	NA	2026-11-05	1
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-05	-1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-11-05	-1
+"A.B.P. NOCIVELLI"	"ABP.MI"	"Industrial Services"	NA	2026-11-04	1
+"DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2026-11-04	1
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-11-02	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-30	-1
 "GISMONDI 1754"	"GIS.MI"	"Consumer Durables"	NA	2026-10-29	1
-"DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2026-10-28	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-10-28	1
 "SIAV"	"SIAV.MI"	"Technology Services"	NA	2026-10-27	1
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-10-27	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-10-23	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-10-23	-1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-10-23	0
 "BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-10-22	-1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-22	-1
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-10-22	0
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-10-15	-1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-10-14	-1
 "PLANETEL"	"PLN.MI"	"Communications"	NA	2026-10-13	1
 "IDNTT"	"IDNTT.MI"	"Consumer Services"	NA	2026-10-12	1
-"BFF BANK"	"BFF.MI"	"Finance"	NA	2026-10-09	1
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-10-08	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-10-07	1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-10-07	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-09-30	1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-09-29	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-09-21	-1
+"DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-09-15	1
+"AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2026-09-11	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-09-09	1
-"DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-08-31	1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2026-08-28	1
 "LEONARDO"	"LDO.MI"	"Electronic Technology"	"si"	2026-08-19	-1
 "SOFTLAB"	"SFT.MI"	"Technology Services"	NA	2026-08-17	1
@@ -45,7 +47,7 @@
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
-"EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-05-27	1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-06-02	-1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-05-12	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 NA	"LLY.DE"	NA	NA	2026-04-29	1
@@ -104,7 +106,6 @@ NA	"IGD.MI"	NA	NA	2024-11-14	1
 "ITALIAN EXHIBITION GROUP"	"IEG.MI"	"Commercial Services"	NA	2023-08-29	1
 "IVS GROUP"	"IVS.MI"	"Retail Trade"	NA	2023-07-24	1
 "INWIT"	"INW.MI"	"Communications"	"si"	2023-07-20	-1
-"AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2023-06-26	-1
 "CAMPARI"	"CPR.MI"	"Consumer Non-Durables"	"si"	2023-06-20	-1
 "UNICREDIT"	"UCG.MI"	"Finance"	"si"	2022-07-15	1
 "UNIPOLSAI"	"US.MI"	"Finance"	"si"	2022-07-06	-1
