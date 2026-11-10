@@ -141,6 +141,56 @@
 "Consumer Services"	0.407407407407407	"RCS MEDIAGROUP"	"RCS.MI"	-1	NA
 "Consumer Services"	0.407407407407407	"SOCIETA' EDITORIALE IL FATTO"	"SEIF.MI"	-1	NA
 "Consumer Services"	0.407407407407407	"MONDADORI EDIT"	"MN.MI"	-3	NA
+"Finance"	0.36	"BANCA MEDIOLANUM"	"BMED.MI"	4	"si"
+"Finance"	0.36	"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	4	NA
+"Finance"	0.36	"BCA POP SONDRIO"	"BPSO.MI"	4	NA
+"Finance"	0.36	"CREDEM"	"CE.MI"	4	NA
+"Finance"	0.36	"GENERALI ASS"	"G.MI"	4	NA
+"Finance"	0.36	"INTESA SANPAOLO"	"ISP.MI"	4	"si"
+"Finance"	0.36	"MEDIOBANCA"	"MB.MI"	4	"si"
+"Finance"	0.36	"UNIPOL"	"UNI.MI"	4	"si"
+"Finance"	0.36	"BCA PROFILO"	"PRO.MI"	3	NA
+"Finance"	0.36	"BCO DESIO BRIANZA"	"BDB.MI"	3	NA
+"Finance"	0.36	"BPER BANCA"	"BPE.MI"	3	"si"
+"Finance"	0.36	"NEXI"	"NEXI.MI"	3	"si"
+"Finance"	0.36	"BORGOSESIA"	"BO.MI"	2	NA
+"Finance"	0.36	"ILLIMITY BANK"	"ILTY.MI"	2	NA
+"Finance"	0.36	"MITTEL"	"MIT.MI"	2	NA
+"Finance"	0.36	"AEDES"	"AEDES.MI"	1	NA
+"Finance"	0.36	"BASTOGI SPA"	"B.MI"	1	NA
+"Finance"	0.36	"BESTBE HOLDING"	"BES.MI"	1	NA
+"Finance"	0.36	"COPERNICO"	"COP.MI"	1	NA
+"Finance"	0.36	"DIRECTA SIM"	"D.MI"	1	NA
+"Finance"	0.36	"MET.EXTRA GROUP"	"MET.MI"	1	NA
+"Finance"	0.36	"FINECOBANK"	"FBK.MI"	0	NA
+"Finance"	0.36	"GENERALFINANCE"	"GF.MI"	0	NA
+"Finance"	0.36	"MEVIM"	"MEV.MI"	0	NA
+"Finance"	0.36	"SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	0	NA
+"Finance"	0.36	"UNICREDIT"	"UCG.MI"	0	"si"
+"Finance"	0.36	"VIANINI"	"VIA.MI"	0	NA
+"Finance"	0.36	"4AIM SICAF"	"AIM.MI"	-1	NA
+"Finance"	0.36	"AZIMUT"	"AZM.MI"	-1	NA
+"Finance"	0.36	"BANCA GENERALI"	"BGN.MI"	-1	"si"
+"Finance"	0.36	"BANCA IFIS"	"IF.MI"	-1	NA
+"Finance"	0.36	"CONAFI"	"CNF.MI"	-1	NA
+"Finance"	0.36	"DOVALUE"	"DOV.MI"	-1	NA
+"Finance"	0.36	"EQUITA GROUP"	"EQUI.MI"	-1	NA
+"Finance"	0.36	"FIRST CAPITAL"	"FIC.MI"	-1	NA
+"Finance"	0.36	"MIT SIM"	"MTS.MI"	-1	NA
+"Finance"	0.36	"PREMIA FINANCE"	"PFI.MI"	-1	NA
+"Finance"	0.36	"REVO INSURANCE"	"REVO.MI"	-1	NA
+"Finance"	0.36	"YOLO GROUP"	"YOLO.MI"	-1	NA
+"Finance"	0.36	"ZEST"	"ZEST.MI"	-1	NA
+"Finance"	0.36	"ABC COMPANY"	"ABC.MI"	-2	NA
+"Finance"	0.36	"GABETTI"	"GAB.MI"	-2	NA
+"Finance"	0.36	"POSTE ITALIANE"	"PST.MI"	-2	"si"
+"Finance"	0.36	"TAMBURI"	"TIP.MI"	-2	NA
+"Finance"	0.36	"UNIPOLSAI"	"US.MI"	-2	"si"
+"Finance"	0.36	"ABITARE IN"	"ABT.MI"	-3	NA
+"Finance"	0.36	"ANIMA HOLDING"	"ANIM.MI"	-3	"si"
+"Finance"	0.36	"BANCA SISTEMA"	"BST.MI"	-3	NA
+"Finance"	0.36	"BANCO BPM"	"BAMI.MI"	-3	"si"
+"Finance"	0.36	"BFF BANK"	"BFF.MI"	-3	NA
 "Health Technology"	0.357142857142857	"EL.EN"	"ELN.MI"	5	NA
 "Health Technology"	0.357142857142857	"SAFILO GROUP"	"SFL.MI"	5	"si"
 "Health Technology"	0.357142857142857	"SHEDIR PHARMA GROUP"	"SHE.MI"	5	NA
@@ -167,56 +217,6 @@
 "Industrial Services"	0.333333333333333	"FRANCHETTI"	"FCH.MI"	-1	NA
 "Industrial Services"	0.333333333333333	"SAIPEM"	"SPM.MI"	-1	"si"
 "Industrial Services"	0.333333333333333	"STAR7"	"STAR7.MI"	-2	NA
-"Finance"	0.32	"BANCA MEDIOLANUM"	"BMED.MI"	4	"si"
-"Finance"	0.32	"BANCA MONTE PASCHI SIENA"	"BMPS.MI"	4	NA
-"Finance"	0.32	"BCA POP SONDRIO"	"BPSO.MI"	4	NA
-"Finance"	0.32	"CREDEM"	"CE.MI"	4	NA
-"Finance"	0.32	"GENERALI ASS"	"G.MI"	4	NA
-"Finance"	0.32	"INTESA SANPAOLO"	"ISP.MI"	4	"si"
-"Finance"	0.32	"MEDIOBANCA"	"MB.MI"	4	"si"
-"Finance"	0.32	"UNIPOL"	"UNI.MI"	4	"si"
-"Finance"	0.32	"BCA PROFILO"	"PRO.MI"	3	NA
-"Finance"	0.32	"BCO DESIO BRIANZA"	"BDB.MI"	3	NA
-"Finance"	0.32	"BPER BANCA"	"BPE.MI"	3	"si"
-"Finance"	0.32	"NEXI"	"NEXI.MI"	3	"si"
-"Finance"	0.32	"BORGOSESIA"	"BO.MI"	2	NA
-"Finance"	0.32	"ILLIMITY BANK"	"ILTY.MI"	2	NA
-"Finance"	0.32	"MITTEL"	"MIT.MI"	2	NA
-"Finance"	0.32	"AEDES"	"AEDES.MI"	1	NA
-"Finance"	0.32	"BASTOGI SPA"	"B.MI"	1	NA
-"Finance"	0.32	"BESTBE HOLDING"	"BES.MI"	1	NA
-"Finance"	0.32	"DIRECTA SIM"	"D.MI"	1	NA
-"Finance"	0.32	"MET.EXTRA GROUP"	"MET.MI"	1	NA
-"Finance"	0.32	"FINECOBANK"	"FBK.MI"	0	NA
-"Finance"	0.32	"GENERALFINANCE"	"GF.MI"	0	NA
-"Finance"	0.32	"MEVIM"	"MEV.MI"	0	NA
-"Finance"	0.32	"SOLUTIONS CAPITAL MANAGEMENT SIM"	"SCM.MI"	0	NA
-"Finance"	0.32	"UNICREDIT"	"UCG.MI"	0	"si"
-"Finance"	0.32	"VIANINI"	"VIA.MI"	0	NA
-"Finance"	0.32	"4AIM SICAF"	"AIM.MI"	-1	NA
-"Finance"	0.32	"AZIMUT"	"AZM.MI"	-1	NA
-"Finance"	0.32	"BANCA GENERALI"	"BGN.MI"	-1	"si"
-"Finance"	0.32	"BANCA IFIS"	"IF.MI"	-1	NA
-"Finance"	0.32	"CONAFI"	"CNF.MI"	-1	NA
-"Finance"	0.32	"COPERNICO"	"COP.MI"	-1	NA
-"Finance"	0.32	"DOVALUE"	"DOV.MI"	-1	NA
-"Finance"	0.32	"EQUITA GROUP"	"EQUI.MI"	-1	NA
-"Finance"	0.32	"FIRST CAPITAL"	"FIC.MI"	-1	NA
-"Finance"	0.32	"MIT SIM"	"MTS.MI"	-1	NA
-"Finance"	0.32	"PREMIA FINANCE"	"PFI.MI"	-1	NA
-"Finance"	0.32	"REVO INSURANCE"	"REVO.MI"	-1	NA
-"Finance"	0.32	"YOLO GROUP"	"YOLO.MI"	-1	NA
-"Finance"	0.32	"ZEST"	"ZEST.MI"	-1	NA
-"Finance"	0.32	"ABC COMPANY"	"ABC.MI"	-2	NA
-"Finance"	0.32	"GABETTI"	"GAB.MI"	-2	NA
-"Finance"	0.32	"POSTE ITALIANE"	"PST.MI"	-2	"si"
-"Finance"	0.32	"TAMBURI"	"TIP.MI"	-2	NA
-"Finance"	0.32	"UNIPOLSAI"	"US.MI"	-2	"si"
-"Finance"	0.32	"ABITARE IN"	"ABT.MI"	-3	NA
-"Finance"	0.32	"ANIMA HOLDING"	"ANIM.MI"	-3	"si"
-"Finance"	0.32	"BANCA SISTEMA"	"BST.MI"	-3	NA
-"Finance"	0.32	"BANCO BPM"	"BAMI.MI"	-3	"si"
-"Finance"	0.32	"BFF BANK"	"BFF.MI"	-3	NA
 "Producer Manufacturing"	0.282051282051282	"BEGHELLI"	"BE.MI"	4	NA
 "Producer Manufacturing"	0.282051282051282	"FIDIA"	"FDA.MI"	3	NA
 "Producer Manufacturing"	0.282051282051282	"ILPRA"	"ILP.MI"	3	NA
