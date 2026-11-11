@@ -1,5 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
 "ENAV.MI"	"ENAV"	2026-11-02	"rbo_100"	1
+"SRG.MI"	"SNAM"	2026-10-30	"rbo_100"	1
 "BC.MI"	"BRUNELLO CUCINELLI"	2026-10-16	"rbo_100"	1
 "IP.MI"	"INTERPUMP GROUP"	2026-10-16	"rbo_100"	1
 "A2A.MI"	"A2A"	2026-10-13	"rbo_100"	1
