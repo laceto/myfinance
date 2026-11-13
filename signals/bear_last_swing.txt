@@ -1,5 +1,6 @@
 "rrg"	"ticker"	"name"	"marginabile"	"last_day_score"	"date_last_swing"	"hi3"
 NA	"ENEL.MI"	"ENEL"	"si"	1	2026-11-10	9.92
+NA	"ACE.MI"	"ACEA"	"si"	1	2026-11-09	21.82
 -1	"SRG.MI"	"SNAM"	"si"	3	2026-11-05	6.35
 NA	"TRN.MI"	"TERNA"	"si"	1	2026-11-05	9.92
 NA	"NEXI.MI"	"NEXI"	"si"	3	2026-11-05	4.73
@@ -27,7 +28,6 @@ NA	"BRE.MI"	"BREMBO"	"si"	-3	2026-06-02	12.05
 NA	"BSS.MI"	"BIESSE"	"si"	-1	2026-05-08	6.63
 -1	"MAIRE.MI"	"MAIRE"	"si"	1	2026-04-29	16.8
 NA	"HER.MI"	"HERA"	"si"	1	2026-02-27	4.45
-NA	"ACE.MI"	"ACEA"	"si"	1	2026-02-27	26.5
 NA	"WBD.MI"	"WEBUILD"	"si"	1	2026-02-09	3.67
 -1	"REY.MI"	"REPLY"	"si"	3	2025-11-13	129
 NA	"INW.MI"	"INWIT"	"si"	-1	2025-07-23	10.64
