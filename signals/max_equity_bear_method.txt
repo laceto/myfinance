@@ -1,5 +1,4 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
-"ENAV.MI"	"ENAV"	2026-11-02	"rbo_100"	1
 "SRG.MI"	"SNAM"	2026-10-30	"rbo_100"	1
 "BC.MI"	"BRUNELLO CUCINELLI"	2026-10-16	"rbo_100"	1
 "IP.MI"	"INTERPUMP GROUP"	2026-10-16	"rbo_100"	1
@@ -13,7 +12,6 @@
 "DIA.MI"	"DIASORIN"	2026-09-18	"rbo_100"	1
 "RACE.MI"	"FERRARI"	2026-07-30	"rbo_100"	1
 "REY.MI"	"REPLY"	2026-07-30	"rbo_100"	1
-"BAMI.MI"	"BANCO BPM"	2026-06-17	"rbo_100"	1
 "MAIRE.MI"	"MAIRE"	2026-06-11	"rbo_100"	-1
 "ENEL.MI"	"ENEL"	2026-06-02	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2026-06-01	"rbo_100"	-1
