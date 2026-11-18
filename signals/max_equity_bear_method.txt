@@ -1,4 +1,5 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"WBD.MI"	"WEBUILD"	2026-11-16	"rbo_100"	1
 "SRG.MI"	"SNAM"	2026-10-30	"rbo_100"	1
 "BC.MI"	"BRUNELLO CUCINELLI"	2026-10-16	"rbo_100"	1
 "IP.MI"	"INTERPUMP GROUP"	2026-10-16	"rbo_100"	1
@@ -25,7 +26,6 @@
 "SPM.MI"	"SAIPEM"	2026-01-20	"rbo_100"	1
 "TNXT.MI"	"TINEXTA"	2026-01-05	"rbo_100"	-1
 "IRE.MI"	"IREN"	2025-10-31	"rbo_100"	-1
-"WBD.MI"	"WEBUILD"	2025-09-24	"rbo_100"	-1
 "HER.MI"	"HERA"	2025-07-30	"rbo_100"	-1
 "JUVE.MI"	"JUVENTUS FC"	2025-01-24	"rbo_100"	-1
 "MARR.MI"	"MARR"	2024-08-05	"rbo_100"	-1

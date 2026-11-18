@@ -1,11 +1,11 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-16	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-11-13	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-11-13	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2026-11-12	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-11-12	1
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-11-11	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-11-11	1
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-11	-1
 "ERREDUE"	"RDUE.MI"	"Producer Manufacturing"	NA	2026-11-10	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-10	-1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-09	1
@@ -91,7 +91,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "SERVIZI ITALIA"	"SRI.MI"	"Commercial Services"	NA	2024-11-27	1
 "COMAL"	"CML.MI"	"Electronic Technology"	NA	2024-11-22	1
 "BCA POP SONDRIO"	"BPSO.MI"	"Finance"	NA	2024-11-14	1
-NA	"IGD.MI"	NA	NA	2024-11-14	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
 "FIERA MILANO"	"FM.MI"	"Commercial Services"	NA	2024-10-30	1
