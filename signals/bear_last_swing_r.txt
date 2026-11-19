@@ -1,5 +1,5 @@
 "ticker"	"name"	"date_last_swing_r"	"rh3"
-"MAIRE.MI"	"MAIRE"	2026-11-16	5.69
+"MAIRE.MI"	"MAIRE"	2026-11-17	5.81
 "ACE.MI"	"ACEA"	2026-11-06	8.99
 "ENEL.MI"	"ENEL"	2026-11-05	4.02
 "IG.MI"	"ITALGAS"	2026-11-05	3.08
