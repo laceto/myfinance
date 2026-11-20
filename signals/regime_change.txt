@@ -1,5 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-17	-1
+"AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2026-11-18	1
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-18	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-11-13	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-11-13	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2026-11-12	1
@@ -7,20 +8,20 @@
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-11-11	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-11-11	1
 "ERREDUE"	"RDUE.MI"	"Producer Manufacturing"	NA	2026-11-10	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-10	-1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-09	1
+"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2026-11-09	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-11-09	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-06	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-11-06	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2026-11-05	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-11-05	-1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-05	-1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-30	-1
 "GISMONDI 1754"	"GIS.MI"	"Consumer Durables"	NA	2026-10-29	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-10-23	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-10-23	-1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-10-23	0
-"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-10-22	-1
 "REPLY"	"REY.MI"	"Commercial Services"	"si"	2026-10-22	-1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-22	-1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
@@ -32,6 +33,7 @@
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2026-10-02	-1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-09-29	1
 "DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-09-15	1
+"BRUNELLO CUCINELLI"	"BC.MI"	"Consumer Non-Durables"	"si"	2026-09-15	-1
 "AMPLIFON"	"AMP.MI"	"Distribution Services"	"si"	2026-09-11	1
 "EXPERT.AI"	"EXAI.MI"	"Technology Services"	NA	2026-09-09	1
 "OMER"	"OMER.MI"	"Producer Manufacturing"	NA	2026-08-28	1
