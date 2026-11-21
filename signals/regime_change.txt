@@ -1,6 +1,7 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-19	-1
+"ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-11-19	-1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2026-11-18	1
-"MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-18	-1
 "BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-11-13	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-11-13	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2026-11-12	1
@@ -9,13 +10,11 @@
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-11-11	1
 "ERREDUE"	"RDUE.MI"	"Producer Manufacturing"	NA	2026-11-10	1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-09	1
-"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2026-11-09	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-11-09	1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-06	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-11-06	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2026-11-05	1
-"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-11-05	-1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-05	-1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-30	-1
 "GISMONDI 1754"	"GIS.MI"	"Consumer Durables"	NA	2026-10-29	1
@@ -48,6 +47,7 @@
 "ILPRA"	"ILP.MI"	"Producer Manufacturing"	NA	2026-07-13	1
 "SECO"	"IOT.MI"	"Electronic Technology"	NA	2026-06-26	1
 "TESMEC"	"TES.MI"	"Producer Manufacturing"	NA	2026-06-19	1
+"MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-06-11	-1
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
@@ -59,7 +59,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "B.F"	"BFG.MI"	"Process Industries"	NA	2026-04-21	1
 "CALTAGIRONE EDIT"	"CED.MI"	"Consumer Services"	NA	2026-04-21	1
 "TELESIA"	"TLS.MI"	"Commercial Services"	NA	2026-04-15	1
-"ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-04-14	1
 "GENERALI ASS"	"G.MI"	"Finance"	NA	2026-04-13	1
 "SOMEC"	"SOM.MI"	"Consumer Durables"	NA	2026-04-13	1
 "ELES"	"ELES.MI"	"Commercial Services"	NA	2026-03-03	1
