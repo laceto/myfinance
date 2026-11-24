@@ -1,4 +1,6 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-20	1
+"VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-11-20	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-19	-1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-11-19	-1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2026-11-18	1
@@ -11,7 +13,6 @@
 "ERREDUE"	"RDUE.MI"	"Producer Manufacturing"	NA	2026-11-10	1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-09	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-11-09	1
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-06	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-11-06	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2026-11-05	1
@@ -80,7 +81,6 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 "ECOSUNTEK"	"ECK.MI"	"Utilities"	NA	2025-08-22	1
 "CY4GATE"	"CY4.MI"	"Technology Services"	NA	2025-08-21	1
 "LINDBERGH"	"LDB.MI"	"Transportation"	NA	2025-08-21	1
-"CEMBRE"	"CMB.MI"	"Electronic Technology"	NA	2025-08-05	1
 "COMER INDUSTRIES"	"COM.MI"	"Producer Manufacturing"	NA	2025-07-24	1
 "ANIMA HOLDING"	"ANIM.MI"	"Finance"	"si"	2025-07-23	-1
 "GAS PLUS"	"GSP.MI"	"Utilities"	NA	2025-06-23	1
