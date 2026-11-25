@@ -1,5 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-20	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-23	1
+"EVISO"	"EVISO.MI"	"Utilities"	NA	2026-11-23	1
+"MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-23	1
+"ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-11-23	0
+"PLANETEL"	"PLN.MI"	"Communications"	NA	2026-11-20	1
 "VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-11-20	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-19	-1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-11-19	-1
@@ -11,7 +15,7 @@
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-11-11	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-11-11	1
 "ERREDUE"	"RDUE.MI"	"Producer Manufacturing"	NA	2026-11-10	1
-"MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-09	1
+"NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2026-11-09	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-11-09	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-11-06	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
@@ -27,7 +31,6 @@
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-10-14	-1
-"PLANETEL"	"PLN.MI"	"Communications"	NA	2026-10-13	1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-10-07	1
 "LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-10-07	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2026-10-02	-1
@@ -52,7 +55,6 @@
 "BCO DESIO BRIANZA"	"BDB.MI"	"Finance"	NA	2026-06-10	1
 "CREDEM"	"CE.MI"	"Finance"	NA	2026-06-09	1
 "INTESA SANPAOLO"	"ISP.MI"	"Finance"	"si"	2026-06-08	1
-"ENEL"	"ENEL.MI"	"Utilities"	"si"	2026-06-02	-1
 "ACEA"	"ACE.MI"	"Utilities"	"si"	2026-05-12	-1
 "SAFILO GROUP"	"SFL.MI"	"Health Technology"	"si"	2026-05-06	1
 NA	"LLY.DE"	NA	NA	2026-04-29	1
