@@ -1,5 +1,8 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
-"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-24	1
+"CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-25	1
+"CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2026-11-25	1
+"SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-25	-1
+"TERNA"	"TRN.MI"	"Utilities"	"si"	2026-11-25	-1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-24	1
 "ESPRINET"	"PRT.MI"	"Distribution Services"	"si"	2026-11-24	1
 "MAIRE"	"MAIRE.MI"	"Industrial Services"	"si"	2026-11-24	-1
@@ -15,23 +18,21 @@
 "ENERVIT"	"ENV.MI"	"Health Technology"	NA	2026-11-11	1
 "GEFRAN"	"GE.MI"	"Electronic Technology"	NA	2026-11-11	1
 "ERREDUE"	"RDUE.MI"	"Producer Manufacturing"	NA	2026-11-10	1
+"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-11-09	1
 "NEWLAT FOOD"	"NWL.MI"	"Consumer Non-Durables"	NA	2026-11-09	1
 "TXT E-SOLUTIONS"	"TXT.MI"	"Technology Services"	NA	2026-11-09	1
 "EUROTECH"	"ETH.MI"	"Electronic Technology"	NA	2026-11-06	1
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2026-11-05	1
-"SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-05	-1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-30	-1
 "GISMONDI 1754"	"GIS.MI"	"Consumer Durables"	NA	2026-10-29	1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-10-23	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-10-23	-1
 "A2A"	"A2A.MI"	"Utilities"	"si"	2026-10-23	0
-"TERNA"	"TRN.MI"	"Utilities"	"si"	2026-10-22	-1
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-10-14	-1
 "BANCA MONTE PASCHI SIENA"	"BMPS.MI"	"Finance"	NA	2026-10-07	1
-"LUVE"	"LUVE.MI"	"Producer Manufacturing"	NA	2026-10-07	1
 "PRYSMIAN"	"PRY.MI"	"Producer Manufacturing"	"si"	2026-10-02	-1
 "FINCANTIERI"	"FCT.MI"	"Producer Manufacturing"	"si"	2026-09-29	1
 "DE'LONGHI"	"DLG.MI"	"Consumer Durables"	NA	2026-09-15	1
@@ -97,6 +98,7 @@ NA	"LLY.DE"	NA	NA	2026-04-29	1
 NA	"IGD.MI"	NA	NA	2024-11-14	1
 "UNIEURO"	"UNIR.MI"	"Retail Trade"	"si"	2024-11-08	1
 "RELATECH"	"RLT.MI"	"Technology Services"	NA	2024-11-05	1
+"FIERA MILANO"	"FM.MI"	"Commercial Services"	NA	2024-10-30	1
 "NVP"	"NVP.MI"	"Technology Services"	NA	2024-10-01	1
 "TELECOM ITALIA"	"TIT.MI"	"Communications"	"si"	2024-08-05	1
 "PIOVAN"	"PVN.MI"	"Producer Manufacturing"	NA	2024-05-14	1

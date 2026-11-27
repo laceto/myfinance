@@ -1,4 +1,6 @@
 "ticker"	"name"	"date_last_change"	"method"	"signal"
+"ENEL.MI"	"ENEL"	2026-11-25	"rbo_100"	1
+"HER.MI"	"HERA"	2026-11-25	"rbo_100"	1
 "TGYM.MI"	"TECHNOGYM"	2026-11-19	"rbo_100"	1
 "WBD.MI"	"WEBUILD"	2026-11-16	"rbo_100"	1
 "SRG.MI"	"SNAM"	2026-10-30	"rbo_100"	1
@@ -15,7 +17,6 @@
 "RACE.MI"	"FERRARI"	2026-07-30	"rbo_100"	1
 "REY.MI"	"REPLY"	2026-07-30	"rbo_100"	1
 "MAIRE.MI"	"MAIRE"	2026-06-11	"rbo_100"	-1
-"ENEL.MI"	"ENEL"	2026-06-02	"rbo_100"	-1
 "TRN.MI"	"TERNA"	2026-06-01	"rbo_100"	-1
 "BRE.MI"	"BREMBO"	2026-05-29	"rbo_100"	1
 "IG.MI"	"ITALGAS"	2026-05-15	"rbo_100"	-1
@@ -26,7 +27,6 @@
 "SPM.MI"	"SAIPEM"	2026-01-20	"rbo_100"	1
 "TNXT.MI"	"TINEXTA"	2026-01-05	"rbo_100"	-1
 "IRE.MI"	"IREN"	2025-10-31	"rbo_100"	-1
-"HER.MI"	"HERA"	2025-07-30	"rbo_100"	-1
 "JUVE.MI"	"JUVENTUS FC"	2025-01-24	"rbo_100"	-1
 "MARR.MI"	"MARR"	2024-08-05	"rbo_100"	-1
 "US.MI"	"UNIPOLSAI"	2024-05-20	"rbo_100"	-1

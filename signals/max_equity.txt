@@ -115,6 +115,7 @@
 "ENV.MI"	"rbo_100"	NA
 "ENY.MI"	"rbo_100"	NA
 "EPH.MI"	"rbo_100"	NA
+"EPRB.MI"	"rbo_100"	NA
 "EQUI.MI"	"rbo_100"	NA
 "ERFO.MI"	"rbo_100"	NA
 "ERG.MI"	"rbo_100"	NA
@@ -281,6 +282,7 @@
 "S24.MI"	"rbo_100"	NA
 "S3D.MI"	"rbo_100"	NA
 "SAB.MI"	"rbo_100"	NA
+"SAC.MI"	"rbo_100"	NA
 "SCF.MI"	"rbo_100"	NA
 "SCK.MI"	"rbo_100"	NA
 "SCM.MI"	"rbo_100"	NA
