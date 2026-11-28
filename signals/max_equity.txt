@@ -225,6 +225,7 @@
 "MOL.MI"	"rbo_100"	NA
 "MON.MI"	"rbo_100"	NA
 "MONC.MI"	"rbo_100"	NA
+"MPT.MI"	"rbo_100"	NA
 "MQSPA.MI"	"rbo_100"	NA
 "MTS.MI"	"rbo_100"	NA
 "MTV.MI"	"rbo_100"	NA

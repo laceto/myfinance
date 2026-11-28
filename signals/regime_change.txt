@@ -1,6 +1,9 @@
 "name"	"ticker"	"sector"	"marginabile"	"date_regime_change"	"rrg"
+"GENERALFINANCE"	"GF.MI"	"Finance"	NA	2026-11-26	1
+"BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-11-26	-1
 "CASTA DIVA GROUP"	"CDG.MI"	"Commercial Services"	NA	2026-11-25	1
 "CEMENTIR HOLDING"	"CEM.MI"	"Non-Energy Minerals"	NA	2026-11-25	1
+"TALEA GROUP"	"TALEA.MI"	"Retail Trade"	NA	2026-11-25	1
 "SNAM"	"SRG.MI"	"Utilities"	"si"	2026-11-25	-1
 "TERNA"	"TRN.MI"	"Utilities"	"si"	2026-11-25	-1
 "MET.EXTRA GROUP"	"MET.MI"	"Finance"	NA	2026-11-24	1
@@ -9,9 +12,7 @@
 "EVISO"	"EVISO.MI"	"Utilities"	NA	2026-11-23	1
 "MONCLER"	"MONC.MI"	"Consumer Non-Durables"	"si"	2026-11-23	-1
 "PLANETEL"	"PLN.MI"	"Communications"	NA	2026-11-20	1
-"VIMI FASTENERS"	"VIM.MI"	"Producer Manufacturing"	NA	2026-11-20	1
 "AVIO"	"AVIO.MI"	"Electronic Technology"	NA	2026-11-18	1
-"BANCO BPM"	"BAMI.MI"	"Finance"	"si"	2026-11-13	1
 "ENAV"	"ENAV.MI"	"Transportation"	"si"	2026-11-13	1
 "DBA GROUP"	"DBA.MI"	"Industrial Services"	NA	2026-11-12	1
 "PHARMANUTRA"	"PHN.MI"	"Health Technology"	NA	2026-11-12	1
@@ -25,10 +26,9 @@
 "FOPE"	"FPE.MI"	"Consumer Durables"	NA	2026-11-06	1
 "SOL"	"SOL.MI"	"Process Industries"	NA	2026-11-05	1
 "BREMBO"	"BRE.MI"	"Producer Manufacturing"	"si"	2026-10-30	-1
-"GISMONDI 1754"	"GIS.MI"	"Consumer Durables"	NA	2026-10-29	1
+"A2A"	"A2A.MI"	"Utilities"	"si"	2026-10-26	-1
 "ERG"	"ERG.MI"	"Utilities"	"si"	2026-10-23	1
 "SALVATORE FERRAGAMO"	"SFER.MI"	"Consumer Non-Durables"	"si"	2026-10-23	-1
-"A2A"	"A2A.MI"	"Utilities"	"si"	2026-10-23	0
 "BANCA GENERALI"	"BGN.MI"	"Finance"	"si"	2026-10-21	1
 "D'AMICO"	"DIS.MI"	"Transportation"	NA	2026-10-14	1
 "SAIPEM"	"SPM.MI"	"Industrial Services"	"si"	2026-10-14	-1
